@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-17 05:44+0000\n"
-"PO-Revision-Date: 2025-01-17 05:44+0000\n"
-"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
-"Language-Team: Spanish <https://ws3917.hbms.me/projects/ps-outertale/"
+"PO-Revision-Date: 2025-01-17 14:51+0000\n"
+"Last-Translator: Chistosito <souzadecarvalhofabio1@gmail.com>\n"
+"Language-Team: Spanish <https://ws3917.site/projects/project-spacetime/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -1349,21 +1347,23 @@ msgid "<25>{#p/asriel2}{#f/9}* Just follow my lead..."
 msgstr "<25>{#p/asriel2}{#f/9}* Sólo sígueme la corriente..."
 
 msgid "<25>{#p/asriel2}{#f/16}* This way."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/16}* Por aquí."
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* Well, well... if it isn't the great Papyrus standing"
 " just ahead."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* Bueno, bueno... si es el Gran Papyrus aquí delante "
+"nuestra."
 
 msgid "<25>{#p/asriel2}{#f/3}* Well, well... here we go again."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Bueno, bueno... aquí vamos de nuevo."
 
 msgid "<25>{#p/asriel2}{#f/1}* Let's go introduce ourselves, shall we?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Vamos a presentarnos, ¿ok?"
 
 msgid "<25>{#p/asriel2}{#f/4}* You know the drill by now."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Ya sabes como hacerlo."
 
 msgid "<25>{*}{#p/asriel2}{#f/5}* Howdy!{^5}{%}"
 msgstr ""
@@ -5105,7 +5105,6 @@ msgstr "¡HOLA!"
 
 msgid "SAVE YOURSELVES..."
 msgstr ""
-
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
