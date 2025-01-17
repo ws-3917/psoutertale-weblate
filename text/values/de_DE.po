@@ -1,0 +1,358 @@
+#
+msgid ""
+msgstr ""
+
+msgid "en_US"
+msgstr "de_DE"
+
+msgid ""
+msgstr ""
+
+msgid "You must choose a name."
+msgstr "Du musst einen Namen wählen."
+
+msgid "No?"
+msgstr "Nein?"
+
+msgid "Hm...?"
+msgstr "Hm...?"
+
+msgid "Maybe?"
+msgstr "Vielleicht?"
+
+msgid "Yes?"
+msgstr "Ja?"
+
+msgid ""
+"Take heart.\n"
+"There is nothing to be afraid of here."
+msgstr ""
+"Nur Mut.\n"
+"Hier gibt es nichts, wovor Sie Angst haben müssen."
+
+msgid "A light-hearted spirit will serve you well on your journey."
+msgstr ""
+"Eine unbeschwerte Einstellung wird Ihnen auf Ihrer Reise gute Dienste "
+"leisten."
+
+msgid ""
+"Take heart.\n"
+"Your frustrations are behind you now."
+msgstr ""
+"Fassen Sie Mut.\n"
+"Ihre Frustrationen liegen nun hinter Ihnen."
+
+msgid ""
+"Take heart.\n"
+"The story is yours, no matter what you feel."
+msgstr ""
+"Nur Mut.\n"
+"Die Geschichte gehört Ihnen, ganz gleich, was Sie fühlen."
+
+msgid "May tranquility come upon you as you embark on your journey."
+msgstr "Möge Ihnen beim Antritt Ihrer Reise Ruhe zuteil werden."
+
+msgid ""
+"Take heart.\n"
+"Your story is as interesting as you make it."
+msgstr ""
+"Nur Mut.\n"
+"Ihre Geschichte ist so interessant, wie Sie sie machen."
+
+msgid "May your quality of speech translate to action on your journey."
+msgstr ""
+"Möge sich die Qualität Ihrer Rede auf Ihrer Reise in Taten niederschlagen."
+
+msgid "A courageous heart will serve you well on your journey."
+msgstr "Ein mutiges Herz wird Ihnen auf Ihrer Reise gute Dienste leisten."
+
+msgid "A sense of serenity will do you wonders on your journey."
+msgstr "Ein Gefühl der Gelassenheit wird auf Ihrer Reise Wunder wirken."
+
+msgid "May your ingenuity surpass the challenges on your journey."
+msgstr ""
+"Möge Ihr Einfallsreichtum die Herausforderungen auf Ihrer Reise meistern."
+
+msgid "A confident mindset will take you far on your journey."
+msgstr ""
+"Eine selbstbewusste Einstellung wird Sie auf Ihrer Reise weit bringen."
+
+msgid "May your inginuity surpass the challanges on your journey."
+msgstr ""
+"Möge Ihr Einfallsreichtum die Herausforderungen auf Ihrer Reise meistern."
+
+msgid "May balance come upon you as you embark on your journey."
+msgstr "Möge Ihnen auf dem Weg zu Ihrer Reise Ausgeglichenheit zuteil werden."
+
+msgid ""
+"Take heart.\n"
+"There is much to be learned on the road ahead."
+msgstr ""
+"Nur Mut.\n"
+"Auf dem Weg, der vor uns liegt, gibt es noch viel zu lernen."
+
+msgid "May the tapestry of chaos and order satisfy you on your journey."
+msgstr ""
+"Möge Ihnen das Geflecht aus Chaos und Ordnung auf Ihrer Reise "
+"zufriedenstellend sein."
+
+msgid "May your story gain meaning in this cocoon amidst the darkness."
+msgstr ""
+"Möge Ihre Geschichte in diesem Kokon inmitten der Dunkelheit an Bedeutung "
+"gewinnen."
+
+msgid "May the experience be as playful as you desire."
+msgstr "Möge das Erlebnis so spielerisch sein, wie Sie es sich wünschen."
+
+msgid "May the experience be as excessive as you desire."
+msgstr "Möge das Erlebnis so intensiv sein, wie Sie es sich wünschen."
+
+msgid ""
+"Take heart.\n"
+"You have nothing to feel ashamed of now."
+msgstr ""
+"Nur Mut.\n"
+"Sie müssen sich jetzt für nichts schämen."
+
+msgid "A temperate ego will take you far on your journey."
+msgstr "Ein gemäßigtes Ego wird Sie auf Ihrer Reise weit bringen."
+
+msgid "May the experience provide the sustenance you require."
+msgstr "Möge Ihnen dieses Erlebnis die nötige Kraft geben."
+
+msgid "May your story bring forth the emotion you strive to feel."
+msgstr ""
+"Möge Ihre Geschichte die Emotionen hervorrufen, die Sie spüren möchten."
+
+msgid "May your choices be as effortless as they come."
+msgstr "Mögen Ihre Entscheidungen so mühelos wie möglich sein."
+
+msgid ""
+"Take heart.\n"
+"There is much companionship to be had here."
+msgstr ""
+"Nur Mut.\n"
+"Hier gibt es viel Kameradschaft."
+
+msgid "May your fortune carry you forward on your journey."
+msgstr "Möge Ihr Glück Sie auf Ihrer Reise weitertragen."
+
+msgid "May the tapestry of chaos and order please you on your journey."
+msgstr ""
+"Möge Ihnen das Geflecht aus Chaos und Ordnung auf Ihrer Reise gefallen."
+
+msgid ""
+"Take heart.\n"
+"Your story is as uplifting as you make it."
+msgstr ""
+"Fassen Sie Mut.\n"
+"Ihre Geschichte ist so erhebend, wie Sie sie machen."
+
+msgid "May your stability provide a solid foundation on your journey."
+msgstr "Möge Ihre Stabilität eine solide Grundlage für Ihre Reise bieten."
+
+msgid "May the experience only add to your state of satisfaction."
+msgstr "Möge dieses Erlebnis Ihre Zufriedenheit nur steigern."
+
+msgid "May the experience be as comforting as you desire."
+msgstr "Möge das Erlebnis so angenehm sein, wie Sie es sich wünschen."
+
+msgid "May the experience provide the energy you require."
+msgstr "Möge Ihnen das Erlebnis die nötige Energie geben."
+
+msgid "May your overflowing energy power you through your journey."
+msgstr "Möge Ihre überschäumende Energie Ihnen auf Ihrer Reise Kraft geben."
+
+msgid "I am honored by your choice."
+msgstr "Ich fühle mich durch Ihre Wahl geehrt."
+
+msgid "Let the experiment begin."
+msgstr "Lasst das Experiment beginnen."
+
+msgid "The true name."
+msgstr "Der wahre Name."
+
+msgid "This name is incorrect."
+msgstr "Dieser Name ist falsch."
+
+msgid ""
+"............\n"
+"(They're powerless to stop you.)"
+msgstr ""
+"............\n"
+"(Sie sind machtlos, Sie aufzuhalten.)"
+
+msgid ""
+"............\n"
+"(It's not much for conversation.)"
+msgstr ""
+"............\n"
+"(Für eine Unterhaltung reicht das nicht aus.)"
+
+msgid "Hello."
+msgstr "Hallo."
+
+msgid "Saddle up!"
+msgstr "Aufsatteln!"
+
+msgid "Well... I suppose that works..."
+msgstr "Nun... ich denke, das funktioniert..."
+
+msgid "I think you should think of your own name, my child."
+msgstr ""
+"Ich denke, du solltest über deinen eigenen Namen nachdenken, mein Kind."
+
+msgid "Really..."
+msgstr "Wirklich..."
+
+msgid "Nice try, idiot."
+msgstr "Guter Versuch, Idiot."
+
+msgid "Don't you mean \"Eyewalker?\""
+msgstr "Meinst du nicht \"Eyewalker?\""
+
+msgid "Check out my antenna!"
+msgstr "Schaut euch meine Antenne an!"
+
+msgid "Guh huh huh, nice one."
+msgstr "Guh huh huh, gut gemacht."
+
+msgid "Huh? What's that smell?"
+msgstr "Hä? Was ist das für ein Geruch?"
+
+msgid "It's m-moving! I-I-It's shaking!"
+msgstr "Es bewegt sich! E-E-Es wackelt!"
+
+msgid "Jerry."
+msgstr "Jerry."
+
+msgid "(The dog jumped into your lap.)"
+msgstr "(Der Hund ist dir auf den Schoß gesprungen.)"
+
+msgid "(Pant pant)"
+msgstr "(Hose Hose)"
+
+msgid "I'LL ALLOW IT!!!!"
+msgstr "ICH WERDE ES ERLAUBEN!!!!"
+
+msgid "ok."
+msgstr "OK."
+
+msgid "nope."
+msgstr "Nein."
+
+msgid "A \"stellar\" choice."
+msgstr "Eine „hervorragende“ Wahl."
+
+msgid "A pleasing nomenclature, no?"
+msgstr "Eine ansprechende Nomenklatur, nicht wahr?"
+
+msgid "I am not amused."
+msgstr "Ich finde das nicht amüsant."
+
+msgid "Roar."
+msgstr "Brüllen."
+
+msgid "Wah ha ha! Why not?"
+msgstr "Wah ha ha! Warum nicht?"
+
+msgid "What. What! WHAT!"
+msgstr "Was. Was! WAS!"
+
+msgid "That's my name!!"
+msgstr "Das ist mein Name!!"
+
+msgid ""
+"Ahuhuhu~\n"
+"You must have great taste, dearie~"
+msgstr ""
+"Ahuhuhu~\n"
+"Du musst einen tollen Geschmack haben, Liebling~"
+
+msgid ""
+"Hey!\n"
+"Only Skrubby gets to call me that!"
+msgstr ""
+"Hey!\n"
+"Nur Skrubby darf mich so nennen!"
+
+msgid "Sorry, but you're a letter shy."
+msgstr "Tut mir leid, aber Ihnen fehlt ein Buchstabe."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Clean name."
+msgstr "Sauberer Name."
+
+msgid "hOI!"
+msgstr "hOI!"
+
+msgid "Ngah, fine."
+msgstr "Ngah, gut."
+
+msgid "Get your OWN name!"
+msgstr "Holen Sie sich Ihren EIGENEN Namen!"
+
+msgid "Uh.... OK?"
+msgstr "Äh..., ok?"
+
+msgid "D-don't do that."
+msgstr "T-tu das nicht."
+
+msgid "You are really scraping the bottom of the barrel."
+msgstr "Sie kratzen wirklich am Boden des Fasses."
+
+msgid "Like, OK I guess."
+msgstr "So, ok, denke ich."
+
+msgid "You like my name, little buddy?"
+msgstr "Gefällt dir mein Name, kleiner Kumpel?"
+
+msgid "Bratty! Bratty! That's MY name!"
+msgstr "Freche Freche! Das ist MEIN Name!"
+
+msgid "A fellow wizard?"
+msgstr "Ein Zaubererkollege?"
+
+msgid "Slick choice, homeslice."
+msgstr "Gute Wahl, Homeslice."
+
+msgid "Now you're just being rude, darling."
+msgstr "Jetzt bist du einfach nur unhöflich, Liebling."
+
+msgid "OOOOH!!! ARE YOU PROMOTING MY BRAND?"
+msgstr "OOOOH!!! MACHEN SIE WERBUNG FÜR MEINE MARKE?"
+
+msgid "Is this name correct? ;)"
+msgstr "Ist dieser Name richtig? ;)"
+
+msgid "Hot, but not hot enough."
+msgstr "Heiß, aber nicht heiß genug."
+
+msgid "You don't have to do that..."
+msgstr "Das musst du nicht tun..."
+
+msgid "You KNEW!?"
+msgstr "Du WUSSTEST es!?"
+
+msgid "Respect my AUTHORITY!"
+msgstr "Respektiere meine AUTORITÄT!"
+
+msgid "Ahh! Thank you~"
+msgstr "Ahh! Danke~"
+
+msgid "Thanks for, uh, using my name."
+msgstr "Danke, dass Sie meinen Namen verwendet haben."
+
+msgid "You can?"
+msgstr "Du kannst?"
+
+msgid "You cannot."
+msgstr "Sie können nicht."
+
+msgid "... fine."
+msgstr "... fein."
+
+msgid "..."
+msgstr "..."
