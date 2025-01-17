@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-17 05:44+0000\n"
-"PO-Revision-Date: 2025-01-17 15:01+0000\n"
-"Last-Translator: Chistosito <souzadecarvalhofabio1@gmail.com>\n"
-"Language-Team: Spanish <https://ws3917.site/projects/project-spacetime/"
+"PO-Revision-Date: 2025-01-17 23:49+0000\n"
+"Last-Translator: Ariel_Nicolas <noezaraspe23130718@gmail.com>\n"
+"Language-Team: Spanish <https://ws3917.hbms.me/projects/ps-outertale/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -1404,53 +1404,58 @@ msgid "<25>{#p/asriel2}{#f/15}* ..."
 msgstr "<25>{#p/asriel2}{#f/15}* ..."
 
 msgid "<25>{#p/asriel2}{#f/8}* Psst, let's wait and see what he does."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* Psst, esperemos y veamos que hace."
 
 msgid ""
 "<25>{#p/asriel2}{#f/15}* Wow.\n"
 "* To see Papyrus in such a state..."
 msgstr ""
+"<25>{#p/asriel2}{#f/15}* Wow.\n"
+"* Ver a Papyrus así..."
 
 msgid "<25>{#f/16}* ... it's certainly unexpected, isn't it?"
-msgstr ""
+msgstr "<25>{#f/16}* ... es realmente inesperado, ¿no crees?"
 
 msgid "<25>{#f/13}* Oh, $(name)..."
 msgstr "<25>{#f/13}* Oh, $(name)..."
 
 msgid "<25>{#f/1}* I think we're going to have a lot of fun."
-msgstr ""
+msgstr "<25>{#f/1}* Creo que nos vamos a divertir mucho."
 
 msgid "<25>{#p/asriel2}{#f/16}* Poor, poor Papyrus."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/16}* Pobre Papyrus."
 
 msgid "<25>{#p/asriel2}{#f/16}* Golly... some people just don't get it."
 msgstr ""
+"<25>{#p/asriel2}{#f/16}* Vaya... algunas personas simplemente no entienden."
 
 msgid "<25>{#p/asriel2}{#f/4}* Tch."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Tch."
 
 msgid "<25>{#p/asriel2}{#f/4}* What a waste of time."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Que perdida de tiempo."
 
 msgid "<25>{#p/asriel2}{#f/3}* Huh."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Huh."
 
 msgid "<26>{#p/asriel2}{#f/3}* Well, that's the canine unit gone."
-msgstr ""
+msgstr "<26>{#p/asriel2}{#f/3}* Bueno, ya nos encargamos de esa unidad canina."
 
 msgid "<26>{#p/asriel2}{#f/4}* Only one bridge left between us and town."
-msgstr ""
+msgstr "<26>{#p/asriel2}{#f/4}* Solo un puente más entre nosotros y la ciudad."
 
 msgid "<25>{#f/1}* ... stay behind me."
-msgstr ""
+msgstr "<25>{#f/1}* ... quedate detrás mio."
 
 msgid "<25>{#p/asriel2}{#f/3}* Into town we go..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* A la ciudad nos vamos..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* Okay, $(name).\n"
 "* The town's all yours."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* Okey, $(name).\n"
+"* La ciudad es toda tuya."
 
 msgid ""
 "<25>{#f/7}* In the meantime, I have to do something that'll be important "
