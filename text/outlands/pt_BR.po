@@ -1,21 +1,6 @@
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-16 18:51+0000\n"
-"PO-Revision-Date: 2025-01-16 18:51+0000\n"
-"Last-Translator: Cezar do Rosário Cavalcante <Cozinha635@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://ws3917.site/projects/"
-"project-spacetime/1-outlands/pt_BR/>\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2\n"
-
-#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
@@ -2237,8 +2222,7 @@ msgstr ""
 
 msgid ""
 "<25>{#f/0}* It is called \"Generous Monster\" and it was written by a human."
-msgstr ""
-"<25>{#f/0}* É chamado \"O monstro Generoso\" e foi escrito por um humano."
+msgstr "<25>{#f/0}* É chamado \"O monstro Generoso\" e foi escrito por um humano."
 
 msgid "{#n1!}* (Read the book?)"
 msgstr "{#n1!}* (Ler o livro?)"
@@ -2271,7 +2255,8 @@ msgstr ""
 
 msgid ""
 "<25>{#p/toriel}{#f/1}{#n1}* Have you changed your mind about breakfast?"
-msgstr "<25>{#p/toriel}{#f/1}{#n1}* Você mudou sua ideia sobre o café da manhã?"
+msgstr ""
+"<25>{#p/toriel}{#f/1}{#n1}* Você mudou sua ideia sobre o café da manhã?"
 
 msgid ""
 "<25>{#p/toriel}{#f/3}{#n1}* You expect me to make another after you dropped "
@@ -2307,8 +2292,7 @@ msgstr ""
 "* É uma leitura bem divertida."
 
 msgid "<25>{#f/0}* It is called \"Generous Monster\" and was written by a human."
-msgstr ""
-"<25>{#f/0}* É chamado \"O Monstro Generoso\" e foi escrito por um humano."
+msgstr "<25>{#f/0}* É chamado \"O Monstro Generoso\" e foi escrito por um humano."
 
 msgid "<25>{#f/1}* Would you like me to read it to you?"
 msgstr "<25>{#f/1}* Você gostaria que eu lê-se ele para você?"
@@ -2345,8 +2329,8 @@ msgstr "<25>{#f/0}* \"E iria correr e brincar juntos nos campos.\""
 
 msgid "<25>{#f/1}* \"They'd sing songs together, tell stories to each other...\""
 msgstr ""
-"<25>{#f/1}* "
-"\"Iriam cantar músicas juntos, contar histórias um para o outro...\""
+"<25>{#f/1}* \"Iriam cantar músicas juntos, contar histórias um para o "
+"outro...\""
 
 msgid "<25>{#f/0}* \"And they would play hide-and-go seek.\""
 msgstr "<25>{#f/0}* \"Brincar de esconde-esconde.\""
@@ -2355,8 +2339,8 @@ msgid ""
 "<25>{#f/1}* \"And when the human was tired, she would tuck them into "
 "bed...\""
 msgstr ""
-"<25>{#f/1}* "
-"\"E quando o humano ficasse cansado, ela o levaria para a cama...\""
+"<25>{#f/1}* \"E quando o humano ficasse cansado, ela o levaria para a "
+"cama...\""
 
 msgid "<25>{#f/0}* \"And the human loved the monster very much.\""
 msgstr "<25>{#f/0}* \"E o humano amava o monstro muito mesmo.\""

@@ -822,87 +822,87 @@ export default {
         candy7: ['<32>{#p/human}* (Você decide não fazer nada.)'],
         candy8: ["<32>{#p/human}* (Você está carregando muito.)"],
         chair1a: () => [
-            '<25>{#p/toriel}{#f/1}{#n1}* What is it, my child?\n* Are you hungry?',
-            '<25>{#f/0}* Perhaps you would like to know more about the book I am reading.',
-            choicer.create('{#n1!}* (What do you say?)', 'Hungry', 'Book', 'Home', 'Nada')
+            '<25>{#p/toriel}{#f/1}{#n1}* O que foi, minha criança?\n* Você está com fome?',
+            '<25>{#f/0}* Talvez você queira saber mais sobre o livro que estou lendo.',
+            choicer.create('{#n1!}* (O que você acha?)', 'Fome', 'Livro', 'Ir embora', 'Nada')
         ],
         chair1b: () => [
-            '<25>{#p/toriel}{#n1}* What is it, my child?',
-            choicer.create('{#n1!}* (What do you say?)', 'Hungry', 'Book', 'Home', 'Nada')
+            '<25>{#p/toriel}{#n1}* O que foi, minha criança?',
+            choicer.create('{#n1!}* (O que você acha?)', 'Fome', 'Livro', 'Ir embora', 'Nada')
         ],
-        chair1c: ['<25>{#p/toriel}{#n1}* Well, let me know if you need anything.'],
-        chair1d: ['<25>{#p/toriel}{#n1}* Well, let me know if you change your mind.'],
+        chair1c: ['<25>{#p/toriel}{#n1}* Me diga caso você precise de algo.'],
+        chair1d: ['<25>{#p/toriel}{#n1}* Bem, me diga se você mudar de ideia.'],
         chair1e: () => [
-            '<25>{#p/toriel}{#f/1}{#n1}* Restless night?',
-            '<25>{#f/1}* ...\n* If you like, I can read you this book...',
-            '<25>{#f/0}* It is called \"Generous Monster\" and it was written by a human.',
-            choicer.create('{#n1!}* (Read the book?)', 'Sim', 'Não')
+            '<25>{#p/toriel}{#f/1}{#n1}* Noite agitada?',
+            '<25>{#f/1}* ...\n* Se você quiser, eu posso ler este livro para você...',
+            '<25>{#f/0}* É chamado \"O monstro Generoso\" e foi escrito por um humano.',
+            choicer.create('{#n1!}* (Ler o livro?)', 'Sim', 'Não')
         ],
         chair1f: pager.create(
             0,
-            ['<25>{#p/toriel}{#n1}{#f/1}* Back for a visit?', '<25>{#f/0}* Well, feel free to stay as long as you need.'],
-            ['<26>{#p/toriel}{#n1}{#f/5}* I shall remain here, as I always have...']
+            ['<25>{#p/toriel}{#n1}{#f/1}* Voltou para uma visita?', '<25>{#f/0}* Sinta-se livra para ficar o quanto você quiser.'],
+            ['<26>{#p/toriel}{#n1}{#f/5}* Eu ficarei por aqui, como sempre...']
         ),
         chair2a1: () => [
-            '<25>{#p/toriel}{#f/1}{#n1}* Are you hungry?\n* Would you like me to make you a breakfast?',
-            choicer.create('{#n1!}* (Have breakfast?)', 'Sim', 'Não')
+            '<25>{#p/toriel}{#f/1}{#n1}* Você está com fome?\n* Quer que eu te faça um café da manhã?',
+            choicer.create('{#n1!}* (Comer café da manhã?)', 'Sim', 'Não')
         ],
-        chair2a2: ['<25>{#p/toriel}{#n1}* Wonderful!\n* I will be in the kitchen preparing it.'],
+        chair2a2: ['<25>{#p/toriel}{#n1}* Fantástico!\n* Estarei na cozinha preparando.'],
         chair2a3: () => [
-            '<25>{#p/toriel}{#f/1}{#n1}* Have you changed your mind about breakfast?',
-            choicer.create('{#n1!}* (Have breakfast?)', 'Sim', 'Não')
+            '<25>{#p/toriel}{#f/1}{#n1}* Você mudou sua ideia sobre o café da manhã?',
+            choicer.create('{#n1!}* (Comer café da manhã?)', 'Sim', 'Não')
         ],
         chair2a4: () =>
             SAVE.data.b.drop_snails
                 ? [
-                    '<25>{#p/toriel}{#f/3}{#n1}* You expect me to make another after you dropped the first one?',
-                    '<25>{#f/4}* This child...',
-                    '<25>{#f/0}* No, little one.\n* I will not prepare another breakfast.'
+                    '<25>{#p/toriel}{#f/3}{#n1}* Você queria que eu fizesse outro logo após você finalizar o primeiro?',
+                    '<25>{#f/4}* Essa criança...',
+                    '<25>{#f/0}* Não, pequeno.\n* Não irei preparar outro café da manhã agora.'
                 ]
                 : [
-                    '<25>{#p/toriel}{#n1}* I have already served breakfast, little one.',
-                    '<25>{#f/1}* We cannot have more than one breakfast per day, can we?',
-                    '<25>{#f/0}* That would be silly.'
+                    '<25>{#p/toriel}{#n1}* Eu já servi o café da manhã, pequeno.',
+                    '<25>{#f/1}* Não podemos ter mais de um café da manhã por dia, certo?',
+                    '<25>{#f/0}* Isso seria gula.'
                 ],
         chair2c1: () => [
-            '<25>{#p/toriel}{#n1}* Ah, the book!\n* Yes, it is quite the fun little read.',
-            '<25>{#f/0}* It is called \"Generous Monster\" and was written by a human.',
-            '<25>{#f/1}* Would you like me to read it to you?',
-            choicer.create('{#n1!}* (Read the book?)', 'Sim', 'Não')
+            '<25>{#p/toriel}{#n1}* Ah, o livro!\n* É uma leitura bem divertida.',
+            '<25>{#f/0}* É chamado \"O Monstro Generoso\" e foi escrito por um humano.',
+            '<25>{#f/1}* Você gostaria que eu lê-se ele para você?',
+            choicer.create('{#n1!}* (Ler o livro?)', 'Sim', 'Não')
         ],
-        chair2c2: ['<25>{#p/toriel}{#n1}* Splendid!', '<25>{#g/torielCompassionSmile}* ...'],
+        chair2c2: ['<25>{#p/toriel}{#n1}* Esplêndido!', '<25>{#g/torielCompassionSmile}* ...'],
         chair2c3: () => [
-            '<25>{#p/toriel}{#f/1}{#n1}* Do you want me to read you the book now?',
-            choicer.create('{#n1!}* (Read the book?)', 'Sim', 'Não')
+            '<25>{#p/toriel}{#f/1}{#n1}* Você quer que eu leia o livro agora?',
+            choicer.create('{#n1!}* (Ler o livro?)', 'Sim', 'Não')
         ],
         chair2c4: () => [
-            '<25>{#p/toriel}{#f/1}{#n1}* Do you want me to read you the book again?',
-            choicer.create('{#n1!}* (Read the book?)', 'Sim', 'Não')
+            '<25>{#p/toriel}{#f/1}{#n1}* Você quer que eu leia o livro novamente?',
+            choicer.create('{#n1!}* (Ler o livro?)', 'Sim', 'Não')
         ],
-        chair2c5: ['<25>{#p/toriel}{#f/1}{#n1}* Alright, then...', '<25>{#p/toriel}{#g/torielCompassionSmile}* ...'],
+        chair2c5: ['<25>{#p/toriel}{#f/1}{#n1}* Tudo bem...', '<25>{#p/toriel}{#g/torielCompassionSmile}* ...'],
         chair2c6: [
-            '<25>{#f/1}{#n1}* \"Once, there was a monster...\"',
-            '<25>{#f/0}* \"And she loved a little human.\"',
-            '<25>{#f/1}* \"And every day, the human would come visit...\"',
-            '<25>{#f/0}* \"And they would run and play together in the fields.\"',
-            '<25>{#f/1}* \"They\'d sing songs together, tell stories to each other...\"',
-            '<25>{#f/0}* \"And they would play hide-and-go seek.\"',
-            '<25>{#f/1}* \"And when the human was tired, she would tuck them into bed...\"',
-            '<25>{#f/0}* \"And the human loved the monster very much.\"',
-            '<25>{#f/0}* \"And the monster was happy.\"',
-            '<25>{#f/1}* \"But as time went by, and the human grew older...\"',
-            '<25>{#f/0}* \"The monster was often left alone.\"',
-            '<25>{#f/1}* \"Then one day, the human came back...\"',
-            '<25>{#f/0}* \"And the monster said \'Come, human, come and play!\'\"',
-            '<25>{#f/5}* \"\'I am too big to play,\' said the human.\"',
-            '<25>{#f/1}* \"\'I want to drive, to find a new home...\'\"',
+            '<25>{#f/1}{#n1}* \"Uma vez, havia um monstro...\"',
+            '<25>{#f/0}* \"E ela amava o pequeno humano.\"',
+            '<25>{#f/1}* \"E todo dia, o humano viria visitar...\"',
+            '<25>{#f/0}* \"E iria correr e brincar juntos nos campos.\"',
+            '<25>{#f/1}* \"Iriam cantar músicas juntos, contar histórias um para o outro...\"',
+            '<25>{#f/0}* \"Brincar de esconde-esconde.\"',
+            '<25>{#f/1}* \"E quando o humano ficasse cansado, ela o levaria para a cama...\"',
+            '<25>{#f/0}* \"E o humano amava o monstro muito mesmo.\"',
+            '<25>{#f/0}* \"E o monstro estava feliz.\"',
+            '<25>{#f/1}* \"Mas conforme o tempo passou e o humano foi crescendo...\"',
+            '<25>{#f/0}* \"O monstro foi ficando sozinho.\"',
+            '<25>{#f/1}* \"Então um dia, o humano voltou...\"',
+            '<25>{#f/0}* \"E o monstro disse \'Venha, humano, venha brincar\'\"',
+            '<25>{#f/5}* \"\'Eu sou muito grande para brincar\', disse o humano.\"',
+            '<25>{#f/1}* \"\'Eu quero dirigir, encontrar uma nova casa...\'\"',
             "<25>{#f/5}* \"'Sorry,' said the monster, 'but I am too poor to own a car.'\"",
             '<25>{#f/5}* \"\'All I have is my own two feet.\'\"',
             '<25>{#f/0}* \"\'Climb on my back, and I can run you to where you need.\'\"',
             '<25>{#f/0}* \"\'Then you can see the town and be happy.\'\"',
             '<25>{#f/1}* \"And so the human climbed onto the monster\'s back...\"',
             '<25>{#f/0}* \"And the monster took them to a new home.\"',
-            '<25>{#f/0}* \"And the monster was happy.\"',
+            '<25>{#f/0}* \"E o monstro estava feliz.\"',
             '<25>{#f/1}* \"But the human stayed away for a long time...\"',
             '<25>{#f/5}* \"And the monster was sad.\"',
             '<25>{#f/0}* \"Then one day, the human came back.\"',
@@ -916,7 +916,7 @@ export default {
             '<25>{#f/0}* \"\'Then you can find love and be happy.\'\"',
             '<25>{#f/1}* \"And so the human visited their old friend for a while...\"',
             '<25>{#f/0}* \"And the monster found them someone they might like.\"',
-            '<25>{#f/0}* \"And the monster was happy.\"',
+            '<25>{#f/0}* \"E o monstro estava feliz.\"',
             '<25>{#f/5}* \"But the human stayed away for a long time.\"',
             '<25>{#f/1}* \"When they finally returned, the monster was so happy...\"',
             '<25>{#f/9}* \"She could hardly speak.\"',
@@ -930,7 +930,7 @@ export default {
             '<25>{#f/0}* \"\'Then you can get some rest and be happy.\'\"',
             '<25>{#f/1}* \"And so the human and the monster cuddled together...\"',
             '<25>{#f/0}* \"And the monster was able to put the human to sleep.\"',
-            '<25>{#f/0}* \"And the monster was happy.\"',
+            '<25>{#f/0}* \"E o monstro estava feliz.\"',
             '<25>{#f/5}* \"... but not really.\"',
             '<25>{#f/9}* \"And after a long time, the human came back again.\"',
             "<25>{#f/5}* \"'I am sorry, human,' said the monster, 'but I have fallen down.'\"",

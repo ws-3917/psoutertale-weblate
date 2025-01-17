@@ -3446,7 +3446,7 @@ export default {
             '<18>{#f/4}...等下。',
             "<18>{#f/0}你帶著它呢！！",
             '<18>{#f/9}人類，你怎麼打算的？',
-            choicer.create("* （你要拿帕派瑞斯的意面怎麼辦呢？）", '一起吃', 』自己獨享'),
+            choicer.create("* （你要拿帕派瑞斯的意面怎麼辦呢？）", '一起吃', '自己獨享'),
             '<18>{#p/papyrus}真的！？'
         ],
         papspaghet2a: [
@@ -8172,7 +8172,7 @@ export default {
                 ...(solo()
                     ? ['<18>{#p/papyrus}{#f/5}但是我們一直在爭\n我們到底該站哪邊。']
                     : [
-                        "<25>{#p/undyne}{#f/14}* 你們肯定沒\n  爭起來吧。",
+                        "<25>{#p/undyne}{#f/14}* 你們肯定沒爭起來吧。",
                         '<18>{#p/papyrus}{#f/0}啊，正好相反。',
                         '<18>{#p/papyrus}{#f/0}我們經常爭起來！'
                     ]),
@@ -10144,7 +10144,7 @@ export default {
                                 "<18>{#p/papyrus}{#f/9}...好！！\n人類在那兒真是太好了！",
                                 '<18>{#p/papyrus}{#f/4}...\n慢著...',
                                 '<18>{#p/papyrus}{#f/7}那【你】就在那兒站著\n幹看著！？',
-                                '<25>{#p/undyne}{#f/7}* The human rescued them very quickly!!'
+                                '<25>{#p/undyne}{#f/7}* 人類立馬就上去了，\n  根本沒給我機會！！'
                             ])
                     ])
             ],
@@ -10493,7 +10493,7 @@ export default {
             () => [
                 '<18>{#p/papyrus}{#f/0}喔對了，\n關於那家餐廳...',
                 '<18>{#p/papyrus}{#f/9}它碰巧是一艘\n巨大的宇宙飛船！',
-                '<18>{#p/papyrus}{#f/4}由海員式沙司驅動。',
+                '<18>{#p/papyrus}{#f/4}由番茄醬驅動。',
                 ...(solo() ? [] : ['<25>{#p/undyne}{#f/14}* ...還真是。'])
             ]
         ),
@@ -10846,20 +10846,20 @@ export default {
                         '<25>{#p/undyne}{#f/7}* 你聽聽我這個！',
                         '<18>{#p/papyrus}{#f/4}怎麼，更多烏賊？',
                         '<25>{#p/undyne}{#f/14}* 怎麼可能。',
-                        '<18>{#p/papyrus}{#f/4}那是什麼「穩賺不賠的投資」\n啥的嗎？',
+                        '<18>{#p/papyrus}{#f/4}那是什麼\n「穩賺不賠的投資」嗎？',
                         '<25>{#p/undyne}{#f/14}* 怎麼可能。',
-                        '<18>{#p/papyrus}{#f/6}還是\n「怎麼離開前哨站」？',
+                        '<18>{#p/papyrus}{#f/6}還是什麼\n「離開前哨站」的\n獨家捷徑？',
                         "<25>{#p/undyne}{#f/14}* ...還真是。\n* 然後我就給他們\n  屏蔽了。",
-                        '<25>{#p/undyne}{#f/7}* 沒有人在自由這事上\n  撒謊，還能跑得掉的！',
+                        '<25>{#p/undyne}{#f/7}* 敢拿假訊息糊弄我，\n  還想讓我饒了你？',
                         '<18>{#p/papyrus}{#f/0}就是啊！！',
-                        '<18>{#p/papyrus}{#f/5}而且，一個【真的】通往\n自由的鑰匙...',
-                        '<18>{#p/papyrus}{#f/6}就正跟咱打電話呢！！'
+                        '<18>{#p/papyrus}{#f/5}而且，咱可有\n【貨真價實】的\n自由法寶呢...',
+                        '<18>{#p/papyrus}{#f/6}而且，還正跟咱\n打電話呢！！'
                     ])
             ],
             () =>
                 solo()
                     ? [
-                        '<18>{#p/papyrus}{#f/5}I WONDER IF SUCH A COLONY ACTUALLY EXISTS.',
+                        '<18>{#p/papyrus}{#f/5}我其實挺好奇，\n那些烏賊會不會\n真的存在呢？',
                         '<18>{#p/papyrus}{#f/4}畢竟宇宙是沒有盡頭的...',
                         '<18>{#p/papyrus}{#f/9}那就意味著無盡的\n可能性，無盡的組合！！'
                     ]
@@ -10899,52 +10899,52 @@ export default {
                     ? []
                     : [
                         '<25>{#p/undyne}{#f/17}* Jeez.\n* Why even BOTHER.',
-                        '<18>{#p/papyrus}{#f/6}BECAUSE!!',
-                        '<18>{#p/papyrus}{#f/6}SOLVING PUZZLES IS SUPPOSED TO BE FUN!!',
-                        "<25>{#p/undyne}{#f/12}* Couldn't you just use flight magic to get around it?",
-                        '<18>{#p/papyrus}{#f/4}FLIGHT MAGIC IS RESERVED FOR EMERGENCIES.',
-                        '<25>{#p/undyne}{#f/1}* That depends on your definition of an \"emergency.\"',
-                        '<18>{#p/papyrus}{#f/7}AND PUZZLES FALL WELL OUTSIDE OF THAT DEFINITION!',
-                        "<25>{#p/undyne}{#f/14}* Guess you'll have to suffer, then.",
-                        '<18>{#p/papyrus}{#f/7}I GUESS I WILL!!!'
+                        '<18>{#p/papyrus}{#f/6}因為啊！！',
+                        '<18>{#p/papyrus}{#f/6}解謎本應是一種樂趣的！！',
+                        "<25>{#p/undyne}{#f/12}* 你就不能用飛行魔法\n  繞過去嗎？",
+                        '<18>{#p/papyrus}{#f/4}飛行魔法非緊急情況\n我是不會用的。',
+                        '<25>{#p/undyne}{#f/1}* 那什麼才算是「緊急情況」。',
+                        '<18>{#p/papyrus}{#f/7}反正就解個謎肯定\n算不上緊急情況！',
+                        "<25>{#p/undyne}{#f/14}* 那你就慢慢解吧，\n  有你好受的。",
+                        '<18>{#p/papyrus}{#f/7}我就硬解！！！'
                     ])
             ],
             () =>
                 solo()
                     ? [
-                        '<18>{#p/papyrus}{#f/6}NUMBERS, NUMBERS EVERYWHERE!!',
-                        '<18>{#p/papyrus}{#f/6}WHAT DOES IT ALL MEAN!?!?'
+                        '<18>{#p/papyrus}{#f/6}數字，到處都是數字！！',
+                        '<18>{#p/papyrus}{#f/6}到底是什麼意思！？！？'
                     ]
                     : [
-                        "<18>{#p/papyrus}{#f/5}FLYING AROUND EVERYWHERE JUST WOULDN'T BE FAIR.",
-                        '<25>{#p/undyne}{#f/11}* And you like to make life hard on yourself because...?',
-                        '<18>{#p/papyrus}{#f/9}BECAUSE NOTHING IS AS REWARDING AS HARD WORK!',
-                        '<25>{#p/undyne}{#f/17}* ... that depends on your definition of \"work.\"'
+                        "<18>{#p/papyrus}{#f/5}到處飛來飛去可不公平。",
+                        '<25>{#p/undyne}{#f/11}* 那你就甘願自己受苦...？',
+                        '<18>{#p/papyrus}{#f/9}一份付出，一份回報！',
+                        '<25>{#p/undyne}{#f/17}* ...那什麼才算是「付出」。'
                     ]
         ),
         a_mettaton2: pager.create(
             0,
             () => [
-                '<18>{#p/papyrus}{#f/5}AH... THE TIME VERSUS MONEY TV SET.',
+                '<18>{#p/papyrus}{#f/5}啊...時過金遷。',
                 ...(SAVE.data.n.plot < 60
                     ? [
-                        '<18>{#p/papyrus}{#f/4}JUST SO YOU KNOW...',
-                        "<18>{#p/papyrus}{#f/5}I WON'T BE IN THE UPCOMING EPISODE.",
-                        "<18>{#p/papyrus}{#f/6}... I'D BE TOO NERVOUS SITTING RIGHT NEXT TO HIM."
+                        '<18>{#p/papyrus}{#f/4}正如你所知...',
+                        "<18>{#p/papyrus}{#f/5}下一集裡就沒有我了。",
+                        "<18>{#p/papyrus}{#f/6}...我坐在他旁邊\n會很緊張的。"
                     ]
                     : [
-                        '<18>{#p/papyrus}{#f/4}METTATON WANTED ME TO BE IN THE EPISODE, BUT...',
-                        '<18>{#p/papyrus}{#f/5}AFTER SOME THOUGHT, I CAME TO REALIZE...',
-                        "<18>{#p/papyrus}{#f/6}... HOW NERVOUS I'D BE SITTING RIGHT NEXT TO HIM."
+                        '<18>{#p/papyrus}{#f/4}鎂塔頓想讓我上，可...',
+                        '<18>{#p/papyrus}{#f/5}經過一番思考，\n我意識到...',
+                        "<18>{#p/papyrus}{#f/6}...我不能坐在他旁邊，\n我會緊張死的。"
                     ]),
                 ...(solo()
                     ? []
                     : [
-                        "<25>{#p/undyne}{#f/12}* ... you really like him, don't you?",
-                        '<18>{#p/papyrus}{#f/4}WELL, HE -IS- QUITE ATTRACTIVE...',
-                        "<18>{#p/papyrus}{#f/6}... BUT I HAVEN'T COMMITTED TO ANYTHING YET!",
-                        "<25>{#p/undyne}{#f/3}* That won't last long.",
-                        '<18>{#p/papyrus}{#f/4}HUH?\nDID YOU JUST ASSUME...',
+                        "<25>{#p/undyne}{#f/12}* ...你真的很喜歡他啊。",
+                        '<18>{#p/papyrus}{#f/4}呃，他【真的】很有魅力...',
+                        "<18>{#p/papyrus}{#f/6}...但我還沒\n下定決心！",
+                        "<25>{#p/undyne}{#f/3}* 才幾分鐘而已。",
+                        '<18>{#p/papyrus}{#f/4}哈？\n你是不是以為...',
                         '<18>{#p/papyrus}{#f/7}... OUR RELATIONSHIP STATUS!?!?',
                         '<25>{#p/undyne}{#f/14}* Oh, no, of course not.',
                         "<25>{#p/undyne}{#f/17}* It's just so obvious that I couldn't help but state the facts.",
@@ -11126,57 +11126,57 @@ export default {
         a_auditorium: pager.create(
             0,
             () => [
-                '<18>{#p/papyrus}{#f/0}MY BROTHER ONCE HOSTED A COMEDY SHOW HERE.',
-                '<18>{#p/papyrus}{#f/4}IT WAS CALLED...',
+                '<18>{#p/papyrus}{#f/0}我兄弟在這主持過\n一次喜劇節目。',
+                '<18>{#p/papyrus}{#f/4}那場節目\n的名字叫做...',
                 '<18>{#p/papyrus}{#f/4}... THE RIB-TICKLER.',
-                "<18>{#p/papyrus}{#f/5}DESPITE THE TITLE, IT WASN'T A COMPLETE FAILURE.",
+                "<18>{#p/papyrus}{#f/5}雖然名字很爛，\n但節目並沒失敗。",
                 ...(solo()
-                    ? ['<18>{#p/papyrus}{#f/0}IN FACT, IT DID PRETTY WELL!!']
+                    ? ['<18>{#p/papyrus}{#f/0}確切的說，\n那場節目大受歡迎！！']
                     : [
-                        "<25>{#p/undyne}{#f/1}* To be honest, I'm kind of surprised he stopped doing it.",
-                        '<25>{#p/undyne}{#f/16}* But I guess he just really wanted to be a sentry or something.',
-                        '<18>{#p/papyrus}{#f/5}YEAH.\nTHAT MUST BE IT.',
-                        "<18>{#p/papyrus}{#f/4}THERE DEFINITELY ISN'T ANYTHING ELSE GOING ON.",
-                        '<25>{#p/undyne}{#f/14}* ... what?'
+                        "<25>{#p/undyne}{#f/1}* 實話說，我很驚訝\n  他為啥不趁熱打鐵，\n  反而要功成身退。",
+                        '<25>{#p/undyne}{#f/16}* 也許他只願當個哨兵，\n  整天逍遙自在吧。',
+                        '<18>{#p/papyrus}{#f/5}對。\n一定是這樣的。',
+                        "<18>{#p/papyrus}{#f/4}絕對沒有其他原因。",
+                        '<25>{#p/undyne}{#f/14}* ...啥？'
                     ])
             ],
             () =>
                 solo()
-                    ? ["<18>{#p/papyrus}{#f/0}I'M AS SURPRISED AS YOU ARE."]
-                    : ["<18>{#p/papyrus}{#f/0}THERE ARE THINGS I PROBABLY SHOULDN'T MENTION RIGHT NOW."]
+                    ? ["<18>{#p/papyrus}{#f/0}我和你一樣\n對此驚訝。"]
+                    : ["<18>{#p/papyrus}{#f/0}有些事\n還不到提的時候。"]
         ),
         a_aftershow: pager.create(
             0,
             () => [
-                '<18>{#p/papyrus}{#f/0}SO THIS IS WHERE BRATTY AND CATTY WORK, HUH?',
-                "<18>{#p/papyrus}{#f/0}IT'S CLEANER THAN I EXPECTED.",
-                "<18>{#p/papyrus}{#f/4}AREN'T THESE TWO SUPPOSED TO BE TRASH DEALERS...?",
+                '<18>{#p/papyrus}{#f/0}所以這裡是\n布萊蒂和凱蒂的\n工作區，對吧？',
+                "<18>{#p/papyrus}{#f/0}比我想的還乾淨。",
+                "<18>{#p/papyrus}{#f/4}她們倆不應該是\n垃圾販子嗎...？",
                 ...(solo()
-                    ? ['<18>{#p/papyrus}{#f/5}... PERHAPS THE TRASH IS JUST VERY WELL ORGANIZED.']
+                    ? ['<18>{#p/papyrus}{#f/5}...也許垃圾\n被整理得很好。']
                     : [
-                        "<25>{#p/undyne}{#f/14}* I think they're just protective about the trash they collect.",
-                        '<25>{#p/undyne}{#f/16}* Alphys told me how she used to go trash- hunting with them...',
-                        "<25>{#p/undyne}{#f/9}* It's more than just some wacky hobby.\n* It's a way of LIFE.",
-                        '<18>{#p/papyrus}{#f/0}THAT SEEMS KIND OF FUN, HONESTLY.',
-                        '<25>{#p/undyne}{#f/1}* Plus, all the coolest trinkets get found by people like them.',
-                        '<18>{#p/papyrus}{#f/9}LIKE THE MEW MEW DOLL ON TV EARLIER!!'
+                        "<25>{#p/undyne}{#f/14}* 我覺得她們倆正很好地\n  保護著她們收集來的\n  垃圾。",
+                        '<25>{#p/undyne}{#f/16}* 艾菲斯告訴過我\n  她們仨過去是怎麼\n  撿垃圾的...',
+                        "<25>{#p/undyne}{#f/9}* 並非只是古怪的愛好。\n* 也是生活。",
+                        '<18>{#p/papyrus}{#f/0}感覺好好玩的亞子。',
+                        '<25>{#p/undyne}{#f/1}* 此外，\n  所有最酷的玩意都是被\n  喜歡她們的人發現的。',
+                        '<18>{#p/papyrus}{#f/9}像是上次電視節目\n中的那個喵喵玩偶！'
                     ])
             ],
             () =>
                 solo()
                     ? [
-                        '<18>{#p/papyrus}{#f/5}ORGANIZED TRASH...',
-                        "<18>{#p/papyrus}{#f/4}THE TWO WORDS I NEVER THOUGHT I'D UTTER TOGETHER."
+                        '<18>{#p/papyrus}{#f/5}整理垃圾...',
+                        "<18>{#p/papyrus}{#f/4}這倆詞組成的句子\n我還是頭一回說。"
                     ]
-                    : ['<18>{#p/papyrus}{#f/0}I WONDER IF HUMANS WOULD LIKE HUNTING FOR MONSTER TRASH.']
+                    : ['<18>{#p/papyrus}{#f/0}不知道人類會不會\n喜歡翻怪物垃圾。']
         ),
         a_hub1: pager.create(
             0,
             () => [
                 '<18>{#p/papyrus}{#f/0}AH... THE CENTRAL RING ROOM!',
                 '<18>{#p/papyrus}{#f/4}AT FIRST, WHEN I HEARD THE TERM \"RING ROOM...\"',
-                "<18>{#p/papyrus}{#f/5}I THOUGHT IT'D BE A ROOM FOR MAKING CALLS.",
-                "<18>{#p/papyrus}{#f/0}GIVEN WHAT WE'RE DOING, THAT'S NOT ENTIRELY WRONG!",
+                "<18>{#p/papyrus}{#f/5}我還以為這是個\n打電話的房間。",
+                "<18>{#p/papyrus}{#f/0}但考慮到我們正在\n做的事，所以這並\n不是完全錯誤的！",
                 ...(solo()
                     ? []
                     : [
@@ -11196,149 +11196,149 @@ export default {
         a_dining: pager.create(
             0,
             () => [
-                "<18>{#p/papyrus}{#f/5}I DON'T KNOW ABOUT YOU, BUT THE FOOD IN THIS PLACE...",
-                '<18>{#p/papyrus}{#f/6}... REALLY GRINDS MY GEARS!!',
-                "<18>{#p/papyrus}{#f/4}IT'S LIKE EVERYONE FORGOT WHAT GOOD COOKING IS LIKE.",
-                "<18>{#p/papyrus}{#f/7}WHERE'S MY PASTA- FLAVORED PASTA!?",
+                "<18>{#p/papyrus}{#f/5}不知道你咋想，\n但這地方的食物...",
+                '<18>{#p/papyrus}{#f/6}...都是些\n什麼鬼玩意！！',
+                "<18>{#p/papyrus}{#f/4}好像每個人\n都忘記了怎麼烹飪。",
+                "<18>{#p/papyrus}{#f/7}我的意面風味的\n義大利麵哪去了！？",
                 ...(solo()
                     ? []
                     : [
-                        '<25>{#p/undyne}{#f/14}* You know, that reminds me...',
-                        '<25>{#p/undyne}{#f/1}* I once wanted the Royal Guard to have a culinary division.',
-                        "<25>{#p/undyne}{#f/16}* We'd have gourmet restaurants, exquisite food...",
-                        '<25>{#p/undyne}{#f/17}* ... and then, Asgore tasted my cooking.',
+                        '<25>{#p/undyne}{#f/14}* 這提醒了我...',
+                        '<25>{#p/undyne}{#f/1}* 我有次想給皇家衛隊\n  添一個炊事員。',
+                        "<25>{#p/undyne}{#f/16}* 我們會有充滿美味的餐廳，\n  精緻的食物....",
+                        '­<25>{#p/undyne}{#f/17}* ...直到，\n  艾斯戈爾嘗了口我做的菜。',
                         '<18>{#p/papyrus}{#f/4}嗯...',
-                        "<18>{#p/papyrus}{#f/9}MAYBE YOU JUST DIDN'T ADD ENOUGH MARINARA SAUCE!",
-                        '<25>{#p/undyne}{#f/3}* No amount of marinara sauce could fix THAT atrocity.'
+                        "<18>{#p/papyrus}{#f/9}也許你番茄醬\n沒加夠！",
+                        '<25>{#p/undyne}{#f/3}* 再多的番茄醬\n  也不能彌補這種暴行。'
                     ])
             ],
             () =>
                 solo()
                     ? [
-                        '<18>{#p/papyrus}{#f/6}THE LAST TIME I TRIED TO ORDER IT, THEY...',
-                        "<18>{#p/papyrus}{#f/5}... LET'S JUST SAY THE CONCEPT WAS BEYOND THEM."
+                        '<18>{#p/papyrus}{#f/6}上次我想點它時，\n他們...',
+                        "<18>{#p/papyrus}{#f/5}...這麼說吧，\n似乎這讓他們的大腦\n停止了思考。"
                     ]
-                    : ['<18>{#p/papyrus}{#f/4}MAYBE I SHOULD HAVE BEEN THE ONE COOKING.']
+                    : ['<18>{#p/papyrus}{#f/4}也許應該讓我來做。']
         ),
         a_hub2: pager.create(
             0,
             () => [
-                '<18>{#p/papyrus}{#f/0}LIFE IS LIKE A CHESS GAME.',
-                '<18>{#p/papyrus}{#f/5}MINUS ALL OF THE BLUNDERING...',
-                '<18>{#p/papyrus}{#f/5}AND CAPTURING OF PIECES...',
-                '<18>{#p/papyrus}{#f/6}AND, UH...',
-                '<18>{#p/papyrus}{#f/4}ACTUALLY, LIFE IS ALMOST NOTHING LIKE A CHESS GAME.',
-                '<18>{#p/papyrus}{#f/0}BUT THEY DO HAVE ONE THING IN COMMON.',
-                '<18>{#p/papyrus}{#f/9}WHICH IS THAT YOU NEVER KNOW WHAT TO EXPECT!!',
+                '<18>{#p/papyrus}{#f/0}人生就像一盤棋局。',
+                '<18>{#p/papyrus}{#f/5}讓心\n靜如水...',
+                '<18>{#p/papyrus}{#f/5}然後捕獲棋子...',
+                '<18>{#p/papyrus}{#f/6}再然後，呃...',
+                '<18>{#p/papyrus}{#f/4}好吧，\n人生一點都不像\n棋局。',
+                '<18>{#p/papyrus}{#f/0}但它們之間\n確實有相同之處。',
+                '<18>{#p/papyrus}{#f/9}就是你永遠都不知道\n接下來會\n發生什麼！！',
                 ...(solo()
                     ? []
                     : [
-                        '<25>{#p/undyne}{#f/1}* So, kind of like a box of tree saps, then.',
-                        '<18>{#p/papyrus}{#f/0}YEAH, KIND OF LIKE THAT!',
-                        "<18>{#p/papyrus}{#f/4}WAIT, ISN'T IT SUPPOSED TO BE A BOX OF CHOCOLATES?",
-                        '<25>{#p/undyne}{#f/14}* That would be the human expression.'
+                        '<25>{#p/undyne}{#f/1}* 也有點像一盒樹膠。',
+                        '<18>{#p/papyrus}{#f/0}是啊，\n確實很像！',
+                        "<18>{#p/papyrus}{#f/4}不對，\n不應該像\n一盒巧克力嗎？",
+                        '<25>{#p/undyne}{#f/14}* 那是人類的表達。'
                     ])
             ],
             () =>
                 solo()
-                    ? ["<18>{#p/papyrus}{#f/4}PERHAPS IT'S MORE LIKE A BOX OF CHOCOLATES."]
-                    : ['<18>{#p/papyrus}{#f/0}CHOCOLATE AND TREE SAP TASTES VERY SIMILAR, ACTUALLY.']
+                    ? ["<18>{#p/papyrus}{#f/4}但也許更像\n一盒巧克力。"]
+                    : ['<18>{#p/papyrus}{#f/0}巧克力和樹膠\n的味道其實很像。']
         ),
         a_lookout: pager.create(
             0,
             () => [
-                '<18>{#p/papyrus}{#f/5}IN TIME, WE MAY ALL BE EXPLORERS AMONGST THE STARS.',
-                '<18>{#p/papyrus}{#f/5}WE MAY VENTURE OUT INTO THE GREAT UNKNOWN...',
-                '<18>{#p/papyrus}{#f/5}EJECTING OURSELVES FAR FROM THIS PRISON OF OLD.',
+                '<18>{#p/papyrus}{#f/5}假以時日，\n我們都將成為\n星際旅者。',
+                '<18>{#p/papyrus}{#f/5}去探索那些\n深邃的未知...',
+                '<18>{#p/papyrus}{#f/5}遠離這座\n古老的監獄。',
                 ...(solo()
                     ? []
                     : [
-                        "<25>{#p/undyne}{#f/17}* You didn't tell me you were planning a PRISON break!",
-                        "<18>{#p/papyrus}{#f/5}DON'T WORRY, IT'S JUST AN ALLEGORY FOR FREEDOM.",
-                        '<18>{#p/papyrus}{#f/4}A -REAL- PRISON BREAK WOULD BE FAR TOO SUSPICIOUS.',
-                        '<25>{#p/undyne}{#f/16}* Yeah, yeah...',
-                        '<18>{#p/papyrus}{#f/5}BESIDES, IF I WANTED TO DO ONE PROPERLY...',
-                        "<18>{#p/papyrus}{#f/6}I'D HAVE TO PLAN ALL THE EMERGENCY MEETINGS!",
-                        "<25>{#p/undyne}{#f/12}* Sheesh, that'd be quite the task."
+                        "<25>{#p/undyne}{#f/17}* 別告訴我\n  你在策劃越獄！",
+                        "<18>{#p/papyrus}{#f/5}別擔心，\n這只是自由的寓言。",
+                        '<18>{#p/papyrus}{#f/4}【真正的】越獄\n太可疑了。',
+                        '<25>{#p/undyne}{#f/16}* 對對...',
+                        '<18>{#p/papyrus}{#f/5}此外，\n如果我想做\n正確的事...',
+                        "<18>{#p/papyrus}{#f/6}我將召開\n緊急會議！",
+                        "<25>{#p/undyne}{#f/12}* 天，多麼艱巨啊。"
                     ])
             ],
             () =>
                 solo()
                     ? [
-                        "<18>{#p/papyrus}{#f/4}LET'S JUST HOPE THAT, WHEN WE REACH THE STARS...",
-                        "<18>WE DON'T MEET ANY OF THOSE MOLE-RAT IMPOSTORS."
+                        "<18>{#p/papyrus}{#f/4}只希望，\n當我們到達\n星星那邊時...",
+                        "<18>不會遇到任何\n烏賊內鬼。"
                     ]
-                    : ['<18>{#p/papyrus}{#f/5}MY APOLOGIES.', "<18>{#p/papyrus}{#f/4}I DIDN'T MEAN TO VENT."]
+                    : ['<18>{#p/papyrus}{#f/5}抱歉。', "<18>{#p/papyrus}{#f/4}I DIDN'T MEAN TO VENT."]
         ),
         a_hub3: pager.create(
             0,
             () => [
-                "<18>{#p/papyrus}{#f/6}ISN'T THAT WHERE THE CHILLY FOLKS HANG OUT?",
-                '<18>{#p/papyrus}{#f/5}I FEEL KIND OF BAD FOR THEM...',
-                '<18>{#p/papyrus}{#f/9}... WHICH IS WHY I PLAN TO BUY THEM A FRIDGE SOMEDAY!',
-                "<18>{#p/papyrus}{#f/0}THAT WAY, THEY'LL ALWAYS HAVE A COLD PLACE NEARBY.",
+                "<18>{#p/papyrus}{#f/6}這不是那些\n喜好寒冷的人們\n常去的消遣之地嗎？",
+                '<18>{#p/papyrus}{#f/5}我為他們\n感到難過...',
+                '<18>{#p/papyrus}{#f/9}...所以我打算哪天\n給他們買個冰箱！',
+                "<18>{#p/papyrus}{#f/0}這樣，\n他們附近就會有\n一塊寒冷的地方了。",
                 ...(solo()
                     ? []
                     : [
-                        '<25>{#p/undyne}{#f/1}* Speaking of nearby...',
-                        "<25>{#p/undyne}{#f/8}* We're RIGHT in the next room over!!",
-                        '<18>{#p/papyrus}{#f/9}CORRECT!!\nRIGHT DOWN HERE!!',
-                        '<25>{#p/undyne}{#f/17}* Over, not down.',
-                        "<18>{#p/papyrus}{#f/6}... IT'S DOWN ON THE FLOOR PLAN!!",
-                        '<25>{#p/undyne}{#f/14}* I doubt the human even knows what that looks like.'
+                        '<25>{#p/undyne}{#f/1}* 說到附近...',
+                        "<25>{#p/undyne}{#f/8}* 我們就在隔壁！！",
+                        '<18>{#p/papyrus}{#f/9}對！！\n就在你右下角！！',
+                        '<25>{#p/undyne}{#f/17}* 是隔壁，不是下面。',
+                        "<18>{#p/papyrus}{#f/6}...是在平面圖的\n下面！！",
+                        '<25>{#p/undyne}{#f/14}* 我懷疑人類\n  都不知道那長啥樣。'
                     ])
             ],
             () =>
                 solo()
-                    ? ["<18>{#p/papyrus}{#f/0}ISN'T TECHNOLOGY WONDERFUL?"]
+                    ? ["<18>{#p/papyrus}{#f/0}科技改變世界！"]
                     : [
-                        '<18>{#p/papyrus}{#f/6}WHAT ARE YOU WAITING FOR!!!\nCOME ON DOWN!!',
-                        '<25>{#p/undyne}{#f/7}* He means OVER!!'
+                        '<18>{#p/papyrus}{#f/6}還在等什麼呢？！！\n快下來！！',
+                        '<25>{#p/undyne}{#f/7}* 他是說去隔壁！！'
                     ]
         ),
         a_plaza: pager.create(
             0,
             () => [
-                "<18>{#p/papyrus}{#f/0}THAT'S WHERE BURGIE'S SHOP IS.",
-                '<18>{#p/papyrus}{#f/6}ALTHOUGH WHAT HE SELLS IS BASICALLY JUNK FOOD...',
-                '<18>{#p/papyrus}{#f/5}HE DOES SEEM LIKE A REALLY GENUINE GUY.',
+                "<18>{#p/papyrus}{#f/0}那是堡兄的商店。",
+                '<18>{#p/papyrus}{#f/6}儘管他賣的\n都是些垃圾食品...',
+                '<18>{#p/papyrus}{#f/5}但他卻像一個\n真正的男子漢。',
                 ...(solo()
                     ? []
                     : [
                         "<25>{#p/undyne}{#f/12}* That's definitely one way of putting it.",
-                        '<18>{#p/papyrus}{#f/5}ADMITTEDLY, HE CAN BE A BIT STRESSFUL TO TALK TO.',
-                        "<18>{#p/papyrus}{#f/6}BUT I DON'T THINK THAT'S HIS FAULT!!",
-                        "<18>{#p/papyrus}{#f/4}IT'S... ACTUALLY KIND OF METTATON'S FAULT.",
-                        "<18>{#p/papyrus}{#f/9}BUT DON'T WORRY!\nI'LL CONFRONT HIM LATER ABOUT IT!"
+                        '<18>{#p/papyrus}{#f/5}無可否認，\n和他說話確實會\n讓人感到緊張。',
+                        "<18>{#p/papyrus}{#f/6}但我不認為\n這是他的錯！！",
+                        "<18>{#p/papyrus}{#f/4}這... 實際上是\n鎂塔頓的錯。",
+                        "<18>{#p/papyrus}{#f/9}但別擔心！\n我待會就去跟他\n談這事！"
                     ])
             ],
             () =>
                 solo()
-                    ? ['<18>{#p/papyrus}{#f/6}ONCE YOU EARN HIS RESPECT, OF COURSE.']
-                    : ['<18>{#p/papyrus}{#f/4}THAT ROBOT AND I HAVE... A LOT TO DISCUSS.']
+                    ? ['<18>{#p/papyrus}{#f/6}當然你必須\n要贏得他的尊重。']
+                    : ['<18>{#p/papyrus}{#f/4}我和那機器人有...\n一大堆要討論的。']
         ),
         a_elevator5: pager.create(
             0,
             () => [
-                '<18>{#p/papyrus}{#f/4}THIS \"REC CENTER\" IS CERTIANLY RECREATIONAL...',
-                '<18>{#p/papyrus}{#f/5}... IN MORE WAYS THAN ONE.',
-                "<18>{#p/papyrus}{#f/6}WHAT'S SO AMAZING ABOUT WISH FLOWERS, ANYWAY?",
-                '<18>{#p/papyrus}{#f/4}DOES THEIR AURA MAKE ALL YOUR WISHES COME TRUE?',
+                '<18>{#p/papyrus}{#f/4}這個「休閒迴廊」\n當然是用來休閒的...',
+                '<18>{#p/papyrus}{#f/5}...想幹啥都行。',
+                "<18>{#p/papyrus}{#f/6}但我想知道\n蒲公罌到底有啥\n神奇的？",
+                '<18>{#p/papyrus}{#f/4}可以回應\n人們的粟求嗎？',
                 ...(solo()
-                    ? ['<18>{#p/papyrus}{#f/0}HMM... MAYBE I SHOULD TRY IT SOMETIME.']
+                    ? ['<18>{#p/papyrus}{#f/0}嗯...\n我想找個時間\n試試。']
                     : [
-                        "<25>{#p/undyne}{#f/14}* I don't think you'd enjoy it, Papyrus.",
-                        "<25>{#p/undyne}{#f/17}* It's not your style.",
-                        "<18>{#p/papyrus}{#f/5}YEAH, YOU'RE PROBABLY RIGHT.",
-                        '<25>{#p/undyne}{#f/14}* Of course I am.',
-                        '<18>{#p/papyrus}{#f/9}STILL, IT NEVER HURTS TO TRY!!',
+                        "<25>{#p/undyne}{#f/14}* 我想你不會喜歡的，\n  帕派瑞斯。",
+                        "<25>{#p/undyne}{#f/17}* 這不是你的作風。",
+                        "<18>{#p/papyrus}{#f/5}是啊，\n興許我該聽你的。",
+                        '<25>{#p/undyne}{#f/14}* 那必須的。',
+                        '<18>{#p/papyrus}{#f/9}但我還是要\n試一試！！',
                         '<25>{#p/undyne}{#f/17}* ...'
                     ])
             ],
             () => [
-                '<18>{#p/papyrus}{#f/0}BETTER NOT DO IT IN THE REC CENTER, THOUGH.',
+                '<18>{#p/papyrus}{#f/0}不過我儘量不會在\n休閒迴廊試的。',
                 '<18>{#p/papyrus}{#f/4}TALK ABOUT BEING A NUSCIENCE.',
-                ...(solo() ? [] : ['<25>{#p/undyne}{#f/12}* Pfft, yeah...'])
+                ...(solo() ? [] : ['<25>{#p/undyne}{#f/12}* 啐，是...'])
             ]
         ),
         a_hub4: pager.create(
@@ -11346,71 +11346,71 @@ export default {
             () =>
                 solo()
                     ? [
-                        "<18>{#p/papyrus}{#f/0}SO THERE'S LOTS TO DO UP THERE, HUH?",
-                        '<18>{#p/papyrus}{#f/9}SOUNDS LIKE A GREAT PLACE TO HANG OUT!!',
-                        "<18>{#p/papyrus}{#f/0}I'LL HAVE TO VISIT SOMETIME.",
-                        "<18>{#p/papyrus}{#f/4}I'D PREFER IT OVER STANDING IN FRONT OF UNDYNE'S HOUSE."
+                        "<18>{#p/papyrus}{#f/0}所以那邊\n有一堆好玩的？",
+                        '<18>{#p/papyrus}{#f/9}聽起來那裡是個\n消遣的好去處！！',
+                        "<18>{#p/papyrus}{#f/0}有時間我一定會去\n那邊看看。",
+                        "<18>{#p/papyrus}{#f/4}這可比站在\n安黛因門前好多了。"
                     ]
-                    : ["<25>{#p/undyne}{#f/8}* Wanna talk?\n* We're right here, punk!"],
+                    : ["<25>{#p/undyne}{#f/8}* 想聊天？\n* 我們就在這裡，小混蛋！"],
             () =>
                 solo()
                     ? [
-                        '<18>{#p/papyrus}{#f/4}MAYBE, AFTER WE HANG OUT WITH HER...',
-                        '<18>{#p/papyrus}{#f/0}WE COULD ALL COME HERE TOGETHER!'
+                        '<18>{#p/papyrus}{#f/4}也許在我們\n跟她消遣過後...',
+                        '<18>{#p/papyrus}{#f/0}我們就都\n可以去那玩了！'
                     ]
-                    : ["<25>{#p/undyne}{#f/8}* Wanna talk?\n* We're right here, punk!"]
+                    : ["<25>{#p/undyne}{#f/8}* 想聊天？\n* 我們就在這裡，小混蛋！"]
         ),
         a_sleeping1: pager.create(
             0,
             () => [
-                '<18>{#p/papyrus}{#f/0}I HEAR THIS HOTEL IS MADE IN EXTRA DIMENSIONS.',
-                '<18>{#p/papyrus}{#f/4}DIMENSIONS...\nLAYERS...',
-                '<18>{#p/papyrus}{#f/5}DO THEY GIVE US EXTRA BLANKETS TO TAKE NAPS WITH?',
-                '<18>{#p/papyrus}{#f/0}ASKING FOR A FRIEND, OF COURSE.',
+                '<18>{#p/papyrus}{#f/0}我聽說這家旅館\n是在額外的維度\n建造的。',
+                '<18>{#p/papyrus}{#f/4}維度...\n層面...',
+                '<18>{#p/papyrus}{#f/5}他們會在我們打盹時\n多給我們一層\n毯子嗎？',
+                '<18>{#p/papyrus}{#f/0}當然我是\n替我朋友問的。',
                 ...(solo()
                     ? []
                     : [
-                        '<25>{#p/undyne}{#f/17}* Right, because YOU just stay awake all the time.',
-                        "<18>{#p/papyrus}{#f/0}EXACTLY!\nI CAN'T WASTE MY TIME NAPPING.",
-                        '<25>{#p/undyne}{#f/14}* What about sleeping?',
-                        '<18>{#p/papyrus}{#f/6}SLEEPING???',
-                        "<18>{#p/papyrus}{#f/4}... THAT'S JUST AN EXCUSE MY BROTHER USES TO TAKE NAPS.",
-                        '<25>{#p/undyne}{#f/17}* Obviously!!'
+                        '<25>{#p/undyne}{#f/17}* 確實，因為你\n  一直精神抖擻。',
+                        "<18>{#p/papyrus}{#f/0}完全正確！\n我不能浪費時間\n在打盹上。",
+                        '<25>{#p/undyne}{#f/14}* 那睡覺呢？',
+                        '<18>{#p/papyrus}{#f/6}睡覺？？？',
+                        "<18>{#p/papyrus}{#f/4}...那只是我兄弟\n用來打盹的藉口。",
+                        '<25>{#p/undyne}{#f/17}* 顯而易見！！'
                     ])
             ],
             () =>
                 solo()
                     ? [
-                        "<18>{#p/papyrus}{#f/0}OH, ME?\nI DON'T TAKE NAPS.",
-                        '<18>{#p/papyrus}{#f/4}I JUST HAPPEN TO CLOSE MY EYES FOR A WHILE.'
+                        "<18>{#p/papyrus}{#f/0}喔，我？\n我才不打盹。",
+                        '<18>{#p/papyrus}{#f/4}我只是碰巧\n閉了下眼睛。'
                     ]
-                    : ["<18>{#p/papyrus}{#f/4}IT'S A MIRACLE HE MAKES IT OUT OF BED ANYMORE."]
+                    : ["<18>{#p/papyrus}{#f/4}他能從床上爬起來\n真是個奇蹟。"]
         ),
         a_hub5: pager.create(
             0,
             () => [
-                "<18>{#p/papyrus}{#f/6}IF YOU'RE LEAVING THE REC CENTER, I...",
-                "<18>{#p/papyrus}{#f/5}WON'T BE ABLE TO REACH YOU.",
-                "<18>{#p/papyrus}{#f/4}IF YOU'RE ON THE RETURN TRIP, THOUGH...",
-                "<18>{#p/papyrus}{#f/0}... THEN THERE'S NO NEED TO WORRY!!",
+                "<18>{#p/papyrus}{#f/6}如果你是要離開\n休閒迴廊然後繼續\n前進，那我...",
+                "<18>{#p/papyrus}{#f/5}那我就\n跟你\n打不了電話了。",
+                "<18>{#p/papyrus}{#f/4}但你如果\n是要回去...",
+                "<18>{#p/papyrus}{#f/0}...那就沒問題了！！",
                 ...(solo()
                     ? []
                     : [
-                        "<25>{#p/undyne}{#f/14}* It's not like we're going anywhere.",
-                        '<18>{#p/papyrus}{#f/6}NOT AT ALL!!',
-                        '<18>{#p/papyrus}{#f/5}THOUGH, AT SOME POINT, WE WILL INEVITABLY LEAVE.',
-                        "<25>{#p/undyne}{#f/16}* I mean, that's true, but...",
-                        '<25>{#p/undyne}{#f/17}* This is no time to be worrying about that!',
-                        '<18>{#p/papyrus}{#f/0}QUITE RIGHT.'
+                        "<25>{#p/undyne}{#f/14}* 我們哪都不去。",
+                        '<18>{#p/papyrus}{#f/6}絕對不走！！！',
+                        '<18>{#p/papyrus}{#f/5}雖然，在有些時候，\n我們免不了要離開。',
+                        "<25>{#p/undyne}{#f/16}* 確實如此，但是...",
+                        '<25>{#p/undyne}{#f/17}* 但是沒必要擔心這個！',
+                        '<18>{#p/papyrus}{#f/0}完全正確。'
                     ])
             ],
             () =>
                 solo()
                     ? [
-                        '<18>{#p/papyrus}{#f/6}SO ARE YOU COMING, OR GOING?',
-                        "<18>{#p/papyrus}{#f/5}IT'S HARD TO TELL WHICH WAY IS WHICH AROUND HERE."
+                        '<18>{#p/papyrus}{#f/6}所以你\n是去是回？',
+                        "<18>{#p/papyrus}{#f/5}這是個\n艱難的抉擇。"
                     ]
-                    : ['<18>{#p/papyrus}{#f/6}STOP WORRYING!!']
+                    : ['<18>{#p/papyrus}{#f/6}不過不需要擔心！！']
         )
     },
 

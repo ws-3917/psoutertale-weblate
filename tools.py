@@ -680,6 +680,13 @@ def process_language(place, lang):
         os.makedirs(os.path.dirname(dest_alt_ts), exist_ok=True)
         shutil.copy(output_alt_ts, dest_alt_ts)
 
+    # 250117 - 更新zh_TW翻译
+    if "zh_TW" in lang:
+        shutil.copy(
+            f"{TRANS_PATH}/text/{place}/{lang}.po",
+            f"{WEBLATE_PATH}/text/{place}/{lang}.po",
+        )
+
 
 def process_term(term):
     convert_s2t(
@@ -694,7 +701,10 @@ def task_update():
     更新翻译任务，将翻译应用到项目文件。
     """
     print(colored("--> 拉取最新资源", "blue"))
-    os.system(f"cd {TRANS_PATH} && git pull origin master")
+    # 250117 - 轻量化翻译（分离weblate仓库和其他资源）
+    os.system(
+        f"cd {WEBLATE_PATH} && git pull origin master && cp -rf {WEBLATE_PATH}/* {TRANS_PATH}"
+    )
     task_loadassets()
     print(colored("--> 将翻译字典合并至代码", "blue"))
 
@@ -717,9 +727,11 @@ def task_update():
     print(colored("--> 推送更改到Git仓库", "blue"))
     current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     os.system(
-        f'cd {TRANS_PATH} && git add -A && git commit -m "{current_time} Update translation."'
+        f'cd {TRANS_PATH} && git add -A && git commit -m "{current_time} Update translation." && git push'
     )
-    os.system(f"cd {TRANS_PATH} && git push")
+    os.system(
+        f'cd {WEBLATE_PATH} && git add -A && git commit -m "{current_time} Update translation." && git push'
+    )
 
     print(colored("--- 文本更新完成", "green"))
 

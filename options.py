@@ -30,6 +30,7 @@ HOME_PATH = (
 )  # 用户主目录路径
 GMS_PATH = HOME_PATH / "psoutertale-gms"  # 字体生成工具路径
 TRANS_PATH = HOME_PATH / "psoutertale-cn"  # 翻译文件路径
+WEBLATE_PATH = HOME_PATH / "psoutertale-weblate"  # Weblate仓库路径
 SRC_PATH = HOME_PATH / "psoutertale-src"  # 源代码路径
 SRC_WIN7_PATH = HOME_PATH / "psoutertale-src-win7"  # 源代码路径
 DIST_PATH = HOME_PATH / "psoutertale-dist"  # 发布文件路径
