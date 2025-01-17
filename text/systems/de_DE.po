@@ -1,0 +1,2965 @@
+#
+msgid ""
+msgstr ""
+
+msgid "(You take a deep breath.)"
+msgstr "(Sie holen tief Luft.)"
+
+msgid "(You're filled with determination.)"
+msgstr "(Sie sind voller Entschlossenheit.)"
+
+msgid "You cannot give up just yet..."
+msgstr "Du darfst noch nicht aufgeben..."
+
+msgid ""
+"$(name)!\n"
+"Stay determined..."
+msgstr ""
+"$(name)!\n"
+"Bleib entschlossen..."
+
+msgid "Our fate rests upon you..."
+msgstr "Unser Schicksal liegt in Ihren Händen..."
+
+msgid "You're going to be alright!"
+msgstr "Es wird alles gut!"
+
+msgid "Don't lose hope!"
+msgstr "Geben Sie die Hoffnung nicht auf!"
+
+msgid "It cannot end now!"
+msgstr "Es darf jetzt nicht enden!"
+
+msgid "    * Escaped..."
+msgstr "    * Entkommen..."
+
+msgid "    * I'm outta here."
+msgstr "    * Ich bin hier raus."
+
+msgid "    * I've got better to do."
+msgstr "    * Ich habe Besseres zu tun."
+
+msgid "    * Don't slow me down."
+msgstr "    * Brems mich nicht aus."
+
+msgid ""
+"    * Ran away with $(x) EXP\n"
+"      and $(y)G."
+msgstr ""
+"    * Bin mit $(x) EXP\n"
+"      und $(y)G weggelaufen."
+
+msgid "* Assist"
+msgstr "* Helfen"
+
+msgid "* Flee"
+msgstr "* Fliehen"
+
+msgid "* Spare"
+msgstr "* Verschonen"
+
+msgid ""
+"<32>{#p/story}* YOU WON!\n"
+"* You earned $(x) EXP and $(y)G."
+msgstr ""
+"<32>{#p/story}* DU HAST GEWONNEN!\n"
+"* Du erhältst $(x) EXP und $(y)G."
+
+msgid ""
+"<32>{#p/story}* YOU WON!\n"
+"* You earned $(x) EXP and $(y)G.\n"
+"* Your LOVE increased."
+msgstr ""
+"<32>{#p/story}* DU HAST GEWONNEN!\n"
+"* Du erhältst $(x) EXP und $(y)G.\n"
+"* Deine LOVE ist gestiegen."
+
+msgid "ERROR"
+msgstr "FEHLER"
+
+msgid "DISMISS"
+msgstr "ZURÜCKWEISEN"
+
+msgid "Click To Dismiss"
+msgstr "Klicken, um zu schließen."
+
+msgid ""
+"An error occured! Please send\n"
+"screenshot to developer."
+msgstr ""
+"Ein Fehler ist aufgetreten! Bitte senden\n"
+"Sie einen Screenshot an den Entwickler."
+
+msgid "CONTROL"
+msgstr "KONTROLLE"
+
+msgid "GENERAL"
+msgstr "ALLGEMEIN"
+
+msgid "BATTLE"
+msgstr "BATTLE"
+
+msgid "FixMusic"
+msgstr "FixMusic"
+
+msgid "FixPlayer"
+msgstr "FixPlayer"
+
+msgid "InfiniteG"
+msgstr "InfiniteG"
+
+msgid "Interact"
+msgstr "Interagieren"
+
+msgid "Input"
+msgstr "Input"
+
+msgid "Movement"
+msgstr "Bewegung"
+
+msgid "Noclip"
+msgstr "Noclip"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "SkipText"
+msgstr "SkipText"
+
+msgid "Freecam"
+msgstr "Freecam"
+
+msgid "CanAssist"
+msgstr "CanAssist"
+
+msgid "ClearBox"
+msgstr "ClearBox"
+
+msgid "Exit"
+msgstr "Verlassen"
+
+msgid "ResetBox"
+msgstr "ResetBox"
+
+msgid "ResetMenu"
+msgstr "ResetMenu"
+
+msgid "CanFlee"
+msgstr "KannFliehen"
+
+msgid "InfiniteHP"
+msgstr "InfiniteHP"
+
+msgid "PacifyAll"
+msgstr "AlleBefrieden"
+
+msgid "Suicide"
+msgstr "Selbstmord"
+
+msgid "WeakenAll"
+msgstr "AlleSchwächen"
+
+msgid "$(x) FPS"
+msgstr "$(x) FPS"
+
+msgid "Halt"
+msgstr "Halt"
+
+msgid "GAME SPEED"
+msgstr "GAME SPEED"
+
+msgid "More"
+msgstr "Mehr"
+
+msgid "Less"
+msgstr "Weniger"
+
+msgid "$(x)s/frame"
+msgstr "$(x)s/frame"
+
+msgid "GODHOME"
+msgstr "GOTTESHAUS"
+
+msgid "ROOM"
+msgstr "Räume"
+
+msgid "Teleport"
+msgstr "Teleport"
+
+msgid "ENCOUNTER"
+msgstr "BEGEGNEN"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "ARMOR"
+msgstr "RÜST"
+
+msgid "WEAPON"
+msgstr "WAFFEN"
+
+msgid "INSPECT"
+msgstr "INSPECT"
+
+msgid "LAYERS"
+msgstr "LAYERS"
+
+msgid "TYPES"
+msgstr "TYPES"
+
+msgid "Base"
+msgstr "Base"
+
+msgid "Below"
+msgstr "Below"
+
+msgid "Main"
+msgstr "Main"
+
+msgid "Above"
+msgstr "Above"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Hitbox"
+msgstr "Hitbox"
+
+msgid "Sprite"
+msgstr "Sprite"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "EXPLORER"
+msgstr "EXPLORER"
+
+msgid "Base (Explorer)"
+msgstr "Base (Explorer)"
+
+msgid "Below (Explorer)"
+msgstr "Below (Explorer)"
+
+msgid "Main (Explorer)"
+msgstr "Main (Explorer)"
+
+msgid "Above (Explorer)"
+msgstr "Above (Explorer)"
+
+msgid "Menu (Explorer)"
+msgstr "Menu (Explorer)"
+
+msgid "A"
+msgstr "A"
+
+msgid "C"
+msgstr "C"
+
+msgid "R"
+msgstr "R"
+
+msgid "E"
+msgstr "E"
+
+msgid "H"
+msgstr "H"
+
+msgid "O"
+msgstr "O"
+
+msgid "P"
+msgstr "P"
+
+msgid "S"
+msgstr "S"
+
+msgid "T"
+msgstr "T"
+
+msgid "Press [TAB] to cycle debug info"
+msgstr "Drücken Sie [TAB], um die Debuginformationen durchzugehen"
+
+msgid "Acceleration"
+msgstr "Beschleunigung"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Anchor"
+msgstr "Anker"
+
+msgid "B"
+msgstr "B"
+
+msgid "Blend"
+msgstr "Mischung"
+
+msgid "Border"
+msgstr "Grenze"
+
+msgid "Computed Size"
+msgstr "Berechnete Größe\n"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Crop"
+msgstr "Ernte"
+
+msgid "Down"
+msgstr "Runter"
+
+msgid "Duration"
+msgstr "Dauer"
+
+msgid "EXP"
+msgstr "EXP"
+
+msgid "Extent"
+msgstr "Ausmaß"
+
+msgid "F"
+msgstr "F"
+
+msgid "Face"
+msgstr "Gesicht"
+
+msgid "False"
+msgstr "FALSCH"
+
+msgid "Fill"
+msgstr "Füllen"
+
+msgid "Font Family"
+msgstr "Schriftfamilie"
+
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+msgid "Frames"
+msgstr "Rahmen"
+
+msgid "Gravity"
+msgstr "Schwerkraft"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "HP"
+msgstr "HP"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Inert"
+msgstr "Inert"
+
+msgid "Key"
+msgstr "Schlüssel"
+
+msgid "Last Saved Time"
+msgstr "Zuletzt gespeicherter Zeitpunkt"
+
+msgid "Layer"
+msgstr "Layer"
+
+msgid "Layers"
+msgstr "Layers"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Metadata"
+msgstr "Metadaten"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Namespace"
+msgstr "Namensraum"
+
+msgid "NONE"
+msgstr "KEINER"
+
+msgid "none"
+msgstr "keiner"
+
+msgid "Objects"
+msgstr "Objekte"
+
+msgid "Oversaver"
+msgstr "Oversaver"
+
+msgid "Parallax"
+msgstr "Parallaxe"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Primed"
+msgstr "Grundiert"
+
+msgid "Priority"
+msgstr "Priorität"
+
+msgid "REGISTRY"
+msgstr "REGISTRIERUNG"
+
+msgid "Renderer"
+msgstr "Renderer"
+
+msgid "Resources"
+msgstr "Ressourcen"
+
+msgid "Reverse"
+msgstr "Umkehren"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Room"
+msgstr "Raum"
+
+msgid "Room State"
+msgstr "Raumzustand"
+
+msgid "Rotation"
+msgstr "Drehung"
+
+msgid "Scale"
+msgstr "Skala"
+
+msgid "Shop Selection"
+msgstr "Shop-Auswahl"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Spacing"
+msgstr "Abstand"
+
+msgid "Spin"
+msgstr "Drehen"
+
+msgid "Sprites"
+msgstr "Sprites"
+
+msgid "Step"
+msgstr "Schritt"
+
+msgid "Stroke"
+msgstr "Schlaganfall"
+
+msgid "Subcrop"
+msgstr "Subcrop"
+
+msgid "Talk"
+msgstr "Sprechen"
+
+msgid "Target"
+msgstr "Ziel"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "Tint"
+msgstr "Farbton"
+
+msgid "Tracked Assets"
+msgstr "Verfolgte Vermögenswerte"
+
+msgid "True"
+msgstr "WAHR"
+
+msgid "UNKNOWN"
+msgstr "UNBEKANNT"
+
+msgid "Up"
+msgstr "Hoch"
+
+msgid "Vars"
+msgstr "Vars"
+
+msgid "Velocity"
+msgstr "Geschwindigkeit"
+
+msgid "Volatile"
+msgstr "Flüchtig"
+
+msgid "SAVEMOD"
+msgstr "SAVEMOD"
+
+msgid "SAVE EDITOR"
+msgstr "EDITOR SPEICHERN"
+
+msgid "Data (Booleans)"
+msgstr "Data (Booleans)"
+
+msgid "Data (Numbers)"
+msgstr "Data (Numbers)"
+
+msgid "Data (Strings)"
+msgstr "Data (Strings)"
+
+msgid "Flags (Booleans)"
+msgstr "Flags (Booleans)"
+
+msgid "Flags (Numbers)"
+msgstr "Flags (Numbers)"
+
+msgid "Flags (Strings)"
+msgstr "Flags (Strings)"
+
+msgid "NAVIGATION"
+msgstr "NAVIGATION"
+
+msgid "Prev"
+msgstr "Zurück"
+
+msgid "Next"
+msgstr "Nächste"
+
+msgid "Enter Value"
+msgstr "Wert eingeben"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "STORAGE"
+msgstr "LAGERUNG"
+
+msgid "STORAGE EDITOR"
+msgstr "SPEICHEREDITOR"
+
+msgid "SELECTION"
+msgstr "AUSWAHL"
+
+msgid "Inventory"
+msgstr "Inventar"
+
+msgid "Dim. Box A"
+msgstr "Dim. Box A"
+
+msgid "Dim. Box B"
+msgstr "Dim. Box B"
+
+msgid "Clear File"
+msgstr "Datei löschen"
+
+msgid "Notice"
+msgstr "Beachten"
+
+msgid "Clear Mobile Settings"
+msgstr "Mobile Einstellungen löschen"
+
+msgid "Open"
+msgstr "Offen"
+
+msgid "SAVE files"
+msgstr "SAVE-Dateien"
+
+msgid "Open File"
+msgstr "Datei öffnen"
+
+msgid "Save File"
+msgstr "Datei speichern"
+
+msgid "That file could not be parsed."
+msgstr "Diese Datei konnte nicht analysiert werden."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Stornieren"
+
+msgid "Clear this file?"
+msgstr "Diese Datei löschen?"
+
+msgid ""
+"Your SAVE file from the\n"
+"OUTERTALE demo has been\n"
+"moved to a timeline slot."
+msgstr ""
+"Ihre SAVE-Datei aus der\n"
+"OUTERTALE-Demo wurde\n"
+"in einen Timeline-Slot verschoben."
+
+msgid "Save this file?"
+msgstr "Diese Datei speichern?"
+
+msgid ""
+"Clear mobile-related settings?\n"
+"This will NOT clear\n"
+"your SAVE file."
+msgstr ""
+"Mobilbezogene Einstellungen löschen?\n"
+"Dadurch wird Ihre\n"
+"SAVE-Datei NICHT gelöscht."
+
+msgid ""
+"Copy the text below into\n"
+"a JSON file to save it\n"
+"to your device."
+msgstr ""
+"Kopieren Sie den folgenden Text in\n"
+"eine JSON-Datei, um ihn\n"
+"auf Ihrem Gerät zu speichern."
+
+msgid "Load this file?"
+msgstr "Diese Datei laden?"
+
+msgid "§fill=#ff0§< DEVELOPER >§fill=#fff§"
+msgstr "§fill=#ff0§< ENTWICKLER >§fill=#fff§"
+
+msgid "spacey_432"
+msgstr "spacey_432"
+
+msgid ""
+msgstr ""
+
+msgid "§fill=#ff0§< WRITER >§fill=#fff§"
+msgstr "§fill=#ff0§< SCHRIFTSTELLER >§fill=#fff§"
+
+msgid "Balgamlı Kedi"
+msgstr "Balgamlı Kedi"
+
+msgid "Bilge \"mnwary\""
+msgstr "Bilge \"mnwary\""
+
+msgid "Dischnie"
+msgstr "Dischnie"
+
+msgid "Efe Kaya"
+msgstr "Efe Kaya"
+
+msgid "Ghostly"
+msgstr "Ghostly"
+
+msgid "InvincibleRacoon"
+msgstr "InvincibleRacoon"
+
+msgid "Jojoton56"
+msgstr "Jojoton56"
+
+msgid "Kiwi \"Quinn\""
+msgstr "Kiwi \"Quinn\""
+
+msgid "My Aster"
+msgstr "My Aster"
+
+msgid "neo9174"
+msgstr "neo9174"
+
+msgid "Rise"
+msgstr "Rise"
+
+msgid "ThatGuyWhoLikesFood"
+msgstr "ThatGuyWhoLikesFood"
+
+msgid "Turbulation"
+msgstr "Turbulation"
+
+msgid "Zaxento The Greedy"
+msgstr "Zaxento The Greedy"
+
+msgid "§fill=#ff0§< ARTIST >§fill=#fff§"
+msgstr "§fill=#ff0§< KÜNSTLER >§fill=#fff§"
+
+msgid "Burge"
+msgstr "Burge"
+
+msgid "Deskius"
+msgstr "Deskius"
+
+msgid "DESM.al"
+msgstr "DESM.al"
+
+msgid "Discarded Vessel"
+msgstr "Discarded Vessel"
+
+msgid "Fired"
+msgstr "Fired"
+
+msgid "Funtermore"
+msgstr "Funtermore"
+
+msgid "HolyOranges"
+msgstr "HolyOranges"
+
+msgid "major_memestar"
+msgstr "major_memestar"
+
+msgid "MattSpriteMaster"
+msgstr "MattSpriteMaster"
+
+msgid "Medi0creking"
+msgstr "Medi0creking"
+
+msgid "NerNot1"
+msgstr "NerNot1"
+
+msgid "PhyreFM"
+msgstr "PhyreFM"
+
+msgid "Pongy25"
+msgstr "Pongy25"
+
+msgid "PoTheWinterCorder"
+msgstr "PoTheWinterCorder"
+
+msgid "ProctorDorkchop02"
+msgstr "ProctorDorkchop02"
+
+msgid "ScarletScaledDragon"
+msgstr "ScarletScaledDragon"
+
+msgid "semi"
+msgstr "semi"
+
+msgid "Soup Taels"
+msgstr "Soup Taels"
+
+msgid "SquigglyWiggley"
+msgstr "SquigglyWiggley"
+
+msgid "Starkiteckt"
+msgstr "Starkiteckt"
+
+msgid "supper12"
+msgstr "supper12"
+
+msgid "Valor52"
+msgstr "Valor52"
+
+msgid "§fill=#ff0§< TECHNICIAN >§fill=#fff§"
+msgstr "§fill=#ff0§< TECHNIKER >§fill=#fff§"
+
+msgid "Codetoil"
+msgstr "Codetoil"
+
+msgid "ryi3r"
+msgstr "ryi3r"
+
+msgid "ws3917"
+msgstr "ws3917"
+
+msgid "§fill=#ff0§< TESTER >§fill=#fff§"
+msgstr "§fill=#ff0§< TESTER >§fill=#fff§"
+
+msgid "Alden"
+msgstr "Alden"
+
+msgid "Aspey"
+msgstr "Aspey"
+
+msgid "blue"
+msgstr "blue"
+
+msgid "Brad"
+msgstr "Brad"
+
+msgid "brayjamin"
+msgstr "brayjamin"
+
+msgid "ClamsyMoe"
+msgstr "ClamsyMoe"
+
+msgid "delta"
+msgstr "delta"
+
+msgid "DR4GON HE4RT"
+msgstr "DR4GON HE4RT"
+
+msgid "Dubituar"
+msgstr "Dubituar"
+
+msgid "Emurry"
+msgstr "Emurry"
+
+msgid "Enzolos"
+msgstr "Enzolos"
+
+msgid "EvanGamesGoodman"
+msgstr "EvanGamesGoodman"
+
+msgid "FireWizard72X"
+msgstr "FireWizard72X"
+
+msgid "FuLiNT"
+msgstr "FuLiNT"
+
+msgid "gardnaeden"
+msgstr "gardnaeden"
+
+msgid "Gon UT"
+msgstr "Gon UT"
+
+msgid "Green Tea"
+msgstr "Green Tea"
+
+msgid "Huggies!"
+msgstr "Huggies!"
+
+msgid "ilovecookies"
+msgstr "ilovecookies"
+
+msgid "Jago128"
+msgstr "Jago128"
+
+msgid "Joe98912"
+msgstr "Joe98912"
+
+msgid "Jonkler"
+msgstr "Jonkler"
+
+msgid "lil tanski"
+msgstr "lil tanski"
+
+msgid "MR. PETER"
+msgstr "MR. PETER"
+
+msgid "MSBen"
+msgstr "MSBen"
+
+msgid "Murder--Sans_MDR"
+msgstr "Murder--Sans_MDR"
+
+msgid "Nanorasmus"
+msgstr "Nanorasmus"
+
+msgid "NepAnime"
+msgstr "NepAnime"
+
+msgid "Shaun Duz Stuffs"
+msgstr "Shaun Duz Stuffs"
+
+msgid "SHCyank"
+msgstr "SHCyank"
+
+msgid "petar3644"
+msgstr "petar3644"
+
+msgid "PixelToons Jaafar"
+msgstr "PixelToons Jaafar"
+
+msgid "Prezmop"
+msgstr "Prezmop"
+
+msgid "prymus-agd"
+msgstr "prymus-agd"
+
+msgid "Quin"
+msgstr "Quin"
+
+msgid "RadicalRic"
+msgstr "RadicalRic"
+
+msgid "Raelynn"
+msgstr "Raelynn"
+
+msgid "retr22800"
+msgstr "retr22800"
+
+msgid "RoCtD_14159"
+msgstr "RoCtD_14159"
+
+msgid "sonicisawesome222"
+msgstr "sonicisawesome222"
+
+msgid "spaceknife234"
+msgstr "spaceknife234"
+
+msgid "superkippy"
+msgstr "superkippy"
+
+msgid "Teecup"
+msgstr "Teecup"
+
+msgid "Tem in a Cowboy Hat"
+msgstr "Tem in a Cowboy Hat"
+
+msgid "Tenbrooks"
+msgstr "Tenbrooks"
+
+msgid "The Fallen Angel"
+msgstr "The Fallen Angel"
+
+msgid "TheAsriel"
+msgstr "TheAsriel"
+
+msgid "Wild Pasta"
+msgstr "Wild Pasta"
+
+msgid "Xiao_Akatsuki"
+msgstr "Xiao_Akatsuki"
+
+msgid "xNoodlePlayz"
+msgstr "xNoodlePlayz"
+
+msgid "§fill=#ff0§< SPECIAL THANKS >§fill=#fff§"
+msgstr "§fill=#ff0§< BESONDERER DANK >§fill=#fff§"
+
+msgid ""
+"§fill=#808080§For being there for me when I\n"
+"need someone to lean on, and\n"
+"teaching me life lessons that\n"
+"have made me a better person.§fill=#fff§"
+msgstr ""
+"§fill=#808080§Dafür, dass du für mich da warst, wenn ich\n"
+"jemanden zum Anlehnen brauchte, und\n"
+"mir Lektionen fürs Leben beigebracht hast,\n"
+"die mich zu einem besseren Menschen gemacht haben.§fill=#fff§"
+
+msgid ""
+"§fill=#808080§For being one of the friendliest\n"
+"people I know, the first person\n"
+"to believe in my vision, and\n"
+"inspiring me to finish the game.§fill=#fff§"
+msgstr ""
+"§fill=#808080§Dafür, dass du einer der freundlichsten\n"
+"Menschen bist, die ich kenne, der erste Mensch,\n"
+"der an meine Vision glaubt und\n"
+"mich dazu inspiriert hast, das Spiel fertigzustellen.§fill=#fff§"
+
+msgid ""
+"§fill=#808080§For sticking with me at every\n"
+"stage of development, right from\n"
+"the start. Regardless of the era,\n"
+"he's always been there to help.§fill=#fff§"
+msgstr ""
+"§fill=#808080§Dafür, dass er mir in jeder\n"
+"Entwicklungsphase von Anfang an zur Seite stand. Egal in welcher Ära,\n"
+"er war immer da, um mir zu helfen.§fill=#fff§"
+
+msgid ""
+"§fill=#808080§For being a voice of reason when\n"
+"it comes to many aspects of the\n"
+"game, and encouraging me to take\n"
+"testing seriously.§fill=#fff§"
+msgstr ""
+"§fill=#808080§Dafür, dass Sie in\n"
+"vielen Aspekten des Spiels die Stimme der Vernunft sind und mich ermutigt haben,\n"
+"das Testen ernst zu nehmen.§fill=#fff§"
+
+msgid ""
+"§fill=#808080§For being reliable, brutally\n"
+"honest, giving me lots of\n"
+"criticism and ideas, and being\n"
+"trustworthy from the day we met.§fill=#fff§"
+msgstr ""
+"§fill=#808080§Dafür, dass du zuverlässig und schonungslos \n"
+"ehrlich bist, mir viel Kritik und Ideen \n"
+"gibst und vom ersten Tag an \n"
+"vertrauenswürdig bist.§fill=#fff§"
+
+msgid ""
+"§fill=#808080§For helping me write crucial\n"
+"parts of the game, supporting my\n"
+"vision, and helping me express\n"
+"myself in a whole new way.§fill=#fff§"
+msgstr ""
+"§fill=#808080§Dafür, dass Sie mir geholfen haben, entscheidende\n"
+"Teile des Spiels zu schreiben, meine\n"
+"Vision unterstützt haben und mir geholfen haben,\n"
+"mich auf eine ganz neue Art und Weise auszudrücken.§fill=#fff§"
+
+msgid ""
+"§fill=#808080§For being there to help towards\n"
+"the end of development, and\n"
+"ensuring the game's writing\n"
+"reaches its full potential.§fill=#fff§"
+msgstr ""
+"§fill=#808080§Dafür, dass Sie gegen Ende der Entwicklung \n"
+"mitgeholfen haben und dafür gesorgt haben, dass die Texte \n"
+"des Spiels ihr volles Potenzial entfalten.§fill=#fff§"
+
+msgid "Brought to you by §fill=#ff0§The Mavis & Co.§fill=#fff§"
+msgstr "Präsentiert von §fill=#ff0§The Mavis & Co.§fill=#fff§"
+
+msgid "(( CAST ))"
+msgstr "(( CAST ))"
+
+msgid "FROGGIT"
+msgstr "FROGGIT"
+
+msgid ""
+"Pondering\n"
+"Life"
+msgstr ""
+"Nachdenken\n"
+"Über das Leben"
+
+msgid ""
+"Professional\n"
+"Frog"
+msgstr ""
+"Profi\n"
+"Frosch"
+
+msgid ""
+"Pondering\n"
+"Love"
+msgstr ""
+"Pondering\n"
+"Love"
+
+msgid ""
+"Hopping In\n"
+"Fear"
+msgstr ""
+"Hüpfen in \n"
+"Angst"
+
+msgid "FLUTTERLYTE"
+msgstr "FLUTTERLYTE"
+
+msgid ""
+"Learning To\n"
+"Fly"
+msgstr ""
+"Fliegen \n"
+"lernen"
+
+msgid ""
+"Emboldening\n"
+"Aviator"
+msgstr ""
+"Ermutigender \n"
+"Flieger"
+
+msgid ""
+"Searching The\n"
+"Skies"
+msgstr ""
+"Den Himmel\n"
+"durchsuchen"
+
+msgid ""
+"Evasively\n"
+"Maneuvering"
+msgstr ""
+"Ausweichen\n"
+"Manövrieren"
+
+msgid "GELATINI"
+msgstr "GELATINI"
+
+msgid ""
+"Found A New\n"
+"Space Station"
+msgstr ""
+"Eine neue\n"
+"Raumstation gefunden"
+
+msgid ""
+"Backup\n"
+"Dancer"
+msgstr ""
+"Backup\n"
+"Tänzer"
+
+msgid ""
+"Exotic Jelly\n"
+"Dancer"
+msgstr ""
+"Exotische Jelly\n"
+"Tänzerin"
+
+msgid ""
+"Found A New\n"
+"Galaxy"
+msgstr ""
+"Eine neue\n"
+"Galaxie gefunden"
+
+msgid "OCULOUX"
+msgstr "OCULOUX"
+
+msgid ""
+"Slightly\n"
+"Bully-Like"
+msgstr ""
+"Leicht\n"
+"Bully-artig"
+
+msgid ""
+"Reformed\n"
+"Bully"
+msgstr ""
+"Geläuterter\n"
+"Bully"
+
+msgid ""
+"Slightly\n"
+"Flirtatious"
+msgstr ""
+"Leicht\n"
+"kokett"
+
+msgid "SILENTE"
+msgstr "SILENTE"
+
+msgid ""
+"Exceedingly\n"
+"Agreeable"
+msgstr ""
+"Überaus\n"
+"angenehm"
+
+msgid ""
+"Casually\n"
+"Enjoys Life"
+msgstr ""
+"Lässig\n"
+"Genießt das Leben"
+
+msgid ""
+"In Love From\n"
+"Afar"
+msgstr ""
+"Verliebt aus der\n"
+"Ferne"
+
+msgid ""
+"Endangerment\n"
+"Denier"
+msgstr ""
+"Gefährdung\n"
+"Leugner"
+
+msgid "MUSHY"
+msgstr "MUSHY"
+
+msgid "Balgamlı Kedi & ScarletScaledDragon"
+msgstr "Balgamlı Kedi & ScarletScaledDragon"
+
+msgid ""
+"Shooting\n"
+"Blanks"
+msgstr ""
+"Schießen\n"
+"Platzpatronen"
+
+msgid ""
+"Quick-Draw\n"
+"Magician"
+msgstr ""
+"Schnellzieher\n"
+"Zauberer"
+
+msgid ""
+"Gunshot\n"
+"Heart-Throb"
+msgstr ""
+"Gunshot\n"
+"Herzensbrecher"
+
+msgid ""
+"Spraying And\n"
+"Praying"
+msgstr ""
+"Sprühen und\n"
+"Beten"
+
+msgid "LURKSALOT"
+msgstr "LURKSALOT"
+
+msgid ""
+"Keeping To\n"
+"Themselves"
+msgstr ""
+"Unter sich \n"
+"bleiben"
+
+msgid ""
+"Seeking\n"
+"Physical Contact"
+msgstr ""
+"Suche nach\n"
+"Körperkontakt"
+
+msgid ""
+"Stoically\n"
+"Uninvolved"
+msgstr ""
+"Stoisch\n"
+"unbeteiligt"
+
+msgid "STARDRAKE"
+msgstr "STARDRAKE"
+
+msgid ""
+"Still Looking\n"
+"For Laughs"
+msgstr ""
+"Immer noch auf der\n"
+"Suche nach Lachern"
+
+msgid ""
+"Semi-Successful\n"
+"Comedian"
+msgstr ""
+"Halbwegs erfolgreicher\n"
+"Komiker"
+
+msgid ""
+"Popular With The\n"
+"Grown-Ups"
+msgstr ""
+"Beliebt bei den\n"
+"Erwachsenen"
+
+msgid "CHILLDRAKE"
+msgstr "CHILLDRAKE"
+
+msgid ""
+"Still Looking\n"
+"For Supporters"
+msgstr ""
+"Immer noch auf der \n"
+"Suche nach Unterstützern"
+
+msgid ""
+"Gained A Cult\n"
+"Following"
+msgstr ""
+"Eine Kultanhängerschaft\n"
+"gewonnen"
+
+msgid ""
+"Trades Kisses\n"
+"For Supporters"
+msgstr ""
+"Tauscht Küsse gegen\n"
+"Unterstützer aus"
+
+msgid ""
+"Anti-Bullying\n"
+"Activist"
+msgstr ""
+"Anti-Mobbing-\n"
+"Aktivist"
+
+msgid "ASTRO SERF"
+msgstr "ASTRO SERF"
+
+msgid ""
+"Thinking About\n"
+"Its Antenna"
+msgstr ""
+"Nachdenken über\n"
+"die Antenne"
+
+msgid ""
+"Radio Station\n"
+"Sensation"
+msgstr ""
+"Radiosender\n"
+"Sensation"
+
+msgid ""
+"Love Is On\n"
+"The Air"
+msgstr ""
+"Liebe liegt in \n"
+"der Luft"
+
+msgid ""
+"Emergency\n"
+"Broadcaster"
+msgstr ""
+"Notfall-\n"
+"Rundfunk"
+
+msgid "JERRY"
+msgstr "JERRY"
+
+msgid ""
+"Getting Ditched\n"
+"On The Daily"
+msgstr ""
+"Täglich im Stich\n"
+"gelassen werden"
+
+msgid ""
+"Getting Ditched\n"
+"Slightly Less"
+msgstr ""
+"Etwas weniger \n"
+"verlassen werden"
+
+msgid ""
+"On The Road To\n"
+"Redemption"
+msgstr ""
+"Auf dem Weg zur\n"
+"Erlösung"
+
+msgid "WHIZKARAT"
+msgstr "WHIZKARAT"
+
+msgid "Zaxento The Greedy & semi"
+msgstr "Zaxento The Greedy & semi"
+
+msgid ""
+"Having An\n"
+"Identity Crisis"
+msgstr ""
+"Eine Identitätskrise\n"
+"haben"
+
+msgid ""
+"Newest Member Of\n"
+"Mouse Society"
+msgstr ""
+"Neuestes Mitglied der\n"
+"Mouse Society"
+
+msgid ""
+"Getting Frisky\n"
+"With The Mice"
+msgstr ""
+"Mit den Mäusen\n"
+"munter werden"
+
+msgid ""
+"Scurried Back To\n"
+"Cat Society"
+msgstr ""
+"Zurückgehuscht zur\n"
+"Katzengesellschaft"
+
+msgid "DOGGO"
+msgstr "DOGGO"
+
+msgid ""
+"Believes In The\n"
+"Almighty Wrench"
+msgstr ""
+"Glaubt an den Allmächtigen\n"
+"Schraubenschlüssel"
+
+msgid ""
+"Found His Own\n"
+"Seeing-Eye Wolf"
+msgstr ""
+"Fand seinen\n"
+"eigenen Blindenwolf"
+
+msgid ""
+"In Love With His\n"
+"Seeing-Eye Wolf"
+msgstr ""
+"Verliebt in\n"
+"seinen Blindenwolf"
+
+msgid ""
+"Running To His\n"
+"Seeing-Eye Wolf"
+msgstr ""
+"Er rennt zu\n"
+"seinem Blindenwolf"
+
+msgid "CANIS MINOR"
+msgstr "CANIS MINOR"
+
+msgid ""
+"Searching For\n"
+"Affection"
+msgstr ""
+"Auf der Suche\n"
+"nach Zuneigung"
+
+msgid ""
+"Found A Loving\n"
+"Owner"
+msgstr ""
+"Einen liebevollen Besitzer \n"
+"gefunden"
+
+msgid ""
+"Found An Owning\n"
+"Lover"
+msgstr ""
+"Einen besitzenden Liebhaber \n"
+"gefunden"
+
+msgid ""
+"Desperate For\n"
+"Affection"
+msgstr ""
+"Verzweifelt nach \n"
+"Zuneigung"
+
+msgid "DOGAMY & DOGARESSA"
+msgstr "DOGAMY & DOGARESSA"
+
+msgid ""
+"Still Thinking\n"
+"About Fetch"
+msgstr ""
+"Denke immer noch\n"
+"über Fetch nach"
+
+msgid ""
+"Reigning Puppy-Dog\n"
+"Eyes Champions"
+msgstr ""
+"Amtierende \n"
+"Welpenblick-Champions"
+
+msgid ""
+"Caught In Each-\n"
+"Other's Gaze"
+msgstr ""
+"Gefangen in den \n"
+"Blicken des anderen"
+
+msgid ""
+"Defensive Puppy-\n"
+"Dog Eyes Engaged"
+msgstr ""
+"„Defensive Welpen-\n"
+"Blick aktiviert!“"
+
+msgid "CANIS MAJOR"
+msgstr "CANIS MAJOR"
+
+msgid ""
+"Unaware Of\n"
+"Life's Changes"
+msgstr ""
+"Unbewusst über die \n"
+"Veränderungen im Leben"
+
+msgid ""
+"Excited By\n"
+"Life's Changes"
+msgstr ""
+"Aufgeregt durch die\n"
+"Veränderungen des Lebens"
+
+msgid ""
+"Touched By\n"
+"Life's Changes"
+msgstr ""
+"Von den Veränderungen\n"
+"des Lebens berührt"
+
+msgid "SKRUBBINGTON"
+msgstr "SKRUBBINGTON"
+
+msgid ""
+"Only 99.1\n"
+"Percent Clean"
+msgstr ""
+"Nur 99,1\n"
+"Prozent sauber"
+
+msgid ""
+"Power-Washing\n"
+"Powerhouse"
+msgstr ""
+"Hochdruckreiniger-\n"
+"Kraftpaket"
+
+msgid ""
+"Hot Tub\n"
+"Manufacturer"
+msgstr ""
+"Whirlpool\n"
+"Hersteller"
+
+msgid ""
+"Overpowered\n"
+"Pressure Washer"
+msgstr ""
+"Überlasteter\n"
+"Hochdruckreiniger"
+
+msgid "GELATA"
+msgstr "GELATA"
+
+msgid ""
+"Looking For A\n"
+"Baby Sitter"
+msgstr ""
+"Suche einen\n"
+"Baby Sitter"
+
+msgid ""
+"Slime-Powered\n"
+"Barstool"
+msgstr ""
+"Barhocker mit\n"
+"Schleimantrieb"
+
+msgid ""
+"Sexy Sitcom\n"
+"Regular"
+msgstr ""
+"Sexy Sitcom\n"
+"Stammgast"
+
+msgid ""
+"Glorified\n"
+"Wrestling Prop"
+msgstr ""
+"Verherrlichte\n"
+"Wrestling-Requisite"
+
+msgid "RADTILE"
+msgstr "RADTILE"
+
+msgid "Balgamlı Kedi & Zaxento The Greedy"
+msgstr "Balgamlı Kedi & Zaxento The Greedy"
+
+msgid ""
+"Wallowing In\n"
+"Imperfection"
+msgstr ""
+"Sich in der\n"
+"Unvollkommenheit suhlen"
+
+msgid ""
+"Improving His\n"
+"Self-Image"
+msgstr ""
+"Verbesserung seines\n"
+"Selbstbildes"
+
+msgid ""
+"Dating His Own\n"
+"Reflection"
+msgstr ""
+"Mit seinem eigenen\n"
+"Spiegelbild ausgehen"
+
+msgid ""
+"Headed For An\n"
+"Ugly Future"
+msgstr ""
+"Auf dem Weg in eine\n"
+"hässliche Zukunft"
+
+msgid "SHYREN"
+msgstr "SHYREN"
+
+msgid ""
+"Back To Taking\n"
+"Piano Lessons"
+msgstr ""
+"Zurück zum\n"
+"Klavierunterricht"
+
+msgid ""
+"Mettaton's\n"
+"New Lead Singer"
+msgstr ""
+"Mettaton's\n"
+"neuer Leadsänger"
+
+msgid ""
+"In Love With\n"
+"A Ghost"
+msgstr ""
+"Verliebt in\n"
+"einen Geist"
+
+msgid ""
+"Can't Sing Without\n"
+"A Synthesizer"
+msgstr ""
+"Ohne Synthesizer\n"
+"kann ich nicht singen"
+
+msgid "DOGE"
+msgstr "DOGE"
+
+msgid ""
+"Construction Site\n"
+"Drill Sergeant"
+msgstr ""
+"Baustelle\n"
+"Ausbilder"
+
+msgid ""
+"Bought A Lifetime\n"
+"Spa Subscription"
+msgstr ""
+"Habe ein lebenslanges\n"
+"Spa-Abonnement gekauft"
+
+msgid ""
+"Felt Puppy Love\n"
+"For The First Time"
+msgstr ""
+"Zum ersten Mal\n"
+"Welpenliebe gespürt"
+
+msgid "MUFFET"
+msgstr "MUFFET"
+
+msgid ""
+"Looking For Her\n"
+"Next Payout"
+msgstr ""
+"Auf der Suche nach\n"
+"ihrer nächsten Auszahlung"
+
+msgid ""
+"Caring For The\n"
+"Spider Clans"
+msgstr ""
+"Fürsorge für die\n"
+"Spinnenclans"
+
+msgid ""
+"Picnic Date\n"
+"Matchmaker"
+msgstr ""
+"Picknick-Date\n"
+"Kupplerin"
+
+msgid "HOTWIRE"
+msgstr "HOTWIRE"
+
+msgid ""
+"Waiting For The\n"
+"Beat To Drop"
+msgstr ""
+"Warten auf\n"
+"den Beat"
+
+msgid ""
+"Lightning-Fast\n"
+"Rapper"
+msgstr ""
+"Blitzschneller\n"
+"Rapper"
+
+msgid ""
+"Rapper Turned\n"
+"Love Song Writer"
+msgstr ""
+"Vom Rapper zum\n"
+"Liebesliedschreiber"
+
+msgid ""
+"Rap Battling To\n"
+"The Near-Death"
+msgstr ""
+"Rap-Kampf bis\n"
+"zum Tod"
+
+msgid "TSUNDERIDEX"
+msgstr "TSUNDERIDEX"
+
+msgid ""
+"Flying Deeper\n"
+"Into Denial"
+msgstr ""
+"Tiefer fliegen\n"
+"In die Verleugnung"
+
+msgid ""
+"Sneaking Up On\n"
+"You At Warp Speed"
+msgstr ""
+"Schleicht sich mit Warp-\n"
+"Geschwindigkeit an Sie heran"
+
+msgid ""
+"Tsun To Be\n"
+"Your Dere-Dere"
+msgstr ""
+"Tsun soll Ihr\n"
+"Dere-Dere sein"
+
+msgid ""
+"Finally Met\n"
+"Its Match"
+msgstr ""
+"Endlich seinen\n"
+"Meister gefunden"
+
+msgid "PERIGEE"
+msgstr "PERIGEE"
+
+msgid ""
+"Another Day,\n"
+"Another Conflict"
+msgstr ""
+"Ein neuer Tag,\n"
+"ein neuer Konflikt"
+
+msgid ""
+"Interplanetary\n"
+"Ambassador"
+msgstr ""
+"Interplanetarer\n"
+"Botschafter"
+
+msgid ""
+"Encouraging Love\n"
+"In Others"
+msgstr ""
+"Die Liebe in\n"
+"anderen fördern"
+
+msgid ""
+"Showing Kindness\n"
+"Through The Pain"
+msgstr ""
+"Trotz des Schmerzes\n"
+"Freundlichkeit zeigen"
+
+msgid "RG 03 & RG 04"
+msgstr "RG 03 & RG 04"
+
+msgid ""
+"In Search Of\n"
+"Childhood Friends"
+msgstr ""
+"Auf der Suche nach\n"
+"Freunden aus der Kindheit"
+
+msgid ""
+"Use Your\n"
+"Imagination"
+msgstr ""
+"Verwenden Sie\n"
+"Ihre Vorstellungskraft"
+
+msgid ""
+"Please Use Your\n"
+"Imagination"
+msgstr ""
+"Bitte nutzen Sie Ihre\n"
+"Vorstellungskraft"
+
+msgid ""
+"Royal Guard\n"
+"Retirees"
+msgstr ""
+"Königliche Wache\n"
+"Rentner"
+
+msgid "GLYDE"
+msgstr "GLYDE"
+
+msgid ""
+"Not Your Ideal\n"
+"Business Partner"
+msgstr ""
+"Nicht Ihr idealer\n"
+"Geschäftspartner"
+
+msgid ""
+"A Little Less\n"
+"Shady Than Usual"
+msgstr ""
+"Etwas weniger\n"
+"zwielichtig als sonst"
+
+msgid ""
+"Not Your Ideal\n"
+"Bedfellow"
+msgstr ""
+"Nicht Ihr idealer\n"
+"Bettgenosse"
+
+msgid "BURGERPANTS"
+msgstr "BURGERPANTS"
+
+msgid ""
+"Running Hastily\n"
+"At The Life Ahead"
+msgstr ""
+"Hastig dem Leben entgegen-\n"
+"rennen, das vor uns liegt"
+
+msgid ""
+"Looking Forward\n"
+"To The Life Ahead"
+msgstr ""
+"Ich freue mich auf\n"
+"das Leben, das vor mir liegt"
+
+msgid ""
+"Finding Love\n"
+"In The Life Ahead"
+msgstr ""
+"Liebe finden\n"
+"Im kommenden Leben"
+
+msgid "COZMO"
+msgstr "COZMO"
+
+msgid ""
+"Looking For A\n"
+"Dictionary"
+msgstr ""
+"Auf der Suche nach\n"
+"einem Wörterbuch"
+
+msgid ""
+"Famous\n"
+"Magician"
+msgstr ""
+"Berühmter\n"
+"Magier"
+
+msgid ""
+"Found A New Kind\n"
+"Of Magic"
+msgstr ""
+"Eine neue Art von\n"
+"Magie entdeckt"
+
+msgid "TERRESTRIA"
+msgstr "TERRESTRIA"
+
+msgid ""
+"In Search Of\n"
+"The Past"
+msgstr ""
+"Auf der Suche nach\n"
+"der Vergangenheit"
+
+msgid ""
+"Renowned\n"
+"Historian"
+msgstr ""
+"Renommierter\n"
+"Historiker"
+
+msgid ""
+"Has A Crush On\n"
+"The Homeworld"
+msgstr ""
+"Ist in die\n"
+"Heimatwelt verknallt"
+
+msgid "FINAL FROGGIT"
+msgstr "FINAL FROGGIT"
+
+msgid ""
+"Keeping Its\n"
+"Wisdom To Itself"
+msgstr ""
+"SeineWeisheit\n"
+"für sich behalten"
+
+msgid ""
+"Sharing Its\n"
+"Wisdom Openly"
+msgstr ""
+"Seine Weisheit\n"
+"offen teilen"
+
+msgid ""
+"Using Its Wisdom\n"
+"For Love"
+msgstr ""
+"Seine Weisheit für\n"
+"die Liebe nutzen"
+
+msgid ""
+"Using Its Wisdom\n"
+"For Survival"
+msgstr ""
+"Seine Weisheit zum\n"
+"Überleben nutzen"
+
+msgid "FLUTTERKNYTE"
+msgstr "FLUTTERKNYTE"
+
+msgid ""
+"Still Working\n"
+"Every Day"
+msgstr ""
+"Arbeite immer\n"
+"noch jeden Tag"
+
+msgid ""
+"Finally Took\n"
+"A Break"
+msgstr ""
+"Endlich eine\n"
+"Pause gemacht"
+
+msgid ""
+"Looking For Some\n"
+"Private Time"
+msgstr ""
+"Auf der Suche nach\n"
+"etwas Privatsphäre"
+
+msgid ""
+"Working Harder\n"
+"Out Of Fear"
+msgstr ""
+"Aus Angst\n"
+"härter arbeiten"
+
+msgid "EYEWALKER PRIME"
+msgstr "EYEWALKER PRIME"
+
+msgid ""
+"Still A\n"
+"Big Bully"
+msgstr ""
+"Immer noch ein\n"
+"großer Tyrann"
+
+msgid ""
+"Domineering\n"
+"Eye Doctor"
+msgstr ""
+"Dominanter\n"
+"Augenarzt"
+
+msgid ""
+"Domineering\n"
+"Leather Tailor"
+msgstr ""
+"Dominanter\n"
+"Lederschneider"
+
+msgid ""
+"Overthrown By\n"
+"An Oculoux"
+msgstr ""
+"Gestürzt von\n"
+"einem Oculoux"
+
+msgid "SILENCIO"
+msgstr "SILENCIO"
+
+msgid ""
+"Still A\n"
+"Shameless Coward"
+msgstr ""
+"Immer noch ein\n"
+"schamloser Feigling"
+
+msgid ""
+"A Little Less Of\n"
+"A Coward"
+msgstr ""
+"Ein bisschen weniger\n"
+"ein Feigling"
+
+msgid ""
+"In Love With\n"
+"Its Fear"
+msgstr ""
+"Verliebt in\n"
+"seine Angst"
+
+msgid ""
+"Running Faster\n"
+"Than Ever Before"
+msgstr ""
+"Schneller laufen\n"
+"als je zuvor"
+
+msgid "MUSHKETEER"
+msgstr "MUSHKETEER"
+
+msgid "Balgamlı Kedi & Ghostly"
+msgstr "Balgamlı Kedi & Ghostly"
+
+msgid ""
+"One Mushroom\n"
+"Army"
+msgstr "Eine Pilzarmee"
+
+msgid ""
+"Hardened Warrior\n"
+"Seeking Peace"
+msgstr ""
+"Abgehärteter Krieger\n"
+"Auf der Suche nach Frieden"
+
+msgid ""
+"Defeated By The\n"
+"Power Of Love"
+msgstr ""
+"Besiegt durch die\n"
+"Macht der Liebe"
+
+msgid ""
+"Scared\n"
+"Straight"
+msgstr ""
+"Angst\n"
+"Geradewegs"
+
+msgid "PAPYRUS"
+msgstr "PAPYRUS"
+
+msgid "ProctorDorkchop02 & MattSpriteMaster"
+msgstr "ProctorDorkchop02 & MattSpriteMaster"
+
+msgid "SANS"
+msgstr "SANS"
+
+msgid "ProctorDorkchop02 & Fired"
+msgstr "ProctorDorkchop02 & Fired"
+
+msgid "UNDYNE"
+msgstr "UNDYNE"
+
+msgid "ALPHYS"
+msgstr "ALPHYS"
+
+msgid "MEW MEW"
+msgstr "MEW MEW"
+
+msgid "NAPSTABLOOK"
+msgstr "NAPSTABLOOK"
+
+msgid "METTATON"
+msgstr "METTATON"
+
+msgid "TORIEL"
+msgstr "TORIEL"
+
+msgid "ASGORE"
+msgstr "ASGORE"
+
+msgid "MONSTER KID"
+msgstr "MONSTER KID"
+
+msgid "ASRIEL"
+msgstr "ASRIEL"
+
+msgid "Medi0creking & MattSpriteMaster"
+msgstr "Medi0creking & MattSpriteMaster"
+
+msgid "[↑ or ↓] to Select / [Z or ENTER] to Confirm"
+msgstr "[↑ oder ↓] zum Auswählen / [Z oder ENTER] zum Bestätigen"
+
+msgid ""
+"To whom it may concern,\n"
+"\n"
+"This game contains §fill=#ff0§flashing images§fill=#fff§\n"
+"which may be reduced via the\n"
+"§fill=#ff0§settings menu§fill=#fff§.\n"
+"\n"
+msgstr ""
+"An alle, die es betrifft,\n"
+"\n"
+"Dieses Spiel enthält\n"
+"§fill=#ff0§flackernde Bilder§fill=#fff§,\n"
+"die über das\n"
+"§fill=#ff0§Einstellungsmenü reduziert\n"
+"werden können§fill=#fff§.\n"
+
+msgid "§fill=#808080§Press [Z or ENTER] to Continue"
+msgstr ""
+"\n"
+"\n"
+"§fill=#808080§Drücke [Z oder ENTER] zum Fortfahren"
+
+msgid "Quitting"
+msgstr "Beenden"
+
+msgid "Quitting."
+msgstr "Beenden."
+
+msgid "Quitting.."
+msgstr "Beenden.."
+
+msgid "Thank you for playing Outertale."
+msgstr "Vielen Dank, dass du Outertale gespielt hast."
+
+msgid "Working on this project has been an honor,"
+msgstr "An diesem Projekt zu arbeiten, war mir eine Ehre"
+
+msgid "and a pleasure on my part."
+msgstr "und eine Freude."
+
+msgid "When I started this journey, I never"
+msgstr "Als ich diese Reise begann, hätte ich nie gedacht,"
+
+msgid "thought I'd get this far, but here we"
+msgstr "dass ich so weit kommen würde, aber hier sind wir,"
+
+msgid "are anyway, at the end."
+msgstr "am Ende angelangt."
+
+msgid "For me, UNDERTALE was a life-changing"
+msgstr "Für mich war UNDERTALE eine lebensverändernde"
+
+msgid "experience, and one that was very hard to"
+msgstr "Erfahrung, und es fiel mir sehr schwer,"
+
+msgid "let go of after I first played it."
+msgstr "es loszulassen, nachdem ich es zum ersten Mal gespielt hatte."
+
+msgid "So, with OUTERTALE, I wanted to give you"
+msgstr "Mit OUTERTALE wollte ich dir eine weitere Chance geben,"
+
+msgid "another chance to exist in a world like it,"
+msgstr "in einer Welt wie dieser zu existieren,"
+
+msgid "as if it were your first time."
+msgstr "als wäre es dein erstes Mal."
+
+msgid "I hope I've given you that chance."
+msgstr "Ich hoffe, ich habe dir diese Chance gegeben."
+
+msgid "I hope you've come away satisfied with"
+msgstr "Ich hoffe, du bist mit der Zeit, die du in dieser Welt"
+
+msgid "the time you've spent in this world."
+msgstr "verbracht hast, zufrieden."
+
+msgid "No matter what you've done in your life,"
+msgstr "Egal, was du in deinem Leben getan hast,"
+
+msgid "your actions here speak volumes about the"
+msgstr "deine Handlungen hier sprechen Bände darüber,"
+
+msgid "kind of person you really are."
+msgstr "welche Art von Mensch du wirklich bist."
+
+msgid "It's because of you that you got the ending"
+msgstr "Es ist wegen dir, dass du das Ende erreicht hast,"
+
+msgid "you did, and nothing can take that"
+msgstr "das du erlebt hast, und nichts kann dir"
+
+msgid "experience away from you."
+msgstr "diese Erfahrung nehmen."
+
+msgid "Despite your mistakes... you are awesome,"
+msgstr "Trotz deiner Fehler... du bist großartig,"
+
+msgid "and you deserve love and attention."
+msgstr "und du verdienst Liebe und Aufmerksamkeit."
+
+msgid "Remember that, okay?"
+msgstr "Vergiss das nicht, okay?"
+
+msgid "Take care of yourself, \"$(x).\""
+msgstr "Pass auf dich auf, \"$(x).\""
+
+msgid "THE END"
+msgstr "DAS ENDE"
+
+msgid "THE END...?"
+msgstr "DAS ENDE...?"
+
+msgid "Restarting"
+msgstr "Neustart"
+
+msgid "Restarting."
+msgstr "Neustart."
+
+msgid "Restarting.."
+msgstr "Neustart.."
+
+msgid "OUTERTALE"
+msgstr "OUTERTALE"
+
+msgid "OUTERTALE...?"
+msgstr "OUTERTALE...?"
+
+msgid "GAMEPAD SETUP"
+msgstr "GAMEPAD SETUP"
+
+msgid ""
+"Use an input on your gamepad to assign\n"
+"it to the in-game action.\n"
+"\n"
+"Use the input again to confirm, or use\n"
+"other inputs to assign those as well.\n"
+"\n"
+"Press ESC to skip setup."
+msgstr ""
+"\n"
+"Verwende eine Eingabe auf deinem Gamepad, \n"
+"um sie einer Aktion im Spiel zuzuweisen.\n"
+"\n"
+"Verwende dieselbe Eingabe erneut, \n"
+"um zu bestätigen, oder benutze andere \n"
+"Eingaben, um weitere Aktionen zuzuweisen.\n"
+"\n"
+"Drücke ESC, um die Einrichtung zu überspringen."
+
+msgid "Inputs Assigned: $(x)"
+msgstr "Eingaben zugewiesen: $(x)"
+
+msgid "[Z or ENTER] - Confirm"
+msgstr "[Z oder ENTER] - Bestätigen"
+
+msgid "[X or SHIFT] - Cancel"
+msgstr "[X oder SHIFT] - Abbrechen"
+
+msgid "[C or CTRL] - Menu (In-game)"
+msgstr "[C oder STRG] - Menü (Im Spiel)"
+
+msgid "[UP or W] - Move Up"
+msgstr "[↑ oder W] - Nach oben bewegen"
+
+msgid "[LEFT or A] - Move Left"
+msgstr "[← oder A] - Nach links bewegen"
+
+msgid "[DOWN or S] - Move Down"
+msgstr "[↓ oder S] - Nach unten bewegen"
+
+msgid "[RIGHT or D] - Move Right"
+msgstr "[→ oder D] - Nach rechts bewegen"
+
+msgid "[F4] - Fullscreen"
+msgstr "[F4] - Vollbild"
+
+msgid ""
+"Setup complete.\n"
+"Press any button to continue."
+msgstr ""
+"Setup abgeschlossen.\n"
+"Drücke eine beliebige Taste, um fortzufahren."
+
+msgid ""
+"\n"
+"Note: On this platform, the gamepad may\n"
+"not always be able to enter fullscreen."
+msgstr ""
+"\n"
+"Hinweis: Auf dieser Plattform kann der Gamepad\n"
+"möglicherweise nicht immer den\n"
+"Vollbildmodus aktivieren."
+
+msgid ""
+"A gamepad has already been set up.\n"
+"Press any button to continue, or press\n"
+"any button three times in rapid\n"
+"succession to restart setup.\n"
+"\n"
+"Press ESC to skip setup."
+msgstr ""
+"Ein Gamepad wurde bereits eingerichtet.\n"
+"Drücke eine beliebige Taste, um\n"
+"fortzufahren, oder drücke\n"
+"drei Mal schnell hintereinander eine\n"
+"beliebige Taste, um die Einrichtung\n"
+"neu zu starten.\n"
+"\n"
+"Drücke ESC, um die Einrichtung zu überspringen."
+
+msgid "Asriel"
+msgstr "Asriel"
+
+msgid "The Oblivion"
+msgstr "Das Oblivion"
+
+msgid "DISABLED"
+msgstr "DEAKTIVIERT"
+
+msgid "ENABLED"
+msgstr "AKTIVIERT"
+
+msgid "Press [X] to Finish"
+msgstr "Zum Beenden [X] drücken"
+
+msgid "Frisk"
+msgstr "Frisk"
+
+msgid "G"
+msgstr "G"
+
+msgid "\\u221e"
+msgstr "\\u221e"
+
+msgid "[PRESS Z OR ENTER]"
+msgstr "[Z ODER EINGABE DRÜCKEN]"
+
+msgid "LV"
+msgstr "LV"
+
+msgid ""
+"§mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz§aaaaaa§mystify=§"
+msgstr ""
+"§mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz§aaaaaa§mystify=§"
+
+msgid ""
+"{@mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}aaaaaa{@mystify=}"
+msgstr ""
+"{@mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}aaaaaa{@mystify=}"
+
+msgid "{@mystify=abcdefghijklmnopqrstuvwxyz}aaaaaa{@mystify=}"
+msgstr "{@mystify=abcdefghijklmnopqrstuvwxyz}aaaaaa{@mystify=}"
+
+msgid "{@mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZ}aaaaaa{@mystify=}"
+msgstr "{@mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZ}aaaaaa{@mystify=}"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "§fill=#0f0§NOMINAL"
+msgstr "§fill=#0f0§NOMINAL"
+
+msgid "$(x)%"
+msgstr "$(x)%"
+
+msgid "player"
+msgstr "Spieler"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "?"
+msgstr "?"
+
+msgid "XM"
+msgstr "XM"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "INVENTORY"
+msgstr "INVENTAR"
+
+msgid "BOX"
+msgstr "BOX"
+
+msgid "KEYRING"
+msgstr "Schlüssel"
+
+msgid "Is this name correct?"
+msgstr "Ist dieser Name richtig?"
+
+msgid ""
+"A name has already\n"
+"been chosen."
+msgstr ""
+"Ein Name wurde bereits\n"
+"gewählt."
+
+msgid "Go back"
+msgstr "Geh zurück"
+
+msgid "OUTERTALE (c) 2024 SPACEY_432"
+msgstr "OUTERTALE (c) 2024 SPACEY_432"
+
+msgid "* (HP fully restored.)"
+msgstr "* (HP vollständig wiederhergestellt.)"
+
+msgid "* (You recovered $(x) HP.)"
+msgstr "* (Du hast $(x) HP wiederhergestellt.)"
+
+msgid "* (You lost $(x) HP.)"
+msgstr "* (Du hast $(x) HP verloren.)"
+
+msgid "* (HP fully depleted.)"
+msgstr "* (HP vollständig aufgebraucht.)"
+
+msgid "* (You gained $(x) HP.)"
+msgstr "* (Du hast $(x) HP dazugewonnen.)"
+
+msgid "USE"
+msgstr "NUTZE"
+
+msgid "EQUIP"
+msgstr "RÜSTEN"
+
+msgid "INFO"
+msgstr "INFO"
+
+msgid "DROP"
+msgstr "FALLEN"
+
+msgid "Continue"
+msgstr "Fortfahren"
+
+msgid "Observe"
+msgstr "Beobachten"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "True Reset"
+msgstr "Wahres Reset"
+
+msgid "Name the stranded human."
+msgstr "Nenne den gestrandeten Menschen"
+
+msgid "Quit"
+msgstr "Zurück"
+
+msgid "Backspace"
+msgstr "löschen"
+
+msgid "Done"
+msgstr "Fertig"
+
+msgid "§fill=#808080§ [ESC] - Quit / [ENTER] - Done"
+msgstr "§fill=#808080§ [ESC] - Beenden / [ENTER] - Fertig"
+
+msgid "Return"
+msgstr "Zurückkehren"
+
+msgid "File saved."
+msgstr "Datei gespeichert."
+
+msgid "SETTINGS"
+msgstr "EINSTELLUNGEN"
+
+msgid "EXIT"
+msgstr "VERLASSEN"
+
+msgid "-> LANGUAGE & MUSIC"
+msgstr "-> SPRACHE & MUSIK"
+
+msgid "LANGUAGE"
+msgstr "SPRACHE"
+
+msgid "ENGLISH"
+msgstr "DEUTSCH"
+
+msgid "SOUND FX"
+msgstr "SOUNDEFFEKTE"
+
+msgid "MUSIC"
+msgstr "MUSIK"
+
+msgid "FANCY GRAPHICS"
+msgstr "SCHICKE GRAFIKEN"
+
+msgid "-> GAMEPLAY & GRAPHICS"
+msgstr "-> GAMEPLAY & GRAFIK"
+
+msgid "CHARACTER RUNNING"
+msgstr "CHARAKTER LAUFEN"
+
+msgid "COLORED SPRITES"
+msgstr "FARBIGE SPRITES"
+
+msgid "FLASHING IMAGERY"
+msgstr "BLINKENDE BILDER"
+
+msgid "NORMAL"
+msgstr "NORMAL"
+
+msgid "REDUCED"
+msgstr "REDUZIERT"
+
+msgid "MOBILE SETTINGS"
+msgstr "MOBILE EINSTELLUNGEN"
+
+msgid "DEADZONE"
+msgstr "TOTE ZONE"
+
+msgid "OPEN MOD FOLDER"
+msgstr "MOD ORDNER ÖFFNEN"
+
+msgid "RESTART"
+msgstr "NEUSTART"
+
+msgid "GAME BORDER"
+msgstr "SPIELRAND"
+
+msgid "DYNAMIC"
+msgstr "DYNAMISCH"
+
+msgid "SIMPLE"
+msgstr "EINFACH"
+
+msgid "STAR"
+msgstr "STAR"
+
+msgid "OUTLANDS"
+msgstr "OUTLANDS"
+
+msgid "TORIEL HOME"
+msgstr "TORIEL HAUS"
+
+msgid "STARTON"
+msgstr "STARTON"
+
+msgid "FOUNDRY"
+msgstr "FOUNDRY"
+
+msgid "AERIALIS"
+msgstr "AERIALIS"
+
+msgid "REC CENTER"
+msgstr "Freizeitzentrum"
+
+msgid "CORE"
+msgstr "CORE"
+
+msgid "CITADEL"
+msgstr "ZITADELLE"
+
+msgid "ASGORE HOME"
+msgstr "ASGORE HAUS"
+
+msgid "ARCHIVE SIX"
+msgstr "ARCHIV SECHS"
+
+msgid "OUTLANDS (ARCHIVE)"
+msgstr "OUTLANDS (ARCHIV)"
+
+msgid "STARTON (ARCHIVE)"
+msgstr "STARTON (ARCHIV)"
+
+msgid "FOUNDRY (ARCHIVE)"
+msgstr "FOUNDRY (ARCHIV)"
+
+msgid "AERIALIS (ARCHIVE)"
+msgstr "AERIALIS (ARCHIV)"
+
+msgid "ASRIEL BATTLE"
+msgstr "ASRIEL BATTLE"
+
+msgid "NEW WORLD"
+msgstr "NEUE WELT"
+
+msgid "§fill=#808080§(LOCKED)"
+msgstr "§fill=#808080§(GESPERRT)"
+
+msgid "MOBILE CTRLS"
+msgstr "MOBILE STEUERUNGEN"
+
+msgid "CONTROL OPACITY"
+msgstr "TRANSPARENZ EINSTELLEN"
+
+msgid "CONTROL TYPE"
+msgstr "STEUERUNGSTYP"
+
+msgid "ARROW KEY LAYOUT"
+msgstr "PFEILTASTEN-ANORDNUNG"
+
+msgid "INDIV. DIRECT. KEY"
+msgstr "EINZELNE DIREKTE TASTE"
+
+msgid "\\u4dc8 4-KEY"
+msgstr "\\u4dc8 4-KEY"
+
+msgid "\\u4dc9 8-KEY"
+msgstr "\\u4dc9 8-KEY"
+
+msgid "TOLERANCE ANGLE"
+msgstr "TOLERANZ WINKEL"
+
+msgid "LOAD DEFAULT CONFIG"
+msgstr "LADEN DER STANDARDKONFIGURATION"
+
+msgid "ENABLE QUICK SWITCHING"
+msgstr "SCHNELLWECHSEL"
+
+msgid "INVERT BUTTON POSITION"
+msgstr "TASTENPOSITION UMKEHREN"
+
+msgid "--- SELECT PROFILE ---"
+msgstr "--- PROFIL AUSWÄHLEN ---"
+
+msgid "--- GENERAL SETTINGS ---"
+msgstr "--- ALLGEMEINE EINSTELLUNGEN ---"
+
+msgid "--- CONTROL SETTINGS ---"
+msgstr "--- CONTROL-EINSTELLUNGEN ---"
+
+msgid "--- MODIFY BUTTONS ---"
+msgstr "--- TASTEN ÄNDERN ---"
+
+msgid "NEXT PAGE >"
+msgstr "NÄCHSTE SEITE >"
+
+msgid "< PREVIOUS PAGE"
+msgstr "< VORHERIGE SEITE"
+
+msgid "[Z]"
+msgstr "[Z]"
+
+msgid "[X]"
+msgstr "[X]"
+
+msgid "[C]"
+msgstr "[C]"
+
+msgid "[←↑→↓]"
+msgstr "[←↑→↓]"
+
+msgid "[↖↗↘↙]"
+msgstr "[↖↗↘↙]"
+
+msgid "[←]"
+msgstr "[←]"
+
+msgid "[↑]"
+msgstr "[↑]"
+
+msgid "[→]"
+msgstr "[→]"
+
+msgid "[↓]"
+msgstr "[↓]"
+
+msgid "[↖]"
+msgstr "[↖]"
+
+msgid "[↗]"
+msgstr "[↗]"
+
+msgid "[↘]"
+msgstr "[↘]"
+
+msgid "[↙]"
+msgstr "[↙]"
+
+msgid "SHOW FULLSCREEN BUTTON"
+msgstr "Vollbild-Schaltfläche"
+
+msgid "CENTER X POSITION"
+msgstr "MITTE X POSITION"
+
+msgid "CENTER Y POSITION"
+msgstr "MITTE Y POSITION"
+
+msgid "BUTTON SIZE"
+msgstr "TASTENGRÖSSE"
+
+msgid "CIRCLE RADIUS"
+msgstr "KREISRADIEN"
+
+msgid "BUTTON CUSTOMIZE"
+msgstr "TASTE ANPASSEN"
+
+msgid ""
+"§fill=#ffd700§>> §fill=#fff§EDITING: §fill=#00ffff§$(x) §fill=#808080§(Press"
+" [R] to reset)"
+msgstr ""
+"§fill=#ffd700§>> §fill=#fff§BEREITSTELLUNG: §fill=#00ffff§$(x) "
+"§fill=#808080§(Drücke [R], um zurückzusetzen)"
+
+msgid "§fill=#fff§PROGRESS: §fill=#00ffff§($(x)§fill=#fff§/§fill=#00ffff§3)"
+msgstr ""
+"§fill=#fff§FORTSCHRITT: §fill=#00ffff§($(x)§fill=#fff§/§fill=#00ffff§3)"
+
+msgid " [1] Initial Button Placement"
+msgstr " [1] Anfangs Platzierung der Tasten"
+
+msgid " [2] Position Fine-tuning"
+msgstr " [2] Feinabstimmung der Position"
+
+msgid " [3] Button Size Adjustment"
+msgstr " [3] Tasten Größenanpassung"
+
+msgid ""
+"§fill=#00ff00§*** Button Position Setup\n"
+"§fill=#fff§Press [L] (at the top-left corner) \n"
+"to start"
+msgstr ""
+"§fill=#00ff00§*** Tastenposition einrichten  \n"
+"§fill=#fff§Drücke [L] (oben links), um zu starten"
+
+msgid ""
+"§fill=#00ff00§*** Setup Complete \n"
+"§fill=#fff§Now you can set up\n"
+"other buttons"
+msgstr ""
+"§fill=#00ff00§*** Einrichtung abgeschlossen  \n"
+"§fill=#fff§Nun kannst du die anderen Tasten einrichten."
+
+msgid "§fill=#4169e1§--- INSTRUCTION ---"
+msgstr "§fill=#4169e1§--- ANLEITUNG ---"
+
+msgid ""
+"§fill=#fff§* Drag §fill=#00ffff§$(x)§fill=#fff§ to set initial position\n"
+"§fill=#ffd700§* Press [L] §fill=#808080§to confirm placement\n"
+"§fill=#ffd700§* Press [R] §fill=#808080§to recover if button is lost\n"
+"§fill=#808080§Position can be adjusted in the next step"
+msgstr ""
+"§fill=#fff§* Ziehe §fill=#00ffff§$(x)§fill=#fff§, um die Anfangsposition festzulegen  \n"
+"§fill=#ffd700§* Drücke [L] §fill=#808080§, um die Platzierung zu bestätigen  \n"
+"§fill=#ffd700§* Drücke [R] §fill=#808080§, um den Button wiederherzustellen, falls er verloren geht  \n"
+"§fill=#808080§Die Position kann im nächsten Schritt angepasst werden"
+
+msgid ""
+"§fill=#fff§* Use §fill=#ffd700§[UP/DOWN/LEFT/RIGHT]§fill=#fff§ for precise adjustments\n"
+"§fill=#ffd700§* Press [R] §fill=#808080§to restore previous position\n"
+"§fill=#808080§Reference coordinates displayed below\n"
+"§fill=#ffd700§* Press [L] §fill=#808080§to confirm"
+msgstr ""
+"§fill=#fff§* Verwende §fill=#ffd700§[OBEN/UNTEN/LINKS/Rechts]§fill=#fff§ für präzise Anpassungen  \n"
+"§fill=#ffd700§* Drücke [R] §fill=#808080§, um die vorherige Position wiederherzustellen  \n"
+"§fill=#808080§Referenzkoordinaten werden unten angezeigt  \n"
+"§fill=#ffd700§* Drücke [L] §fill=#808080§, um zu bestätigen"
+
+msgid ""
+"§fill=#fff§* Adjust with §fill=#ffd700§[-5] [-1] [+1] [+5]§fill=#fff§ to set size\n"
+"§fill=#ffd700§* Press [R] §fill=#808080§to restore default size\n"
+"§fill=#808080§Current size value shown below\n"
+"§fill=#ffd700§* Press [L] §fill=#808080§to confirm"
+msgstr ""
+"§fill=#fff§* Passen Sie die Größe mit §fill=#ffd700§[-5] [-1] [+1] [+5]§fill=#fff§ an  \n"
+"§fill=#ffd700§* Drücke [R] §fill=#808080§, um die Standardgröße wiederherzustellen  \n"
+"§fill=#808080§Der aktuelle Größenwert wird unten angezeigt  \n"
+"§fill=#ffd700§* Drücke [L] §fill=#808080§, um zu bestätigen"
+
+msgid ""
+"§fill=#4169e1§-> §fill=#fff§POSITION: \n"
+"§fill=#00ffff§X=$(x), Y=$(y)"
+msgstr ""
+"§fill=#4169e1§-> §fill=#fff§POSITION:  \n"
+"§fill=#00ffff§X=$(x), Y=$(y)"
+
+msgid "§fill=#4169e1§-> §fill=#fff§SIZE: §fill=#00ffff§$(x)"
+msgstr "§fill=#4169e1§-> §fill=#fff§GRÖßE: §fill=#00ffff§$(x)"
+
+msgid ""
+"§fill=#ff0§Press [Z]§fill=#808080§ to reset your settings to default.\n"
+"This will discard any custom configurations\n"
+"you currently have and restore the original settings."
+msgstr ""
+"§fill=#ff0§Drücke [Z]§fill=#808080§, um deine Einstellungen auf die Standardwerte zurückzusetzen.  \n"
+"Dies wird alle aktuellen benutzerdefinierten Konfigurationen verwerfen und \n"
+"die ursprünglichen Einstellungen wiederherstellen."
+
+msgid ""
+"§fill=#ff0§Press [Z]§fill=#808080§ to show/hide the configuration buttons.\n"
+"If enabled, five number buttons ([0] - [4]) will display on the left side of the screen.\n"
+"§fill=#fff§These buttons allow you to quickly switch between different configuration options.§fill=#fff§"
+msgstr ""
+"§fill=#ff0§Drücke [Z]§fill=#808080§ um die Konfigurations-Buttons anzuzeigen/zu verbergen.\n"
+"Bei Aktivierung erscheinen fünf Zahlen-Tasten ([0] - [4]) links auf dem Bildschirm.\n"
+"§fill=#fff§Diese Tasten ermöglichen schnelles Wechseln zwischen den Konfigurationsoptionen.§fill=#fff§"
+
+msgid ""
+"§fill=#ff0§Press [Z]§fill=#808080§ to switch between two control options:\n"
+"§fill=#ff0§1. Directional Buttons§fill=#808080§: Traditional arrow keys\n"
+"§fill=#ff0§2. Virtual Joystick§fill=#808080§: Touch-screen friendly control"
+msgstr ""
+"§fill=#ff0§Drücke [Z]§fill=#808080§, um zwischen zwei Steuerungsoptionen zu wechseln:  \n"
+"§fill=#ff0§1. Richtungstasten§fill=#808080§: Klassische Pfeiltasten  \n"
+"§fill=#ff0§2. Virtueller Joystick§fill=#808080§: Touchscreen-freundliche Steuerung"
+
+msgid ""
+"§fill=#ff0§Use LEFT or RIGHT arrows§fill=#808080§ to adjust button transparency.\n"
+"Higher values make buttons more visible, lower values make them more transparent."
+msgstr ""
+"§fill=#ff0§Verwende die PFEILTASTEN LINKS oder RECHTS§fill=#808080§, um die Tasten-Transparenz anzupassen.  \n"
+"Höhere Werte machen die Tasten sichtbarer, niedrigere Werte machen sie durchsichtiger."
+
+msgid ""
+"§fill=#ff0§Press [Z]§fill=#808080§ to toggle diagonal movement.\n"
+"When enabled, holding an arrow key will show\n"
+"§fill=#ff0§two additional arrows§fill=#808080§ for diagonal movement."
+msgstr ""
+"§fill=#ff0§Drücke [Z]§fill=#808080§, um diagonale Bewegungen ein- oder auszuschalten.  \n"
+"Wenn aktiviert, werden beim Halten einer Richtungstaste  \n"
+"§fill=#ff0§zwei zusätzliche Pfeile§fill=#808080§ für diagonale Bewegung angezeigt."
+
+msgid ""
+"§fill=#ff0§Use LEFT or RIGHT arrows§fill=#808080§ to adjust joystick sensitivity.\n"
+"§fill=#fff§The dead zone is the center area where joystick movement isn't detected§fill=#808080§.\n"
+"Larger dead zone = less sensitive controls."
+msgstr ""
+"§fill=#ff0§Benutze die PFEILTASTEN LINKS oder RECHTS§fill=#808080§, um die Joystick-Empfindlichkeit anzupassen.\n"
+"§fill=#fff§Die Totzone ist der zentrale Bereich, in dem Joystickbewegungen nicht erkannt werden§fill=#808080§.\n"
+"Größere Totzone = weniger empfindliche Steuerung."
+
+msgid ""
+"§fill=#ff0§Use LEFT or RIGHT arrows§fill=#808080§ to adjust joystick angle sensitivity.\n"
+"§fill=#fff§This determines how precise your movements need to be§fill=#808080§.\n"
+"Angles over 45° will trigger diagonal movement."
+msgstr ""
+"§fill=#ff0§Verwende die PFEILTASTEN LINKS oder RECHTS§fill=#808080§, um die Winkelempfindlichkeit des Joysticks\n"
+"anzupassen. §fill=#fff§Dies bestimmt, wie präzise deine Bewegungen sein müssen§fill=#808080§.  \n"
+"Winkel über 45° lösen diagonale Bewegungen aus."
+
+msgid ""
+"§fill=#ff0§Press [Z]§fill=#808080§ to toggle the visibility of the\n"
+"§fill=#fff§Fullscreen button§fill=#808080§."
+msgstr ""
+"§fill=#ff0§Drücke [Z]§fill=#808080§ um die Sichtbarkeit der\n"
+"§fill=#fff§Vollbild-Schaltfläche umzuschalten§fill=#808080§."
+
+msgid ""
+"§fill=#ff0§Press [Z]§fill=#808080§ to customize button layout.\n"
+"You can adjust both the §fill=#ff0§size and position§fill=#808080§ of all buttons.\n"
+"A step-by-step guide will help you through the process."
+msgstr ""
+"§fill=#ff0§Drücke [Z]§fill=#808080§, um das Tastenlayout anzupassen.  \n"
+"Du kannst sowohl die §fill=#ff0§Größe als auch die Position§fill=#808080§ aller Tasten ändern.  \n"
+"Ein Schritt-für-Schritt-Leitfaden führt dich durch den Prozess."
+
+msgid ""
+"§fill=#ff0§Press [Z]§fill=#808080§ to enable or disable individual directional key settings.\n"
+"When enabled, you can §fill=#fff§independently set the position \n"
+"and size of each directional key§fill=#808080§ for greater flexibility."
+msgstr ""
+"§fill=#ff0§Drücke [Z]§fill=#808080§, um die individuellen Einstellungen für die Richtungstasten zu aktivieren oder zu deaktivieren.  \n"
+"Wenn aktiviert, kannst du §fill=#fff§die Position und Größe jeder Richtungstaste unabhängig§fill=#808080§ anpassen, um mehr Flexibilität zu bieten."
+
+msgid ""
+"§fill=#ff0§Press [Z]§fill=#808080§ to toggle the §fill=#fff§Invert Button Position§fill=#808080§ feature.\n"
+"When enabled, the layout of virtual navigation buttons will be mirrored left-to-right for better accessibility or personal preference."
+msgstr ""
+"§fill=#ff0§Drücke [Z]§fill=#808080§, um die §fill=#fff§Taste für die Button-Position umkehren§fill=#808080§ umzuschalten.\n"
+"Wenn aktiviert, wird das Layout der virtuellen Navigationstasten für bessere Zugänglichkeit oder persönliche Vorlieben von links nach rechts gespiegelt."
+
+msgid "ITEM"
+msgstr "ITEM"
+
+msgid "STAT"
+msgstr "STAT"
+
+msgid "CELL"
+msgstr "HANDY"
+
+msgid "CONF"
+msgstr "CONF"
+
+msgid "--- Instruction ---"
+msgstr "--- Anweisung ---"
+
+msgid "[Hold ESC] - Restart"
+msgstr "[Drücke ESC] - Neustart"
+
+msgid "When HP is 0, you lose."
+msgstr "Wenn die HP 0 sind, verlierst du."
+
+msgid "Begin Game"
+msgstr "Spiel beginnen"
+
+msgid "AT"
+msgstr "AT"
+
+msgid "DF"
+msgstr "DF"
+
+msgid "GOLD"
+msgstr "GOLD"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid ""
+"§fill=#ff0§Warning:\n"
+"Non-canon\n"
+"timeline."
+msgstr ""
+"§fill=#ff0§Warnung:\n"
+"Nicht\n"
+"kanonische\n"
+"Zeitlinie."
+
+msgid "KILLS"
+msgstr "TÖTET"
+
+msgid "BULLY"
+msgstr "SCHIKANIEREN"
+
+msgid "FLIRT"
+msgstr "FLIRTEN"
+
+msgid "STATUS"
+msgstr "STATUS"
+
+msgid "\"$(x)\""
+msgstr "\"$(x)\""
+
+msgid ""
+"<24>{#p/storyteller}Long ago, two species ruled the solar system: HUMANS and"
+" MONSTERS.{^35}{}"
+msgstr ""
+"<24>{#p/storyteller}Vor langer Zeit herrschten zwei Spezies über das "
+"Sonnensystem: MENSCHEN und MONSTER.{^35}{}"
+
+msgid "<24>As time passed, a war broke out between the two species.{^35}{}"
+msgstr ""
+"<24>Mit der Zeit brach ein Krieg zwischen den beiden Spezies aus.{^35}{}"
+
+msgid ""
+"<24>After the MONSTERS' home planet was destroyed, HUMANS declared "
+"victory.{^35}{}"
+msgstr ""
+"<24>Nachdem der Heimatplanet der MONSTER zerstört worden war, erklärten die "
+"MENSCHEN ihren Sieg.{^35}{}"
+
+msgid ""
+"<24>The remaining MONSTERS were banished to an abandoned outpost.{^35}{}"
+msgstr ""
+"<24>Die verbliebenen MONSTER wurden in einen verlassenen Außenposten "
+"verbannt.{^35}{}"
+
+msgid ""
+"<24>A powerful force field was erected, and the MONSTERS were sealed "
+"in.{^35}{}"
+msgstr ""
+"<24>Ein mächtiges Kraftfeld wurde errichtet, und die MONSTER wurden "
+"eingeschlossen.{^35}{}"
+
+msgid "<24>Many years later.{^8}.{^8}.{^35}{}"
+msgstr "<24>Viele Jahre später.{^8}.{^8}.{^35}{}"
+
+msgid ""
+"<#24>     EBOTT SECTOR     \n"
+"         251X{^35}{}"
+msgstr ""
+"<#24>     EBOTT SECTOR     \n"
+"         251X{^35}{}"
+
+msgid "<24>Tales speak of a place from which spacecraft never return.{^35}{}"
+msgstr ""
+"<24>Es heißt, es gebe einen Ort, von dem Raumschiffe nie "
+"zurückkehren.{^35}{}"
+
+msgid "<24>{^100}{}"
+msgstr "<24>{^100}{}"
+
+msgid "<24>{^35}{}"
+msgstr "<24>{^35}{}"
+
+msgid "Resume Canon Timeline"
+msgstr "Fortsetzen der Haupt-Zeitlinie"
+
+msgid "Start Canon Timeline"
+msgstr "Canon Timeline starten"
+
+msgid "Other Slots"
+msgstr "Weitere Slots"
+
+msgid "Bisect"
+msgstr "  Spalten"
+
+msgid "Delete"
+msgstr "   Löschen"
+
+msgid "[ESC] to Cancel / [ENTER] to Confirm"
+msgstr ""
+"[ESC] zum Abbrechen /\n"
+"[ENTER] zum Bestätigen"
+
+msgid "Press any button on your gamepad to open the keyboard."
+msgstr ""
+"Drücke eine beliebige Taste auf deinem Gamepad, um die Tastatur zu öffnen."
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "Rename"
+msgstr "Umbenen"
+
+msgid "Create New"
+msgstr "Neu erstellen"
+
+msgid "Enter Timeline Name"
+msgstr ""
+"Gib den Namen der\n"
+"Zeitlinie ein."
+
+msgid "Are You Sure?"
+msgstr "Bist du sicher?"
