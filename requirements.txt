@@ -1,0 +1,6 @@
+colored
+opencc-python-reimplemented
+polib
+termcolor
+zhconv
+pathlib
