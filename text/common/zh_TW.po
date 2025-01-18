@@ -10765,7 +10765,7 @@ msgid ""
 msgstr ""
 "<18>{#p/papyrus}{#f/0}喔！喔！\n"
 "快把電話給我！！\n"
-"我要聊!"
+"我要聊！"
 
 msgid ""
 "<25>{#p/undyne}{#f/14}* Be my guest.\n"
