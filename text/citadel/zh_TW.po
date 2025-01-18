@@ -6958,7 +6958,7 @@ msgstr ""
 msgid "<25>{*}{#p/twinkly}{#f/7}* Like I'd ever let you escape so easily."
 msgstr ""
 "<25>{*}{#p/twinkly}{#f/7}* 哎呀呀，真可憐呢，\n"
-"  我的小${name}。\n"
+"  我的小$(name)。\n"
 "* 真以為我好忽悠？"
 
 msgid ""

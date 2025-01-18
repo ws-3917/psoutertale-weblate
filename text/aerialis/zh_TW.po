@@ -18889,8 +18889,8 @@ msgstr ""
 
 msgid "<20>{#p/mettaton}I sure hope you know your multiple- choice..."
 msgstr ""
-"<20>{#p/mettaton}我真的希望你知道\n"
-"你的選擇題... "
+"<20>{#p/mettaton}真想知道你的\n"
+"選擇呢... "
 
 msgid "<20>{#p/mettaton}Oooh, here's a quiz for you."
 msgstr ""
