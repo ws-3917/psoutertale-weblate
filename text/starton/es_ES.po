@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-17 05:44+0000\n"
-"PO-Revision-Date: 2025-01-17 23:49+0000\n"
-"Last-Translator: Ariel_Nicolas <noezaraspe23130718@gmail.com>\n"
+"PO-Revision-Date: 2025-01-19 00:09+0000\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://ws3917.hbms.me/projects/ps-outertale/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
@@ -1461,61 +1461,71 @@ msgid ""
 "<25>{#f/7}* In the meantime, I have to do something that'll be important "
 "later."
 msgstr ""
+"<25>{#f/7}* Mientras tanto, tengo que hacer algo que será importante más "
+"tarde."
 
 msgid "<25>{#f/1}* I'll be back before you know it."
-msgstr ""
+msgstr "<25>{#f/1}* Volveré antes de que te des cuenta."
 
 msgid "<25>{#p/asriel2}{#f/1}* See you around the back of town."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Nos vemos atras de la ciudad."
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* Hee.\n"
 "* Hee.\n"
 "* Hee...."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* Je.\n"
+"* Je.\n"
+"* Je...."
 
 msgid "<25>{#f/10}* ... wait, where's Papyrus?"
-msgstr ""
+msgstr "<25>{#f/10}* ... espera, ¿dónde esta Papyrus?"
 
 msgid "<25>{#f/10}* ..."
 msgstr "<25>{#f/10}* ..."
 
 msgid ""
 "<25>{#f/4}* Golly, $(name), I didn't think you'd kill him THAT quickly."
-msgstr ""
+msgstr "<25>{#f/4}* Vaya, $(name), no pensé que lo matarías TAN rápido."
 
 msgid ""
 "<25>{#f/1}* It's about time that bonehead paid the price for his mercy."
 msgstr ""
+"<25>{#f/1}* Ya era hora de que ese idiota pagara el precio de su piedad."
 
 msgid ""
 "<25>{#f/13}* Golly.\n"
 "* He wanted SO badly to forgive you."
 msgstr ""
+"<25>{#f/13}* Vaya.\n"
+"* Él deseaba TANTO perdonarte."
 
 msgid "<25>{#f/16}* But, let's be honest with ourselves here..."
-msgstr ""
+msgstr "<25>{#f/16}* Pero, seamos honestos con nosotros mismos..."
 
 msgid "<25>{#f/1}* We've got bigger fish to fry."
-msgstr ""
+msgstr "<25>{#f/1}* Tenemos un pez más grande que freír."
 
 msgid ""
 "<25>{#p/asriel2}{#f/13}* Oh well.\n"
 "* The skeleton died for nothing again."
 msgstr ""
+"<25>{#p/asriel2}{#f/13}* Oh bueno.\n"
+"* El esqueleto volvió a morir en vano."
 
 msgid ""
 "<25>{#p/asriel2}{#f/13}* You know, they say the third time's the charm..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/13}* Sabes, dicen que la tercera es la vencida..."
 
 msgid "<25>{#f/16}* Too bad he only ever gets one."
-msgstr ""
+msgstr "<25>{#f/16}* Lástima que él sólo reciba una."
 
 msgid "<25>{#p/asriel2}{#f/6}* That's four times you've killed him now."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Ya son cuatro veces que lo has matado."
 
 msgid "<25>{#f/8}* I'm starting to think you enjoy this..."
-msgstr ""
+msgstr "<25>{#f/8}* Empiezo a pensar que disfrutas esto..."
 
 msgid "<25>{#p/asriel2}{#f/15}* Again...?"
 msgstr "<25>{#p/asriel2}{#f/15}* ¿De nuevo...?"
@@ -1524,38 +1534,42 @@ msgid "<25>{#p/asgore}{#f/1}* ..."
 msgstr "<25>{#p/asgore}{#f/1}* ..."
 
 msgid "<25>{#f/1}* Howdy, Asriel."
-msgstr ""
+msgstr "<25>{#f/1}* Hola, Asriel."
 
 msgid "<25>{#f/2}* ..."
 msgstr "<25>{#f/2}* ..."
 
 msgid "<25>{#f/3}* We need to talk."
-msgstr ""
+msgstr "<25>{#f/3}* Debemos hablar."
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* Talk?\n"
 "* About what?"
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* ¿Hablar?\n"
+"* ¿Sobre qué?"
 
 msgid "<25>{#f/6}* Why are you even here?"
-msgstr ""
+msgstr "<25>{#f/6}* ¿Por qué estás aquí?"
 
 msgid "<25>{#f/7}* You know you'll just die to me anyway."
-msgstr ""
+msgstr "<25>{#f/7}* Sabes que de todas formas te me vas a morir."
 
 msgid "<25>{#f/8}* Speaking of which... {%15}"
-msgstr ""
+msgstr "<25>{#f/8}* Hablando de eso... {%15}"
 
 msgid ""
 "<25>{#p/asriel2}{#f/8}* Talk?\n"
 "* Don't waste my time."
 msgstr ""
+"<25>{#p/asriel2}{#f/8}* ¿Hablar?\n"
+"* No hagas perder mi tiempo."
 
 msgid "<25>{#f/6}* I KNOW you're just using a hologram."
-msgstr ""
+msgstr "<25>{#f/6}* SÉ que sólo estás usando un holograma."
 
 msgid "<25>{|}{#p/asgore}{#f/5}* How did you- {%}"
-msgstr ""
+msgstr "<25>{|}{#p/asgore}{#f/5}* ¿Cómo hiciste- {%}"
 
 msgid "<25>{#p/asriel2}{#f/1}* Hush."
 msgstr ""
@@ -1564,12 +1578,14 @@ msgid ""
 "<25>{#p/asriel2}{#f/8}* Seriously?\n"
 "* A hologram?"
 msgstr ""
+"<25>{#p/asriel2}{#f/8}* ¿En serio?\n"
+"* ¿Un holograma?"
 
 msgid "<25>{#f/6}* I knew you were a coward, but this is a whole new level."
-msgstr ""
+msgstr "<25>{#f/6}* Sabía que eras un cobarde, pero esto es un nivel nuevo."
 
 msgid "<25>{#p/asgore}{#f/1}* Do you not have anything better to do?"
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/1}* ¿No tienes nada mejor que hacer?"
 
 msgid "<25>{#p/asriel2}{#f/8}* ..."
 msgstr "<25>{#p/asriel2}{#f/8}* ..."
@@ -1738,7 +1754,7 @@ msgid "<25>{|}{#p/asriel2}{#f/8}* Actually, it was you we were trying to- {%}"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/7}ENOUGH!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¡¡SUFICIENTE!!"
 
 msgid ""
 "<18>{#f/7}YOU BETRAYED YOUR OWN SOCIETY!\n"
@@ -1799,7 +1815,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/7}WHATEVER!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¡¡¡LO QUE SEA!!!"
 
 msgid "<25>{#p/asriel2}{#f/3}* Howdy."
 msgstr ""
@@ -2355,7 +2371,7 @@ msgid "<25>{#x1}{#p/sans}{#f/2}* maybe you're the one who's irresistible."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/1}REALLY!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}¿¡EN SERIO!?"
 
 msgid "<18>{#x4}{#f/9}NO HUMAN HAS EVER BESTED A PUZZLE BY THE GREAT PAPYRUS!"
 msgstr ""
@@ -2515,7 +2531,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/1}WHAT!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}¿¡QUÉ!?"
 
 msgid "<18>{#f/7}HOW DID YOU MANAGE TO DO THAT!?!?"
 msgstr ""
@@ -2567,7 +2583,7 @@ msgid "<25>{#p/sans}* dang, i didn't know you thought THAT highly of me."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}WHAT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}QUE."
 
 msgid "<25>{|}{#p/sans}* like, if even SHE can't do it, then- {%}"
 msgstr ""
@@ -5168,7 +5184,7 @@ msgid ""
 msgstr ""
 
 msgid "STRONGFISH91"
-msgstr ""
+msgstr "STRONGFISH91"
 
 msgid "YESTERDAY"
 msgstr "AYER"
@@ -5197,7 +5213,7 @@ msgid ""
 msgstr ""
 
 msgid "_Sp4ceAdv3ntur3r_"
-msgstr ""
+msgstr "_Sp4ceAdv3ntur3r_"
 
 msgid ""
 "< Username Update >\n"
@@ -5241,13 +5257,13 @@ msgid "BUT WE'RE"
 msgstr ""
 
 msgid "OFFLINE"
-msgstr ""
+msgstr "DESCONECTADOS"
 
 msgid "LMAO"
-msgstr ""
+msgstr "LOL"
 
 msgid "REFRESH"
-msgstr ""
+msgstr "REINICIAR"
 
 msgid "MESSAGES"
 msgstr "MENSAJES"
@@ -5318,7 +5334,7 @@ msgid "<18>{#p/papyrus}{#f/0}YOU'RE ASKING FOR TROUBLE, HUMAN."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}(SIGH...)"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}(SUSPIRO...)"
 
 msgid "<18>{#p/papyrus}{#f/5}WOWIE, YOU'RE SO EAGER TO DATE..."
 msgstr ""
@@ -5411,7 +5427,7 @@ msgid "<18>{#f/9}\"HANG OUT\" LIKE A PAIR OF VERY COOL FRIENDS!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}READY?"
-msgstr ""
+msgstr "<18>{#p/papyrus}¿LISTO?"
 
 msgid "<18>{#p/papyrus}OKAY, LET'S GO!"
 msgstr ""
@@ -5550,10 +5566,10 @@ msgid "<15>{#f/10}WOULD LIKE TO HANG OUT WITH YOU!"
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/12}R-REALLY???"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/12}¿¿¿E-ENSERIO???"
 
 msgid "<15>{#f/11}WOWIE!!!"
-msgstr ""
+msgstr "<15>{#f/11}¡¡¡WOWIE!!!"
 
 msgid "<15>{#f/24}I GUESS THAT MEANS IT'S TIME FOR STEP THREE..."
 msgstr ""
@@ -5675,7 +5691,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/15}NYEH!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/15}¡NYEH!"
 
 msgid "<15>{#f/15}NYEH HEH HEH!!!"
 msgstr ""
@@ -5708,7 +5724,7 @@ msgid "<15>{#f/20}UNDERNEATH MY REGULAR ONES!!"
 msgstr ""
 
 msgid "<15>{#f/15}BEHOLD!!"
-msgstr ""
+msgstr "<15>{#f/15}¡¡OBSERVA!!"
 
 msgid "<15>{#p/papyrus}{#f/15}WHAT DO YOU THINK OF MY SECRET STYLE?"
 msgstr ""
@@ -5737,7 +5753,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#f/26}THEREFORE..."
-msgstr ""
+msgstr "<15>{#f/26}POR LO TANTO..."
 
 msgid "<15>{#f/15}WHAT YOU JUST SAID IS INVALID!!"
 msgstr ""
@@ -5749,7 +5765,7 @@ msgid "<15>{#f/15}THIS HANGOUT WON'T ESCALATE ANY FURTHER!"
 msgstr ""
 
 msgid "<15>{#f/24}UNLESS..."
-msgstr ""
+msgstr "<15>{#f/24}A MENOS QUE..."
 
 msgid "<15>{#f/20}YOU CAN FIND MY {@fill=#f00}SECRET{@fill=#000}."
 msgstr ""
