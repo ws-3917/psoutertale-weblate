@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-18 04:07+0000\n"
+"PO-Revision-Date: 2025-01-18 04:07+0000\n"
+"Last-Translator: WS-3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://ws3917.site/"
+"projects/project-spacetime/0-systems/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "（你深吸了一口氣。）"
@@ -90,7 +105,7 @@ msgid ""
 "screenshot to developer."
 msgstr ""
 "遊戲出現錯誤！當前版本號：$(x)\n"
-"請截圖傳送給漢化組（QQ：1291934577）。"
+"請截圖傳送給漢化組（QQ：797416533）。"
 
 msgid "CONTROL"
 msgstr "快捷功能"
@@ -619,8 +634,6 @@ msgstr "§fill=#ff0§< 遊戲開發者 >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< 文本編寫 >§fill=#fff§"
