@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-18 04:45+0000\n"
+"PO-Revision-Date: 2025-01-18 04:45+0000\n"
+"Last-Translator: WS-3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://ws3917.site/"
+"projects/project-spacetime/2-starton/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -6584,8 +6599,6 @@ msgstr "哈囉！"
 msgid "SAVE YOURSELVES..."
 msgstr "自求多福吧..."
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr "網路連接失敗..."
@@ -29298,7 +29311,7 @@ msgstr ""
 
 msgid "<25>{#p/undyne}{#f/17}* ... and then, Asgore tasted my cooking."
 msgstr ""
-"­<25>{#p/undyne}{#f/17}* ...直到，\n"
+"<25>{#p/undyne}{#f/17}* ...直到，\n"
 "  Asgore嘗了口我做的菜。"
 
 msgid "<18>{#p/papyrus}{#f/9}MAYBE YOU JUST DIDN'T ADD ENOUGH MARINARA SAUCE!"
