@@ -2438,7 +2438,7 @@ msgid "CHARACTER RUNNING"
 msgstr "按住[X]跑步"
 
 msgid "COLORED SPRITES"
-msgstr "彩色高清立繪"
+msgstr "彩色立繪(未完成)"
 
 msgid "FLASHING IMAGERY"
 msgstr "閃爍畫面"

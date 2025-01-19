@@ -1093,7 +1093,7 @@ msgid "<32>{#p/basic}* It's a sentry station."
 msgstr "<32>{#p/basic}* 一個哨站。"
 
 msgid "<32>{#p/basic}* Just another sentry station for the one and only Sans."
-msgstr "<32>{#p/basic}* 只是Sans唯一的另一個哨站。"
+msgstr "<32>{#p/basic}* 哨站有多個，Sans只有一個。"
 
 msgid "<25>{#p/sans}{#f/0}* so, how was the show?"
 msgstr "<25>{#p/sans}{#f/0}* 所以，節目怎麼樣？"
@@ -19056,7 +19056,7 @@ msgstr ""
 "擺脫桎梏的英雄！ゑ"
 
 msgid "<20>{#p/mettaton}Nobody, that's who!"
-msgstr "<20>{#p/mettaton}誰也沒有！"
+msgstr "<20>{#p/mettaton}誰也不會！"
 
 msgid "<20>{#p/mettaton}Things are blowing up!"
 msgstr ""

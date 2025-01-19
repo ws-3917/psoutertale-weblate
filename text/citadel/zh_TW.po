@@ -5616,12 +5616,12 @@ msgid "<25>{#p/sans}{#f/4}* lv7, huh?"
 msgstr "<25>{#p/sans}{#f/4}* 嗯，lv7？"
 
 msgid "<25>* isn't that what humans call a lucky number?"
-msgstr "<25>* 古人說：「人有七竅。」"
+msgstr ""
+"<25>* 古人說：「人有七竅。」[ADD]<25>{#f/0}* 如果說升一級，通一竅，\n"
+"  那你應該完全開竅了。"
 
 msgid "<25>{#f/0}* well gee, i dunno about you, but..."
-msgstr ""
-"<25>{#f/0}* 如果說升一級，通一竅，\n"
-"  那你應該完全開竅了。"
+msgstr "[DEL]"
 
 msgid ""
 "<25>{#f/3}* i doubt much luck was involved in how you got to this point."
