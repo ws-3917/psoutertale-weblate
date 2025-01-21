@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-21 03:51+0000\n"
-"PO-Revision-Date: 2025-01-21 03:51+0000\n"
-"Last-Translator: braing <3313576509@qq.com>\n"
+"PO-Revision-Date: 2025-01-21 13:51+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://ws3917.site/"
 "projects/project-spacetime/2-starton/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -6599,7 +6597,6 @@ msgstr "哈囉！"
 msgid "SAVE YOURSELVES..."
 msgstr "自求多福吧..."
 
-
 msgid "FAILED TO CONNECT..."
 msgstr "網路連接失敗..."
 
@@ -10923,8 +10920,8 @@ msgstr ""
 
 msgid "<25>{#f/2}* that's short for \"wide- area troposphere framework.\""
 msgstr ""
-"<25>{#f/2}* 那是「脈衝·對流層·反射·\n"
-"  科技」的縮寫。ゐ"
+"<25>{#f/2}* 那是「區域性·逆雷射·脈衝·\n"
+"  對流層」的縮寫。ゐ"
 
 msgid ""
 "<25>{#p/sans}* if the W.T.F. were to drop, the air around us would "
