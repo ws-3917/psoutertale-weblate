@@ -5416,9 +5416,7 @@ msgid "<25>{#p/toriel}{#f/1}* If you need anything while I am away, please..."
 msgstr "<25>{#p/toriel}{#f/1}* 我不在的時候..."
 
 msgid "<25>{#f/0}* Do not hesitate to call me."
-msgstr ""
-"<25>{#f/0}* 如果遇到任何事情...\n"
-"  就給我打電話。"
+msgstr "<25>{#f/0}* 有事的話... 就給我打電話。"
 
 msgid "<26>{#f/23}* And stay out of trouble."
 msgstr "<26>{#f/23}* 還有，別惹麻煩。"
@@ -6476,7 +6474,7 @@ msgid "<25>{#f/0}* Please, make yourself at home!"
 msgstr "<25>{#f/0}* 請四處走走，熟悉下吧！"
 
 msgid "<25>{#p/toriel}{#f/1}* Should you not play at the house instead?"
-msgstr "<25>{#p/toriel}{#f/1}* 你是不是應該在屋裡玩呢？"
+msgstr "<25>{#p/toriel}{#f/1}* 為啥不回屋裡玩呢？"
 
 msgid "<25>{#p/toriel}{#f/9}* Child, it is dangerous to play out here."
 msgstr ""
@@ -6497,7 +6495,7 @@ msgid ""
 "<25>{#p/toriel}{#f/5}* The atmopsheric system is weak here.\n"
 "* You will suffocate."
 msgstr ""
-"<25>{#p/toriel}{#f/5}* 這裡的空氣系統很脆弱。\n"
+"<25>{#p/toriel}{#f/5}* 這裡的空氣太稀薄了。\n"
 "* 你會窒息的。"
 
 msgid "<25>{#p/toriel}{#f/23}* There is really nothing for you to see here."
@@ -6530,7 +6528,7 @@ msgid "<25>{#p/toriel}{#f/17}* ..."
 msgstr "<25>{#p/toriel}{#f/17}* ..."
 
 msgid "<25>{#f/15}* I do not like the game you are playing."
-msgstr "<25>{#f/15}* 我不喜歡你玩這種遊戲。"
+msgstr "<25>{#f/15}* 別鬧了，我要生氣了。"
 
 msgid "<25>{#p/toriel}{#f/1}* Please come back to the house, little one..."
 msgstr "<25>{#p/toriel}{#f/1}* 回屋裡去吧，孩子..."
