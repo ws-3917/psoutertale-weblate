@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-21 03:51+0000\n"
+"PO-Revision-Date: 2025-01-21 03:51+0000\n"
+"Last-Translator: braing <3313576509@qq.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://ws3917.site/"
+"projects/project-spacetime/2-starton/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -6584,8 +6599,6 @@ msgstr "哈囉！"
 msgid "SAVE YOURSELVES..."
 msgstr "自求多福吧..."
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr "網路連接失敗..."
@@ -10906,7 +10919,7 @@ msgid ""
 msgstr ""
 "<25>{#p/sans}* 鑑於你是人類，\n"
 "  你應該從來沒有聽說過\n"
-"  ㄇㄉㄈㄎ這個東西吧。ゐ"
+"  ㄑㄋㄇㄉ這個東西吧。ゐ"
 
 msgid "<25>{#f/2}* that's short for \"wide- area troposphere framework.\""
 msgstr ""
@@ -10917,7 +10930,7 @@ msgid ""
 "<25>{#p/sans}* if the W.T.F. were to drop, the air around us would "
 "disappear."
 msgstr ""
-"<25>{#p/sans}* 如果ㄇㄉㄈㄎ出現問題，\n"
+"<25>{#p/sans}* 如果ㄑㄋㄇㄉ出現問題，\n"
 "  我們周圍的空氣\n"
 "  就會消失不見。ゐ"
 
