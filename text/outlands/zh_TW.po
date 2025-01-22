@@ -9597,7 +9597,7 @@ msgid ""
 "<32>{#p/human}* (The sign describes the qualities of a good relationship.)"
 msgstr ""
 "<32>{#p/human}* （牌子上寫著：\n"
-"  像跟人處得好\n"
+"  想跟人處得好\n"
 "  應該具備哪些品質。）"
 
 msgid ""

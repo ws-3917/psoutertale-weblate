@@ -12017,7 +12017,7 @@ msgstr ""
 msgid "<33>* before the outpost..."
 msgstr ""
 "<33>* 那時，我還沒開蝸牛農場...\n"
-"  怪物們還在固原生活..."
+"  怪物們還在故園生活..."
 
 msgid "<32>* my life on the old homeworld was a quiet one."
 msgstr "<32>* 每天，我平靜地生活著。"
@@ -13000,7 +13000,7 @@ msgstr ""
 
 msgid "<32>* Reading them has always been a guilty pleasure of mine..."
 msgstr ""
-"<32>* 我就可以偷偷遛臨去，\n"
+"<32>* 我就可以偷偷溜進去，\n"
 "  瞟兩眼...\n"
 "* 心裡很慌，但很爽。"
 
