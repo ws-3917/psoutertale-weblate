@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-24 09:51+0000\n"
+"PO-Revision-Date: 2025-01-24 09:51+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://ws3917.site/"
+"projects/project-spacetime/4-aerialis/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
 msgstr ""
@@ -9568,8 +9583,6 @@ msgstr "<25>{#p/asriel2}{#f/8}* 只能換條路走了。"
 msgid "<32>{#p/human}* (Where would you like to go?)"
 msgstr "<32>{#p/human}* （你想去哪裡？）"
 
-msgid ""
-msgstr ""
 
 msgid "Floor L1"
 msgstr "左一層"
@@ -25758,7 +25771,7 @@ msgstr ""
 "你們星火唯粉打字都打不明白的嗎XDゐ"
 
 msgid "im really starting to regret not adding a block function"
-msgstr "真後悔當時忘加拉黑功能了"
+msgstr "真後悔當時忘加屏蔽功能了ゐ"
 
 msgid "gotta go."
 msgstr "我得走了。"
@@ -25815,7 +25828,7 @@ msgstr ""
 msgid "and the whole set just started floating into the sky? OMG YES LMAO"
 msgstr ""
 "就他把一窩子東西整上天那次？\n"
-"喔呦 當然記得www"
+"喔呦 當然記得XDDDゐ"
 
 msgid "pfft, he really thought that would work, huh?"
 msgstr "噗，他當時可是信心滿滿呢。"
@@ -25823,7 +25836,8 @@ msgstr "噗，他當時可是信心滿滿呢。"
 msgid "i remember asgore trying everything he could to hold it down XD"
 msgstr ""
 "asgore擱那使勁夠來夠去的\n"
-"那場面 我記得老清楚了www"
+"有夠ㄎㄧㄤ\n"
+"怎麽可能忘掉XDDDゐ"
 
 msgid ""
 "man what a day\n"
