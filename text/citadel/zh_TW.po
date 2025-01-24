@@ -3749,7 +3749,7 @@ msgstr "<25>{*}（你不想再度迷失自我。）"
 
 msgid "<25>{*}(You thank the one beyond for what they have done...)"
 msgstr ""
-"<25>{*}（你感激很某個人，\n"
+"<25>{*}（你很感激某個人，\n"
 "  感謝那人為你做的一切。）"
 
 msgid "<25>{*}(And ask that you be allowed to carry on.)"
@@ -10444,7 +10444,7 @@ msgid ""
 "* Be good... alright?"
 msgstr ""
 "<25>{#f/10}* ...\n"
-"* 要怪啊... 好嗎？"
+"* 要乖啊... 好嗎？"
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}* Did you seriously come all this way just to see what"

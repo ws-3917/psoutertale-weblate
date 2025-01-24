@@ -14224,9 +14224,9 @@ msgstr "[DEL]"
 
 msgid "<33>{#p/basic}* The rusty wrench strikes again."
 msgstr ""
-"<33>{#p/basic}* 我們只需要\n"
-"  多投擲幾次舊版手，\n"
-"  就能讓狗狗感到快樂。"
+"<33>{#p/basic}* 哇，你可太勤快了，\n"
+"  費這麼些勁還不抵\n"
+"  一扳手來得快呢。"
 
 msgid "<32>{#p/basic}* That's two for two on the rusty wrench method."
 msgstr ""
