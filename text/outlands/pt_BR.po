@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-16 18:51+0000\n"
-"PO-Revision-Date: 2025-01-24 01:49+0000\n"
+"PO-Revision-Date: 2025-01-24 10:49+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/1-outlands/pt_BR/>\n"
@@ -6044,41 +6044,46 @@ msgid "<32>{#p/basic}{#n1}* Careful, it's sweet ;)"
 msgstr "<32>{#p/basic}{#n1}* Cuidado, é bem doce ;)"
 
 msgid "<32>{#p/basic}{#n1}* Not enough money, huh? ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Sem dinheiro, huh? ;)"
 
 msgid ""
 "<32>{#p/basic}* That's alright, lassy ;)\n"
 "* Not everyone can afford the \"premium\" ingredients ;)"
 msgstr ""
+"<32>{#p/basic}* Tá tudo bem, doçura ;)\n"
+"* Nem todo mundo pode comprar os ingredientes \"premium\" ;)"
 
 msgid ""
 "<32>{#p/basic}* That's alright, lassy ;)\n"
 "* Just be sure to come back when you've got some ;)"
 msgstr ""
+"<32>{#p/basic}* Tá tudo bem, doçura ;)\n"
+"* Só tenha certeza de voltar quando tiver um pouco ;)"
 
 msgid "<32>{#p/basic}{#n1}* Maybe you should come back later ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Volte mais tarde ;)"
 
 msgid "<32>{#p/basic}{#n1}* By the way, we're outta stock ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Aliás, estamos fora de estoque ;)"
 
 msgid "<32>* Seems you can't get enough of our stuff ;)"
-msgstr ""
+msgstr "<32>* Parece que você não se cansa de nossas coisas ;)"
 
 msgid "<32>* Say, if- no, when you meet the boss-man... tell him this ;)"
 msgstr ""
+"<32>* Aí, se- não, quando você encontrar o chefão... fala pra ele isso ;)"
 
 msgid "<32>{#p/human}{#n1!}* (Aaron whispered something in your ear.)"
-msgstr ""
+msgstr "<32>{#p/human}{#n1!}* (Aaron te conta algo no ouvido.)"
 
 msgid "<32>{#p/basic}{#n1}* Good luck out there, lassy ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Boa sorte lá fore, doçura ;)"
 
 msgid "<32>{#p/basic}* Later..."
-msgstr ""
+msgstr "<32>{#p/basic}* Até mais..."
 
 msgid "<32>{#p/napstablook}* hey everyone..."
-msgstr ""
+msgstr "<32>{#p/napstablook}* olá todo mundo..."
 
 msgid "<32>* this is a little tune i wrote a while ago..."
 msgstr ""
