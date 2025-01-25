@@ -1235,7 +1235,7 @@ msgstr ""
 msgid "<25>{#f/7}* ... but it doesn't mean I wanted them gone!"
 msgstr ""
 "<25>{#f/7}* ...但這並不意味著\n"
-"  我希望他們消失！"
+"  我希望那傢伙消失！"
 
 msgid "<25>{#p/asriel1}{#f/13}* It's not like $(name) has to go away..."
 msgstr ""

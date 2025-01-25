@@ -2454,7 +2454,7 @@ msgstr ""
 "  往心裡去吧。ゑ"
 
 msgid "<25>{#f/1}* That is all I ask."
-msgstr "<25>{#f/1}* 這我唯一的請求了。ゑ"
+msgstr "<25>{#f/1}* 這是我唯一的請求了。ゑ"
 
 msgid "<25>{#p/kidd}{#f/2}* Woah... he's AMAZING!"
 msgstr "<25>{#p/kidd}{#f/2}* 哇... 他好厲害！ゑ"
@@ -9611,7 +9611,7 @@ msgstr ""
 msgid "<32>{#p/basic}* \"Two star-crossed lovers fall into a digital abyss...\""
 msgstr ""
 "<32>{#p/basic}* 「兩位不幸的戀人\n"
-"  墜入了數字深淵...」"
+"   墜入了數字深淵...」"
 
 msgid "<25>{#p/asriel1}{#f/13}* This thing must be centuries old..."
 msgstr ""

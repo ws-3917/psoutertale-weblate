@@ -1,21 +1,6 @@
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-24 09:51+0000\n"
-"PO-Revision-Date: 2025-01-24 09:51+0000\n"
-"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
-"Language-Team: Chinese (Traditional Han script) <https://ws3917.site/"
-"projects/project-spacetime/6-common/zh_Hant/>\n"
-"Language: zh_TW\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9.2\n"
-
-#
 
 msgid "The player did everything they could..."
 msgstr "那個玩家，已經竭盡全力..."
@@ -494,6 +479,8 @@ msgstr ""
 "<25>{#p/basic}（再次祝賀你！）\n"
 "（拜拜！）"
 
+msgid ""
+msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr "<32>{#s/phone}{#p/event}* 鈴鈴，鈴鈴..."
@@ -14928,7 +14915,7 @@ msgid ""
 msgstr ""
 "<32>* 「第004節 - 電磁群落」\n"
 "* 「第005節 - 空中群落」\n"
-"* 「第005節 - 森林群落」"
+"* 「第006節 - 森林群落」"
 
 msgid ""
 "<32>* \"SECTION 007 - Spired\"\n"
