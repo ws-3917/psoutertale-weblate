@@ -7523,7 +7523,7 @@ msgid ""
 "<25>{#g/alphysCutscene2}* Okay, you know what?\n"
 "* You can keep it."
 msgstr ""
-"<25>{#g/alphysCutscene2}* 好好好，\n"
+"<25>{#g/alphysCutscene2}* 得得得，\n"
 "  給你就是了。"
 
 msgid "<25>{#g/alphysCutscene2}* It's all yours."
@@ -13570,7 +13570,7 @@ msgstr ""
 "  她可以打遍天下無敵手！"
 
 msgid "<32>{#p/basic}{#npc/a}* What's a \"4-D poker?\""
-msgstr "<32>{#p/basic}{#npc/a}* 「四維撲克」是什麼呀？"
+msgstr "<32>{#p/basic}{#npc/a}* 「4D撲克牌」是什麼呀？"
 
 msgid "<32>{#p/basic}{#npc/a}* What's a \"zugzwang?\""
 msgstr "<32>{#p/basic}{#npc/a}* 「迫移局面」是什麼意思啊？"
