@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-26 06:49+0000\n"
-"PO-Revision-Date: 2025-01-26 16:27+0000\n"
+"PO-Revision-Date: 2025-01-26 19:28+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
@@ -1478,665 +1478,774 @@ msgid ""
 "<25>{#g/alphysCutscene1}* Nope!\n"
 "* You're just a..."
 msgstr ""
+"<25>{#g/alphysCutscene1}* Não!\n"
+"* Você só é..."
 
 msgid ""
 "<25>{#g/alphysCutscene2}* A perfect little angel who never did a single "
 "wrong thing."
 msgstr ""
+"<25>{#g/alphysCutscene2}* Um anjo perfeito que não fez uma coisa errada."
 
 msgid "<25>{#f/20}* ..."
-msgstr ""
+msgstr "<25>{#f/20}* ..."
 
 msgid "<25>{#f/10}* A-anyway, you're, like, new to Aerialis, right!?"
-msgstr ""
+msgstr "<25>{#f/10}* De-de toda forma, você é novo em Aerialis, né!?"
 
 msgid "<25>{#g/alphysIDK}* Well, then... y-you..."
-msgstr ""
+msgstr "<25>{#g/alphysIDK}* Bem, então... v-você..."
 
 msgid "<25>{#f/3}* You're g-g-gonna need my help!"
-msgstr ""
+msgstr "<25>{#f/3}* Você vai p-p-precisar da minha ajuda!"
 
 msgid "<25>{#f/5}* 'Cause... like..."
-msgstr ""
+msgstr "<25>{#f/5}* Porque... tipo..."
 
 msgid "<25>{#f/10}* I-it's not really a... \"human friendly\" place."
-msgstr ""
+msgstr "<25>{#f/10}* N-não é um lugar amigável para... humanos."
 
 msgid ""
 "<25>{#f/3}* Deadly traps...\n"
 "* Impossible puzzles...\n"
 "* ... and, uh..."
 msgstr ""
+"<25>{#f/3}* Armadilhas mortais...\n"
+"* Enigmas impossíveis...\n"
+"* ... e, uh..."
 
 msgid "<25>{|}{#g/alphysIDK}* C-crud, what was I going to- {%}"
-msgstr ""
+msgstr "<25>{|}{#g/alphysIDK}* C-crud, o que eu estava indo- {%}"
 
 msgid "<25>{#f/1}* Well, uh, h-hiya!"
-msgstr ""
+msgstr "<25>{#f/1}* Bem, uh, é!"
 
 msgid ""
 "<25>{#f/1}* I'm Dr. Alphys.\n"
 "* Head of the royal science division."
 msgstr ""
+"<25>{#f/1}* Eu sou a Doutora Alphys.\n"
+"* A frente da divisão de ciência real."
 
 msgid "<25>{#f/10}* But, uh, I'm not actually one of the \"bad guys!\""
-msgstr ""
+msgstr "<25>{#f/10}* Mas, uh, eu não sou um dos \"caras malvados!\""
 
 msgid "<25>{#f/17}* Actually, since you left the Outlands, I've been..."
-msgstr ""
+msgstr "<25>{#f/17}* Na verdade, desde que você saiu das Outlands, eu tenho..."
 
 msgid "<25>{#f/5}* Eheh, \"observing\" you through my security consoles."
-msgstr ""
+msgstr "<25>{#f/5}* Eheh, te \"observado\" atrás do meu console de segurança."
 
 msgid ""
 "<25>{#f/8}* Your fights...\n"
 "* Your friendships..."
 msgstr ""
+"<25>{#f/8}* Suas lutas...\n"
+"* Seus amigos..."
 
 msgid "<25>{#f/1}* Everything!"
-msgstr ""
+msgstr "<25>{#f/1}* Tudo!"
 
 msgid "<25>{#f/9}* OH! And my favorite part of all..."
-msgstr ""
+msgstr "<25>{#f/9}* E minha parte favorita..."
 
 msgid "<25>{#f/16}* ... was watching you destroy Sans's cheated h-high score!"
 msgstr ""
+"<25>{#f/16}* ... foi te ver destruir a pontuação do Sans, ele com certeza "
+"t-trapaceou!"
 
 msgid "<25>{#f/12}* So awesome..."
-msgstr ""
+msgstr "<25>{#f/12}* Tão legal..."
 
 msgid "<25>{#f/16}* ... was how you actually won a game o-of electrosnail!"
 msgstr ""
+"<25>{#f/16}* ... foi como você realmente ganhou um jogo de electrosnail!"
 
 msgid ""
 "<25>{#f/16}* ... was how you got through the wall of fire on your first try!"
 msgstr ""
+"<25>{#f/16}* ... foi como você passou da parede de fogo na primeira "
+"tentativa!"
 
 msgid ""
 "<25>{#f/16}* ... was how you beat the number neutralizer puzzle by "
 "y-yourself!"
 msgstr ""
+"<25>{#f/16}* ... foi como você venceu o quebra-cabeça do neutralizador de "
+"números por você!"
 
 msgid "<25>{#f/16}* ... was watching you fight Undyne???"
-msgstr ""
+msgstr "<25>{#f/16}* ... foi te ver lutar a Undyne???"
 
 msgid ""
 "<25>{#f/18}* But, uh, you're gonna need my help to get through Aerialis!"
 msgstr ""
+"<25>{#f/18}* Mas, uh, você vai precisar da minha ajuda se quiser passar por "
+"Aerialis!"
 
 msgid "<25>{#f/8}* Well, h-hiya..."
-msgstr ""
+msgstr "<25>{#f/8}* Bem, é..."
 
 msgid ""
 "<25>{#f/9}* I'm... Dr. Alphys.\n"
 "* Head of the royal science division."
 msgstr ""
+"<25>{#f/9}* Eu sou a... doutora Alphys.\n"
+"* A frente da divisão de ciência real."
 
 msgid "<25>{#f/4}* Ever since you left the Outlands, I've been..."
-msgstr ""
+msgstr "<25>{#f/4}* Desde que você saiu das Outlands eu tenho..."
 
 msgid "<25>{#f/4}* Eheh, \"observing\" you through my security consoles."
 msgstr ""
+"<25>{#f/4}* Eheh, \"observado\" você através do meu console de segurança."
 
 msgid ""
 "<25>{#f/11}* Your fights...\n"
 "* Your friendships..."
 msgstr ""
+"<25>{#f/11}* Suas lutas...\n"
+"* Seus amigos..."
 
 msgid "<25>{#f/11}* ..."
-msgstr ""
+msgstr "<25>{#f/11}* ..."
 
 msgid ""
 "<25>{#f/13}* Even...\n"
 "* Papyrus's d-death..."
 msgstr ""
+"<25>{#f/13}* Até...\n"
+"* A morte do Papyrus..."
 
 msgid "<25>{#f/13}* ... even the deaths of Undyne's ELITE s-squad..."
-msgstr ""
+msgstr "<25>{#f/13}* ... até a morte do esquadrão de ELITE da Undyne..."
 
 msgid "<25>{#f/13}* ... even the deaths of the c-canine unit..."
-msgstr ""
+msgstr "<25>{#f/13}* ... até mesmo a morte da tropa c-canina..."
 
 msgid ""
 "<25>{#f/13}* Even...\n"
 "* Doggo's d-death..."
 msgstr ""
+"<25>{#f/13}* Até...\n"
+"* A morte do Doggo."
 
 msgid ""
 "<25>{#f/13}* Even...\n"
 "* Muffet's d-death..."
 msgstr ""
+"<25>{#f/13}* Até...\n"
+"* A m-morte da Muffet..."
 
 msgid ""
 "<25>{#f/13}* Even...\n"
 "* Doge's d-death..."
 msgstr ""
+"<25>{#f/13}* Até...\n"
+"* A m-morte da Doge..."
 
 msgid ""
 "<25>{#f/13}* Even...\n"
 "* Canis Major's d-death..."
 msgstr ""
+"<25>{#f/13}* Até...\n"
+"* A m-morte do Major Canis..."
 
 msgid ""
 "<25>{#f/13}* Even...\n"
 "* Canis Minor's d-death..."
 msgstr ""
+"<25>{#f/13}* Até...\n"
+"* A m-morte do Minor Canis..."
 
 msgid "<25>{#f/13}* ... even those monsters' d-deaths..."
-msgstr ""
+msgstr "<25>{#f/13}* ... até a morte daqueles m-monstros..."
 
 msgid "<25>{#f/10}* ... but hey, it's not all bad... right?"
-msgstr ""
+msgstr "<25>{#f/10}* ... mas ei, não é de todo mau... ok?"
 
 msgid ""
 "<25>{#g/alphysCutscene2}* You're alive, you made it here in one piece..."
-msgstr ""
+msgstr "<25>{#g/alphysCutscene2}* Você está vivo, chegou até aqui inteirinho..."
 
 msgid "<25>{#f/3}* That has to count for something, right???"
-msgstr ""
+msgstr "<25>{#f/3}* Isso deve contar como alguma coisa, certo???"
 
 msgid "<25>{#g/alphysIDK}* ..."
-msgstr ""
+msgstr "<25>{#g/alphysIDK}* ..."
 
 msgid ""
 "<25>{#g/alphysIDK}* That being said, you're probably gonna need my help in "
 "Aerialis."
 msgstr ""
+"<25>{#g/alphysIDK}* Com isso dito, você provavelmente vai precisar de mim "
+"para passar por Aerialis."
 
 msgid "<25>{#f/15}* Yeah... it's not really a \"human friendly\" place..."
-msgstr ""
+msgstr "<25>{#f/15}* Pois é... não é um lugar muito amigável para humanos..."
 
 msgid ""
 "<25>{#f/17}* Deadly traps...\n"
 "* Impossible puzzles...\n"
 "* Royal guards..."
 msgstr ""
+"<25>{#f/17}* Armadilhas mortais...\n"
+"* Quebra-cabeças impossíveis...\n"
+"* Guardas reais..."
 
 msgid "<25>{|}{#f/15}* Not to mention- {%}"
-msgstr ""
+msgstr "<25>{|}{#f/15}* Sem mencionar- {%}"
 
 msgid "<25>{#g/alphysIDK}* No... no no no no no..."
-msgstr ""
+msgstr "<25>{#g/alphysIDK}* Não... não não não não não..."
 
 msgid "<25>{#f/20}* Mettaton."
-msgstr ""
+msgstr "<25>{#f/20}* Mettaton."
 
 msgid "<25>{#f/20}* Not here... not now..."
-msgstr ""
+msgstr "<25>{#f/20}* Não aqui... não agora..."
 
 msgid "<25>{#f/3}* Eheh..."
-msgstr ""
+msgstr "<25>{#f/3}* Eheh..."
 
 msgid "<25>{#f/23}* Oh god."
-msgstr ""
+msgstr "<25>{#f/23}* Oh meu."
 
 msgid "<25>{#f/11}* Oh no."
-msgstr ""
+msgstr "<25>{#f/11}* Oh não "
 
 msgid "<32>{#p/mettaton}* OHHHH MY!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* OHHHH MY!"
 
 msgid "<32>{#p/mettaton}* OHHHH YES!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* OHHHH YES!"
 
 msgid "<32>{#p/mettaton}* WELCOME, BEAUTIES..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* BEM-VINDAS, LINDEZAS..."
 
 msgid "<32>{#p/mettaton}* TO TODAY'S TALENT SHOW!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* PARA O SHOW DE TALENTO DE HOJE!"
 
 msgid "<32>{#p/mettaton}* YOU KNOW, FOR A SEEMINGLY \"INNOCENT\" HUMAN CHILD..."
 msgstr ""
+"<32>{#p/mettaton}* SABE, PARA UMA APARENTE \"INOCENTE\" CRIANÇA HUMANA..."
 
 msgid "<32>* YOU SURE KNOW HOW TO LAY DOWN THE HURT!"
-msgstr ""
+msgstr "<32>* VOCÊ SABE MUITO BEM COMO MACHUCAR!"
 
 msgid ""
 "<32>* BEING BROADCAST TO YOUR SCREENS NOW IS REAL FOOTAGE OF THEIR "
 "VILLAINOUS ACTS!"
 msgstr ""
+"<32>* SENDO TRANSMITIDO AGORA NA TV IMAGENS REAIS DOS SEUS ATOS \"VILANICOS\""
+"!"
 
 msgid ""
 "<25>{#p/alphys}{#f/2}* M-mettaton, wait!!\n"
 "* What are you..."
 msgstr ""
+"<25>{#p/alphys}{#f/2}* M-mettaton, pera!!\n"
+"* O que você..."
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysGarbo}* Huh?\n"
 "* Did you steal security footage again?"
 msgstr ""
+"<25>{#p/alphys}{#g/alphysGarbo}* Huh?\n"
+"* Você roubou os vídeos da câmera de segurança de novo?"
 
 msgid "<32>{#p/mettaton}* I CAN ALREADY TELL IT'S GONNA BE A GREAT SHOW!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* EU JÁ CONSIGO DIZER QUE VAI SER UM ÓTIMO SHOW!"
 
 msgid "<32>* LET'S GIVE A ROUND OF APPLAUSE TO OUR NEW CONTESTANT..."
-msgstr ""
+msgstr "<32>* VAMOS DAR APLAUSOS AO NOSSO NOVO PARTICIPANTE..."
 
 msgid "<33>* THE ONE AND ONLY HUMAN VISITOR!"
-msgstr ""
+msgstr "<33>* O GRANDE E ÚNICO, HUMANO VISITANTE!"
 
 msgid "<32>{#p/mettaton}* (PLEASE WAIT AS THE AUDIENCE WATCHES THE FOOTAGE.)"
-msgstr ""
+msgstr "<32>{#p/mettaton}* (POR FAVOR ESPERE ENQUANTO A AUDIÊNCIA VÊ AS FOTOS.)"
 
 msgid ""
 "<25>{#p/alphys}{#f/21}* ...\n"
 "* I just can't win."
 msgstr ""
+"<25>{#p/alphys}{#f/21}* ...\n"
+"* Eu só não consigo vencer."
 
 msgid "<26>{#p/alphys}{#g/alphysGarboCenter}* I'll take that as a yes."
-msgstr ""
+msgstr "<26>{#p/alphys}{#g/alphysGarboCenter}* Eu vou entender isso como sim."
 
 msgid ""
 "<32>{#p/mettaton}* ANYWAY, THAT BEING SAID, WE'LL NEED TO GIVE THEM A "
 "MONIKER!"
 msgstr ""
+"<32>{#p/mettaton}* DE QUALQUER FORMA, DITO ISSO, PRECISAREMOS DAR A ELE UM "
+"APELIDO!"
 
 msgid ""
 "<32>{#p/mettaton}* WHEN IT COMES TO VILLAINS, ALL THE GREATS HAVE ONE.\n"
 "* BUT YOU..."
 msgstr ""
+"<32>{#p/mettaton}* QUANDO FALAMOS SOBRE VILÕES, TODOS ELES TEM UM.\n"
+"* MAS VOCÊ..."
 
 msgid ""
 "<32>{#p/mettaton}* FOR A FLIRTATIOUS BULLY LIKE YOU, THERE'S ONLY ONE NAME "
 "THAT FITS!"
 msgstr ""
+"<32>{#p/mettaton}* PARA UM BULLY SAFADO COMO VOCÊ, SÓ TEM UM NOME QUE "
+"COMBINA!"
 
 msgid "<32>{#p/mettaton}* ... $(moniker1u)!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* ... $(moniker1u)!"
 
 msgid ""
 "<32>{#p/mettaton}* WHEN IT COMES TO VILLAINS, ALL THE GREATS HAVE ONE.\n"
 "* SO WHAT'LL IT BE?"
 msgstr ""
+"<32>{#p/mettaton}* QUANDO SE FALAM SOBRE VILÕES, TODOS TEM UM.\n"
+"* ENTÃO, O QUE SERÁ?"
 
 msgid "<32>{#p/mettaton}* NEVER PLAYED BEFORE, GORGEOUS?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* NUNCA BRINCOU ANTES, MARAVILHA?"
 
 msgid "<32>* WELL, IT'S SIMPLE."
-msgstr ""
+msgstr "<32>* BEM, É SIMPLES."
 
 msgid "* (Which name will you choose?)"
-msgstr ""
+msgstr "* (Qual nome você vai escolher?)"
 
 msgid "Yellow Kid"
-msgstr ""
+msgstr "Menor Amarelo"
 
 msgid "Oncoming Storm"
-msgstr ""
+msgstr "Tempestade Chegando"
 
 msgid "Hyper Rage"
-msgstr ""
+msgstr "Super Raivoso"
 
 msgid "Space Invader"
-msgstr ""
+msgstr "Invasor Espacial"
 
 msgid ""
 "<32>{#p/mettaton}* SO, $(moniker2u), LET'S SEE IF YOUR SKILLS ON THE "
 "BATTLEFIELD..."
 msgstr ""
+"<32>{#p/mettaton}* ENTÃO, $(moniker2u), VAMOS VER SE SUAS HABILIDADES NO "
+"CAMPO DE BATALHA..."
 
 msgid ""
 "<32>{#p/mettaton}* $(moniker1u), HUH?\n"
 "* MY, WHAT AN EXCELLENT CHOICE!"
 msgstr ""
+"<32>{#p/mettaton}* $(moniker1u), HUH?\n"
+"* MY, QUE ESCOLHA EXCELENTE!"
 
 msgid ""
 "<32>{#p/mettaton}* WELL, $(moniker2u), LET'S SEE IF YOUR SKILLS ON THE "
 "BATTLEFIELD..."
 msgstr ""
+"<32>{#p/mettaton}* BEM, $(moniker2u), VEREMOS SE SUAS HABILIDADES EM "
+"BATALHA..."
 
 msgid "<32>* IN FACT, THERE'S ONLY ONE RULE!"
-msgstr ""
+msgstr "<32>* NA VERDADE, SÓ TEM UMA REGRA!"
 
 msgid "<32>* PUT ON THE BEST PERFORMANCE OF YOUR LIFE..."
-msgstr ""
+msgstr "<32>* FAÇA A MELHOR PERFORMANCE DA SUA VIDA..."
 
 msgid "<32>{*}{#p/mettaton}* TRANSLATE TO THE STAGE!!!{^20}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/mettaton}* TRADUZIR PARA O PALCO!!!{^20}{%}"
 
 msgid "<32>{*}{#p/mettaton}* OR DIE TRYING!!!{^20}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/mettaton}* OU MORRA TENTANDO!!!{^20}{%}"
 
 msgid "<25>{#p/alphys}{#f/10}* Y... you know what?"
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/10}* Q... quer saber?"
 
 msgid "<25>{#f/10}* You can do whatever you want."
-msgstr ""
+msgstr "<25>{#f/10}* Faça o que quiser."
 
 msgid "<25>{#f/23}* 'Cause... I'm leaving."
-msgstr ""
+msgstr "<25>{#f/23}* Porque... eu estou indo embora."
 
 msgid "<25>{#f/23}* Forever."
-msgstr ""
+msgstr "<25>{#f/23}* Pra sempre."
 
 msgid "<25>{#f/5}* And if you need me for something..."
-msgstr ""
+msgstr "<25>{#f/5}* E se você precisar de mim para alguma coisa..."
 
 msgid "<25>{#f/5}* Well..."
-msgstr ""
+msgstr "<25>{#f/5}* Bem..."
 
 msgid "<25>{|}{#f/16}* Too bad!!!{%}"
-msgstr ""
+msgstr "<25>{|}{#f/16}* Que pena pra você!!!{%}"
 
 msgid "<25>{#p/alphys}{#f/5}* Hey..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/5}* Ei..."
 
 msgid ""
 "<25>{#f/8}* I know that kinda came outta nowhere, but... you were p-pretty "
 "cool."
-msgstr ""
+msgstr "<25>{#f/8}* Eu sei que isso veio do nada, mas... você é b-bem da hora."
 
 msgid "<25>{#f/8}* I know that kinda came outta nowhere, but..."
-msgstr ""
+msgstr "<25>{#f/8}* Eu sei que isso veio do nada, mas..."
 
 msgid "<25>* You handled it p-pretty well."
-msgstr ""
+msgstr "<25>* Você conseguiu aguentar m-muito bem."
 
 msgid "<25>{#f/9}* Anyway, uh, as I was saying, you're gonna need my help."
 msgstr ""
+"<25>{#f/9}* De toda forma, uh, como eu estava dizendo, você vai precisar de "
+"mim."
 
 msgid "<25>{#f/17}* Let's see what you've got on you..."
-msgstr ""
+msgstr "<25>{#f/17}* Vamos ver o que você tem consigo..."
 
 msgid "<25>{#p/alphys}{#f/21}* ..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/21}* ..."
 
 msgid "<25>{#f/21}* What is this."
-msgstr ""
+msgstr "<25>{#f/21}* O que é isso."
 
 msgid "<25>{#f/21}* Who gave you this."
-msgstr ""
+msgstr "<25>{#f/21}* Quem te deu isso???"
 
 msgid "<25>{#f/22}* WHO IS STILL USING TECHNOLOGY LIKE THIS???"
-msgstr ""
+msgstr "<25>{#f/22}* QUEM AINDA USSA TECNOLOGIA ASSIM???"
 
 msgid "<25>{#f/22}* ..."
-msgstr ""
+msgstr "<25>{#f/22}* ..."
 
 msgid "<25>{#f/23}* I'll be right back."
-msgstr ""
+msgstr "<25>{#f/23}* Eu estarei de volta logo."
 
 msgid "<25>{#p/alphys}{#g/alphysCutscene1}* Okay, I got you a new cell phone!"
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysCutscene1}* Aqui, um celular novinho!"
 
 msgid "<25>* It's got a liftgate pass, dimensional boxes..."
-msgstr ""
+msgstr "<25>* Tem um passe para as levitações e caixas dimensionais..."
 
 msgid "<25>{#g/alphysHellYeah}* And your very own OuterNet account!"
-msgstr ""
+msgstr "<25>{#g/alphysHellYeah}* E sua conta na Outernet!"
 
 msgid ""
 "<25>{#g/alphysSmileSweat}* I also made us friends so you can ping me for "
 "help at any time!"
 msgstr ""
+"<25>{#g/alphysSmileSweat}* Eu te adicionei como amigo, assim podemos nos "
+"comunicar caso necessário."
 
 msgid "<25>{#g/alphysUhButHeresTheDeal}* So yeah!!"
-msgstr ""
+msgstr "<25>{#g/alphysUhButHeresTheDeal}* Então, é isso!!"
 
 msgid "<32>{#s/equip}{#p/human}* (You got the upgraded CELL.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Você ganhou um celular atualizado!)"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysWelp}* Sorry, but that thing you were using was a "
 "glorified brick."
 msgstr ""
+"<25>{#p/alphys}{#g/alphysWelp}* Desculpa, mas aquilo que você tinha era uma "
+"relíquia do passado."
 
 msgid ""
 "<25>{#g/alphysSide}* This new phone's got a liftgate pass, dimensional "
 "boxes..."
 msgstr ""
+"<25>{#g/alphysSide}* Este novo te dá acesso aos transportes e caixas "
+"dimensionais."
 
 msgid "<25>{#g/alphysSmileSweat}* And your very own OuterNet account!"
-msgstr ""
+msgstr "<25>{#g/alphysSmileSweat}* E sua conta na Outernet!"
 
 msgid ""
 "<25>{#g/alphysNervousLaugh}* Don't worry, I made us friends so you can ping "
 "me for help if needed."
 msgstr ""
+"<25>{#g/alphysNervousLaugh}* Não se preocupa, coloquei a gente como amigos "
+"caso necessário."
 
 msgid "<25>{#p/alphys}{#g/alphysWelp}* I'll be at my desk."
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysWelp}* Eu estarei no meu computador."
 
 msgid "<32>{#p/basic}{#x1}* You two!{#x3}"
-msgstr ""
+msgstr "<32>{#p/basic}{#x1}* Vocês dois!{#x3}"
 
 msgid "<32>{#p/basic}{#x1}* You there!{#x3}"
-msgstr ""
+msgstr "<32>{#p/basic}{#x1}* Você aí!{#x3}"
 
 msgid "<32>{#p/basic}{#x1}* Hey kid!{#x3}"
-msgstr ""
+msgstr "<32>{#p/basic}{#x1}* Ei criança!{#x3}"
 
 msgid ""
 "<32>{#p/basic}{#x1}* Can you like, tell us why you killed those people?{#x3}"
 msgstr ""
+"<32>{#p/basic}{#x1}* Você poderia nos dizer o motivo de você ter matado "
+"todas aquelas pessoas?{#x3}"
 
 msgid ""
 "<32>{#p/basic}{#x1}* Can you like, help us find the nearest ice cream "
 "stand?{#x3}"
 msgstr ""
+"<32>{#p/basic}{#x1}* Você poderia nos ajudar achar a máquina de sorvete mais "
+"próxima ?{#x3}"
 
 msgid ""
 "<32>{#p/basic}{#x1}* My boyfriend and I... think it's kind of uncool.{#x3}"
 msgstr ""
+"<32>{#p/basic}{#x1}* Meu namorado e eu... pensamos que não é nada legal.{#x3}"
 
 msgid ""
 "<32>{#p/basic}{#x1}* My boyfriend and I have been looking all over the "
 "place!{#x3}"
 msgstr ""
+"<32>{#p/basic}{#x1}* Meu namorado e eu já procuramos por todos os lados!{#x3}"
 
 msgid ""
 "<33>{#p/basic}{#x2}* Damn, bro.\n"
 "* I think we, like, have to kill them and stuff.{#x3}"
 msgstr ""
+"<33>{#p/basic}{#x2}* Caramba, irmão.\n"
+"* Acho que nós, temos, que matar eles e tal.{#x3}"
 
 msgid "<32>{#p/basic}{#x1}* You okay, kid?{#x3}"
-msgstr ""
+msgstr "<32>{#p/basic}{#x1}* Você está bem, criança?{#x3}"
 
 msgid "<32>{#x1}* You're acting, like, pretty weird and stuff...{#x3}"
-msgstr ""
+msgstr "<32>{#x1}* Você está agindo, bem estranho e tals...{#x3}"
 
 msgid ""
 "<32>{#x1}* You know, with the whole \"not talking to us\" thing and "
 "all...{#x3}"
 msgstr ""
+"<32>{#x1}* Você sabe, com toda a parada de \"não conversar com a gente\" e "
+"tals...{#x3}"
 
 msgid "<32>{#x1}* So, uh...{#x3}"
-msgstr ""
+msgstr "<32>{#x1}* Então, uh...{#x3}"
 
 msgid ""
 "<32>{#p/basic}{#x1}* Yeah...\n"
 "* Guess that's kind of our job now, huh?{#x3}"
 msgstr ""
+"<32>{#p/basic}{#x1}* É...\n"
+"* Acho que esse é meio que nosso trabalho agora, certo?{#x3}"
 
 msgid ""
 "<32>{#p/basic}{#x1}* Forget it, bro.\n"
 "* I don't think they even know we're standing here.{#x3}"
 msgstr ""
+"<32>{#p/basic}{#x1}* Esqueça, mano.\n"
+"* Acho que eles nem sabem que estamos aqui.{#x3}"
 
 msgid "<32>{#p/basic}{#x2}* But the ice cream!{#x3}"
-msgstr ""
+msgstr "<32>{#p/basic}{#x2}* Mas o sorvete!{#x3}"
 
 msgid ""
 "<32>{#p/basic}{#x1}* Come on, bro.\n"
 "* We can't stay away from training all day.{#x3}"
 msgstr ""
+"<32>{#p/basic}{#x1}* Vamos, mano.\n"
+"* Não podemos ficar longe do treino o dia inteiro. {#x3}"
 
 msgid "<32>* ..."
-msgstr ""
+msgstr "<32>* ..."
 
 msgid "<32>{#x2}* Yeah, okay.{#x3}"
-msgstr ""
+msgstr "<32>{#x2}* É, tá certo.{#x3}"
 
 msgid "<32>{#p/basic}{#x1}* Well, see ya, I guess...{#x3}"
-msgstr ""
+msgstr "<32>{#p/basic}{#x1}* Te vemos por aí, eu acho...{#x3}"
 
 msgid "<32>{#x2}* We'll let ya know how that ice cream thing goes later!{#x3}"
-msgstr ""
+msgstr "<32>{#x2}* Vamos te avisar sobre a parada do sorvete mais tarde!{#x3}"
 
 msgid "<33>{#p/basic}{#x1}* Bro... we gotta get outta here!{#x3}"
-msgstr ""
+msgstr "<33>{#p/basic}{#x1}* Mano... a gente tem que meter o pé daqui!{#x3}"
 
 msgid "<32>{#x2}* Yeah, like, sorry Undyne!{#x3}"
-msgstr ""
+msgstr "<32>{#x2}* É, tipo, desculpa Undyne!{#x3}"
 
 msgid "<32>{#p/mettaton}* THERE YOU ARE."
-msgstr ""
+msgstr "<32>{#p/mettaton}* AI ESTÁ VOCÊ."
 
 msgid "<32>{#z03}* YOU MAY NOT KNOW ME, BUT I KNOW YOU..."
-msgstr ""
+msgstr "<32>{#z03}* PODES NÃO ME CONHECER, MAS EU TE CONHEÇO..."
 
 msgid ""
 "<32>{#z21}* YOU'RE THE ONE WHO HAD AN ENCOUNTER WITH THE CAPTAIN OF THE "
 "GUARD."
 msgstr ""
+"<32>{#z21}* VOCÊ FOI AQUELE QUE TEVE UM ENCONTRO COM A CAPITÃ DA GUARDA REAL."
 
 msgid "<32>{#z30}* AN ENCOUNTER WHICH ENDED IN THAT CAPTAIN'S DEATH."
-msgstr ""
+msgstr "<32>{#z30}* UM ENCONTRO QUE RESULTOU NA MORTE DA CAPITÃ."
 
 msgid "<32>{#z31}* NOW, PERSONALLY, I'M NOT THE BIGGEST FAN OF UNDYNE."
-msgstr ""
+msgstr "<32>{#z31}* OLHA, EU PESSOALMENTE, NÃO SOU A MAIOR FÃ DA UNDYNE."
 
 msgid "<32>{#z30}* BUT ALPHYS... VERY MUCH WAS."
-msgstr ""
+msgstr "<32>{#z30}* MAS ALPHYS... ELA ERA BASTANTE."
 
 msgid "<32>{#z21}* AND SHE'S TAKING THIS ALL PRETTY HARD."
-msgstr ""
+msgstr "<32>{#z21}* E ELA LEVOU ISSO TUDO PAR AO FUNDO DO CORAÇÃO."
 
 msgid ""
 "<32>{#z21}* I'M NOT SAYING YOU'RE A BAD PERSON, BUT YOUR CHOICES... HURT MY "
 "FRIEND."
 msgstr ""
+"<32>{#z21}* EU NÃO ESTOU DIZENDO QUE VOCÊ É UMA PESSOA RUIM... MAS SUAS "
+"ESCOLHAS FERIRAM MINHA AMIGA."
 
 msgid ""
 "<33>{#z30}* ... LET'S JUST SAY SHE ISN'T GOING TO BE AROUND FOR A WHILE."
-msgstr ""
+msgstr "<33>{#z30}* ... VAMOS SÓ DIZER QUE ELA NÃO ESTARÁ AQUI POR UM TEMPINHO."
 
 msgid ""
 "<32>{#z03}* DON'T WORRY, THOUGH.\n"
 "* IF YOU EVER FEEL LONELY, YOU CAN REST ASSURED..."
 msgstr ""
+"<32>{#z03}* MAS SEM PÂNICO.\n"
+"* SE VOCÊ SENTIR-SE SOZINHO, UMA COISA PODE GARANTIR..."
 
 msgid "<32>{#z02}* I'LL BE WATCHING YOUR EVERY MOVE."
-msgstr ""
+msgstr "<32>{#z02}* EU ESTAREI ASSISTINDO CADA MOVIMENTAÇÃO SUA."
 
 msgid "<32>{#z21}* ..."
-msgstr ""
+msgstr "<32>{#z21}* ..."
 
 msgid "<32>{#z11}* WELL, TOODLES!"
-msgstr ""
+msgstr "<32>{#z11}* BEM, BYE BYE!"
 
 msgid "<32>{#p/mettaton}* THERE YOU ARE, BRAT."
-msgstr ""
+msgstr "<32>{#p/mettaton}* AÍ ESTÁ VOCÊ, RATO."
 
 msgid "<32>{#z21}* ALPHYS AND I WATCHED YOU DO SOME PRETTY BAD THINGS."
-msgstr ""
+msgstr "<32>{#z21}* ALPHYS E EU ESTAVAMOS ASSISTINDO CADA MOVIMENTO SEU."
 
 msgid ""
 "<32>{#z00}* YOU SEE, WE'D UNDERSTAND IF IT WAS JUST A FEW SMALL MISTAKES..."
 msgstr ""
+"<32>{#z00}* ENTENDA, EU E A ALPHYS COMPREENDEMOS ALGUNS PEQUENOS ERROS..."
 
 msgid "<32>* HECK, ALPHYS AND I ARE BIG BELIEVERS IN HUMANS."
-msgstr ""
+msgstr "<32>* POXA, ALPHYS E EU SOMOS GRANDES AMANTES DOS HUMANOS."
 
 msgid "<32>{#z03}* BUT THERE'S ONLY SO MUCH VIOLENCE YOU CAN EXCUSE."
-msgstr ""
+msgstr "<32>{#z03}* MAS EXISTE UM NÍVEL DE VIOLÊNCIA QUE PODE SER TOLERADA."
 
 msgid "<32>{#z21}* ALPHYS... ISN'T GOING TO BE JOINING US FOR TODAY..."
-msgstr ""
+msgstr "<32>{#z21}* ALPHYS... NÃO ESTARÁ CONOSCO HOJE..."
 
 msgid "<32>{#z00}* AFTER WHAT YOU'VE DONE, IT'S PROBABLY FOR THE BEST."
-msgstr ""
+msgstr "<32>{#z00}* APÓS O QUE VOCÊ FEZ, É PROVAVELMENTE PARA O MELHOR."
 
 msgid "<32>{#z21}* TRY NOT TO KILL ANYONE ELSE, WILL YOU?"
-msgstr ""
+msgstr "<32>{#z21}* TENTE NÃO MATAR MAIS NINGUÉM, TUDO BEM?"
 
 msgid "<32>{#z03}* YOU MAY NOT KNOW ME, BUT..."
-msgstr ""
+msgstr "<32>{#z03}* VOCÊ PODE NÃO ME CONHECER, MAS..."
 
 msgid "<32>{#z00}* ..."
-msgstr ""
+msgstr "<32>{#z00}* ..."
 
 msgid ""
 "<32>* LOOK.\n"
 "* I'LL BE HONEST."
 msgstr ""
+"<32>* OLHA.\n"
+"* EU VOU SER HONESTA."
 
 msgid ""
 "<32>{#z11}* I'M TO THE POINT WHERE ALL THIS DEATH YOU TWO HAVE CAUSED JUST "
 "FEELS... NUMB."
 msgstr ""
+"<32>{#z11}* EU CHEGUEI AO PONTO EM QUE TODA ESSA MORTE CAUSADA SÓ É... SEM "
+"SENTIDO."
 
 msgid "<32>{#z00}* BUT THERE'S ONE PERSON I CAN'T GO WITHOUT."
-msgstr ""
+msgstr "<32>{#z00}* MAS EXISTE UMA PESSOA NA QUAL EU NÃO POSSO VIVER."
 
 msgid "<32>* SHE WON'T ANSWER HER PHONE..."
-msgstr ""
+msgstr "<32>* ELA NÃO ATENDE O TELEFONE..."
 
 msgid ""
 "<32>{#z21}* SHE WON'T REPLY TO MY OUTERNET MESSAGES, EVEN THOUGH SHE'S "
 "BLATANTLY ONLINE."
 msgstr ""
+"<32>{#z21}* ELA NÃO RESPONDE AS MINHAS MENSAGENS NA OUTERNET, MESMO QUE "
+"ESCANCARADAMENTE ONLINE."
 
 msgid ""
 "<32>{#z11}* AND, THE THINGS SHE SAID TO ME BEFORE SHE LEFT, JUST MOMENTS "
 "AGO...?"
-msgstr ""
+msgstr "<32>{#z11}* E AS COISAS QUE ELA ME DISSE MOMENTOS ANTES DE SAIR...?"
 
 msgid "<32>{#z00}* HAVE ME VERY CONCERNED."
-msgstr ""
+msgstr "<32>{#z00}* ME DEIXOU BEM PREOCUPADA."
 
 msgid "<32>{|}* SHE WON'T ANSWER HER- {%}"
-msgstr ""
+msgstr "<32>{|}* ELA NÃO RESPONDE SEU- {%}"
 
 msgid ""
 "<25>{#z21}{#p/asriel2}{#f/8}* For your information, SHE is planning to fight"
 " us."
 msgstr ""
+"<25>{#z21}{#p/asriel2}{#f/8}* Para sua informação, ELA está planejando lutar "
+"conosco."
 
 msgid ""
 "<32>{#z00}{#p/mettaton}* UM, EXCUSE ME?\n"
 "* IT'S RUDE TO INTERRUPT PEOPLE WHEN THEY'RE TALKING."
 msgstr ""
+"<32>{#z00}{#p/mettaton}* HUM, COM LICENÇA?\n"
+"* É RUDE INTERROMPER AS PESSOAS QUANDO ELAS ESTÃO FALANDO."
 
 msgid "<32>* HUMAN, IF YOU HAVE ANY SHRED OF DECENCY LEFT..."
-msgstr ""
+msgstr "<32>* HUMANO, SE VOCÊ TEM QUALQUER DECÊNCIA SOBRANDO..."
 
 msgid "<32>* YOU'LL DO WHAT ALPHYS SAID YOU HAD THE POWER TO DO..."
-msgstr ""
+msgstr "<32>* VOCÊ FARÁ O QUE ALPHYS DISSE QUE VOCÊ TEM PODER PARA FAZER E..."
 
 msgid "<32>* AND RESET THE TIMELINE."
-msgstr ""
+msgstr "<32>* RESETAR A LINHA DO TEMPO."
 
 msgid "<32>{#z11}* OTHERWISE, WITH THE WAY YOU'RE GOING RIGHT NOW...?"
-msgstr ""
+msgstr "<32>{#z11}* CASO CONTRÁRIO, DA FORMA NA QUAL VOCÊ ESTÁ INDO AGORA...?"
 
 msgid "<32>{#z02}* YOU'RE IN FOR A BAD TIME."
-msgstr ""
+msgstr "<32>{#z02}* VOCÊ TERÁ UM DIA RUIM."
 
 msgid "<25>{#p/asriel2}{#f/13}* You really think you're a threat to me?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/13}* VOCÊ REALMENTE PENSA QUE É AMEAÇA PARA MIM?"
 
 msgid "<25>{#f/9}* Don't make me LAUGH."
-msgstr ""
+msgstr "<25>{#f/9}* Não me faça RIR."
 
 msgid ""
 "<32>{#p/mettaton}{#z11}* OH, SWEETHEART...\n"
 "* YOU HAVE NO IDEA, DO YOU...?"
 msgstr ""
+"<32>{#p/mettaton}{#z11}* OH, CORAÇÃO...\n"
+"* VOCÊ NÃO TEM NOÇÃO, TEM...?"
 
 msgid "<32>{#z02}* HAHAHA..."
-msgstr ""
+msgstr "<32>{#z02}* HAHAHA..."
 
 msgid "<32>{#z03}* JUST REMEMBER, YOU TWO..."
-msgstr ""
+msgstr "<32>{#z03}* APENAS LEMBREM-SE, VOCÊS DOIS..."
 
 msgid "<32>{#z12}* YOU'VE BEEN WARNED."
-msgstr ""
+msgstr "<32>{#z12}* O AVISO ESTÁ ENTREGUE."
 
 msgid ""
 "<32>{#p/mettaton}{#z11}* NO OFFENSE, SWEETHEART, BUT THAT'S UTTERLY "
 "RIDICULOUS."
 msgstr ""
+"<32>{#p/mettaton}{#z11}* SEM OFENSA, CORAÇÃO, MAS ISSO É A BEIRA DO RIDÍCULO."
 
 msgid "<32>{#z03}* ALPHYS ISN'T A FIGHTER, IN FACT, SHE TOLD ME SO HERSELF."
 msgstr ""
