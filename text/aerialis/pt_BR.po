@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-26 06:49+0000\n"
-"PO-Revision-Date: 2025-01-27 02:15+0000\n"
+"PO-Revision-Date: 2025-01-27 16:29+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
@@ -3047,1435 +3047,1677 @@ msgid "<32>* PERHAPS OUR GUEST IS... MENTALLY UNSTABLE."
 msgstr "<32>* TALVEZ NOSSO CONVIDADO TENHA... UMA MENTE INSTÁVEL."
 
 msgid "<32>* IN WHICH CASE..."
-msgstr ""
+msgstr "<32>* NESSE CASO..."
 
 msgid "<32>* WE'LL HAVE TO CUT THIS EPISODE SHORT!"
-msgstr ""
+msgstr "<32>* TEREMOS QUE FINALIZAR ESTE EPISÓDIO MAIS CEDO!"
 
 msgid "<32>* DON'T WORRY, THOUGH."
-msgstr ""
+msgstr "<32>* MAS NÃO SE PREOCUPEM."
 
 msgid "<32>* OUR NEXT EPISODE WON'T EVEN -REQUIRE- YOU TO BE SANE!"
-msgstr ""
+msgstr "<32>* NOSSO PRÓXIMO EPISÓDIO NÃO IRÁ NECESSITAR SANIDADE!"
 
 msgid "<32>{#p/mettaton}* WELL, THAT'S ALL FOR NOW."
-msgstr ""
+msgstr "<32>{#p/mettaton}* BEM, ISSO É TUDO POR AGORA."
 
 msgid "<32>* JUST KNOW THIS, \"$(moniker2u)...\""
-msgstr ""
+msgstr "<32>* APENAS ISSO AGORA, \"$(moniker2u)...\""
 
 msgid "<32>* THE NEXT TIME WE MEET, SANITY WILL BE THE LEAST OF YOUR WORRIES!"
 msgstr ""
+"<32>* DA PRÓXIMA VEZ QUE NOS VERMOS A SANIDADE SERÁ O MENOR DOS PROBLEMAS!"
 
 msgid "<32>* SO, UNTIL NEXT TIME..."
-msgstr ""
+msgstr "<32>* ENTÃO, ATÉ A PRÓXIMA..."
 
 msgid "<32>* LET US WISH THE HUMAN WELL."
-msgstr ""
+msgstr "<32>* ESPERAMOS QUE O HUMANO FIQUE BEM."
 
 msgid "<32>{#p/basic}* Huh??"
-msgstr ""
+msgstr "<32>{#p/basic}* Huh??"
 
 msgid "<32>* You could've gotten yourself killed right there!"
-msgstr ""
+msgstr "<32>* Você poderia ter sido morto alí mesmo!"
 
 msgid "<32>* ... as if I didn't already know this was all just for show."
-msgstr ""
+msgstr "<32>* ... como se eu já não soubesse que isso é tudo por brincadeira."
 
 msgid "<32>* Doesn't make it any less entertaining, though!"
 msgstr ""
+"<32>* Não faz disso nem um pouco menos de entretenimento, pra ser sincera!"
 
 msgid "<32>{#p/mettaton}* WELL, WELL, WELL..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* HORA, HORA, HORA..."
 
 msgid "<32>* LOOKS LIKE... YOU DIDN'T EVEN MAKE IT HALFWAY THERE?"
-msgstr ""
+msgstr "<32>* PARECE QUE... VOCÊ NÃO CHEGOU NEM NA METADE DO CAMINHO?"
 
 msgid ""
 "<32>* MY MY.\n"
 "* IT SEEMS YOU'RE GOING TO DIE."
 msgstr ""
+"<32>* MY MY.\n"
+"* ACHO QUE VOCÊ IRÁ MORRER."
 
 msgid "<32>* HAHAHA..."
-msgstr ""
+msgstr "<32>* HAHAHA..."
 
 msgid "<32>* ... JUST KIDDING."
-msgstr ""
+msgstr "<32>* ... BRINCADEIRINHA."
 
 msgid "<32>* I NEED YOU IN ONE PIECE FOR THE NEXT EPISODE."
-msgstr ""
+msgstr "<32>* PRECISO DE VOCÊ INTEIRO PARA O PRÓXIMO EPISÓDIO."
 
 msgid "<32>* LOOKS LIKE YOU DIDN'T QUITE MAKE IT, HUH?"
-msgstr ""
+msgstr "<32>* PARECE QUE VOCÊ NÃO CONSEGUIU, HUH?"
 
 msgid ""
 "<32>* BUT HEY.\n"
 "* JUST BECAUSE YOU'RE SUCH A GOOD SPORT, I'LL LET YOU GO."
 msgstr ""
+"<32>* MAS EI.\n"
+"* SÓ PELO ESPÍRITO ESPORTIVO, EU VOU TE DEIXAR IR."
 
 msgid "<32>* THE NEXT TIME WE MEET, THINGS WON'T BE SO EASY FOR YOU!"
 msgstr ""
+"<32>* DA PRÓXIMA VEZ QUE NOS VIRMOS, AS COISAS NÃO SERÃO TÃO AGRADÁVEIS PRA "
+"VOCÊ!"
 
 msgid "<32>* I BID YOU ALL FAREWELL!"
-msgstr ""
+msgstr "<32>* TE DESEJO BOA SORTE!"
 
 msgid "<32>{#p/basic}* That sure was the \"bomb!\""
-msgstr ""
+msgstr "<32>{#p/basic}* Isso com certeza foi uma \"bomba\"!"
 
 msgid "<32>{#p/basic}* I wonder how well you'll do in the next one."
-msgstr ""
+msgstr "<32>{#p/basic}* Me pergunto o quão bem você irá se sair no próximo."
 
 msgid "<32>{#p/basic}* Too bad you couldn't make it to the end in time."
-msgstr ""
+msgstr "<32>{#p/basic}* Que triste você não conseguir chegar no final a tempo."
 
 msgid "<32>* IT SEEMS YOU'VE MADE IT JUST IN TIME."
-msgstr ""
+msgstr "<32>* VOCÊ CHEGOU A TEMPO!"
 
 msgid ""
 "<32>* CONGRATULATIONS!\n"
 "* YOU DON'T COMPLETELY SUCK."
 msgstr ""
+"<32>* PARABÉNS!\n"
+"* VOCÊ NÃO É UMA COMPLETA DECEPÇÃO."
 
 msgid ""
 "<32>{#p/mettaton}* WOW!\n"
 "* A PHOTO FINISH!"
 msgstr ""
+"<32>{#p/mettaton}* UAU!\n"
+"* UM FINAL FOTOGÊNICO!"
 
 msgid "<32>* YOU'RE A LUCKY ONE, DARLING."
-msgstr ""
+msgstr "<32>* VOCÊ É BEM SORTUDO, GRACINHA."
 
 msgid "<32>* JUST A FEW MOMENTS MORE, AND YOU'D BE TOAST!"
-msgstr ""
+msgstr "<32>* SÓ MAIS ALGUNS MOMENTOS E VOCÊ TERIA TOSTADO!"
 
 msgid ""
 "<32>{#p/mettaton}* WELL, I'D LOVE TO KEEP GOING, BUT I -AM- ON A BIT OF A "
 "SCHEDULE HERE."
 msgstr ""
+"<32>{#p/mettaton}* OLHA, EU AMARIA CONTINUAR, MAS EU -ESTOU- MEIO QUE EM UM "
+"IMPASSE AQUI."
 
 msgid "<32>* THE NEXT TIME WE MEET, TIME WILL -NOT- BE ON YOUR SIDE!"
-msgstr ""
+msgstr "<32>* DA PRÓXIMA VEZ QUE NÓS VIRMOS O TEMPO -NÃO- ESTARÁ A SEU FAVOR!"
 
 msgid "<25>{#p/alphys}{#g/alphysCutscene1}* You did it!!"
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysCutscene1}* Você conseguiu!"
 
 msgid "<25>{#g/alphysCutscene2}* ..."
-msgstr ""
+msgstr "<25>{#g/alphysCutscene2}* ..."
 
 msgid "<25>{#g/alphysUhButHeresTheDeal}* I guess I should've expected that."
 msgstr ""
+"<25>{#g/alphysUhButHeresTheDeal}* Eu acho que já deveria ter esperado isso."
 
 msgid "<25>{#g/alphysSmileSweat}* I guess... you did it??"
-msgstr ""
+msgstr "<25>{#g/alphysSmileSweat}* Eu acho... que você conseguiu??"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysCutscene1}* Yeah!\n"
 "* You did it!!"
 msgstr ""
+"<25>{#p/alphys}{#g/alphysCutscene1}* É!\n"
+"* Você conseguiu!!"
 
 msgid "<25>{#p/alphys}{#g/alphysCutscene3}* ..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysCutscene3}* ..."
 
 msgid "<25>{#g/alphysFR}* You have a death wish."
-msgstr ""
+msgstr "<25>{#g/alphysFR}* Você quase foi morto."
 
 msgid "<32>{#p/mettaton}* I SEE YOU'VE ARRIVED ON SET."
-msgstr ""
+msgstr "<32>{#p/mettaton}* VEJO QUE VOCÊ CHEGOU AO PALCO."
 
 msgid "<32>* SMILE FOR THE CAMERAS, HOTSHOTS..."
-msgstr ""
+msgstr "<32>* DÊ UM SORRISO PARA A CÂMERA, QUERIDO..."
 
 msgid "<32>* BECAUSE YOU'RE ON LIVE TV!"
-msgstr ""
+msgstr "<32>* PORQUE VOCÊ ESTÁ NA TV AO VIVO!"
 
 msgid "<32>* IT'S A TRUE SHAME I CAN'T BE THERE IN PERSON, BUT HEY..."
-msgstr ""
+msgstr "<32>* É UMA TRISTEZA QUE EU NÃO POSSA ESTAR AÍ EM PESSOA, MAS..."
 
 msgid "<32>* THAT -IS- HOW IT TENDS TO GO THESE DAYS, ISN'T IT?"
-msgstr ""
+msgstr "<32>* É ASSIM QUE AS -COISAS- TENDEM A IR NOS DIAS ATUAIS, CORRETO?"
 
 msgid ""
 "<32>* ANYWAY. THE SMALL AUDIENCE WE HAVE LEFT IS GOING TO ENJOY WATCHING YOU"
 " STRUGGLE."
 msgstr ""
+"<32>* DE TODA FORMA, A PEQUENA AUDIÊNCIA QUE NOS RESTA IRÁ APRECIAR VÊ-LOS "
+"SOFRER."
 
 msgid ""
 "<32>* HOW WILL YOU GET ACROSS THE GAP WITH NO JETPACK?\n"
 "* OH, IF ONLY I KNEW..."
 msgstr ""
+"<32>* COMO VOCÊ PASSARÁ PELO ABISMO SEM UMA MOCHILA A JATO?\n"
+"* AH, SE EU TIVESSE A RESPOSTA..."
 
 msgid "<32>* WELL, BEST OF LUCK!"
-msgstr ""
+msgstr "<32>* BOA SORTE!"
 
 msgid ""
 "<25>{#p/asriel2}{#f/8}* Really?\n"
 "* \"Best of luck?\""
 msgstr ""
+"<25>{#p/asriel2}{#f/8}* Sério?\n"
+"* \"Boa sorte?\""
 
 msgid "<25>{#f/6}* Be careful what you wish for, dolt."
-msgstr ""
+msgstr "<25>{#f/6}* Cuidado com o que você deseja, robô."
 
 msgid "<25>{#f/7}* There's a liftgate straight ahead of us."
-msgstr ""
+msgstr "<25>{#f/7}* Tem um portal de levitação bem na nossa frente."
 
 msgid ""
 "<32>{#p/basic}* Ah, there you are...\n"
 "* I thought you might show up..."
 msgstr ""
+"<32>{#p/basic}* Ah, aí está você.\n"
+"* Imaginei que você apareceria..."
 
 msgid "<32>* This liftgate was placed here to help the others evacuate."
 msgstr ""
+"<32>* Este portal de levitação foi colocado aqui para ajudar outros a "
+"evacuar."
 
 msgid ""
 "<32>* Now that they have, though, I'm afraid I can't let anyone else "
 "through."
 msgstr ""
+"<32>* Mas agora que eles já foram, acredito que não possa deixar mais "
+"ninguém passar."
 
 msgid "<32>{|}* So, if you could just- {%}"
-msgstr ""
+msgstr "<32>{|}* Então, se você puder só- {%}"
 
 msgid "<25>{#p/asriel2}{#f/6}* Stay out of our way."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Sai do nosso caminho."
 
 msgid ""
 "<32>{#p/basic}* Ah...!\n"
 "* I don't think...\n"
 "* I can really do that..."
 msgstr ""
+"<32>{#p/basic}* Ah...!\n"
+"* Eu não acho...\n"
+"* Que eu possa realmente fazer isso..."
 
 msgid ""
 "<32>{#p/basic}* I-I mean...\n"
 "* I could make an exception..."
 msgstr ""
+"<32>{#p/basic}* Quer d-dizer...\n"
+"* Eu posso abrir uma exceção..."
 
 msgid "<32>* Just... don't tell the boss..."
-msgstr ""
+msgstr "<32>* Só... não conta para o chefe..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* Oh?\n"
 "* So you ARE going to let us through?"
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* Oh?\n"
+"* Então você vai deixar a gente passar?"
 
 msgid "<25>{#f/1}* Good."
-msgstr ""
+msgstr "<25>{#f/1}* Bom pra você."
 
 msgid ""
 "<32>{#p/basic}* ... y-yeah!\n"
 "* O-of course I'll let you through!"
 msgstr ""
+"<32>{#p/basic}* ... é!\n"
+"* É c-claro que eu vou deixá-los passar!"
 
 msgid "<25>{#p/asriel2}{#f/3}* That was probably a smart choice."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Foi uma escolha inteligente."
 
 msgid "<25>{#p/asriel2}{#f/3}* Let's go."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Vamos."
 
 msgid "<32>{#p/mettaton}* I SEE YOU'VE MADE IT ACROSS THE GAP."
-msgstr ""
+msgstr "<32>{#p/mettaton}* VEJO QUE VOCÊ PASSOU PELO ABISMO."
 
 msgid "<32>* PERHAPS..."
-msgstr ""
+msgstr "<32>* TALVEZ..."
 
 msgid "<32>* TRUSTING A LOW-LEVEL SERVICE WORKER TO GUARD THAT LIFTGATE..."
 msgstr ""
+"<32>* ACREDITAR EM UM FUNCIONÁRIO DE BAIXA PATENTE PARA PROTEGER O PORTAL..."
 
 msgid "<32>* WASN'T THE GREATEST PLAN."
-msgstr ""
+msgstr "<32>* NÃO TENHA SIDO O MELHOR PLANO."
 
 msgid "<32>* OH WELL."
-msgstr ""
+msgstr "<32>* POIS BEM."
 
 msgid "<32>* I'M GOING TO KILL YOU ANYWAY."
-msgstr ""
+msgstr "<32>* EU IREI TE MATAR DE TODA FORMA."
 
 msgid ""
 "<32>{#p/basic}* Don't worry, I'll be okay!\n"
 "* Just look at these rings!\n"
 "* I can't be fired forever..."
 msgstr ""
+"<32>{#p/basic}* Não se preocupe, eu ficarei bem!\n"
+"* Só olha para esses anéis!\n"
+"* Não posso ser demitido pra sempre..."
 
 msgid "<25>{#p/alphys}{#g/alphysSide}* You got to the checkpoint!"
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysSide}* Você chegou no ponto seguro!"
 
 msgid "<25>{#g/alphysWelp}* But, uh, that was only the f-first one."
-msgstr ""
+msgstr "<25>{#g/alphysWelp}* Mas, uh, aquele foi apenas o p-primeiro."
 
 msgid "<25>{#g/alphysNeutralSweat}* There's still two more left to go."
-msgstr ""
+msgstr "<25>{#g/alphysNeutralSweat}* Ainda tem mais dois."
 
 msgid "<25>{#p/alphys}{#g/alphysWelp}* One left."
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysWelp}* Só mais um."
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysHellYeah}* Yes!!\n"
 "* That's the last one!!"
 msgstr ""
+"<25>{#p/alphys}{#g/alphysHellYeah}* Ótimo!!\n"
+"* Esse era o último!!"
 
 msgid "<25>{#g/alphysCutscene2}* Eheh..."
-msgstr ""
+msgstr "<25>{#g/alphysCutscene2}* Eheh..."
 
 msgid "<25>{#f/10}* ..."
-msgstr ""
+msgstr "<25>{#f/10}* ..."
 
 msgid "<25>{#f/3}* Don't judge me, I just like rooting for you."
-msgstr ""
+msgstr "<25>{#f/3}* Não me julga, eu só gosto de torcer por você."
 
 msgid "<32>{#p/mettaton}* AH, THERE YOU ARE."
-msgstr ""
+msgstr "<32>{#p/mettaton}* AH, AÍ ESTÁ VOCÊ."
 
 msgid ""
 "<32>{#p/mettaton}* YOU'VE DONE WELL TO PLAY ALONG THUS FAR, DEAR "
 "\"$(moniker2u).\""
 msgstr ""
+"<32>{#p/mettaton}* VOCÊ TEM AGIDO MUITO BEM ATÉ O MOMENTO, QUERIDO "
+"\"$(moniker2u).\""
 
 msgid "<32>{#p/mettaton}* YOU'RE LATE, DARLING..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* VOCÊ ESTÁ ATRASADO, MEU AMOR..."
 
 msgid ""
 "<32>{#p/mettaton}* MAYBE IF YOU'D STOPPED KILLING PEOPLE, THAT WOULDN'T BE A"
 " PROBLEM."
 msgstr ""
+"<32>{#p/mettaton}* TALVEZ SE VOCÊ PARASSE DE MATAR AS PESSOAS, ISSO NÃO "
+"TERIA ACONTECIDO."
 
 msgid "<32>{#p/mettaton}* SALUTATIONS, HUMAN."
-msgstr ""
+msgstr "<32>{#p/mettaton}* SAUDAÇÕES, HUMANO."
 
 msgid "<32>* YOU'RE JUST A FEW MOMENTS EARLY FOR THE SHOW."
-msgstr ""
+msgstr "<32>* VOCÊ ESTÁ ALGUNS MOMENTOS MAIS CEDO PARA O SHOW."
 
 msgid "<32>* ... STILL, DO YOU HAVE WHAT IT TAKES TO KEEP THIS UP?"
-msgstr ""
+msgstr "<32>* ... AINDA, VOCÊ TEM O QUE É NECESSÁRIO PARA CONTINUAR EM FRENTE?"
 
 msgid "<32>* ... WOULD YOU MIND MOVING STAGE LEFT FOR ME?"
-msgstr ""
+msgstr "<32>* ... PODERIA IR ATÉ A PARTE ESQUERDA DO PALCO PARA MIM?"
 
 msgid ""
 "<32>{#p/mettaton}* WELL, FOR NOW, I'LL NEED YOU TO MOVE LEFT OF THE STAGE."
 msgstr ""
+"<32>{#p/mettaton}* BEM, AGORA VOU PRECISAR QUE VOCÊ VÁ ATÉ A PARTE ESQUERDA "
+"DO PALCO."
 
 msgid "<32>* YOU CAN COME BACK INTO FRAME WHEN I CALL OUT FOR YOU."
-msgstr ""
+msgstr "<32>* VOCÊ PODE VOLTAR A TELA QUANDO EU TE CHAMAR."
 
 msgid "<32>{#p/basic}* A few moments later..."
-msgstr ""
+msgstr "<32>{#p/basic}* Alguns momentos mais tarde..."
 
 msgid ""
 "<32>{#p/mettaton}* FOLKS, TODAY WE'RE GOING TO DO SOMETHING A LITTLE "
 "DIFFERENT."
 msgstr ""
+"<32>{#p/mettaton}* AMIGOS, HOJE ESTAREMOS FAZENDO ALGO UM POUCO DIFERENTE."
 
 msgid "<32>{#z2}* WELCOME, ONE AND ALL..."
-msgstr ""
+msgstr "<32>{#z2}* SEJAM BEM-VINDOS, AO PRIMEIRO E ÚNICO..."
 
 msgid ""
 "<32>{*}{#z0}* TO {#x1}TIME!{^10}\n"
 "* {#x2}VERSUS!{^10}\n"
 "* {#x3}MONEY!{^30}{%}"
 msgstr ""
+"<32>{*}{#z0}* {#x1}TEMPO!{^10}\n"
+"* {#x2}VERSUS!{^10}\n"
+"* {#x3}DINHEIRO!{^30}{%}"
 
 msgid ""
 "<32>{#p/mettaton}{#z1}* LET'S GIVE A WARM WELCOME TO OUR CONTESTANTS..."
 msgstr ""
+"<32>{#p/mettaton}{#z1}* VAMOS DAR UM BELO OI PARA NOSSOS QUERIDOS "
+"COMPETIDORES..."
 
 msgid "<32>{#p/mettaton}{#z0}* UNDYNE, CAPTAIN OF THE GUARD!"
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z0}* UNDYNE, CAPITÃ DA GUARDA REAL!"
 
 msgid "<32>{#p/mettaton}{#z0}* SANS THE SKELETON!"
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z0}* SANS O ESQUELETO!"
 
 msgid "<25>{#p/undyne}{#f/1}* Right on!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* Aqui estou!"
 
 msgid ""
 "<25>{#p/sans}{#g/sansWink}* this is just about the only good thing to happen"
 " to me today."
 msgstr ""
+"<25>{#p/sans}{#g/sansWink}* essa é basicamente a única coisa boa que "
+"aconteceu comigo hoje."
 
 msgid "<25>* if you could even call it a good thing."
-msgstr ""
+msgstr "<25>* se você pelo menos puder chamar de \"coisa boa\"."
 
 msgid ""
 "<25>{#p/sans}{#g/sansWink}* loving the pre-recorded applause you got there."
 msgstr ""
+"<25>{#p/sans}{#g/sansWink}* amando os aplausos pré-gravados que você colocou."
 
 msgid "<32>{#p/mettaton}* NAPSTABLOOK!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* NAPSTABLOOK!"
 
 msgid ""
 "<32>{#p/napstablook}* you don't always have to use the same applause..."
-msgstr ""
+msgstr "<32>{#p/napstablook}* você não precisa usar o mesmo aplauso toda vez..."
 
 msgid "<32>{#p/napstablook}* hi everyone"
-msgstr ""
+msgstr "<32>{#p/napstablook}* olá todo mundo..."
 
 msgid "<32>{#p/napstablook}* hi everyone..."
-msgstr ""
+msgstr "<32>{#p/napstablook}* olá todo mundo..."
 
 msgid "<32>{#p/mettaton}* $(moniker1u)!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* $(moniker1u)!"
 
 msgid "<32>{#p/mettaton}* THE ENIGMATIC HUMAN!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* O HUMANO ENIGMÁTICO!"
 
 msgid "<32>{#p/mettaton}* AND... SOME RANDOM KID!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* E... UMA CRIANÇA ALEATÓRIA!"
 
 msgid "<25>{#p/kidd}{#f/3}* Hey, guys."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/3}* E aí, galera!"
 
 msgid "<25>{#p/kidd}{#f/1}* YO!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* YO!"
 
 msgid "<32>{#p/mettaton}{#z0}* THANK YOU ALL SO MUCH FOR COMING!"
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z0}* OBRIGADO A TODOS POR TEREM VINDO!"
 
 msgid "<32>{#z2}* WHY DON'T YOU SHARE A LITTLE ABOUT YOURSELVES, HMM?"
 msgstr ""
+"<32>{#z2}* POR QUE VOCÊS NÃO COMPARTILHAM UM POUCO SOBRE SI MESMOS, HMM?"
 
 msgid "<32>{#p/mettaton}{#z0}* ..."
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z0}* ..."
 
 msgid "<32>{#z1}* ..."
-msgstr ""
+msgstr "<32>{#z1}* ..."
 
 msgid "<32>* MY CONTESTANT DOESN'T SEEM TO BE SHOWING UP."
-msgstr ""
+msgstr "<32>* MEU COMPETIDOR NÃO PARECE ESTAR APARECENDO."
 
 msgid "<32>* THIS IS GOING TO BE A PROBLEM."
-msgstr ""
+msgstr "<32>* ISSO VAI SER UM PROBLEMA."
 
 msgid "<32>{#z2}* WOULD ANYONE ELSE LIKE TO PLAY IN THEIR PLACE?"
-msgstr ""
+msgstr "<32>{#z2}* ALGUÉM GOSTARIA DE JOGAR NO LUGAR DELE?"
 
 msgid "<32>* ANYONE AT ALL?"
-msgstr ""
+msgstr "<32>* QUALQUER PESSOA?"
 
 msgid ""
 "<32>{#p/tem}* hOI!!\n"
 "* im temmie!!!"
 msgstr ""
+"<32>{#p/tem}* hOI!!\n"
+"* eu sou a temmie!!!"
 
 msgid ""
 "<32>{#p/mettaton}{#z5}* A SURPRISE GUEST!?!?\n"
 "* WOW, THIS SHOW GETS CRAZIER BY THE SECOND!"
 msgstr ""
+"<32>{#p/mettaton}{#z5}* UM CONVIDADO SURPRESA?!?\n"
+"* UAU, ESSE SHOW FICA MAIS LOUCO A CADA SEGUNDO!"
 
 msgid ""
 "<32>{#p/mettaton}{#z2}* THEY DO APPEAR TO BE FACING THE WRONG WAY, BUT... OH"
 " WELL."
 msgstr ""
+"<32>{#p/mettaton}{#z2}* ELA PARECE ESTAR OLHANDO PARA A DIREÇÃO ERRADA, "
+"MAS... OKAY."
 
 msgid "<32>{#p/mettaton}{#z1}* NEW FACES ASIDE..."
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z1}* TIRANDO A NOVA CARA..."
 
 msgid ""
 "<25>{#p/undyne}{#f/17}* Huh?\n"
 "* You want ME to talk?"
 msgstr ""
+"<25>{#p/undyne}{#f/17}* Huh?\n"
+"* Você quer que eu fale?"
 
 msgid ""
 "<25>{#p/undyne}{#f/1}* Well, to be honest, I think you're an annoying piece "
 "of junk."
 msgstr ""
+"<25>{#p/undyne}{#f/1}* Bem, pra ser honesta, eu te acho um pedaço de metal "
+"bem irritante."
 
 msgid ""
 "<25>{#p/undyne}{#f/7}* Not only that, but you treat your employees like "
 "garbage!"
 msgstr ""
+"<25>{#p/undyne}{#f/7}* Não apenas isso, mas você trata seus funcionários "
+"igual lixo!"
 
 msgid ""
 "<25>{#p/undyne}{#f/12}* But, uh, that's not why I took Papyrus's place."
 msgstr ""
+"<25>{#p/undyne}{#f/12}* Mas, uh, não é por isso que eu tomei o lugar do "
+"Papyrus."
 
 msgid "<25>{#p/undyne}{#f/16}* Actually, I only really came for one reason."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/16}* Eu vim por uma razão justificável."
 
 msgid "<25>{#p/sans}{#g/sansNormal}* heya."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansNormal}* É."
 
 msgid "<25>{#p/sans}{#g/sansLaugh2}* oh, heheh..."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansLaugh2}* oh, heheh..."
 
 msgid ""
 "<25>{#g/sansNormal}* i'm sans.\n"
 "* sans the skeleton."
 msgstr ""
+"<25>{#g/sansNormal}* eu sou sans.\n"
+"* sans o esqueleto."
 
 msgid ""
 "<25>{#g/sansLaugh1}* technically, my job is to capture humans like that one "
 "over there."
 msgstr ""
+"<25>{#g/sansLaugh1}* tecnicamente meu trabalho é capturar humanos igual "
+"aquele alí."
 
 msgid ""
 "<25>{#g/sansBlink}* but, uh...\n"
 "* seeing as we're on a television program..."
 msgstr ""
+"<25>{#g/sansBlink}* mas, uh...\n"
+"* como nós estamos em um programa de tv..."
 
 msgid "<25>{#g/sansWink}* i s'pose that'll have to wait for now."
-msgstr ""
+msgstr "<25>{#g/sansWink}* eu suponho que deva esperar por agora."
 
 msgid "<32>{#p/mettaton}* AND WHAT'S THAT?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* E O QUE SERIA ISSO?"
 
 msgid "<32>{#p/mettaton}* ANYTHING ELSE?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* ALGO MAIS PARA ACRESCENTAR?"
 
 msgid "<32>{#p/mettaton}* GOT ANY OF YOUR LAME JOKES FOR US TODAY?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* TEM ALGUMA DE SUAS PIADAS RUINS PARA NÓS HOJE?"
 
 msgid ""
 "<25>{#p/undyne}{#f/8}* To see $(moniker1), of course!\n"
 "* Fuhuhu!"
 msgstr ""
+"<25>{#p/undyne}{#f/8}* Para ver o $(moniker1), é óbvio!\n"
+"* Fuhuhu!"
 
 msgid "<25>{#p/sans}{#g/sansNormal}* nope."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansNormal}* não."
 
 msgid ""
 "<25>{#p/sans}{#g/sansLaugh1}* lame?\n"
 "* woah there, mettaton, what's with the blame?"
 msgstr ""
+"<25>{#p/sans}{#g/sansLaugh1}* ruins?\n"
+"* uau, mettaton, o que há com os rins?"
 
 msgid ""
 "<25>{#g/sansBlink}* don't play games.\n"
 "* all you tv show hosts are the same."
 msgstr ""
+"<25>{#g/sansBlink}* não brinque demais.\n"
+"* todos os apresentadores de tv são iguais."
 
 msgid ""
 "<25>{#g/sansNormal}* but, uh, if we're talking jokes, well...\n"
 "* that's kinda tame."
 msgstr ""
+"<25>{#g/sansNormal}* mas, uh, se estamos falando de piadas, bem...\n"
+"* Isso é meio legal."
 
 msgid ""
 "<25>{#g/sansLaugh1}* speaking of, i heard you tried to host a comedy show..."
 msgstr ""
+"<25>{#g/sansLaugh1}* falando em piada, ouvi dizer que você tentou fazer um "
+"stand up..."
 
 msgid "<25>{|}{#g/sansLaugh2}* but nobody- {%}"
-msgstr ""
+msgstr "<25>{|}{#g/sansLaugh2}* mas ninguém- {%}"
 
 msgid "<32>{#p/mettaton}* RIGHT."
-msgstr ""
+msgstr "<32>{#p/mettaton}* CERTO."
 
 msgid "<32>{#p/mettaton}* SOMEONE'S NOT FEELING THEMSELVES TODAY, EH?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* ALGUÉM NÃO ESTÁ MUITO NA VIBE HOJE, NÉ?"
 
 msgid "<32>{#p/mettaton}* VERY FUNNY."
-msgstr ""
+msgstr "<32>{#p/mettaton}* MUITO ENGRAÇADO."
 
 msgid "<32>{#p/napstablook}* is it... my turn to talk..."
-msgstr ""
+msgstr "<32>{#p/napstablook}* é... minha vez de falar."
 
 msgid "<25>{#p/undyne}{#f/14}* It's certainly not mine anymore, is it?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* Com certeza já não é a minha."
 
 msgid "<25>{#p/sans}{#g/sansBlink}* ..."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansBlink}* ..."
 
 msgid "<25>{#p/sans}{#g/sansBlink}* go on, don't be afraid."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansBlink}* vai lá, não fique com medo."
 
 msgid ""
 "<32>{#p/napstablook}* oh...\n"
 "* heh......"
 msgstr ""
+"<32>{#p/napstablook}* oh...\n"
+"* heh......"
 
 msgid "<32>{#p/napstablook}* it is, isn't it........."
-msgstr ""
+msgstr "<32>{#p/napstablook}* é, não é........."
 
 msgid ""
 "<32>{#p/napstablook}* oh.........\n"
 "* okay............"
 msgstr ""
+"<32>{#p/napstablook}* oh.........\n"
+"* okay............"
 
 msgid "<32>* ............ i'm napstablook."
-msgstr ""
+msgstr "<32>* ............ eu sou napstablook."
 
 msgid "<32>* so, um... i'm napstablook"
-msgstr ""
+msgstr "<32>* então, um... eu sou napstablook"
 
 msgid "<32>* i really like making music, and..."
-msgstr ""
+msgstr "<32>* eu gosto de fazer música e..."
 
 msgid "<32>* i..."
-msgstr ""
+msgstr "<32>* eu..."
 
 msgid "<32>* uh... i..."
-msgstr ""
+msgstr "<32>* uh... eu..."
 
 msgid "<32>{#p/mettaton}{#z1}* AND...?"
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z1}* EU...?"
 
 msgid "<32>{#p/mettaton}{#z1}* YOU...?"
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z1}* VOCÊ...?"
 
 msgid "<32>{#p/napstablook}* um...... can't we just go to the next person"
-msgstr ""
+msgstr "<32>{#p/napstablook}* um...... não dá só pra ir logo pra próxima pessoa"
 
 msgid ""
 "<32>{#p/napstablook}* i...\n"
 "* i think that's all"
 msgstr ""
+"<32>{#p/napstablook}* isso...\n"
+"* isso é tudo"
 
 msgid "<32>* sorry..............."
-msgstr ""
+msgstr "<32>* foi mal..............."
 
 msgid "<32>{#p/mettaton}{#z0}* ... OKAY..."
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z0}* ... OKAY..."
 
 msgid "<32>{#p/mettaton}{#z0}* THAT'S ALRIGHT, BLOOKY..."
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z0}* TÁ TUDO BEM, BLOOKY..."
 
 msgid "<32>* WE ALL GET NERVOUS SOMETIMES, DON'T WE, COUS-"
-msgstr ""
+msgstr "<32>* FICAMOS NERVOSOS AS VEZES, NÃO É PRIM-"
 
 msgid ""
 "<32>{#z2}* ER... CUISINE!\n"
 "* BECAUSE THIS OPPORTUNITY SURE IS A TASTY ONE!"
 msgstr ""
+"<32>{#z2}* ER... PRÍNCIPE!\n"
+"* PORQUE ESTÁ OPORTUNIDADE É ÚNICA!"
 
 msgid "<32>{#z4}* HAHAHA..."
-msgstr ""
+msgstr "<32>{#z4}* HAHAHA..."
 
 msgid "<32>{#p/napstablook}* it's your turn."
-msgstr ""
+msgstr "<32>{#p/napstablook}* é sua vez."
 
 msgid "<32>{#p/human}* (But you didn't have anything to say.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas você não tinha nada para dizer.)"
 
 msgid "<32>{#p/napstablook}* uh......"
-msgstr ""
+msgstr "<32>{#p/napstablook}* uh......"
 
 msgid "<32>* you can talk now?"
-msgstr ""
+msgstr "<32>* você pode falar agora?"
 
 msgid "<33>{#p/mettaton}* WELL, YOU KNOW WHAT THEY SAY..."
-msgstr ""
+msgstr "<33>{#p/mettaton}* BEM, VOCÊ SABE O QUE DIZEM..."
 
 msgid "<32>{#p/mettaton}* THE BIGGER THE TALK, THE SMALLER THE ACTION!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* QUEM TANTO FALA, POUCO FAZ!"
 
 msgid ""
 "<32>{#p/mettaton}* IT'S NO SURPRISE THIS BULLY OF BULLIES WOULD BE SO "
 "RELUCTANT TO PART WITH THEIR WORDS."
 msgstr ""
+"<32>{#p/mettaton}* NÃO EXISTE SURPRESA NO BULLY DOS BULLYS SER TÃO MINUCIOSO "
+"COM SUAS PALAVRAS."
 
 msgid ""
 "<32>{#p/mettaton}* THE \"ENIGMATIC HUMAN\" SURE IS LIVING UP TO THEIR TITLE."
 msgstr ""
+"<32>{#p/mettaton}* O \"HUMANO ENIGMÁTICO\" COM CERTEZA ESTÁ VIVENDO PELO "
+"TÍTULO."
 
 msgid "<32>{#p/tem}* tem... went to cool leg,"
-msgstr ""
+msgstr "<32>{#p/tem}* tem... com uma perna legal,"
 
 msgid "<32>{#p/tem}* tem... on TV!!"
-msgstr ""
+msgstr "<32>{#p/tem}* tem... na TV!!"
 
 msgid "<25>{#p/kidd}{#f/1}* Haha, I guess so."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Haha, eu acho que sim."
 
 msgid ""
 "<25>{#f/1}* OH!\n"
 "* It's my turn, I think."
 msgstr ""
+"<25>{#f/1}* OH!\n"
+"* É meu turno, eu acho."
 
 msgid "<25>{#f/4}* Today's... not really been the greatest..."
-msgstr ""
+msgstr "<25>{#f/4}* Hoje... não foi o melhor dia..."
 
 msgid "<25>{#f/8}* Haha..."
-msgstr ""
+msgstr "<25>{#f/8}* Haha..."
 
 msgid "<25>{#f/5}* ... well, I'm Monster Kid."
-msgstr ""
+msgstr "<25>{#f/5}* ... bem, eu sou a Criança Monstro."
 
 msgid ""
 "<25>{#f/1}* OH!\n"
 "* It's my turn, right??"
 msgstr ""
+"<25>{#f/1}* OH!\n"
+"* É minha vez, certo??"
 
 msgid "<25>{#f/4}* I'm... not really sure if my parents are watching, but..."
 msgstr ""
+"<25>{#f/4}* Eu... não tenho certeza se meus pais estão assistindo, mas..."
 
 msgid ""
 "<25>{#f/1}* I hope they're not!!\n"
 "* I... don't think they'd like me being here."
 msgstr ""
+"<25>{#f/1}* Eu espero que não!!\n"
+"* Eu... acho que eles não gostariam de me ver aqui."
 
 msgid "<25>{#f/1}* Haha."
-msgstr ""
+msgstr "<25>{#f/1}* Haha."
 
 msgid "<25>{#f/2}* Anyway, I'm Monster Kid."
-msgstr ""
+msgstr "<25>{#f/2}* De toda forma, eu sou Criança Monstro."
 
 msgid "<32>{#p/mettaton}* AND...?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* E...?"
 
 msgid "<32>{#p/mettaton}* WAIT, THAT'S YOUR ACTUAL NAME?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* PERA AÍ, ESTE É SEU NOME DE VERDADE?"
 
 msgid "<32>{#p/tem}* tem know ALL PRICES!!"
-msgstr ""
+msgstr "<32>{#p/tem}* tem sabe todos os PREÇOS!!"
 
 msgid "<32>{#p/tem}* tem... love to be on TV!!"
-msgstr ""
+msgstr "<32>{#p/tem}* tem... ama estar na TV!!"
 
 msgid "<25>{#p/kidd}{#f/4}* ..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/4}* ..."
 
 msgid "<25>{#p/kidd}{#f/1}* Why wouldn't it be?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Por que não seria?"
 
 msgid "<32>{#p/mettaton}* HUH..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* HMM..."
 
 msgid "<32>{#p/mettaton}* WELL, I GUESS THAT WRAPS UP OUR INTRODUCTIONS."
-msgstr ""
+msgstr "<32>{#p/mettaton}* BEM, ACHO QUE ISSO FINALIZA NOSSAS APRESENTAÇÕES."
 
 msgid ""
 "<32>{#p/mettaton}* HEH. I THINK THAT WRAPS UP OUR INTRODUCTIONS QUITE "
 "NICELY."
 msgstr ""
+"<32>{#p/mettaton}* HEH, ACHO QUE ISSO FINALIZA NOSSAS APRESENTAÇÕES DE FORMA "
+"AGRADÁVEL."
 
 msgid "<32>* SO. THIS GAME IS ALL ABOUT VALUE."
-msgstr ""
+msgstr "<32>* PARA SIMPLIFICAR. ESTE É UM JOGO SOBRE VALORES."
 
 msgid "<32>* TODAY, WE'VE GOT A TRIO OF RARE EARTH ARTIFACTS..."
-msgstr ""
+msgstr "<32>* HOJE, NÓS TEMOS TRÊS ARTEFATOS RAROS DO PLANETA TERRA..."
 
 msgid "<32>* IT'S UP TO YOU CONTESTANTS TO DETERMINE THEIR EXACT COST!"
-msgstr ""
+msgstr "<32>* E VOCÊ CANDIDATO DEVE DETERMINAR O PREÇO DELES!"
 
 msgid ""
 "<32>* WHOEVER GUESSES THE CLOSEST -WITHOUT GOING OVER- GETS TO TAKE IT HOME!"
 msgstr ""
+"<32>* AQUELE QUE ADIVINHAR O MAIS PRÓXIMO -SEM PASSAR ACIMA DO PREÇO- LEVA O "
+"ARTEFATO!"
 
 msgid "<32>{*}* LET'S PLAY..."
-msgstr ""
+msgstr "<32>{*}* VAMPS JOGAR..."
 
 msgid ""
 "<32>{*}* {#x1}TIME!{^10}\n"
 "* {#x2}VERSUS!{^10}\n"
 "* {#x3}MONEY!{^30}{%}"
 msgstr ""
+"<32>{*}* {#x1}TEMPO!{^10}\n"
+"* {#x2}VERSUS!{^10}\n"
+"* {#x3}DINHEIRO!{^30}{%}"
 
 msgid ""
 "* Use left and right to adjust,\n"
 "then confirm with [Z]. §fill=#ff0§$(x)G"
 msgstr ""
+"* Use esquerda e direita para arrumar, e [Z] para confirmar. §fill=#ff0§$(x)G"
 
 msgid ""
 "* Use left and right to adjust,\n"
 "then confirm with [Z]. §fill=#f00§$(x)G"
 msgstr ""
+"* Use esquerda e direita para arrumar e aperte [Z] para confirmar. "
+"§fill=#f00§$(x)G"
 
 msgid ""
 "<32>{#p/mettaton}* OUR FIRST ITEM TODAY IS SOMETHING I FOUND RATHER "
 "RECENTLY..."
 msgstr ""
+"<32>{#p/mettaton}* NOSSO PRIMEIRO ARTEFATO FOI ENCONTRADO RECENTEMENTE..."
 
 msgid ""
 "<32>* ON EARTH, THIS DEVICE WAS USED TO RECEIVE TRANSMISSIONS ON SO-CALLED "
 "\"RADIO STATIONS.\""
 msgstr ""
+"<32>* NA TERRA, ESTE DISPOSITIVO ERA USADO PARA RECEBER TRANSMISSÕES DAS "
+"CHAMADAS \"ESTAÇÕES DE RÁDIO\"."
 
 msgid ""
 "<32>* NEWS, WEATHER, MUSIC...\n"
 "* EVEN GAME SHOWS LIKE THE ONE YOU'RE ON RIGHT NOW!"
 msgstr ""
+"<32>* JORNAL, CLIMA, MÚSICA...\n"
+"* ATÉ MESMO O GAME SHOW QUE ESTAMOS AGORA!"
 
 msgid "<32>* LET'S SEE IF ANYONE HERE KNOWS THEIR TECH."
-msgstr ""
+msgstr "<32>* VAMOS VER SE ALGUÉM AQUI SABE SEU PREÇO."
 
 msgid "<32>{#p/mettaton}* EVERYONE'S DECIDED, THEN?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* TODO MUNDO DECIDIDO?"
 
 msgid "<32>* SPLENDID!"
-msgstr ""
+msgstr "<32>* ESPLÊNDIDO!"
 
 msgid "<32>* NOW, LET'S REVEAL THE PRICE..."
-msgstr ""
+msgstr "<32>* AGORA, QUE O PREÇO SEJA REVELADO..."
 
 msgid "<32>{#p/mettaton}* 80G!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* 80G!"
 
 msgid ""
 "<32>{#p/mettaton}* CONGRATULATIONS, TEMMIE.\n"
 "* YOU'VE WON YOUR VERY OWN OLD EARTH RADIO!"
 msgstr ""
+"<32>{#p/mettaton}* PARABÉNS, TEMMIE.\n"
+"* VOCÊ GANHOU SEU PRIMEIRO E ÚNICO RÁDIO DA TERRA!"
 
 msgid "<32>{#p/tem}* uwawawawah....."
-msgstr ""
+msgstr "<32>{#p/tem}* uwawawawah....."
 
 msgid ""
 "<32>{#p/mettaton}* CONGRATULATIONS, BLOOKY.\n"
 "* YOU'VE WON YOUR VERY OWN OLD EARTH RADIO!"
 msgstr ""
+"<32>{#p/mettaton}* PARABÉNS, BLOOKY.\n"
+"* VOCÊ GANHOU SEU PRIMEIRO E ÚNICO RÁDIO DA TERRA!"
 
 msgid "<32>{#p/napstablook}* cool"
-msgstr ""
+msgstr "<32>{#p/napstablook}* legal"
 
 msgid "<32>{#p/napstablook}* oooooooooooooooo"
-msgstr ""
+msgstr "<32>{#p/napstablook}* oooooooooooooooo"
 
 msgid ""
 "<32>{#p/mettaton}* WELL PLAYED, $(moniker3u).\n"
 "* YOU'VE WON YOUR VERY OWN OLD EARTH RADIO!"
 msgstr ""
+"<32>{#p/mettaton}* BEM JOGADO $(moniker3u).\n"
+"* VOCÊ GANHOU O PRIMEIRO E VELHO RÁDIO DA TERRA!"
 
 msgid ""
 "<32>{#p/mettaton}* CONGRATULATIONS, HUMAN.\n"
 "* YOU'VE WON YOUR VERY OWN OLD EARTH RADIO!"
 msgstr ""
+"<32>{#p/mettaton}* PARABÉNS, HUMANO!\n"
+"* VOCÊ GANHOU SEU PRIMEIRO E ÚNICO, RÁDIO DA TERRA!"
 
 msgid "<32>{#p/mettaton}* TEMMIE, SINCE YOU GUESSED BEFORE $(moniker3u)..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* TEMMIE, COMO VOCÊ ADIVINHOU ANTES DO $(moniker3u)..."
 
 msgid "<32>{#p/mettaton}* TEMMIE, SINCE YOU GUESSED BEFORE THE HUMAN..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* TEMMIE, COMO VOCÊ ADIVINHOU ANTES DO HUMANO..."
 
 msgid ""
 "<32>* CONGRATULATIONS!\n"
 "* YOU'VE WON YOUR VERY OWN OLD EARTH RADIO!"
 msgstr ""
+"<32>* PARABÉNS!\n"
+"* VOCÊ GANHOU SEU PRIMEIRO E ÚNICO RÁDIO DA TERRA!"
 
 msgid "<32>{#p/mettaton}* BLOOKY, SINCE YOU GUESSED BEFORE $(moniker3u)..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* BLOOKY, COMO VOCÊ ADIVINHOU ANTES DO $(moniker3u)..."
 
 msgid "<32>{#p/mettaton}* BLOOKY, SINCE YOU GUESSED BEFORE THE HUMAN..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* BLOOKY, COMO VOCÊ ADIVINHOU ANTES DO HUMANO..."
 
 msgid ""
 "<32>{#p/mettaton}* WELL PLAYED, $(moniker3u).\n"
 "* SINCE YOU GUESSED BEFORE TEMMIE..."
 msgstr ""
+"<32>{#p/mettaton}* BEM JOGADO, $(moniker3u).\n"
+"* COMO VOCÊ ADIVINHOU ANTES DA TEMMIE..."
 
 msgid "<32>{#p/mettaton}* HUMAN, SINCE YOU GUESSED BEFORE TEMMIE..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* HUMANO, COMO VOCÊ ADIVINHOU ANTES DA TEMMIE..."
 
 msgid ""
 "<32>{#p/mettaton}* WELL PLAYED, $(moniker3u).\n"
 "* SINCE YOU GUESSED BEFORE BLOOKY..."
 msgstr ""
+"<32>{#p/mettaton}* BEM JOGADO, $(moniker3u).\n"
+"* COMO VOCÊ ADIVINHOU ANTES DO BLOOKY..."
 
 msgid "<32>{#p/mettaton}* HUMAN, SINCE YOU GUESSED BEFORE BLOOKY..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* HUMANO, COMO VOCÊ ADIVINHOU ANTES DO BLOOKY..."
 
 msgid "<32>{#p/mettaton}* WELL, CONTESTANTS, THAT CONCLUDES THIS ROUND."
-msgstr ""
+msgstr "<32>{#p/mettaton}* BEM, COMPETIDORES, ISSO CONCLUI ESTA RODADA."
 
 msgid ""
 "<32>* SINCE THIS IS THE FIRST ROUND, YOU'LL VOTE ON WHO YOU THINK SHOULD BE "
 "ELIMINATED."
 msgstr ""
+"<32>* COMO ESTÁ É A PRIMEIRA RODADA, VOCÊ PODERÁ VOTAR NAQUELE QUE PENSA QUE "
+"DEVE SER ELIMINADO."
 
 msgid ""
 "<32>{#p/napstablook}* hey, um.........\n"
 "* i have a question........."
 msgstr ""
+"<32>{#p/napstablook}* hey, um.........\n"
+"* eu tenho uma pergunta........."
 
 msgid "<32>{#p/mettaton}* NO, BLOOKY, YOU CAN'T VOTE FOR YOURSELF."
-msgstr ""
+msgstr "<32>{#p/mettaton}* NÃO, BLOOKY, VOCÊ NÃO PODE VOTAR EM SI MESMO."
 
 msgid "<32>{#p/napstablook}* oh............"
-msgstr ""
+msgstr "<32>{#p/napstablook}* oh............"
 
 msgid ""
 "<32>{#p/mettaton}* IT'S ELIMINATION TIME, PEOPLE!\n"
 "* UNDYNE, YOU'RE UP FIRST."
 msgstr ""
+"<32>{#p/mettaton}* É HORA DE ELIMINAR, PESSOAL!\n"
+"* UNDYNE, VOCÊ VAI PRIMEIRO."
 
 msgid ""
 "<32>{#p/mettaton}* IT'S ELIMINATION TIME, PEOPLE!\n"
 "* SANS, YOU'RE UP FIRST."
 msgstr ""
+"<32>{#p/mettaton}* É HORA DE ELIMINAR, PESSOAL!\n"
+"* SANS VOCÊ VAI PRIMEIRO!"
 
 msgid "<32>{#p/mettaton}* WHO'S IT GONNA BE?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* QUEM SERÁ?"
 
 msgid "<25>{#p/undyne}{#f/14}* Yeah... I'm gonna vote for Napstablook."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* É... eu vou votar no Napstablook."
 
 msgid ""
 "<26>{#p/undyne}{#f/16}* It's nothing personal...\n"
 "* I just know the other contestants better."
 msgstr ""
+"<26>{#p/undyne}{#f/16}* Nada pessoal.\n"
+"* Eu só conheço melhor os outros competidores."
 
 msgid "<25>{#p/sans}* ..."
-msgstr ""
+msgstr "<25>{#p/sans}* ..."
 
 msgid "<25>{#p/sans}{#g/sansBlink}* eh, i'm not really in the mood."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansBlink}* eh, eu não estou muito no clima."
 
 msgid "<25>{#p/sans}* anne."
-msgstr ""
+msgstr "<25>{#p/sans}* ana."
 
 msgid "<32>{#p/mettaton}* HOW ABOUT YOU, BLOOKY?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* E VOCÊ, BLOOKY?"
 
 msgid "<32>{#p/mettaton}* WELL, THAT'S ONE VOTE GONE."
-msgstr ""
+msgstr "<32>{#p/mettaton}* BEM, ISSO É UM VOTO FORA."
 
 msgid "<32>{#p/mettaton}* HMM..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* HMM..."
 
 msgid "<32>* WHY \"ANNE?\""
-msgstr ""
+msgstr "<32>* POR QUE \"ANA\"?"
 
 msgid ""
 "<25>{#p/sans}{#g/sansLaugh1}* 'cause this ANNE droid is driving me crazy."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansLaugh1}* anaconda."
 
 msgid "<32>{#p/mettaton}* YOU'RE DISQUALIFIED!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* VOCÊ ESTÁ DESQUALIFICADO!"
 
 msgid "<25>{#p/sans}{#g/sansLaugh2}* heheheh, worth it."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansLaugh2}* heheheh, valeu a pena."
 
 msgid "<32>{#p/mettaton}* UGH... HOW ABOUT YOU, BLOOKY?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* UGH... QUE TAL VOCÊ, BLOOKY?"
 
 msgid "<32>{#p/napstablook}* ..............."
-msgstr ""
+msgstr "<32>{#p/napstablook}* ..............."
 
 msgid "<32>* i... don't really want to vote for any of these guys..."
-msgstr ""
+msgstr "<32>* eu... não quero votar em ninguém..."
 
 msgid "<32>* undyne's the captain of the royal guard, and the other two..."
-msgstr ""
+msgstr "<32>* Undyne, a capitã da guarda real e os outros dois..."
 
 msgid "<32>* they're just kids......"
-msgstr ""
+msgstr "<32>* aqueles são só crianças..."
 
 msgid "<32>* s... sans, i guess..."
-msgstr ""
+msgstr "<32>* s... sans, eu acho..."
 
 msgid ""
 "<32>* i don't have anything against you, i just... don't really know you... "
 "sorry......"
 msgstr ""
+"<32>* eu não tenho nada contra ti, eu só... não te conheço... desculpa..."
 
 msgid "<25>{#p/sans}{#g/sansNormal}* ..."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansNormal}* ..."
 
 msgid "<25>{#p/sans}{#g/sansBlink}* that's okay."
-msgstr ""
+msgstr "<25>{#p/sans}{#g/sansBlink}* tá tudo bem."
 
 msgid ""
 "<25>{#p/sans}{#g/sansBlink}* nah, that's okay.\n"
 "* besides, i'm only here 'cause my bro declined."
 msgstr ""
+"<25>{#p/sans}{#g/sansBlink}* nah, tá tudo bem.\n"
+"* Aliás, eu só estou aqui porque meu irmão recusou."
 
 msgid "<25>{#g/sansWink}* he gets nervous around you, mettaton."
-msgstr ""
+msgstr "<25>{#g/sansWink}* ele fica nervoso perto do, Mettaton."
 
 msgid ""
 "<32>{#p/mettaton}* WELL, ALRIGHT.\n"
 "* I WON'T COUNT YOUR VOTE, THEN."
 msgstr ""
+"<32>{#p/mettaton}* BEM, TUDO CERTO.\n"
+"* NÃO CONTAREMOS SEU VOTO ENTÃO."
 
 msgid ""
 "<32>{#p/mettaton}* HMM...\n"
 "* I'LL HAVE TO ASK HIM ABOUT THAT LATER."
 msgstr ""
+"<32>{#p/mettaton}* HMM...\n"
+"* EU VOU PERGUNTAR SOBRE ISSO PRA ELE MAIS TARDE."
 
 msgid "<32>* I WONDER..."
-msgstr ""
+msgstr "<32>* EU ME PERGUNTO..."
 
 msgid "<32>{#p/napstablook}* the human."
-msgstr ""
+msgstr "<32>{#p/napstablook}* O humano."
 
 msgid "<32>* the human, i guess"
-msgstr ""
+msgstr "<32>* o humano, eu acho"
 
 msgid "<32>* they just... don't really seem to care about me that much......"
-msgstr ""
+msgstr "<32>* ele só... não parece muito ligar pra mim..."
 
 msgid "<32>{#p/mettaton}* ..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* ..."
 
 msgid "<32>{#p/mettaton}* YOU VOTING FOR ANYONE, DEAR $(moniker2u)?"
 msgstr ""
+"<32>{#p/mettaton}* VOCÊ ESTARÁ VOTANDO PARA ALGUÉM, QUERIDO $(moniker2u)?"
 
 msgid "<32>{#p/mettaton}* YOU VOTING FOR ANYONE, HUMAN?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* VOCÊ VOTARÁ EM ALGUÉM, HUMANO?"
 
 msgid "<32>{#p/mettaton}* NO, I MEAN -WHO- WILL YOU BE VOTING FOR?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* NÃO, EU QUERO DIZER, EM -QUEM- VOCÊ VAI VOTAR?"
 
 msgid "* (Who will you vote for?)"
-msgstr ""
+msgstr "* (Em quem você vai votar?)"
 
 msgid "Sans"
-msgstr ""
+msgstr "Sans"
 
 msgid "Napstablook"
-msgstr ""
+msgstr "Napstablook"
 
 msgid "Temmie"
-msgstr ""
+msgstr "Temmie"
 
 msgid "Monster Kid"
-msgstr ""
+msgstr "Monster Kid"
 
 msgid "<32>{#p/mettaton}* MHM, MHM..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* MHM, MHM..."
 
 msgid "<32>{#p/mettaton}* AND TEMMIE, YOUR VOTE?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* E TEMMIE, EM QUEM VOCÊ VOTA?"
 
 msgid "<32>{#p/mettaton}* AND MONSTER KID, YOUR VOTE?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* E CRIANÇA MONSTRO, EM QUEM VOCÊ VOTA?"
 
 msgid "<32>{#p/mettaton}* SO YOU'RE -NOT- VOTING FOR ANYONE, THEN."
-msgstr ""
+msgstr "<32>{#p/mettaton}* VOCÊ NÃO VOTARÁ EM NINGUÉM, ENTÃO."
 
 msgid "<32>* GOT IT."
-msgstr ""
+msgstr "<32>* ENTENDI."
 
 msgid ""
 "<32>{#p/mettaton}* REALLY? JUST BECAUSE THEY'RE STUCK WITH YOU DOESN'T MAKE "
 "THEM A CONTESTANT."
 msgstr ""
+"<32>{#p/mettaton}* SÉRIO? SÓ PORQUE ELE ESTÁ PRESO A VOCÊ NÃO O TORNA UM "
+"COMPETIDOR."
 
 msgid "<33>* CONSIDER YOURSELF DISQUALIFIED!"
-msgstr ""
+msgstr "<33>* CONSIDERE-SE DESQUALIFICADO!"
 
 msgid "<32>{#p/basic}* Gee, thanks Mettaton."
-msgstr ""
+msgstr "<32>{#p/basic}* nossa, valeu Mettaton."
 
 msgid ""
 "<32>{#p/mettaton}* LISTEN, DARLING.\n"
 "* IT'S KIND OF HARD TO INCLUDE YOU WHEN YOU'RE INVISIBLE."
 msgstr ""
+"<32>{#p/mettaton}* ESCUTA AQUI, AMOR.\n"
+"* É DIFÍCIL TE INCLUIR QUANDO VOCÊ É INVISÍVEL."
 
 msgid "<32>{#p/basic}* Hmph."
-msgstr ""
+msgstr "<32>{#p/basic}* Hmph."
 
 msgid "<32>{#p/mettaton}* ... TEMMIE, YOUR VOTE?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* ... TEMMIE, SEU VOTO?"
 
 msgid "<32>{#p/mettaton}* ... MONSTER KID, YOUR VOTE?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* ... CRIANÇA MONSTRO, SEU VOTO?"
 
 msgid "<32>{#p/tem}* tem vote... CYOOT GHOST!"
-msgstr ""
+msgstr "<32>{#p/tem}* tem vota... ne FASTAMIO!"
 
 msgid "<32>* tem live near cyoot ghost... love cyoot ghost!"
-msgstr ""
+msgstr "<32>* tem vive perto de fantasmio... ama fantasmio!"
 
 msgid ""
 "<25>{#p/kidd}{#f/1}* I'm voting for $(moniker1) because they're AWESOME!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Eu voto no $(moniker1) porque ele é INCRÍVEL."
 
 msgid "<25>{#p/kidd}{#f/1}* I'm voting for the human because they're AWESOME!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Eu voto no humano, porque ele é INCRÍVEL!"
 
 msgid "<25>{#f/7}* Not only did they face off against UNDYNE..."
-msgstr ""
+msgstr "<25>{#f/7}* Ele não apenas lutou contra a Undyne..."
 
 msgid "<25>* ... who's one of the strongest monsters EVER..."
-msgstr ""
+msgstr "<25>* ... que é um dos monstros mais fortes de TODOS..."
 
 msgid "<25>* But when I was about to DIE..."
-msgstr ""
+msgstr "<25>* Assim como quando eu estava prestes a MORRER..."
 
 msgid "<25>* ... they pulled me down at the LAST second and saved me!"
-msgstr ""
+msgstr "<25>* ... ele foi e me salvou no último segundo!"
 
 msgid "<25>{#f/2}* IN FRONT OF UNDYNE!!!"
-msgstr ""
+msgstr "<25>{#f/2}* NA FRENTE DA UNDYNE!!!"
 
 msgid "<25>{#p/undyne}{#f/14}* Uh, kid, I'm right here, you know."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* Uh, criança, eu tô bem aqui, beleza?"
 
 msgid ""
 "<25>{#p/kidd}{#f/3}* Oh, right.\n"
 "* Uh, s-sorry Undyne!\n"
 "* Haha."
 msgstr ""
+"<25>{#p/kidd}{#f/3}* ah, certo.\n"
+"* Uh, d-desculpa Undyne!\n"
+"* Haha."
 
 msgid ""
 "<25>{#p/undyne}{#f/1}* Nah, don't worry.\n"
 "* You're a good kid..."
 msgstr ""
+"<25>{#p/undyne}{#f/1}* Nah, fica tranquilo.\n"
+"* Você é uma boa criança..."
 
 msgid ""
 "<25>{#p/kidd}{#f/3}* Aw... thanks, Undyne.\n"
 "* But $(moniker1) is WAY cooler than me."
 msgstr ""
+"<25>{#p/kidd}{#f/3}* Aw... valeu, Undyne.\n"
+"* Mas $(moniker1) é bem mais legal que eu."
 
 msgid "<25>{#f/3}* I... kind of owe them my life, haha..."
-msgstr ""
+msgstr "<25>{#f/3}* Eu... meio que devo a ele minha vida..."
 
 msgid ""
 "<32>{#p/mettaton}* YOU DO REALIZE THAT THE VOTE IS A VOTE TO ELIMINATE, "
 "RIGHT?"
 msgstr ""
+"<32>{#p/mettaton}* VOCÊ ENTENDE QUE VOTAR PARA ELE É BASICAMENTE ELIMINÁ-LO, "
+"CORRETO?"
 
 msgid "<32>{#p/tem}* wait..."
-msgstr ""
+msgstr "<32>{#p/tem}* pera..."
 
 msgid ""
 "<32>{#p/tem}* ... nu!!!\n"
 "* tem dont wana elimnat cyoot ghost!"
 msgstr ""
+"<32>{#p/tem}* ... nau!!!\n"
+"* tem não quer elimine do fantasmio!"
 
 msgid "<32>{#p/tem}* tem vote for skely instead!"
-msgstr ""
+msgstr "<32>{#p/tem}* tem vota no esquelinho!"
 
 msgid "<25>{#p/kidd}{#f/4}* ... it is?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/4}* ... sério?"
 
 msgid "<25>{#p/undyne}{#f/3}* I was about to say the same thing."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/3}* Eu já ia dizer a mesma coisa."
 
 msgid ""
 "<25>{#p/kidd}{#f/1}* Oh... then I won't vote for them, because OBVIOUSLY, "
 "and..."
 msgstr ""
+"<25>{#p/kidd}{#f/1}* ah... então eu não vou votar nele, por motivo ÓBVIO, "
+"e..."
 
 msgid "<25>{#f/2}* Voting for Undyne... I just can't do it!"
-msgstr ""
+msgstr "<25>{#f/2}* Votar na Undyne... eu não consigo!"
 
 msgid ""
 "<25>{#f/3}* So... I guess it'll be Napstablook.\n"
 "* Please don't be sad..."
 msgstr ""
+"<25>{#f/3}* Então... eu voto no Napstablook.\n"
+"* Por favor, não fique triste..."
 
 msgid ""
 "<25>{#f/1}* Hmm... then I won't vote for them, because OBVIOUSLY, and..."
-msgstr ""
+msgstr "<25>{#f/1}* Hmm... então eu não voto nele, por motivo ÓBVIO, e..."
 
 msgid "<25>{#f/4}* Voting for Napstablook might hurt their feelings..."
-msgstr ""
+msgstr "<25>{#f/4}* Votar no Napstablook pode deixá-lo triste..."
 
 msgid "<25>{#f/3}* So... I guess it'll be Sans."
-msgstr ""
+msgstr "<25>{#f/3}* Então... vou ter que votar no Sans."
 
 msgid "<32>{#p/kidd}{#f/8}* ..."
-msgstr ""
+msgstr "<32>{#p/kidd}{#f/8}* ..."
 
 msgid "<32>{#f/8}* The human."
-msgstr ""
+msgstr "<32>{#f/8}* O humano."
 
 msgid "<32>{#p/mettaton}* SHEESH, SOMEBODY'S NOT HAPPY TODAY."
-msgstr ""
+msgstr "<32>{#p/mettaton}* NOSSA, ALGUÉM NÃO ESTÁ FELIZ HOJE."
 
 msgid ""
 "<32>{#p/mettaton}* BUT EVEN WITH THAT VOTE, SANS STILL HAS THE LOSING EDGE."
 msgstr ""
+"<32>{#p/mettaton}* MAS MESMO COM SEU VOTO, SANS AINDA ESTÁ NA PERDA AQUI."
 
 msgid "<25>{#p/sans}{#f/3}* i might as well show myself out."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* eu só vou me retirar logo."
 
 msgid "<25>{#p/sans}* welp."
-msgstr ""
+msgstr "<25>{#p/sans}* epa."
 
 msgid "<25>{#p/sans}{#g/sansWink}* i'm {@fill=#ff0}boned{@fill=#fff}."
 msgstr ""
+"<25>{#p/sans}{#g/sansWink}* estou {@fill=#ff0}desqualiossado{@fill=#fff}."
 
 msgid "<32>{#p/napstablook}* it's okay....................."
-msgstr ""
+msgstr "<32>{#p/napstablook}* tudo bem....................."
 
 msgid "<32>{#p/mettaton}* YES, YOU MOST CERTAINLY SHALL."
-msgstr ""
+msgstr "<32>{#p/mettaton}* É, VOCÊ POSSIVELMENTE ESTÁ."
 
 msgid "<32>{#p/mettaton}* YES, YOU MOST CERTAINLY ARE."
-msgstr ""
+msgstr "<32>{#p/mettaton}* É, VOCÊ BASICAMENTE ESTÁ."
 
 msgid ""
 "<32>{#p/mettaton}* WOW, IT'S ALMOST LIKE YOU KNOW HOW ANNOYING YOU ARE."
-msgstr ""
+msgstr "<32>{#p/mettaton}* UAU, É COMO SE VOCÊ SOUBESSE O QUÃO IRRITANTE É."
 
 msgid "<32>{#p/human}* (You feel your sins crawling on your back.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você sente seus pecados rastejando em suas costas.)"
 
 msgid ""
 "<32>{#p/mettaton}* I'M SORRY, BLOOKY.\n"
 "* BUT YOUR TIME HAS EXPIRED.\n"
 "* GOODBYE."
 msgstr ""
+"<32>{#p/mettaton}* SINTO MUITO, BLOOKY.\n"
+"* MAS SUA HORA CHEGOU.\n"
+"* ATÉ MAIS."
 
 msgid ""
 "<32>{#p/mettaton}* I'M SORRY, SANS.\n"
 "* BUT YOUR TIME HAS EXPIRED.\n"
 "* GOODBYE."
 msgstr ""
+"<32>{#p/mettaton}* ME DESCULPE, SANS.\n"
+"* MAS SUA HORA CHEGOU.\n"
+"* ATÉ MAIS."
 
 msgid "<25>{#p/sans}* too-da-loo, folks."
-msgstr ""
+msgstr "<25>{#p/sans}* too-da-loo, cabas!"
 
 msgid "<32>{#p/mettaton}* WELL, IT LOOKS LIKE WE HAVE A TIE!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* BEM, PARECE QUE TEMOS UM EMPATE."
 
 msgid "<32>* IN A TIE SITUATION, THE HOST GETS TO CHOOSE WHO GOES."
-msgstr ""
+msgstr "<32>* NESTA SITUAÇÃO, O APRESENTADOR DECIDE QUEM SAI."
 
 msgid "<32>* ... OH WAIT."
-msgstr ""
+msgstr "<32>* ... AH ESPERA."
 
 msgid "<32>* I'M THE HOST!"
-msgstr ""
+msgstr "<32>* EU SOU O APRESENTADOR!"
 
 msgid ""
 "<32>{#p/mettaton}* I'M SORRY, HUMAN.\n"
 "* BUT YOUR TIME HAS EXPIRED.\n"
 "* GOODBYE."
 msgstr ""
+"<32>{#p/mettaton}* DESCULPE, HUMANO.\n"
+"* MAS SEU TEMPO ACABOU.\n"
+"* TCHAUZINHO."
 
 msgid ""
 "<32>{#p/mettaton}* OUR NEXT ITEM IS, AS THE LATE PROFESSOR WOULD SAY, HIGHLY"
 " TECHNICAL."
 msgstr ""
+"<32>{#p/mettaton}* NOSSO PRÓXIMO ITEM É, COMO UM PROFESSOR NOTURNO DIRIA, "
+"BEM TÉCNICO."
 
 msgid ""
 "<32>* OR SHOULD I SAY...\n"
 "* PYROTECHNICAL?"
 msgstr ""
+"<32>* OU SERIA...\n"
+"* PIROTÉCNICO?"
 
 msgid ""
 "<32>* THESE \"FIREWORKS\" WERE USED ON EARTH TO CREATE DAZZLING DISPLAYS IN "
 "THE SKY."
 msgstr ""
+"<32>* ESTES \"FOGOS DE ARTIFÍCIO\" ERAM LANÇADOS PELA TERRA ATÉ EXPLODIR EM "
+"PEDAÇOS NO ESPAÇO."
 
 msgid ""
 "<32>* ALL DIFFERENT COLORS AND SHAPES, EXPLODING WITH INDESCRIBABLE BEAUTY."
-msgstr ""
+msgstr "<32>* DE TODA COR E FORMATO, EXPLODINDO COM INDESCRITÍVEL BELEZA."
 
 msgid "<32>* WHADDYA THINK THEY'RE WORTH?"
-msgstr ""
+msgstr "<32>* O QUE VOCÊS ACHAM QUE ELE VALE?"
 
 msgid "<32>{#p/mettaton}* THE GUESSES ARE IN...?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* OS COMPETIDORES ESTÃO DECIDIDOS...?"
 
 msgid ""
 "<32>* GOOD.\n"
 "* NOW, LET'S SEE THE PRICE..."
 msgstr ""
+"<32>* ÓTIMO.\n"
+"* AGORA, VEJAMOS O PREÇO..."
 
 msgid "<32>{#p/mettaton}* WOW, 250G!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* UAU, 250G!"
 
 msgid "<32>{#p/mettaton}* WHO WOULD'VE THOUGHT!?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* QUEM PODERIA IMAGINAR!?"
 
 msgid ""
 "<32>{#p/mettaton}* CONGRATULATIONS, TEMMIE!\n"
 "* YOU'VE JUST WON YOURSELF SOME MTT-CERTIFIED FIREWORKS!"
 msgstr ""
+"<32>{#p/mettaton}* PARABÉNS, TEMMIE!\n"
+"* VOCÊ GANHOU PARA SI NOVOS FOGOS DE ARTIFÍCIO DA MARCA MTT!"
 
 msgid "<32>* IT MAY NOT BE MTT-BRAND, BUT IT'S THE NEXT BEST THING! (TM)"
 msgstr ""
+"<32>* PODEM NÃO SER EXATAMENTE DA MTT, MAS SÃO DA MELHOR QUALIDADE! (TM)"
 
 msgid "<32>{#p/tem}* AYAYA!"
-msgstr ""
+msgstr "<32>{#p/tem}* AYAYA!"
 
 msgid ""
 "<32>{#p/mettaton}* CONGRATULATIONS, MONSTER KID!\n"
 "* YOU'VE JUST WON YOURSELF SOME MTT-CERTIFIED FIREWORKS!"
 msgstr ""
+"<32>{#p/mettaton}* PARABÉNS, CRIANÇA MONSTRO!\n"
+"* VOCÊ GANHOU PARA SI NOVOS FOGOS DE ARTIFÍCIO DA MARCA MTT!"
 
 msgid "<25>{#p/kidd}{#f/1}* YOOOOOO!!!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* YOOOOOO!!!"
 
 msgid ""
 "<32>{#p/mettaton}* WELL PLAYED, $(moniker3u).\n"
 "* YOU'VE JUST WON YOURSELF SOME MTT-CERTIFIED FIREWORKS."
 msgstr ""
+"<32>{#p/mettaton}* BEM JOGADO $(moniker3u).\n"
+"* VOCÊ GANHOU PARA SI NOVOS FOGOS DE ARTIFÍCIO DA MARCA MTT!"
 
 msgid ""
 "<32>{#p/mettaton}* CONGRATULATIONS, HUMAN!\n"
 "* YOU'VE JUST WON YOURSELF SOME MTT-CERTIFIED FIREWORKS!"
 msgstr ""
+"<32>{#p/mettaton}* PARABÉNS, HUMANO!\n"
+"* VOCÊ GANHOU PARA SI NOVOS FOGOS DE ARTIFÍCIO DA MARCA MTT!"
 
 msgid "<32>{#p/mettaton}* SINCE YOU GUESSED BEFORE $(moniker3u)..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* COMO VOCÊ ADIVINHOU ANTES DO $(moniker3u)..."
 
 msgid "<32>{#p/mettaton}* SINCE YOU GUESSED BEFORE THE HUMAN..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* COMO VOCÊ ADIVINHOU ANTES DO HUMANO..."
 
 msgid "<32>{#p/mettaton}* SINCE YOU GUESSED BEFORE TEMMIE..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* COMO VOCÊ ADIVINHOU ANTES DA TEMMIE."
 
 msgid "<32>{#p/mettaton}* SINCE YOU GUESSED BEFORE MONSTER KID..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* COMO VOCÊ ADIVINHOU ANTES DA CRIANÇA MONSTRO..."
 
 msgid ""
 "<32>* WELL PLAYED, $(moniker3u).\n"
 "* YOU'VE JUST WON YOURSELF SOME MTT-CERTIFIED FIREWORKS."
 msgstr ""
+"<32>* BEM JOGADO, $(moniker3u).\n"
+"* VOCÊ GANHOU PARA SI NOVOS FOGOS DE ARTIFÍCIO DA MARCA MTT."
 
 msgid "<32>{#p/mettaton}* NOW, SINCE THIS IS THE END OF THE SECOND ROUND..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* AGORA, COMO ESTE É O FIM DO SEGUNDO TURNO..."
 
 msgid "<32>* THERE WON'T BE ANY VOTING."
-msgstr ""
+msgstr "<32>* NÃO HAVERÁ VOTAÇÃO."
 
 msgid ""
 "<32>* INSTEAD, I'LL JUST GET RID OF WHOEVER I FEEL LIKE!\n"
 "* MY SHOW, MY RULES..."
 msgstr ""
+"<32>* EU SÓ VOU TIRAR QUEM EU SENTIR VONTADE!\n"
+"* MEU SHOW, MINHAS REGRAS..."
 
 msgid ""
 "<32>* I'M SORRY, UNDYNE.\n"
 "* BUT YOUR TIME HAS EXPIRED.\n"
 "* GOODBYE."
 msgstr ""
+"<32>* ME DESCULPE, UNDYNE.\n"
+"* MAS SUA HORA CHEGOU.\n"
+"* ATÉ MAIS."
 
 msgid ""
 "<32>* I'M SORRY, TEMMIE.\n"
 "* BUT YOUR TIME HAS EXPIRED.\n"
 "* GOODBYE."
 msgstr ""
+"<32>* ME DESCULPE, TEMMIE.\n"
+"* MAS SUA HORA CHEGOU.\n"
+"* ATÉ MAIS."
 
 msgid ""
 "<32>* I'M SORRY, MONSTER KID.\n"
 "* BUT YOUR TIME HAS EXPIRED.\n"
 "* GOODBYE."
 msgstr ""
+"<32>* ME DESCULPE, CRIANÇA MONSTRO.\n"
+"* MAS SUA HORA CHEGOU.\n"
+"* ATÉ MAIS."
 
 msgid "<25>{#p/undyne}{#f/14}* ... seriously?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* ... sério?"
 
 msgid "<32>{#p/tem}* You only remove me because you know I would win."
-msgstr ""
+msgstr "<32>{#p/tem}* Você só tá me tirando pois sabe que eu iria ganhar."
 
 msgid "<32>* but OKs!!"
-msgstr ""
+msgstr "<32>* MAS BELEZA!!"
 
 msgid "<32>* be sure to check TEM SHOP!!"
-msgstr ""
+msgstr "<32>* Dêem uma olhada no Shop da TEMMIE!"
 
 msgid "<32>{#p/tem}* nu..."
-msgstr ""
+msgstr "<32>{#p/tem}* nu..."
 
 msgid "<32>* tem will be OKs tho..."
-msgstr ""
+msgstr "<32>* tem ficará bem..."
 
 msgid "<25>{#p/kidd}{#f/3}* See ya later, dudes..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/3}* Te vejo depois, caras..."
 
 msgid "<25>{#p/kidd}{#f/3}* Aw man..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/3}* Aw mano..."
 
 msgid "<25>{#f/1}* Well, thanks for letting me be on the show, Metatron."
-msgstr ""
+msgstr "<25>{#f/1}* Bem, obrigado por me deixar estar no show, Metatron."
 
 msgid ""
 "<25>{#f/1}* My friends are gonna be so stoked when I tell them about this!!!"
 msgstr ""
+"<25>{#f/1}* Meus amigos vão ficar em choque quando eu contar sobre isso!!!"
 
 msgid ""
 "<32>{#p/mettaton}* SERIOUSLY.\n"
 "* NOW GET OFF THE STAGE."
 msgstr ""
+"<32>{#p/mettaton}* SÉRIO.\n"
+"* AGORA SAI DO MEU PROGRAMA."
 
 msgid ""
 "<25>{#p/undyne}{#f/8}* PFFT!\n"
 "* HOW STUPID IS THAT!"
 msgstr ""
+"<25>{#p/undyne}{#f/8}* PFFT!\n"
+"* QUE PROGRAMA DE MERDA!"
 
 msgid ""
 "<25>{#f/1}* You know, that human might be mean, but at least they play fair."
-msgstr ""
+msgstr "<25>{#f/1}* Sabe, esse humano pode ser malvado, mas ele joga justo."
 
 msgid "<25>{#f/5}* As for YOU?"
-msgstr ""
+msgstr "<25>{#f/5}* Já VOCÊ?"
 
 msgid "<25>{#f/7}* You just make up the rules as you go along!"
-msgstr ""
+msgstr "<25>{#f/7}* Você só vai fazendo regras enquanto joga!"
 
 msgid "<25>{#f/9}* ... guess I shouldn't have expected anything else, though."
 msgstr ""
+"<25>{#f/9}* ... acho que eu não deveria ter esperado mais nada, no entanto."
 
 msgid "<25>{#f/11}* You've got a reputation for this sort of thing."
-msgstr ""
+msgstr "<25>{#f/11}* Você tem uma reputação com esse tipo de parada."
 
 msgid "<32>{#p/mettaton}* GOOD RIDDANCE."
-msgstr ""
+msgstr "<32>{#p/mettaton}* BOA VIAGEM."
 
 msgid "<32>{#p/mettaton}* ... JEEZ, AT LEAST SHE'S GONE."
-msgstr ""
+msgstr "<32>{#p/mettaton}* ... AVE, PELO MENOS ELA SE FOI."
 
 msgid "<32>{#p/mettaton}* AT LEAST SHE'S... HAPPY?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* PELO MENOS... ELA ESTÁ FELIZ?"
 
 msgid ""
 "<32>{#p/mettaton}* AT LEAST THEY'RE... HAPPY?\n"
 "* I CAN'T REALLY SAY FOR SURE, TO BE HONEST..."
 msgstr ""
+"<32>{#p/mettaton}* PELO MENOS ELE ESTÁ... FELIZ?\n"
+"* NÃO POSSO DIZER COM CERTEZA."
 
 msgid ""
 "<32>{#p/mettaton}* AT LEAST THEY'RE HAPPY.\n"
 "* AND FOR THE RECORD, IT'S \"METTATON,\" NOT \"METATRON.\""
 msgstr ""
+"<32>{#p/mettaton}* PELO MENOS ELE ESTÁ FELIZ.\n"
+"* E PARA CONSTAR, É \"METTATON\", NÃO \"METATRON.\""
 
 msgid ""
 "<32>* ALAS... WITH ONLY TWO CONTESTANTS LEFT, IT'S TIME FOR THE FINAL ROUND."
 msgstr ""
+"<32>* ALAS... COM OS ÚLTIMOS DOS COMPETIDORES RESTANTES, HORA DA RODADA "
+"FINAL."
 
 msgid ""
 "<32>* THE ONE ITEM WE'LL BE PRESENTING THIS ROUND IS TRULY UNLIKE ANY OTHER."
-msgstr ""
+msgstr "<32>* O ITEM FINAL APRESENTADO É MAIS INCRÍVEL QUE QUALQUER OUTRO."
 
 msgid ""
 "<32>* BEAUTIES AND GENTLEBEAUTIES...\n"
 "* FEAST YOUR EYES..."
 msgstr ""
+"<32>* DAMAS E CAVALHEDAMAS...\n"
+"* PREPAREM OS OLHOS..."
 
 msgid "<32>{#z3}* ... UPON THIS ABSOLUTELY GORGEOUS LIFE-SIZED MEW MEW DOLL!"
 msgstr ""
+"<32>{#z3}* ... PARA ESTA ABSOLUTAMENTE MARAVILHOSA BONECA MEW MEW TAMANHO "
+"REAL!"
 
 msgid "<32>{#p/kidd}{#f/14}* Woah..."
-msgstr ""
+msgstr "<32>{#p/kidd}{#f/14}* Woah..."
 
 msgid "<32>{#p/napstablook}* ........."
-msgstr ""
+msgstr "<32>{#p/napstablook}* ........."
 
 msgid "<32>{#p/napstablook}* oh my............"
-msgstr ""
+msgstr "<32>{#p/napstablook}* oh meu............"
 
 msgid "<32>{#p/mettaton}* HAHAHA, IMPRESSED?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* HAHAHA, IMPRESSIONADO?"
 
 msgid "<32>{#p/mettaton}{#z2}* IT WAS FOUND IN..."
-msgstr ""
+msgstr "<32>{#p/mettaton}{#z2}* FOI ENCONTRADO NO..."
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysOhGodNo}{#z0}* M-mettaton, come on!\n"
 "* I've had enough of a bad day as it is!"
 msgstr ""
+"<25>{#p/alphys}{#g/alphysOhGodNo}{#z0}* M-mettaton, por favor!\n"
+"* Meu dia já foi suficientemente ruim!"
 
 msgid ""
 "<32>* WELL, THAT'S A SHAME, THEN!\n"
 "* BECAUSE, YOU SEE..."
 msgstr ""
+"<32>* BEM, QUE PENINHA, ENTÃO!\n"
+"* JÁ QUE, COMO VOCÊ PODE VER..."
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysOhGodNo}{#z0}* H-hey! You can't give that away, "
 "that's... I own that!"
 msgstr ""
+"<25>{#p/alphys}{#g/alphysOhGodNo}{#z0}* Ei! Você não pode dar isso... eu sou "
+"a dona!"
 
 msgid "<32>{#p/mettaton}* OH, DO YOU NOW?"
-msgstr ""
+msgstr "<32>{#p/mettaton}* AH, VOCÊ É?"
 
 msgid ""
 "<32>* I APOLOGIZE.\n"
 "* I WASN'T AWARE.\n"
 "* BUT..."
 msgstr ""
+"<32>* ME DESCULPA.\n"
+"* EU NÃO SABIA.\n"
+"* MAS..."
 
 msgid "<25>{#p/alphys}{#g/alphysWTF2}* BUT???"
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysWTF2}* MAS???"
 
 msgid "<32>{#p/mettaton}* I'M AFRAID IT'S TOO LATE, DR. ALPHYS..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* TENHA MEDO DE QUE JÁ SEJA TARDE, DR. ALPHYS..."
 
 msgid "<32>{#z3}* THE CONTESTANTS HAVE ALREADY GOTTEN THEIR HOPES UP."
-msgstr ""
+msgstr "<32>{#z3}* OS COMPETIDORES JÁ ESTÃO A FLOR DA PELE."
 
 msgid "<25>{#p/alphys}{#g/alphysWTF}{#z0}* Are you serious?"
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysWTF}{#z0}* Você tá falando sério?"
 
 msgid ""
 "<25>{|}{#p/alphys}{#g/alphysCutscene3}* I spent months looking for- {%}"
 msgstr ""
+"<25>{|}{#p/alphys}{#g/alphysCutscene3}* Eu passei meses procurando por- {%}"
 
 msgid ""
 "<32>{#p/mettaton}* OH NO.\n"
