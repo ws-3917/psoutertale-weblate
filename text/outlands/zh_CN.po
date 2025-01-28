@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-28 02:57+0000\n"
+"PO-Revision-Date: 2025-01-28 02:57+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://ws3917.site/projects/"
+"project-spacetime/1-outlands/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
@@ -6080,10 +6095,15 @@ msgid ""
 "<32>{#p/basic}{#n1}* Huh?\n"
 "* Was that my Super Starwalker comic strip?"
 msgstr ""
+"<32>{#p/basic}{#n1}* 啊？\n"
+"* 那是我的《超级星之行者》\n"
+"  连环画吗？"
 
 msgid ""
 "<32>{#p/basic}{#n1}* ... and here I thought I'd gotten rid of that thing."
 msgstr ""
+"<32>{#p/basic}{#n1}* ...我还以为我彻底摆脱\n"
+"  那东西了呢。"
 
 msgid ""
 "<32>{#p/basic}{#n1}* If... if you d-do that again... I-I'm gonna have to "
