@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-28 02:08+0000\n"
+"PO-Revision-Date: 2025-01-28 02:08+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://ws3917.hbms.me/"
+"projects/ps-outertale/0-systems/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "（你深吸了一口气。）"
@@ -619,8 +634,6 @@ msgstr "§fill=#ff0§< 游戏开发者 >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< 文本编写 >§fill=#fff§"
@@ -2340,7 +2353,7 @@ msgid "Go back"
 msgstr "返回"
 
 msgid "OUTERTALE V5.05 (c) 2025 SPACEY_432"
-msgstr ""
+msgstr "OUTERTALE V5.05 (c) 2025 SPACEY_432"
 
 msgid "* (HP fully restored.)"
 msgstr "* （HP已回满。）"
