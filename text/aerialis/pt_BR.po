@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-28 15:49+0000\n"
+"PO-Revision-Date: 2025-01-28 15:49+0000\n"
+"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
+"ps-outertale/4-aerialis/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
 msgstr "<32>{#p/human}* (O terminal está acima do seu nível de acesso.)"
@@ -2706,6 +2721,7 @@ msgstr "<25>{#g/alphysUhButHeresTheDeal}* Claro, beleza!"
 
 msgid "<25>{#g/alphysUhButHeresTheDeal}* I'll get back to you on that later."
 msgstr ""
+"<25>{#g/alphysUhButHeresTheDeal}* Eu vou estar de volta com você mais tarde."
 
 msgid ""
 "<25>{#g/alphysUhButHeresTheDeal}* Actually, you don't even have it, so never"
@@ -2907,19 +2923,23 @@ msgid "<32>{#p/mettaton}* WAIT, THIS MIGHT ACTUALLY GET SOMEONE KILLED."
 msgstr "<32>{#p/mettaton}* ESPERA, ISSO PODE ACABAR REALMENTE MATANDO ALGUÉM."
 
 msgid "<32>{#p/mettaton}* WAIT! SOMETHING'S WRONG..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* PERA! ALGO ESTÁ ERRADO..."
 
 msgid ""
 "<32>{#p/mettaton}* THIS ISN'T MTT-BRAND {@fill=#003cff}FUN SLIME{@fill=#fff}"
 " AT ALL!"
 msgstr ""
+"<32>{#p/mettaton}* ESTE NÃO É O {@fill=#003cff}SLIME LEGAL{@fill=#fff} DA "
+"MARCA MTT DE FORMA ALGUMA!"
 
 msgid ""
 "<32>{#p/mettaton}* NO... THIS IS {@fill=#f00}PLASTIC EXPLOSIVE{@fill=#fff}!"
 msgstr ""
+"<32>{#p/mettaton}* NÃO... ISSO É {@fill=#f00}PLASTICO EXPLOSIVO{@fill=#fff}!"
 
 msgid "<32>{#p/mettaton}* OUR SPECIAL GUEST MUST'VE SWAPPED THE INGREDIENTS!"
 msgstr ""
+"<32>{#p/mettaton}* NOSSO CONVIDADO ESPECIAL DEVE TER TROCADO OS INGREDIENTES!"
 
 msgid "<32>{#p/mettaton}* DON'T WORRY, THOUGH."
 msgstr "<32>{#p/mettaton}* NÃO SE PREOCUPE, MEU BEM."
@@ -8059,8 +8079,6 @@ msgstr ""
 msgid "<32>{#p/human}* (Where would you like to go?)"
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "Floor L1"
 msgstr ""
