@@ -3019,7 +3019,7 @@ msgid "<25>{#g/alphysUhButHeresTheDeal}* Sure, okay!"
 msgstr "<25>{#g/alphysUhButHeresTheDeal}* 當然，沒事的！"
 
 msgid "<25>{#g/alphysUhButHeresTheDeal}* I'll get back to you on that later."
-msgstr ""
+msgstr "<25>{#g/alphysUhButHeresTheDeal}* 我待會再跟你聊。"
 
 msgid ""
 "<25>{#g/alphysUhButHeresTheDeal}* Actually, you don't even have it, so never"
@@ -3227,19 +3227,23 @@ msgid "<32>{#p/mettaton}* WAIT, THIS MIGHT ACTUALLY GET SOMEONE KILLED."
 msgstr "<32>{#p/mettaton}* 等等，這很可能讓人喪命。"
 
 msgid "<32>{#p/mettaton}* WAIT! SOMETHING'S WRONG..."
-msgstr ""
+msgstr "<32>{#p/mettaton}* 等下！這可不對..."
 
 msgid ""
 "<32>{#p/mettaton}* THIS ISN'T MTT-BRAND {@fill=#003cff}FUN SLIME{@fill=#fff}"
 " AT ALL!"
 msgstr ""
+"<32>{#p/mettaton}* 這壓根就不是MTT牌的\n"
+"  {@fill=#003cff}歡樂微笑膏{@fill=#fff}！"
 
 msgid ""
 "<32>{#p/mettaton}* NO... THIS IS {@fill=#f00}PLASTIC EXPLOSIVE{@fill=#fff}!"
-msgstr ""
+msgstr "<32>{#p/mettaton}* 這...這是{@fill=#f00}塑性炸藥{@fill=#fff}！"
 
 msgid "<32>{#p/mettaton}* OUR SPECIAL GUEST MUST'VE SWAPPED THE INGREDIENTS!"
 msgstr ""
+"<32>{#p/mettaton}* 我們的特邀嘉賓一定是\n"
+"  把材料掉包了！"
 
 msgid "<32>{#p/mettaton}* DON'T WORRY, THOUGH."
 msgstr "<32>{#p/mettaton}* 不過別擔心。"
