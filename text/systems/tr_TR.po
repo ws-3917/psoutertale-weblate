@@ -2338,7 +2338,7 @@ msgstr ""
 msgid "Go back"
 msgstr "Geri dön"
 
-msgid "OUTERTALE (c) 2024 SPACEY_432"
+msgid "OUTERTALE V5.05 (c) 2025 SPACEY_432"
 msgstr ""
 
 msgid "* (HP fully restored.)"

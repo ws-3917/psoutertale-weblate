@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-17 05:44+0000\n"
-"PO-Revision-Date: 2025-01-21 03:49+0000\n"
-"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
-"Language-Team: Spanish <https://ws3917.hbms.me/projects/ps-outertale/"
-"2-starton/es/>\n"
-"Language: es_ES\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
 
-#
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -1439,10 +1426,12 @@ msgid "<25>{#p/asriel2}{#f/3}* Huh."
 msgstr "<25>{#p/asriel2}{#f/3}* Huh."
 
 msgid "<26>{#p/asriel2}{#f/3}* Well, that's the canine unit gone."
-msgstr "<26>{#p/asriel2}{#f/3}* Bueno, ya nos encargamos de esa unidad canina."
+msgstr ""
+"<26>{#p/asriel2}{#f/3}* Bueno, ya nos encargamos de esa unidad canina."
 
 msgid "<26>{#p/asriel2}{#f/4}* Only one bridge left between us and town."
-msgstr "<26>{#p/asriel2}{#f/4}* Solo un puente más entre nosotros y la ciudad."
+msgstr ""
+"<26>{#p/asriel2}{#f/4}* Solo un puente más entre nosotros y la ciudad."
 
 msgid "<25>{#f/1}* ... stay behind me."
 msgstr "<25>{#f/1}* ... quedate detrás mio."
@@ -1671,14 +1660,15 @@ msgid "<25>{#p/asriel2}{#f/6}* ..."
 msgstr "<25>{#p/asriel2}{#f/6}* ..."
 
 msgid "<25>{#p/asgore}{#f/7}* You must consider the gravity of your choices!"
-msgstr "<25>{#p/asgore}{#f/7}* ¡Debes considerar la gravedad de tus decisiones!"
+msgstr ""
+"<25>{#p/asgore}{#f/7}* ¡Debes considerar la gravedad de tus decisiones!"
 
 msgid ""
 "<25>{#p/asriel2}{#f/15}* Or what? I'll float off into space, never to be "
 "seen again?"
 msgstr ""
-"<25>{#p/asriel2}{#f/15}* ¿O qué? ¿Voy a flotar en el espacio, para que nunca "
-"más me vuelvan a ver?"
+"<25>{#p/asriel2}{#f/15}* ¿O qué? ¿Voy a flotar en el espacio, para que nunca"
+" más me vuelvan a ver?"
 
 msgid "<25>{#f/16}* Come on $(name), we're done here."
 msgstr "<25>{#f/16}* Vamos $(name), hemos terminado aquí."
@@ -5149,6 +5139,9 @@ msgid "HOWDY!"
 msgstr "¡HOLA!"
 
 msgid "SAVE YOURSELVES..."
+msgstr ""
+
+msgid ""
 msgstr ""
 
 msgid "FAILED TO CONNECT..."

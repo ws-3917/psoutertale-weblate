@@ -1,27 +1,12 @@
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-27 16:29+0000\n"
-"PO-Revision-Date: 2025-01-27 16:29+0000\n"
-"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
-"ps-outertale/2-starton/pt_BR/>\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2\n"
-
-#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
-"<32>{#p/basic}* Um telescópio de longo alcance padrão da CIDADELA, por volta "
-"de 261X"
+"<32>{#p/basic}* Um telescópio de longo alcance padrão da CIDADELA, por volta"
+" de 261X"
 
 msgid "* (Use the telescope?)"
 msgstr "* (Usar o telescópio?)"
@@ -36,7 +21,8 @@ msgid "<25>{#p/kidd}{#f/2}* You do stargazing??"
 msgstr "<25>{#p/kidd}{#f/2}* Você tá caçando estrelas??"
 
 msgid "<25>{#p/kidd}{#f/1}* Yo... I bet you just saw something really cool."
-msgstr "<25>{#p/kidd}{#f/1}* Yo... Posso apostar que você viu algo bem da hora."
+msgstr ""
+"<25>{#p/kidd}{#f/1}* Yo... Posso apostar que você viu algo bem da hora."
 
 msgid ""
 "<25>{#f/7}* The last time I looked in a telescope, I saw a freaking "
@@ -4917,6 +4903,8 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
+msgid ""
+msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
