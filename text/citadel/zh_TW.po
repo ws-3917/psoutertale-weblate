@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-28 15:51+0000\n"
+"PO-Revision-Date: 2025-01-28 15:51+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://ws3917.site/"
+"projects/project-spacetime/5-citadel/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr "<32>{#p/human}* （一股暗流在你心中充盈。）"
@@ -2619,8 +2634,8 @@ msgstr "<25>{*}{#e/twinkly/4}...呃..."
 msgid ""
 "<25>{*}{#e/twinkly/0}Shoot, I forgot you skipped over the entire journey."
 msgstr ""
-"<25>{*}{#e/twinkly/0}草，忘了，你走捷徑了。\n"
-"好多人，好多事，你都沒見過。"
+"<25>{*}{#e/twinkly/0}幹，忘了，你走捷徑了。\n"
+"好多人，好多事，你都沒見過。ゐ"
 
 msgid ""
 "<25>{*}{#e/twinkly/24}Eh, screw it.\n"
@@ -18246,8 +18261,6 @@ msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/10}{@random=1.1/1.1}..."
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/12}{@random=1.1/1.1}永別了..."
 
-msgid ""
-msgstr ""
 
 msgid "N/A"
 msgstr "無"
