@@ -2465,6 +2465,21 @@ msgstr ""
 msgid "<32>{#p/mettaton}* WAIT, THIS MIGHT ACTUALLY GET SOMEONE KILLED."
 msgstr ""
 
+msgid "<32>{#p/mettaton}* WAIT! SOMETHING'S WRONG..."
+msgstr ""
+
+msgid ""
+"<32>{#p/mettaton}* THIS ISN'T MTT-BRAND {@fill=#003cff}FUN SLIME{@fill=#fff}"
+" AT ALL!"
+msgstr ""
+
+msgid ""
+"<32>{#p/mettaton}* NO... THIS IS {@fill=#f00}PLASTIC EXPLOSIVE{@fill=#fff}!"
+msgstr ""
+
+msgid "<32>{#p/mettaton}* OUR SPECIAL GUEST MUST'VE SWAPPED THE INGREDIENTS!"
+msgstr ""
+
 msgid "<32>{#p/mettaton}* DON'T WORRY, THOUGH."
 msgstr ""
 
