@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-28 15:49+0000\n"
-"PO-Revision-Date: 2025-01-28 15:49+0000\n"
+"PO-Revision-Date: 2025-01-29 04:24+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/6-common/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "The player did everything they could..."
 msgstr "O jogador fez tudo que ele pôde..."
 
@@ -457,7 +455,6 @@ msgstr "<25>{#p/basic}(Isso é tudo que se tem para dizer hoje!)"
 
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr "<25>{#p/basic}(Parabéns e tchau tchau!)"
-
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr "<32>{#s/phone}{#p/event}* Ring, ring..."
@@ -2001,104 +1998,117 @@ msgid "<18>{#p/papyrus}{#f/6}WELL, I DISAGREED!"
 msgstr "<18>{#p/papyrus}{#f/6}BEM, EU DISCORDO!"
 
 msgid "<18>{#p/papyrus}{#f/5}I KNEW SHE'D JUST BE GLAD IT WAS STILL ALIVE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU SEI QUE ELA FICARIA ORGULHOSA DE VÊ-LO VIVO."
 
 msgid "<18>{#p/papyrus}{#f/4}AND SINCE IT KNEW HER BETTER THAN ANYONE ELSE..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}E DESDE QUE ELE CONHECIA ELA MELHOR DO QUE NINGUÉM..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}IT WAS ONLY RIGHT IT SHOULD CARRY ON WITH HER LEGACY."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ELE ERA A PESSOA CERTA PARA CARREGAR O LEGADO DELA."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}THE CONVERSATION THAT FOLLOWED WAS HIGHLY ENCHANTING!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}A CONVERSA QUE SEGUIU FOI BEM ENCANTADORA!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}WE TALKED FOR SO LONG, I'M AMAZED I EVEN KEPT UP!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}NÓS CONVERSAMOS TANTO QUE EU FIQUEI SURPRESO DE "
+"CONSEGUIR ACOMPANHAR!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}ONCE WE WERE DONE, WE PARTED WAYS FEELING SATISFIED."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}UMA VEZ QUE TERMINAMOS, AMBOS ESTÁVAMOS SATISFEITOS."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}THOUGH... I KNEW THERE WAS STILL SOMETHING WRONG."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}EMBORA... EU SOUBESSE QUE AINDA HAVIA ALGO ERRADO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}A POLITE, GENTLE KNOCK GRACED THE MAINTENANCE DOOR."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UMA BATIDA GENTIL NA PORTA DA SALA DE MANUTENÇÃO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}I TRIED TO INVITE -WHOEVER IT WAS- INSIDE, BUT..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}EU TENTEI CONVIDAR SEJA LÁ QUEM ESTIVE BATENDO PARA "
+"ENTRAR, MAS..."
 
 msgid "<18>{#p/papyrus}{#f/5}IT APPEARED -SHE- WAS TOO LARGE TO GET THROUGH."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}MAS ELA ERA GRANDE DEMAIS PARA CABER DENTRO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}SO, TO ACCOMMODATE THE TOWERING, ARMORED KNIGHT..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ENTÃO, PARA ACOMODAR A GRANDE CAVALEIRA DE ARMADURA..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}I MOVED ALL THE MAINTENANCE ROOM FURNITURE OUTSIDE."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}EU TIREI TODOS OS EQUIPAMENTOS DA SALA DE MANUTENÇÃO "
+"PARA FORA."
 
 msgid "<18>{#p/papyrus}{#f/4}AFTER THAT... HER AND I HAD A TALK."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}DEPOIS DISSO... EU E ELA TIVEMOS UMA CONVERSA."
 
 msgid "<18>{#p/papyrus}{#f/5}A TALK..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UMA CONVERSA..."
 
 msgid "<18>{#p/papyrus}{#f/6}... ABOUT DEATH."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}... SOBRE A MORTE."
 
 msgid "<18>{#p/papyrus}{#f/6}NOT MY FAVORITE SUBJECT, BUT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}NÃO É MEU TÓPICO FAVORITO, MAS..."
 
 msgid "<18>{#p/papyrus}{#f/5}I COULD TELL SHE NEEDED TO TALK ABOUT IT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU SEI QUE ELA PRECISAVA CONVERSAR SOBRE AQUILO."
 
 msgid "<18>{#p/papyrus}{#f/6}ABOUT... HOW SOMEONE WHO LIVES AS LONG AS HER..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}COMO... ALGUÉM QUE VIVE TANTO QUANDO ELA..."
 
 msgid "<18>{#p/papyrus}{#f/6}LIVES TO SEE EVERYONE ELSE DIE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ACABA POR ASSISTIR TODOS AO SEU REDOR MORREREM."
 
 msgid "<18>{#p/papyrus}{#f/5}AND THEN..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}E ENTÃO..."
 
 msgid "<18>{#p/papyrus}{#f/5}I TRIED TO MAKE HER FEEL BETTER, BUT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU TENTEI FAZER ELA SE SENTIR MELHOR, MAS..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}NO MATTER WHAT I SAID, TERRESTRIA WOULDN'T CHEER UP!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}NÃO IMPORTAVA O QUE EU DIZIA, TERRESTRIA NÃO SE "
+"ANIMAVA!"
 
 msgid "<18>{#p/papyrus}{#f/5}SO INSTEAD..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ENTÃO, AO INVÉS..."
 
 msgid "<18>{#p/papyrus}{#f/5}I JUST GAVE HER A BIG, LONG HUG."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU DEI A ELA UM GRANDE E DEMORADO ABRAÇO."
 
 msgid "<18>{#p/papyrus}{#f/6}WE HELD EACH OTHER FOR HOURS..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}NOS ABRAÇAMOS POR HORAS..."
 
 msgid "<18>{#p/papyrus}{#f/6}I'M SURPRISED I WAS ABLE TO GO FOR THAT LONG!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}EU ESTOU SURPRESO QUE SEGUREI POR TANTO TEMPO!!"
 
 msgid "<18>{#p/papyrus}{#f/5}AFTER THAT, SHE LEFT AND SAID SHE'D BE OKAY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DEPOIS DISSO ELA SAIU E DISSE QUE FICARIA BEM."
 
 msgid "<18>{#p/papyrus}{#f/4}PART OF ME DOESN'T BELIEVE HER, BUT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}PARTE DE MIM NÃO ACREDITOU NELA, MAS..."
 
 msgid "<18>{#p/papyrus}{#f/5}IT'S BEST IF I RESPECT HER WISHES NOW."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}É MELHOR QUE EU RESPEITE OS DESEJOS DELA."
 
 msgid "<25>{#p/sans}{#f/3}* well... hey."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* bem... ei."
 
 msgid "<25>{#p/sans}{#f/0}* if she needs you again, she'll let you know."
 msgstr ""
