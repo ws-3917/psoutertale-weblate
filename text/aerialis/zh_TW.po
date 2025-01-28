@@ -3018,6 +3018,9 @@ msgstr "<25>{#f/3}* ..."
 msgid "<25>{#g/alphysUhButHeresTheDeal}* Sure, okay!"
 msgstr "<25>{#g/alphysUhButHeresTheDeal}* 當然，沒事的！"
 
+msgid "<25>{#g/alphysUhButHeresTheDeal}* I'll get back to you on that later."
+msgstr ""
+
 msgid ""
 "<25>{#g/alphysUhButHeresTheDeal}* Actually, you don't even have it, so never"
 " mind."
