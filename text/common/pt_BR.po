@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-28 15:49+0000\n"
+"PO-Revision-Date: 2025-01-28 15:49+0000\n"
+"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
+"ps-outertale/6-common/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "The player did everything they could..."
 msgstr "O jogador fez tudo que ele pôde..."
@@ -443,8 +458,6 @@ msgstr "<25>{#p/basic}(Isso é tudo que se tem para dizer hoje!)"
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr "<25>{#p/basic}(Parabéns e tchau tchau!)"
 
-msgid ""
-msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr "<32>{#s/phone}{#p/event}* Ring, ring..."
@@ -946,854 +959,1046 @@ msgstr ""
 msgid ""
 "<25>{#p/alphys}{#f/32}* In that moment, I didn't know WHAT to feel anymore."
 msgstr ""
+"<25>{#p/alphys}{#f/32}* Naquele momento, eu nem sabia o que sentir mais."
 
 msgid "<32>{#p/basic}{@fill=#ffbbdc}* Gosh, I don't blame you."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#ffbbdc}* senhor, eu não te culpo."
 
 msgid ""
 "<32>{#p/basic}{@fill=#d4bbff}* It's like she was only thinking about "
 "herself!!!"
 msgstr ""
+"<32>{#p/basic}{@fill=#d4bbff}* É como se ela só estivesse pensando em si "
+"mesma."
 
 msgid "<25>{#p/alphys}{#f/17}* She said she \"got\" what Asgore was going for..."
 msgstr ""
+"<25>{#p/alphys}{#f/17}* Ela disse que \"entendeu\" onde Asgore estava tendo "
+"chegar..."
 
 msgid "<25>{#p/alphys}{#f/24}* But that she \"couldn't allow it to go on.\""
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/24}* Mas que aquele plano era falho."
 
 msgid ""
 "<25>{#p/alphys}{#f/13}* ...\n"
 "* I was pretty upset about it, but..."
 msgstr ""
+"<25>{#p/alphys}{#f/13}* ...\n"
+"* Eu estava com muita raiva, mas..."
 
 msgid ""
 "<25>{#p/alphys}{#f/10}* At least we still just needed one more SOUL.\n"
 "* We still had hope."
 msgstr ""
+"<25>{#p/alphys}{#f/10}* Pelo menos precisamos de apenas mais uma ALMA.\n"
+"* Ainda temos esperança."
 
 msgid "<32>{#p/basic}{@fill=#ffbbdc}* ... until you didn't."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#ffbbdc}* ... até não ter mais."
 
 msgid ""
 "<25>{#p/alphys}{#f/20}* Right.\n"
 "* Until we didn't."
 msgstr ""
+"<25>{#p/alphys}{#f/20}* Exatamente.\n"
+"* Até não ter mais."
 
 msgid "<25>{#p/alphys}{#f/21}* Because Undyne, in her INFINITE WISDOM..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/21}* Porque a Undyne, em sua INFINITA SABEDORIA..."
 
 msgid ""
 "<25>{#p/alphys}{#f/22}* Had NO FREAKING IDEA HOW TO STORE THE HUMAN SOULS "
 "PROPERLY."
 msgstr ""
+"<25>{#p/alphys}{#f/22}* Não TINHA A MENOR IDEIA DE COMO CONTROLAR AS ALMAS "
+"HUMANAS PROPRIAMENTE."
 
 msgid "<32>{#p/basic}{@fill=#d4bbff}* And now they're all..."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#d4bbff}* e agora elas estão todas..."
 
 msgid "<25>{#p/alphys}{#f/24}* ... gone."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/24}* ... mortas."
 
 msgid "<25>{#p/alphys}{#f/6}* At that point, I just gave up."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/6}* Neste ponto eu só desisti."
 
 msgid "<25>{#p/alphys}{#f/8}* I didn't care what she did after that."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/8}* Eu não me importei com o que ela fez depois."
 
 msgid ""
 "<25>{#p/alphys}{#f/10}* I quit my job.\n"
 "* Threw my experiments in the garbage."
 msgstr ""
+"<25>{#p/alphys}{#f/10}* eu saí do meu trabalho.\n"
+"* Joguei meus experimentos no lixo."
 
 msgid "<25>{#p/alphys}{#f/33}* And then..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/33}* E então..."
 
 msgid "<32>{#p/basic}{@fill=#ffbbdc}* You came back to us."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#ffbbdc}* Você voltou para a gente."
 
 msgid ""
 "<32>{#p/basic}{@fill=#d4bbff}* You became an interstellar trash hunter "
 "again!"
 msgstr ""
+"<32>{#p/basic}{@fill=#d4bbff}* Você se tornou uma catadora de lixo "
+"interestelar novamente!"
 
 msgid "<25>{#p/alphys}{#f/29}* That's right."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/29}* Exatamente."
 
 msgid ""
 "<25>{#p/alphys}{#f/28}* And I'm GOOD at it.\n"
 "* Heck, I'm the best in the business."
 msgstr ""
+"<25>{#p/alphys}{#f/28}* E eu sou BOA nisso.\n"
+"* Hein, a melhor neste negócio."
 
 msgid ""
 "<32>{#p/basic}{@fill=#ffbbdc}* Now there's a fact if I've ever heard one."
 msgstr ""
+"<32>{#p/basic}{@fill=#ffbbdc}* Agora aí está uma coisa que eu nunca ouvi "
+"alguém dizer."
 
 msgid ""
 "<25>{#p/alphys}{#f/10}* Like, honestly, who CARES about getting out of here "
 "anyway?"
 msgstr ""
+"<25>{#p/alphys}{#f/10}* Tipo, honestamente, quem se IMPORTA de sair daqui de "
+"toda forma?"
 
 msgid "<25>{#p/alphys}{#f/28}* With all this space junk that comes through..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/28}* Com todo esse lixo espacial que entra..."
 
 msgid "<25>{#p/alphys}{#f/18}* There's no reason to leave at all!"
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/18}* Não a nenhuma razão pra ir embora!"
 
 msgid ""
 "<32>{#p/basic}{@fill=#ffbbdc}* But nobody else knows about the human stuff."
 msgstr ""
+"<32>{#p/basic}{@fill=#ffbbdc}* Mas ninguém sabe sobre a parada dos humanos."
 
 msgid ""
 "<32>{#p/basic}{@fill=#d4bbff}* Yeah, it's like, our new super duper big "
 "secret."
 msgstr ""
+"<32>{#p/basic}{@fill=#d4bbff}* É tipo, o nosso novo super duper grande "
+"segredo."
 
 msgid "<25>{#p/alphys}{#f/23}* Well, Undyne can lie to them all she wants."
 msgstr ""
+"<25>{#p/alphys}{#f/23}* Bem, Undyne não vai conseguir mentir para todos eles."
 
 msgid ""
 "<25>{#p/alphys}{#f/23}* She can build her arms factories, and her "
 "watchtowers..."
 msgstr ""
+"<25>{#p/alphys}{#f/23}* Ela pode fazer armas nas indústrias, e torres de "
+"controle..."
 
 msgid ""
 "<25>{#p/alphys}{#f/25}* If she thinks going all \"military\" will sell her "
 "story, okay."
 msgstr ""
+"<25>{#p/alphys}{#f/25}* Se ela pensa que entrar na era \"militar\" vai "
+"vender sua história, beleza."
 
 msgid "<25>{#p/alphys}{#f/26}* She can do whatever she sees fit."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/26}* Ela pode fazer o que ela achar melhor."
 
 msgid ""
 "<32>{#p/basic}{@fill=#d4bbff}* Oh yeah, didn't she, like, forcibly take over"
 " the Outlands or something?"
 msgstr ""
+"<32>{#p/basic}{@fill=#d4bbff}* Ah é, ela meio que, tomou a força as "
+"Outlands, né?"
 
 msgid "<26>{#p/alphys}{#f/24}* Ugh, that pissed me off."
-msgstr ""
+msgstr "<26>{#p/alphys}{#f/24}* Ugh, isso me irritou muito."
 
 msgid ""
 "<25>{#p/alphys}{#f/30}* The former queen tried to stand up to it, and..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/30}* A verdadeira rainha tentou impedir, e..."
 
 msgid ""
 "<25>{#p/alphys}{#f/31}* ... she got absolutely curb-stomped by Undyne's "
 "supporters."
 msgstr ""
+"<25>{#p/alphys}{#f/31}* ... ela foi totalmente pisoteada pelo apoiadores da "
+"Undyne."
 
 msgid ""
 "<25>{#p/alphys}{#f/21}* Undyne STILL hasn't taken responsibility for that."
 msgstr ""
+"<25>{#p/alphys}{#f/21}* Undyne ainda não tomou responsabilidade por aquilo."
 
 msgid "<32>{#p/basic}{@fill=#ffbbdc}* Gosh, that's just sad."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#ffbbdc}* Senhor, isso é apenas triste."
 
 msgid ""
 "<32>{#p/basic}{@fill=#d4bbff}* Oh yeah, didn't she, like, draft people into "
 "the Royal Guard or something?"
 msgstr ""
+"<32>{#p/basic}{@fill=#d4bbff}* Ah é, e ela meio que fez a Guarda Real como "
+"trabalho obrigatório?"
 
 msgid "<25>{#p/alphys}{#f/24}* Ugh, that was stupid."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/24}* Ugh, aquilo foi estúpido."
 
 msgid ""
 "<25>{#p/alphys}{#f/30}* All those people being forced to stand around all "
 "day..."
 msgstr ""
+"<25>{#p/alphys}{#f/30}* Todas aquelas pessoas forçadas a vigiarem o dia "
+"inteiro..."
 
 msgid "<25>{#p/alphys}{#f/31}* Watching for a human that may NEVER come..."
 msgstr ""
+"<25>{#p/alphys}{#f/31}* Procura do por um humano que talvez NUNCA venha..."
 
 msgid ""
 "<25>{#p/alphys}{#f/21}* It's like she forgot the telescope network exists."
 msgstr ""
+"<25>{#p/alphys}{#f/21}* É como se ela tivesse esquecido que a rede de "
+"telescópio existe."
 
 msgid ""
 "<32>{#p/basic}{@fill=#ffbbdc}* Wow, she didn't think that through at all."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#ffbbdc}* Uau, ela realmente não pensou nisso."
 
 msgid "<32>{#p/basic}{@fill=#d4bbff}* Yeah..."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#d4bbff}* É..."
 
 msgid ""
 "<25>{#p/alphys}{#f/20}* And she did it in spite of Papyrus BEGGING her not "
 "to."
 msgstr ""
+"<25>{#p/alphys}{#f/20}* E ela fez tudo isso mesmo com Papyrus IMPLORANDO pra "
+"ela não fazer."
 
 msgid ""
 "<25>{#p/alphys}{#f/31}* ... I stopped caring about her entirely after that."
 msgstr ""
+"<25>{#p/alphys}{#f/31}* ... Eu parei de me importar com ela completamente "
+"depois de tudo."
 
 msgid ""
 "<25>{#p/alphys}{#f/20}* Maybe, if Papyrus was around, he could've stopped "
 "her."
 msgstr ""
+"<25>{#p/alphys}{#f/20}* Talvez, se o Papyrus tivesse por perto, ele poderia "
+"ter parado ela."
 
 msgid ""
 "<25>{#p/alphys}{#f/18}* ... but we all know why that didn't happen, don't "
 "we?"
 msgstr ""
+"<25>{#p/alphys}{#f/18}* ... mas nós sabemos que isso não aconteceria, não é "
+"mesmo?"
 
 msgid ""
 "<25>{#p/alphys}{#f/17}* ...\n"
 "* Oh well.\n"
 "* It is what it is."
 msgstr ""
+"<25>{#p/alphys}{#f/17}* ...\n"
+"* Ah bem.\n"
+"* É o que é."
 
 msgid ""
 "<25>{#p/alphys}{#f/27}* Either way, it's thanks to all the people you "
 "killed..."
 msgstr ""
+"<25>{#p/alphys}{#f/27}* De toda forma, é por causa de todas as pessoas que "
+"você matou..."
 
 msgid "<25>{#p/alphys}{#f/26}* That any of this happened in the first place."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/26}* Que tudo isso aconteceu primeiramente."
 
 msgid "<25>{#p/alphys}{#f/18}* So, I'm blaming it all on you."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/18}* Então, eu coloco a culpa toda em você."
 
 msgid ""
 "<25>{#p/alphys}{#f/26}* And even if you didn't kill THAT many people..."
 msgstr ""
+"<25>{#p/alphys}{#f/26}* E mesmo se você não tiver MATADO tantas pessoas..."
 
 msgid "<25>{#p/alphys}{#f/23}* Even if Mettaton and I overreacted..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/23}* Mesmo se eu e Mettaton tivermos exagerado..."
 
 msgid "<25>{#p/alphys}{#f/18}* It's still totally your fault."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/18}* Ainda é totalmente sua culpa."
 
 msgid "<32>{#p/basic}{@fill=#ffbbdc}* You tell 'em, Alphys."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#ffbbdc}* Fala pra ele Alphys."
 
 msgid "<32>{#p/basic}{@fill=#d4bbff}* Yeah, in your face, loser!"
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#d4bbff}* É, fala pra ele, aquele perdedor!"
 
 msgid ""
 "<25>{#p/alphys}{#f/33}* ... anyway.\n"
 "* That's all I've got."
 msgstr ""
+"<25>{#p/alphys}{#f/33}* ... pois bem.\n"
+"* Isso é tudo que eu tenho."
 
 msgid "<25>{#p/alphys}{#f/1}* Bye now!"
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/1}* Até logo!"
 
 msgid "<32>{#p/basic}{@fill=#ffbbdc}* Until next time, pip-squeak."
-msgstr ""
+msgstr "<32>{#p/basic}{@fill=#ffbbdc}* Até a próxima, covarde."
 
 msgid ""
 "<32>{#p/basic}{@fill=#d4bbff}* Bratty, are you sure there's going to BE a "
 "next time?"
 msgstr ""
+"<32>{#p/basic}{@fill=#d4bbff}* Bratty, tem certeza que vai ter uma próxima "
+"vez?"
 
 msgid ""
 "<32>{#p/basic}{@fill=#ffbbdc}* Oh, shoot, you're right.\n"
 "* The phone's, like, outta batteries anyway."
 msgstr ""
+"<32>{#p/basic}{@fill=#ffbbdc}* Ah é, você tá certa.\n"
+"* A bateria do telefone tá acabando de toda forma."
 
 msgid ""
 "<32>{#p/basic}{@fill=#d4bbff}* ... later, alligator!!!\n"
 "* Nya ha ha!!!"
 msgstr ""
+"<32>{#p/basic}{@fill=#d4bbff}* ... até, traidor!!!\n"
+"* Nya ha ha!!!"
 
 msgid "<32>{#s/equip}{#p/event}* Click..."
-msgstr ""
+msgstr "<32>{#s/equip}{#p/event}* Click..."
 
 msgid "<25>{#p/sans}{#f/0}* heya."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* opa."
 
 msgid "<25>{#p/sans}{#f/3}* it's been a while, huh?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* já faz um tempo, huh?"
 
 msgid ""
 "<25>{#p/sans}{#f/0}* after you left, alphys... kind of went into a panic."
 msgstr ""
+"<25>{#p/sans}{#f/0}* depois que você fugiu, alphys... meio que entrou em "
+"pânico."
 
 msgid "<25>{#p/sans}{#f/0}* not only were asgore and undyne gone..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* não apenas asgore e undyne se foram..."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* but due to a botched plan involving mettaton and the "
 "core..."
 msgstr ""
+"<25>{#p/sans}{#f/0}* mas por conta de um plano estúpido envolvendo mettaton "
+"e o core..."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* the outpost's power systems were in total disarray."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* o sistema de energia do Outpost começou a quebrar."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* both the atmosphere and the gravity broke down.\n"
 "* it... wasn't pretty."
 msgstr ""
+"<25>{#p/sans}{#f/3}* tanto a atmosfera quando a gravidade foram destruídas.\n"
+"* não foi... nada bonito."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* just from her call, i could tell things were pretty "
 "bad."
 msgstr ""
+"<25>{#p/sans}{#f/0}* só pela ligação que ela fez, eu já entendi que as "
+"coisas estavam horríveis."
 
 msgid "<25>{#p/sans}{#f/0}* but by the time i got to the citadel..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* mas até eu chegar na cidadela..."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* a power surge killed the humans in the archive as well."
 msgstr ""
+"<25>{#p/sans}{#f/3}* um poder surgiu e matou todos os humanos nos arquivos "
+"também."
 
 msgid "<25>{#p/sans}{#f/3}* ... i'd never seen her in worse shape."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* ... eu nunca a vi em um estado tão ruim."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* still, i knew from back when we were lab partners..."
 msgstr ""
+"<25>{#p/sans}{#f/0}* ainda assim, eu sabia desde que éramos parceiros de "
+"laboratório..."
 
 msgid "<25>{#p/sans}{#f/2}* that she had what it took to overcome anything."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* que ela tinha um plano caso tudo desse errado."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* so i sat with her, and gave her a chance to process it "
 "all..."
 msgstr ""
+"<25>{#p/sans}{#f/0}* então, eu sentei com ela, e a dei uma chance de "
+"processar tudo..."
 
 msgid ""
 "<26>{#p/sans}{#f/3}* and by the end, she\n"
 "  took responsibility and accepted asgore's crown."
 msgstr ""
+"<26>{#p/sans}{#f/3}* no fim ela tomou responsabilidade e aceitou a coroa do "
+"rei asgore."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* ... right away, we knew we'd have to protect the human "
 "souls."
 msgstr ""
+"<25>{#p/sans}{#f/0}* ... de começo, já sabíamos que deveríamos proteger as "
+"almas dos humanos."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* so, we repurposed some old lab junk and built a "
 "containment system."
 msgstr ""
+"<25>{#p/sans}{#f/0}* então, não pegamos algumas tralhas do velho laboratório "
+"e criamos contêineres."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* after that, we realized we'd need someone to guard it."
 msgstr ""
+"<25>{#p/sans}{#f/3}* depois disso, nós percebemos que precisávamos "
+"protegê-las."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* when the former queen returned, shortly thereafter..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* quando a rainha voltou, pouco depois de tudo..."
 
 msgid "<25>{#p/sans}{#f/2}* she seemed like the ideal candidate."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* ela parecia ser a candidata ideal."
 
 msgid "<25>{#p/sans}{#f/0}* but then, she saw the human souls for herself..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* mas então, ela viu as almas humanas em si mesma..."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* and just went on a tirade about us being \"part of his "
 "agenda.\""
 msgstr ""
+"<25>{#p/sans}{#f/3}* e apenas fez um discurso sobre nós sermos "
+"\"parte de sua agenda.\""
 
 msgid ""
 "<25>{#p/sans}{#f/0}* we tried to explain what happened, and that asgore was "
 "innocent..."
 msgstr ""
+"<25>{#p/sans}{#f/0}* nós tentamos explicar o que aconteceu e dizer que "
+"asgore era inocente..."
 
 msgid "<25>{#p/sans}{#f/3}* but she wasn't having it in the slightest."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* mas ela não acreditou no que dissemos."
 
 msgid "<25>{#p/sans}{#f/3}* needless to say, she declined the job."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* infelizmente, ela acabou recusando o trabalho."
 
 msgid "<25>{#p/sans}{#f/0}* luckily, the same couldn't be said about papyrus."
 msgstr ""
+"<25>{#p/sans}{#f/0}* felizmente, o mesmo não pôde ser dito sobre o papyrus."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* after toriel declined, i called him next, and... well."
 msgstr ""
+"<25>{#p/sans}{#f/3}* depois da toriel rejeitar, eu liguei para ele e... bem."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* luckily, since papyrus was around, i called him up, "
 "and... well."
 msgstr ""
+"<25>{#p/sans}{#f/3}* com sorte, já que papyrus estava por perto, eu liguei "
+"pra ele e... bem."
 
 msgid "<25>{#p/sans}{#f/2}* he pretty much took the job on the spot."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* ele aceitou o trabalho bem facilmente."
 
 msgid "<18>{#p/papyrus}{#f/4}... FOR A WHILE, ANYWAY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}... POR AGORA, ENTRETANTO."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* ah, there you are.\n"
 "* how'd the session go just now?"
 msgstr ""
+"<25>{#p/sans}{#f/0}* ah, aí está você.\n"
+"* como foi a sessão hoje?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}OH, IT WENT WELL!\n"
 "EVERYONE SEEMS TO BE GETTING ALONG."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}AH, ESTÁ INDO BEM!\n"
+"TODO MUNDO PARECE ESTAR SE DANDO BEM."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* heh.\n"
 "* glad to hear it."
 msgstr ""
+"<25>{#p/sans}{#f/3}* heh.\n"
+"* feliz em ouvir isso."
 
 msgid "<18>{#p/papyrus}{#f/0}BY THE WAY, WHO ARE YOU TALKING TO?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}ALIÁS, COM QUEM VOCÊ ESTÁ CONVERSANDO?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}HELLO, SANS!\n"
 "I'VE COMPLETED MY SHIFT FOR TODAY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}OLÁ, SANS! EU CONCLUI MEU TRABALHO POR HOJE."
 
 msgid "<18>{#p/papyrus}{#f/9}NO INTRUDERS OR MALFUNCTIONS TO REPORT!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}SEM INVASORES OU MAL FUNCIONAMENTO RELATADOS!"
 
 msgid ""
 "<25>{#p/sans}{#f/0}* great work, papyrus.\n"
 "* keep it up."
 msgstr ""
+"<25>{#p/sans}{#f/0}* bom trabalho, papyrus.\n"
+"* mantenha-se assim."
 
 msgid "<18>{#p/papyrus}{#f/6}I'LL BE SURE TO!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}TEREI CERTEZA QUE SIM!!!"
 
 msgid "<18>{#p/papyrus}{#f/0}SO, WHO'S THAT YOU'RE TALKING TO?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}ENTÃO, COM QUEM VOCÊ ESTÁ CONVERSANDO?"
 
 msgid ""
 "<25>{#p/sans}{#f/2}* oh, y'know.\n"
 "* just another human, nobody important."
 msgstr ""
+"<25>{#p/sans}{#f/2}* ah, você sabe.\n"
+"* só outro humano, ninguém importante."
 
 msgid "<18>{#p/papyrus}{#f/4}BUT ALL THE HUMANS ARE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}MAS TODOS OS HUMANOS ESTÃO..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}... WAIT!!\n"
 "GIVE ME THAT!!"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}... ESPERA!!\n"
+"* ME DA ISSO AQUI!!"
 
 msgid "<25>{#p/sans}{#f/0}* here you go."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* aqui está."
 
 msgid "<18>{#p/papyrus}{#f/0}HELLO, HUMAN!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}OLÁ, HUMANO!"
 
 msgid "<18>{#p/papyrus}{#f/4}IT SURE HAS BEEN A WHILE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}JÁ FAZ MUITO TEMPO..."
 
 msgid "<18>{#p/papyrus}{#f/5}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}THERE'S... A STORY I'D LIKE TO TELL YOU, ACTUALLY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}TEM... UMA HISTÓRIA QUE EU GOSTARIA DE TE CONTAR."
 
 msgid "<15>{#f/6}IT'LL EXPLAIN THE WHOLE \"FOR A WHILE\" THING."
-msgstr ""
+msgstr "<15>{#f/6}VAI EXPLICAR TODO O \"POR AGORA\"."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* ... ah.\n"
 "* here we go."
 msgstr ""
+"<25>{#p/sans}{#f/3}* ... ah.\n"
+"* aí vai."
 
 msgid "<18>{#p/papyrus}{#f/7}SHH!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}SHH!!!"
 
 msgid "<18>{#p/papyrus}{#f/5}SO... I'M DOING MY JOB AS USUAL ONE DAY."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ENTÃO... EU ESTOU FAZENDO MEU TRABALHO COMO SEMPRE."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}MAKING SURE THE HUMAN SOULS REMAIN SAFE AND SOUND."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}TENDO CERTEZA DE QUE AS ALMAS HUMANOS ESTÃO SEGURAS E "
+"PROTEGIDAS."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}THEN...\n"
 "OUT OF NOWHERE..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}ENTÃO...\n"
+"DO NADA..."
 
 msgid "<18>{#p/papyrus}{#f/5}I HEAR A LOUD KNOCK AT THE MAINTENANCE DOOR."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}EU ESCUTEI UM GRANDE BATIDO NA PORTA DE MANUTENÇÃO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}AS IT TURNS OUT, A STRANGE, BLIND DOG HAD RUN INTO IT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}ACABOU QUE ERA UM ESTRANHO CACHORRO CEGO QUE HAVIA "
+"BATIDO NELA!"
 
 msgid "<18>{#p/papyrus}{#f/5}I WAS QUITE CONFUSED AT FIRST..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU ESTAVA CONFUSO NO COMEÇO..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}BUT AFTER TALKING TO HIM, THE REASON BECAME CLEAR."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}MAS APÓS FALAR COM ELE, TUDO FICOU CLARO."
 
 msgid "<18>{#p/papyrus}{#f/6}HE WAS LOOKING FOR HIS CANINE UNIT COMRADES."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}ELE ESTAVA PROCURANDO PELOS SEUS CAMARADAS DA UNIDADE "
+"CANINA."
 
 msgid "<18>{#p/papyrus}{#f/0}FORTUNATELY, I WAS HAPPY TO HELP."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}FELIZMENTE, EU ESTAVA FELIZ PARA AJUDAR."
 
 msgid "<18>{#p/papyrus}{#f/4}SO, AFTER THE END OF MY SHIFT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}ENTÃO, APÓS O FINAL DO MEU EXPEDIENTE..."
 
 msgid "<18>{#p/papyrus}{#f/0}WE WENT OUT TOGETHER TO BEGIN OUR SEARCH."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}NÓS SAÍMOS JUNTOS PARA PROCURAR."
 
 msgid "<18>{#p/papyrus}{#f/5}FROM THE EDGE OF THE NOW-OPEN OUTLANDS..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DESDE DE A PONTA DA AGORA ABERTA OUTLANDS..."
 
 msgid "<18>{#p/papyrus}{#f/5}TO THE TALLEST SKYSCRAPERS IN THE CITADEL..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ATÉ O MAIS ALTO ARRANHA CÉU DA CIDADELA..."
 
 msgid "<18>{#p/papyrus}{#f/6}IT WAS SAFE TO SAY WE'D SEEN IT ALL."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}É SEGURO DIZER QUE ENCONTRAMOS TUDO QUE TINHA PARA "
+"ENCONTRAR."
 
 msgid "<18>{#p/papyrus}{#f/5}... ALL EXCEPT THE CANINES WE WERE LOOKING FOR."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}... TUDO MENOS A UNIDADE CANINA NA QUAL ESTÁVAMOS "
+"PROCURANDO."
 
 msgid "<25>{#p/sans}{#f/0}* hmm..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* hmm..."
 
 msgid "<25>{#p/sans}{#f/3}* did you ever find the other dogs?"
 msgstr ""
+"<25>{#p/sans}{#f/3}* você encontrou os outros cachorros por qualquer chance?"
 
 msgid "<18>{#p/papyrus}{#f/5}WELL... NO."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}BEM... NÃO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}BY THE TIME WE MADE IT BACK TO THE ROYAL ANNEX..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}PELO TEMPO QUE NÓS CHEGAMOS DE NOVO NO ANEXO REAL..."
 
 msgid "<18>{#p/papyrus}{#f/5}ALPHYS WAS AWAKE, AND TOLD US WHAT HAPPENED."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ALPHYS ESTAVA ACORDADA E NOS CONTOU O QUE ACONTECEU."
 
 msgid "<18>{#p/papyrus}{#f/3}... ALL THOSE ROYAL GUARDS..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/3}... TODOS AQUELES GUARDAS REAIS..."
 
 msgid "<18>{#p/papyrus}{#f/31}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}..."
 
 msgid "<18>{#p/papyrus}{#f/5}DOGGO TOOK THE NEWS PRETTY HARD."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DOGGO LEVOU ESSAS NOTÍCIAS PARA O CORAÇÃO."
 
 msgid "<18>{#p/papyrus}{#f/6}BUT ALPHYS AND I, WE DIDN'T LET HIM GIVE UP!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MAS ALPHYS E EU, NÓS NÃO DEIXAMOS ELE DESISTIR!"
 
 msgid "<18>{#p/papyrus}{#f/6}IN HIS TIME OF NEED, WE COMFORTED HIM OURSELVES!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ENQUANTO ELE PRECISOU, NÓS CONFORTAMOS ELE!"
 
 msgid "<18>{#p/papyrus}{#f/5}WE PROMISED HIM HE'D HAVE A HOME HERE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}NÓS O PROMETEMOS UMA CASA AQUI."
 
 msgid "<25>{#p/sans}{#f/0}* hmm... i see."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* hmm... eu entendo."
 
 msgid "<25>{#p/sans}{#f/2}* that explains the dog hair on asgore's couch."
 msgstr ""
+"<25>{#p/sans}{#f/2}* isso explica o pelo de cachorro no travesseiro do "
+"asgore."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}I HEAR A BUNCH OF KNOCKS AT THE MAINTENANCE DOOR."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}EU ESCUTEI UM MONTE DE BATIDOS NA PORTA DE MANUTENÇÃO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}AS IT TURNS OUT, A SHORT-NECKED DOG WANTED MY COMPANY!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}O QUE ERA BASICAMENTE UM CACHORRO DE PESCOÇO PEQUENO "
+"QUERENDO COMPANHIA!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}BUT AFTER PETTING IT SEVERAL TIMES, IT ALL MADE SENSE."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}MAS APÓS ACARICIAR ELE ALGUMAS VEZES, TUDO FEZ SENTIDO."
 
 msgid "<18>{#p/papyrus}{#f/6}ITS NECK... BEGAN TO SPELL OUT A MESSAGE."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}SEU PESCOÇO... COMEÇOU A CRESCER E MOSTRAR UMA "
+"MENSAGEM."
 
 msgid "<18>{#p/papyrus}{#f/6}AND THAT MESSAGE WAS \"ALONE.\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}E A MENSAGEM ERA \"SOZINHO.\""
 
 msgid ""
 "<18>{#p/papyrus}{#f/8}I FELT SO BAD!!\n"
 "I COULDN'T HELP BUT CRY!!"
 msgstr ""
+"<18>{#p/papyrus}{#f/8}EU ME SENTI TÃO MAL!!\n"
+"NÃO PUDE AJUDAR SE NÃO CHORAR!!"
 
 msgid "<18>{#p/papyrus}{#f/5}ANYWAY, I ASKED ALPHYS ABOUT IT LATER, AND..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}DE TODA FORMA, EU PERGUNTEI A ALPHYS SOBRE ISSO MAIS "
+"TARDE E..."
 
 msgid "<18>{#p/papyrus}{#f/5}SHE TOLD ME WHAT HAD HAPPENED."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ELA ME CONTOU O QUE ACONTECEU."
 
 msgid "<18>{#p/papyrus}{#f/5}IT WAS HARD HEARING THAT NEWS, BUT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}FOI BEM DIFÍCIL SABER DESSAS NOTÍCIAS, MAS..."
 
 msgid "<18>{#p/papyrus}{#f/6}KNOWING HOW CANIS MINOR MUST HAVE FELT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}SABENDO COMO MINOR CANIS DEVE SE SENTIR..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}FROM THEN ON, I GAVE IT ALL THE ATTENTION I COULD."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DESDE ENTÃO, EU DEI A ELE TODA MINHA ATENÇÃO."
 
 msgid "<25>{#p/sans}{#f/3}* well... if it's any consolation..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* bem... se serve como consolação..."
 
 msgid "<25>{#p/sans}{#f/0}* i think you did the right thing."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* eu acho que você fez a coisa certa."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}I HEAR A BANGING SOUND FROM THE MAINTENANCE DOOR."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}EU ESCUTEI UM SOM DE BATIDA NA PORTA DA SALA DE "
+"MANUTENÇÃO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}AS IT TURNS OUT, TWO DOGS WITH AXES HAD WHALED ON IT!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ACABOU QUE ERAM DOIS CACHORROS COM MACHADOS!"
 
 msgid "<18>{#p/papyrus}{#f/5}I WAS QUITE CONCERNED AT FIRST..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU ESTAVA MEIO PREOCUPADO NO COMEÇO..."
 
 msgid "<18>{#p/papyrus}{#f/5}BUT AFTER WHAT THEY TOLD ME..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}MAS APÓS O QUE ELES ME DISSERAM..."
 
 msgid "<18>{#p/papyrus}{#f/5}THAT FEELING HAD TURNED TO SADNESS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}O SENTIMENTO SE TORNOU TRISTEZA."
 
 msgid "<18>{#p/papyrus}{#f/5}DOGAMY AND DOGARESSA, THEY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DOGAMY E DOGARESSA, ELES..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}THEY QUESTIONED IF THEIR MARRIAGE WAS WORTH "
 "MAINTAINING."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ELES ESTAVAM SE QUESTIONANDO SE AINDA VALIAM A PENA "
+"MANTER SEU CASAMENTO."
 
 msgid "<25>{#p/sans}{#f/3}* ... surely you convinced them to stay together."
 msgstr ""
+"<25>{#p/sans}{#f/3}* ... conhecendo você, eu sei que fez eles se manterem "
+"juntos."
 
 msgid "<18>{#p/papyrus}{#f/4}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}..."
 
 msgid "<18>{#p/papyrus}{#f/4}YOU KNOW ME TOO WELL."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}VOCÊ ME CONHECE MUITO BEM."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}ANYWAY, THEY JUST WANTED SOME ALONE TIME AFTER THAT."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}DE TODA FORMA, ELES SÓ QUERIAM UM TEMPO A SOS DEPOIS "
+"DE TUDO ISSO."
 
 msgid "<18>{#p/papyrus}{#f/5}SO... I DROPPED THEM OFF AT ASGORE'S PLACE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ENTÃO... EU OS DEIXEI FICAR NA CASA DO ASGORE."
 
 msgid "<25>{#p/sans}{#f/0}* actually, i heard they still live there."
 msgstr ""
+"<25>{#p/sans}{#f/0}* na verdade, eu fiquei sabendo que eles ainda vivem lá."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* something tells me that extra room will come in handy "
 "soon."
 msgstr ""
+"<25>{#p/sans}{#f/2}* algo me diz que aquele quarto de criança servirá muito "
+"bem logo, logo."
 
 msgid "<18>{#p/papyrus}{#f/5}I HEAR A KNOCK OF SORTS AT THE MAINTENANCE DOOR."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}EU ESCUTEI UM BARULHO DE ARRANHO NA PORTA DA SALA DE "
+"MANUTENÇÃO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}AS IT TURNS OUT, IT WAS JUST A BIG DOG'S LOUD BARK."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}ACABOU QUE ERA APENAS UM GRANDE CACHORRO LATINDO ALTO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}THEN THE DOG TOOK OFF ITS ARMOR, AND BECAME SMALL."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ENTÃO O CACHORRO TIROU SUA ARMADURA E SE TORNOU "
+"PEQUENO."
 
 msgid "<18>{#p/papyrus}{#f/6}AND THEN IT RAN UP TO ME, AND WANTED TO PLAY!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}E ENTÃO ELE VEIO ATÉ MIM, QUERENDO BRINCAR!"
 
 msgid "<18>{#p/papyrus}{#f/6}IT SEEMED... MORE DESPERATE THAN EVER."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ELE PARECIA... MAIS DESESPERADO DO QUE NUNCA."
 
 msgid "<18>{#p/papyrus}{#f/6}LIKE IT HADN'T PLAYED WITH ANYONE IN YEARS!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}NUNCA VI TANTO ELE QUERER BRINCAR DESSA FORMA!"
 
 msgid "<18>{#p/papyrus}{#f/4}I GET THAT DOG-TIME CAN BE WEIRD, BUT..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}EU SEI QUE O TEMPO DOS CACHORROS É DIFERENTE, MAS..."
 
 msgid "<18>{#p/papyrus}{#f/6}STILL, I WONDERED IF SOMETHING HAD GONE AWRY!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}AINDA ASSIM, EU ME PERGUNTEI SE ALGO ESTAVA ERRADO!"
 
 msgid "<18>{#p/papyrus}{#f/5}SO I ASKED ALPHYS ABOUT IT LATER, AND..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ENTÃO EU PERGUNTEI PARA ALPHYS MAIS TARDE SOBRE E..."
 
 msgid "<18>{#p/papyrus}{#f/6}KNOWING HOW CANIS MAJOR MUST HAVE FELT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}SABENDO COMO O MAJOR CANIS DEVE SE SENTIR..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}FROM THEN ON, I PLAYED WITH IT AS MUCH AS I COULD."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}DESDE ENTÃO EU BRINQUEI COM ELE O MÁXIMO QUE PUDE."
 
 msgid "<18>{#p/papyrus}{#f/5}I GET A CALL FROM A HIGH-RANKING GUARD MEMBER."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}EU RECEBI UMA LIGAÇÃO DE UM ALTO MEMBRO DA GUARDA REAL."
 
 msgid "<18>{#p/papyrus}{#f/6}AND A DISTRESSING ONE AT THAT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}E UM ANGUSTIANTE."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}AS A FRIEND OF UNDYNE'S, SHE TOLD ME TO MEET HER..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UMA AMIGA DA UNDYNE, DIZENDO QUE QUERIA ME VER..."
 
 msgid "<18>{#p/papyrus}{#f/6}TO DISCUSS A MATTER OF \"GREAT IMPORTANCE.\""
 msgstr ""
+"<18>{#p/papyrus}{#f/6}PARA FALAR SOBRE UM ASSUNTO DE \"GRANDE IMPORTÂNCIA.\""
 
 msgid "<18>{#p/papyrus}{#f/6}I WAS A LITTLE NERVOUS WHEN I GOT THERE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}EU ESTAVA MEIO NERVOSO QUANDO CHEGUEI LÁ..."
 
 msgid "<18>{#p/papyrus}{#f/5}BUT SHE REALLY DID JUST WANT TO TALK."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}MAS ELA REALMENTE SÓ QUERIA CONVERSAR."
 
 msgid "<18>{#p/papyrus}{#f/4}ADMITTEDLY, SHE WAS BEING CRYPTIC ABOUT IT..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}ELA ESTAVA SENDO BEM ENIGMÁTICA EM RELAÇÃO A ISSO..."
 
 msgid "<18>{#p/papyrus}{#f/5}THOUGH, WITH ENOUGH TIME, I CRACKED THE CODE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}BEM, COM UM TEMPO EU QUEBREI O CÓDIGO."
 
 msgid "<18>{#p/papyrus}{#f/5}DOGE QUESTIONED THE VIABILITY OF HER PURPOSE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DOGE QUESTIONOU O PROPÓSITO DA SUA VIDA."
 
 msgid "<18>{#p/papyrus}{#f/6}THAT OF PROTECTING MONSTERKIND."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}O PROPÓSITO DE PROTEGER A VIDA DOS MONSTROS."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}IF THE ROYAL GUARD COULD BE WIPED OUT BY ONE HUMAN..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}SE A GUARDA REAL PÔDE SER DESTRUÍDA POR UM HUMANO..."
 
 msgid "<18>{#p/papyrus}{#f/6}WHAT WOULD SHE ALONE BE ABLE TO DO?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}O QUE ELA SOZINHA SERIA CAPAZ DE FAZER?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}...\n"
 "I TOOK HER TO THE CITADEL."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}...\n"
+"EU A LEVEI PARA A CIDADELA."
 
 msgid "<18>{#p/papyrus}{#f/5}I SHOWED HER THE HUMAN SOULS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU A MOSTREI AS ALMAS HUMANAS."
 
 msgid "<18>{#p/papyrus}{#f/6}AND I TURNED TO HER AND SAID..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}E ENTÃO EU VIREI PARA ELA E DISSE..."
 
 msgid "<18>{#p/papyrus}{#f/6}\"JUST ONE MORE.\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}\"SÓ MAIS UMA.\""
 
 msgid "<18>{#p/papyrus}{#f/5}THEN, SHE LOOKED BACK AT ME, CLOSED HER EYES..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ENTÃO, ELA OLHOU PARA MIM, FECHOU OS OLHOS..."
 
 msgid "<18>{#p/papyrus}{#f/6}AND REPLIED \"I UNDERSTAND.\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}E RESPONDEU \"EU ENTENDO.\""
 
 msgid ""
 "<25>{#p/sans}{#f/0}* jeez.\n"
 "* sounds intense."
 msgstr ""
+"<25>{#p/sans}{#f/0}* caramba.\n"
+"* parece intenso."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* for what it's worth, that probably motivated her quite "
 "a bit."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* pelo que você fez, aquilo provavelmente a motivou."
 
 msgid "<18>{#p/papyrus}{#f/5}I GET A CALL FROM TWO NUMBERED GUARD MEMBERS."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}EU RECEBI UMA LIGAÇÃO DE DOIS MEMBROS DA GUARDA "
+"NUMERADOS."
 
 msgid "<18>{#p/papyrus}{#f/5}AS SOMEONE THEY SHARED ICE CREAM WITH..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ELES QUERIAM DIVIDIR SORVETE COMIGO..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}THEY ASKED ME TO MEET WITH THEM TO DISCUSS SOMETHING."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}ENTÃO ME PEDIRAM PARA ENCONTRÁ-LOS E CONVERSAR SOBRE "
+"ALGO."
 
 msgid "<25>{#p/sans}{#f/0}* if i had to guess..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* se eu tiver que adivinhar..."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* i'd say this particular meeting wasn't about ice cream."
 msgstr ""
+"<25>{#p/sans}{#f/3}* eu diria que a conversa particular não era sobre "
+"sorvete."
 
 msgid "<18>{#p/papyrus}{#f/6}SADLY NOT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}INFELIZMENTE NÃO."
 
 msgid "<18>{#p/papyrus}{#f/5}INSTEAD, THEY... HAD SOME BAD NEWS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}NA VERDADE, ELES... TINHAM PÉSSIMAS NOTÍCIAS."
 
 msgid "<18>{#p/papyrus}{#f/5}AFTER HAVING ONLY JUST BEEN PROMOTED, THEY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DEPOIS DE SEREM PROMOVIDOS, ELES..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}THEY FELT LIKE ALL THEIR TRAINING HAD BEEN FOR "
 "NOTHING."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}SENTIRAM QUE TODO AQUELE TREINO FOI PARA NADA."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}BUT...!\n"
 "I SAID I COULD GET THEM A NEW JOB!!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}MAS...!\n"
+"EU DISSE QUE PODERIA ENCONTRAR PARA ELES UM NOVO TRABALHO!!"
 
 msgid "<18>{#p/papyrus}{#f/5}SO, I WENT THROUGH A FEW IDEAS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ENTÃO, VIEMOS COM ALGUMAS IDEIAS."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}MOST OF THEM WERE REJECTED, BUT WEIRDLY ENOUGH..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}MAIOR PARTE DELAS FORAM REJEITADAS, MAS "
+"ESTRANHAMENTE..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}THEY LOVED MY IDEA OF THEM JOINING A SWIMMING TEAM."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}ELES AMARAM A IDEIA DE SE JUNTAR AO TIME DE NATAÇÃO."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* so you're saying 01 and 02 became professional "
 "swimmers?"
 msgstr ""
+"<25>{#p/sans}{#f/0}* então você está dizendo que o 01 e 02 se tornaram "
+"nadadores profissionais?"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* well, as long as they're happy doing what they're "
 "doing."
 msgstr ""
+"<25>{#p/sans}{#f/3}* bem, com tanto que eles estejam felizes com o que estão "
+"fazendo."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}OH, DON'T WORRY.\n"
 "NOT ONLY ARE THEY HAPPY..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}OH, NÃO SE PREOCUPE.\n"
+"NÃO APENAS ELES ESTÃO FELIZES..."
 
 msgid "<18>{#p/papyrus}{#f/0}THEY'RE ALSO INCREDIBLY POPULAR!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}ELES TAMBÉM ESTÃO INCRIVELMENTE POPULARES!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}...\n"
 "STILL, KNOWING WHY THEY'RE THERE..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}...\n"
+"MAS, SABENDO O MOTIVO DE ESTAREM ALI..."
 
 msgid "<18>{#p/papyrus}{#f/5}DOES MAKE ME FEEL A LITTLE SAD."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}FAZ COM QUE EU ME SINTA TRISTE."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}A STRANGE WIZARD APPEARED IN THE MAINTENANCE ROOM."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UM ESTRANHO MAGO APARECEU NA SALA DE MANUTENÇÃO."
 
 msgid "<18>{#p/papyrus}{#f/6}AND ASKED ME ABOUT THE MEANING OF LIFE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}E ME PERGUNTOU SOBRE O SENTIDO DA VIDA."
 
 msgid "<18>{#p/papyrus}{#f/4}WE... HAD TO SCALE THE CONVERSATION BACK A BIT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}NÓS... ACABAMOS ESCALANDO A CONVERSA UM POUCO."
 
 msgid "<18>{#p/papyrus}{#f/4}TO SAY THE LEAST."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}PARA DIZER O MÍNIMO."
 
 msgid "<25>{#p/sans}{#f/3}* i can imagine."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* posso imaginar."
 
 msgid "<25>{#p/sans}{#f/0}* so did you learn anything after that?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* então você aprendeu algo após tudo isso?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}WELL, YES.\n"
 "I LEARNED ABOUT A LOT OF THINGS."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}BEM, SIM.\n"
+"EU APRENDI SOBRE MUITAS COISAS."
 
 msgid "<18>{#p/papyrus}{#f/6}ITS FEARS, ITS ANXIETIES..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}OS MEDOS, AS ANSIEDADES..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}AND...  A LOSS FAR GREATER THAN I HAD ANTICIPATED."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}E ELE TEVE...  UMA PERDA MUITO MAIOR DO QUE EU "
+"ESPERAVA."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}LOSING ITS MENTOR, TERRESTRIA, HIT PARTICULARLY HARD."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}PERDER SUA MENTORA, TERRESTRIA, DOEU MUITO."
 
 msgid "<18>{#p/papyrus}{#f/6}COZMO HAD WORKED TO IMPRESS HER ALL ITS LIFE..."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}COZMO TRABALHOU A VIDA TODA PARA IMPRESSIONAR ELA..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}AND YET, NEVER FELT IT DID ENOUGH TO MAKE HER PROUD."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}E MESMO ASSIM NUNCA SENTIU TER FEITO O SUFICIENTE PARA "
+"DEIXA ORGULHOSA."
 
 msgid "<18>{#p/papyrus}{#f/6}WELL, I DISAGREED!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}BEM, EU DISCORDO!"
 
 msgid "<18>{#p/papyrus}{#f/5}I KNEW SHE'D JUST BE GLAD IT WAS STILL ALIVE."
 msgstr ""
