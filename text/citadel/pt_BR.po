@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-28 15:49+0000\n"
-"PO-Revision-Date: 2025-01-28 15:49+0000\n"
+"PO-Revision-Date: 2025-01-29 19:49+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/5-citadel/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr ""
 "<32>{#p/human}* (Você sente a escuridão preencher dentro do seu corpo.)"
@@ -5425,284 +5423,339 @@ msgid ""
 "  who does gets trapped\n"
 "  in the movie world and {%}"
 msgstr ""
+"<99>{|}{#f/23} assista, mas todos\n"
+"  quem fica preso\n"
+"  no mundo do cinema e {%}"
 
 msgid ""
 "<99>{|}{#f/23}  they all have to figure\n"
 "  out how to advance the\n"
 "  plot to escape and {%}"
 msgstr ""
+"<99>{|}{#f/23} todos eles têm que descobrir\n"
+"  como avançar o\n"
+"  plot para escapar e {%}"
 
 msgid ""
 "<99>{|}{#f/18}  the main character\n"
 "  figures out how to get\n"
 "  to the end and they do {%}"
 msgstr ""
+"<99>{|}{#f/18} o personagem principal\n"
+"  descobre como chegar\n"
+"  até o fim e eles fazem {%}"
 
 msgid ""
 "<99>{|}{#f/18}  and then they set\n"
 "  everyone free!!!"
 msgstr ""
+"<99>{|}{#f/18} e então eles conseguem deixar\n"
+"  todos livres!!!"
 
 msgid "<25>{#f/18}* ..."
-msgstr ""
+msgstr "<25>{#f/18}* ..."
 
 msgid "<25>{#f/20}* So, uh, I think he was inspired by that."
-msgstr ""
+msgstr "<25>{#f/20}* Então, uh, eu acho que eles foram inspirados por isso."
 
 msgid ""
 "<25>{#f/18}* A-anyway!!\n"
 "* Asgore's waiting for you at the force field!"
 msgstr ""
+"<25>{#f/18}* B-bem!!\n"
+"* Asgore estará te esperando no escudo de força!"
 
 msgid "<25>{#g/alphysCutscene2}* ..."
-msgstr ""
+msgstr "<25>{#g/alphysCutscene2}* ..."
 
 msgid ""
 "<25>{#g/alphysSmileSweat}* W-well, Asgore's waiting for you at the force "
 "field."
 msgstr ""
+"<25>{#g/alphysSmileSweat}* B-bem, Asgore está te esperando no escudo de "
+"força."
 
 msgid "<25>{#g/alphysNeutralSweat}* In... case you were wondering."
-msgstr ""
+msgstr "<25>{#g/alphysNeutralSweat}* Caso... você esteja se perguntando."
 
 msgid ""
 "<25>{#g/alphysOhGodNo}* But, if you weren't!!\n"
 "* Then..."
 msgstr ""
+"<25>{#g/alphysOhGodNo}* Mas, caso não!!\n"
+"* Então..."
 
 msgid "<25>{#g/alphysTheFactIs}* I'm... not sure why you're here."
-msgstr ""
+msgstr "<25>{#g/alphysTheFactIs}* Eu... não sei porque você está aqui."
 
 msgid ""
 "<26>{#g/alphysCutscene2}* So yeah.\n"
 "* That's about it, really."
 msgstr ""
+"<26>{#g/alphysCutscene2}* Então é.\n"
+"* É sobre isso!"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysCutscene2}* Uh, I'll just be over here for now."
 msgstr ""
+"<25>{#p/alphys}{#g/alphysCutscene2}* Uh, eu só vou ficar por aqui, agora."
 
 msgid "<25>{#p/alphys}{#g/alphysInquisitive}* Having second thoughts...?"
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysInquisitive}* Tendo dúvidas...?"
 
 msgid "<26>{#p/asgore}{#f/1}* This is the force field."
-msgstr ""
+msgstr "<26>{#p/asgore}{#f/1}* Este é o Escudo de Força."
 
 msgid "<25>{#f/2}* It is what keeps us trapped on the outpost."
-msgstr ""
+msgstr "<25>{#f/2}* Isso é o que nos mantém presos no Outpost."
 
 msgid "<25>{#f/1}* An unthinking, unfeeling boundary..."
-msgstr ""
+msgstr "<25>{#f/1}* Um limite irrefletido, insensível..."
 
 msgid "<25>{#f/2}* Through which nobody, monster or otherwise, may pass."
-msgstr ""
+msgstr "<25>{#f/2}* Que ninguém, monstro ou qualquer outro, consegue passar."
 
 msgid ""
 "<25>{#p/asgore}{#f/1}* For many years, I lamented that we would never reach "
 "the stars."
 msgstr ""
+"<25>{#p/asgore}{#f/1}* Por anos eu pensei que jamais iríamos chegar as "
+"estrelas."
 
 msgid "<25>* I feared that, one day, a human would arrive and doom us all."
-msgstr ""
+msgstr "<25>* Eu temia que, um dia, um humano apareceria e mataria a todos nós."
 
 msgid "<25>{#f/1}* ..."
-msgstr ""
+msgstr "<25>{#f/1}* ..."
 
 msgid "<25>{#f/2}* It seems... this fear was justified."
-msgstr ""
+msgstr "<25>{#f/2}* E parece... que o medo foi justificado."
 
 msgid ""
 "<25>{#f/3}* Alphys has already informed me of your... violent tendencies."
-msgstr ""
+msgstr "<25>{#f/3}* Alphys já me informou das suas... tendências violentas."
 
 msgid "<25>{#f/2}* Though, she did say you spared plenty of our kind as well."
-msgstr ""
+msgstr "<25>{#f/2}* Mas, ela disse que você também poucos muitos do nosso povo."
 
 msgid ""
 "<25>{#f/16}* ...\n"
 "* Tell me, young one."
 msgstr ""
+"<25>{#f/16}* ...\n"
+"Diga-me, pequeno."
 
 msgid ""
 "<25>{#f/12}* Did it begin as self- defense, and devolve into something "
 "worse?"
 msgstr ""
+"<25>{#f/12}* Aquilo começou como defesa pessoal e se desenvolveu para algo "
+"pior?"
 
 msgid "<25>{#f/12}* Or was this your plan from the start?"
-msgstr ""
+msgstr "<25>{#f/12}* Ou este era seu plano desde o início?"
 
 msgid "<25>{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#f/5}* ..."
 
 msgid ""
 "<26>{#f/16}* Regardless.\n"
 "* You place me in a difficult position."
 msgstr ""
+"<26>{#f/16}* Desta forma.\n"
+"* Você me põe em uma posição difícil."
 
 msgid "<25>{#f/15}* To trust you with our one key to freedom..."
-msgstr ""
+msgstr "<25>{#f/15}* Acreditar a você nossa única chave para a liberdade..."
 
 msgid ""
 "<25>{#f/16}* Or to take your SOUL by force, and enter the archive myself."
 msgstr ""
+"<25>{#f/16}* Ou tomar sua ALMA por força e entrar no arquivo por conta "
+"própria."
 
 msgid ""
 "<25>{#f/3}* As terrible as you may have been, I do not wish to harm you."
 msgstr ""
+"<25>{#f/3}* Por mais terrível que isso possa parecer, eu não quero te "
+"alarmar."
 
 msgid "<25>{#f/4}* You could have been far worse to us..."
-msgstr ""
+msgstr "<25>{#f/4}* Você poderia ter sido muito pior para nós..."
 
 msgid "<25>{#f/2}* ... yet you were not."
-msgstr ""
+msgstr "<25>{#f/2}* ... ainda assim, você não foi."
 
 msgid "<25>{#f/1}* It would be wrong to assume that you are irredeemable."
-msgstr ""
+msgstr "<25>{#f/1}* Seria errado admitir que não a volta para você."
 
 msgid "<25>{#f/2}* You may simply be a very frightened young child."
 msgstr ""
+"<25>{#f/2}* Você talvez seja apenas uma criança que decidiu lutar pela vida."
 
 msgid ""
 "<25>{#f/3}* Words cannot express how unfortunate this situation has become."
 msgstr ""
+"<25>{#f/3}* As palavras não podem explicar o quão infeliz é está situação."
 
 msgid "<25>{#f/1}* All things considered, you have behaved well."
-msgstr ""
+msgstr "<25>{#f/1}* Com tudo sido considerado, você se comportou bem."
 
 msgid "<25>{#f/2}* Though, Alphys did mention that you've... taken lives."
 msgstr ""
+"<25>{#f/2}* Mesmo que a Alphys tenha mencionado que você... tomou vidas."
 
 msgid ""
 "<25>{#f/2}* Though, Alphys did mention that you might have... taken lives."
-msgstr ""
+msgstr "<25>{#f/2}* Alphys mencionou que você talvez... tenha tomado vidas."
 
 msgid ""
 "<25>{#f/3}* It is fortunate you were captured and delivered here quickly."
 msgstr ""
+"<25>{#f/3}* É bom que você tenha sido capturado e trago para cá rapidamente."
 
 msgid ""
 "<25>{#f/2}* The outpost can be a dangerous place, as I am sure you are "
 "aware."
 msgstr ""
+"<25>{#f/2}* O Outpost pode ser perigoso, como tenho certeza que você está "
+"ciente."
 
 msgid "<25>{#f/5}* However, now that you are here, you will be protected."
-msgstr ""
+msgstr "<25>{#f/5}* Entretanto, agora que você está aqui, será protegido."
 
 msgid "<25>{#f/3}* I only have myself to blame for this."
-msgstr ""
+msgstr "<25>{#f/3}* Eu sou o único que deve ser culpado por isso."
 
 msgid ""
 "<25>{#f/2}* My keeping of secrets has made it difficult to escort you "
 "quickly."
-msgstr ""
+msgstr "<25>{#f/2}* Manter meus segredos tornou difícil te escoltar até aqui."
 
 msgid "<25>{#f/5}* Especially since this is Alphys's first time doing this."
 msgstr ""
+"<25>{#f/5}* Especialmente por essa ser a primeira vez da Alphys fazendo isso."
 
 msgid "<25>{#f/15}* ..."
-msgstr ""
+msgstr "<25>{#f/15}* ..."
 
 msgid "<25>{#f/16}* The archive lies ahead of you now."
-msgstr ""
+msgstr "<25>{#f/16}* O arquivo está a frente de você agora."
 
 msgid ""
 "<26>{#f/1}* The other human\n"
 "  children all chose to enter the archive, so..."
 msgstr ""
+"<26>{#f/1}* Todas as outras crianças humanas decidiram entrar no arquivo, "
+"então..."
 
 msgid "<25>* ... now, it is now your turn to make that same choice."
-msgstr ""
+msgstr "<25>* ... agora, é a sua vez de tomar está decisão."
 
 msgid "<25>{#f/1}* Then, one by one, the children of earth came."
-msgstr ""
+msgstr "<25>{#f/1}* Então, uma por uma, as crianças da terra vieram."
 
 msgid ""
 "<25>* All were anxious.\n"
 "* All faced challenges on their journeys here."
 msgstr ""
+"<25>* Todas estavam ansiosos.\n"
+"* Todas enfrentaram desafios em suas jornadas aqui."
 
 msgid ""
 "<26>{#f/6}* But, deep down, they let their brightest traits shine through."
 msgstr ""
+"<26>{#f/6}* Mas, no fundo, eles deixaram transparecer seus traços mais "
+"brilhantes."
 
 msgid "<25>* The patient, and the brave."
-msgstr ""
+msgstr "<25>* O paciente, o corajoso."
 
 msgid "<25>* The truth-teller and the survivor."
-msgstr ""
+msgstr "<25>* O verdadeiro, o sobrevivente."
 
 msgid "<25>{#f/2}* The kind one..."
-msgstr ""
+msgstr "25>{#f/2}* O bondoso..."
 
 msgid "<25>{#f/4}* And the one who sought justice above all."
-msgstr ""
+msgstr "<25>{#f/4}* E aquele que desejava justiça acima de tudo."
 
 msgid "<25>{#f/1}* When given the choice to stay, or to enter the archive..."
-msgstr ""
+msgstr "<25>{#f/1}* Quando dada a chance para ficar, ou entrar no arquivo..."
 
 msgid "<25>* They all eventually chose the latter."
-msgstr ""
+msgstr "<25>* Eles eventualmente escolheram a segunda opção."
 
 msgid ""
 "<25>{#f/5}* ... now, regardless of the circumstances in which you arrived..."
 msgstr ""
+"<25>{#f/5}* ... agora, remetente as circunstâncias as quais você chegou..."
 
 msgid "<25>{#f/1}* It is your turn to make that same choice."
-msgstr ""
+msgstr "<25>{#f/1}* É sua vez de fazer a mesma escolha."
 
 msgid "<25>* ... now, it is your turn to make that same choice."
-msgstr ""
+msgstr "<25>* ... agora, se tornou a sua vez de fazer a mesma escolha."
 
 msgid ""
 "<25>{#p/asgore}{#f/1}* In any case, I cannot ask you to enter the archive."
 msgstr ""
+"<25>{#p/asgore}{#f/1}* Em todo caso, eu não posso te pedir para entrar no "
+"arquivo."
 
 msgid ""
 "<25>{#f/2}* It would be unrealistic to expect you to take such a "
 "responsibility."
 msgstr ""
+"<25>{#f/2}* Seria tolo da minha parte esperar que você tomasse tal "
+"responsabilidade."
 
 msgid "<25>{#f/5}* Return to my home."
-msgstr ""
+msgstr "<25>{#f/5}* Retorne para minha casa."
 
 msgid "<25>{#f/5}* I will decide what to do with you later."
-msgstr ""
+msgstr "<25>{#f/5}* Eu decidirei seu destino mais tarde."
 
 msgid ""
 "<25>{#p/asgore}{#f/6}* As the last to enter, you would act as a vessel."
 msgstr ""
+"<25>{#p/asgore}{#f/6}* Como o último a entrar, você agiria como um "
+"embarcador."
 
 msgid "<25>* Borrowing the others' SOUL power as your own."
-msgstr ""
+msgstr "<25>* Trazendo todas as outras ALMAS com seus poderes para si."
 
 msgid ""
 "<26>* With all powers combined, you will\n"
 "  destroy the force field."
 msgstr ""
+"<26>* Com todos os poderes combinados, você irá destruir o escudo de força."
 
 msgid "<25>* Then..."
-msgstr ""
+msgstr "<25>* Então..."
 
 msgid "<25>* Monsterkind will search for a new home planet."
 msgstr ""
+"<25>* A população monstro finalmente irá procurar por um novo planeta para "
+"chamar de casa."
 
 msgid "<25>{#f/1}* ... however."
-msgstr ""
+msgstr "<25>{#f/1}* ... entretanto."
 
 msgid "<25>* If you do not want such a responsibility..."
-msgstr ""
+msgstr "<25>* Se você não deseja tal responsabilidade..."
 
 msgid "<25>* You may stay with us on the outpost until you change your mind."
-msgstr ""
+msgstr "<25>* Você deve ficar conosco no Outpost até mudar de ideia."
 
 msgid "<25>{#f/6}* Whatever you decide, I will support you."
-msgstr ""
+msgstr "<25>{#f/6}* Seja lá o que você decidir, eu irei apoiar."
 
 msgid "<25>* Will you enter the archive?"
-msgstr ""
+msgstr "<25>* Você entrará no arquivo?"
 
 msgid "<26>{#p/asgore}{#f/6}* I see you have returned."
-msgstr ""
+msgstr "<26>{#p/asgore}{#f/6}* Vejo que você voltou."
 
 msgid "<25>{#p/asgore}{#f/4}* ..."
 msgstr ""
@@ -14308,7 +14361,6 @@ msgstr ""
 
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr ""
-
 
 msgid "N/A"
 msgstr ""
