@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-28 15:49+0000\n"
-"PO-Revision-Date: 2025-01-29 19:49+0000\n"
+"PO-Revision-Date: 2025-02-02 01:21+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/6-common/pt_BR/>\n"
@@ -2404,97 +2404,120 @@ msgid ""
 "<18>{#p/papyrus}{#f/4}HMM...\n"
 "SOMETHING ELSE..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}HMM...\n"
+"ALGUMA OUTRA COISA..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}OH, I KNOW!\n"
 "THE ARCHIVE WORLD!"
 msgstr ""
+"<18>{#p/papyrus}{#f/0}OH, EU SEI!\n"
+"O MUNDO NO ARQUIVO!"
 
 msgid ""
 "<25>{#p/sans}{#f/2}* of course.\n"
 "* you and alphys spend a lot of time there."
 msgstr ""
+"<25>{#p/sans}{#f/2}* É CLARO.\n"
+"* VOCÊ E A ALPHYS PASSAM MUITO TEMPO LÁ."
 
 msgid "<18>{#p/papyrus}{#f/9}AND FOR GOOD REASON!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}E POR UMA BOA RAZÃO!"
 
 msgid "<18>{#p/papyrus}{#f/0}OKAY, SO, LET ME EXPLAIN."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}OKAY, ENTÃO, DEIXE-ME EXPLICAR."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}WITH NOTHING TO DO EXCEPT GUARD THE HUMAN SOULS..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}COM NADA PARA FAZER ALÉM DE GUARDAR AS ALMAS HUMANAS..."
 
 msgid "<18>{#p/papyrus}{#f/0}I STARTED HAVING A LOT OF FREE TIME."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}EU COMECEI A PASSAR MUITO TEMPO ALÍ."
 
 msgid "<18>{#p/papyrus}{#f/6}BUT WHAT WOULD I DO WITH IT!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MAS O QUE EU FARIA COM AQUILO!?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}ONE DAY, IN A STORAGE CLOSET, I FOUND... A THING."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}UM DIA, EM UM ARMÁRIO DE ARMAZENAMENTO, ENCONTREI... "
+"UMA COISA."
 
 msgid "<18>{#p/papyrus}{#f/5}I ASKED ALPHYS WHAT THE THING WAS, AND..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU PERGUNTEI PARA ALPHYS O QUE ERA AQUILO E..."
 
 msgid "<18>{#p/papyrus}{#f/6}BOY DID SHE HAVE A LOT TO SAY!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MEU, ELA TINHA MUITO PARA FALAR!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}APPARENTLY, IT WAS USED TO SIMULATE VIRTUAL WORLDS."
 msgstr ""
+"<18>{#p/papyrus}{#f/0} APARENTEMENTE, AQUILO FOI USADO PARA SIMULAR MUNDOS "
+"VIRTUAIS."
 
 msgid "<18>{#p/papyrus}{#f/5}I ASKED HER IF WE COULD TRY IT, AND..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU PERGUNTEI PRA ELA SE PODIAMOS TENTAR E..."
 
 msgid "<18>{#p/papyrus}{#f/4}BEING JUST AS BORED AS I WAS, SHE SAID YES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}ESTANDO TÃO ENTEDIADA QUANTO EU, ELA DISSE SIM."
 
 msgid "<18>{#p/papyrus}{#f/0}THE ARCHIVE DIDN'T HAVE A WORLD LOADED, THOUGH."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}ENTRETANTO, O ARQUIVO NÃO TINHA UM MUNDO CARREGADO."
 
 msgid "<18>{#p/papyrus}{#f/0}SO SHE DOWNLOADED A POPULAR SCI-FI ANIME..."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}ENTÃO ELA FEZ O DOWNLOAD DE UM ANIME SCI-FI POPULAR..."
 
 msgid "<18>{#p/papyrus}{#f/0}AND LET THE SYSTEM \"EXTRAPOLATE\" THE WORLD WITHIN."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}E DEIXOU O SISTEMA \"EXTRAPOLAR\" O MUNDO A VONTADE."
 
 msgid "<18>{#p/papyrus}{#f/5}THEN SHE TOLD ME TO PUT ON THIS WEIRD HEADSET..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ENTÃO ELA ME FALOU PRA COLOCAR AQUELE FONE ESQUISITO..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}I WAS NERVOUS, BUT I DID IT IN THE NAME OF SCIENCE!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}EU ESTAVA NERVOSO, MAS O FIZ EM NOME DA CIÊNCIA!!"
 
 msgid "<18>{#p/papyrus}{#f/4}THE NEXT THING I KNEW, I WAS TRANSPORTED..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}A PRÓXIMA COISA QUE ACONTECEU, EU FUI TRANSPORTADO..."
 
 msgid "<18>{#p/papyrus}{#f/9}TO A WORLD BEYOND ANYTHING I'D SEEN BEFORE!!!"
 msgstr ""
+"<18>{#p/papyrus}{#f/9}PARA UM MUNDO ALÉM DE QUALQUER COISA QUE EH JÁ TENHA "
+"VISTO!!!"
 
 msgid "<18>{#p/papyrus}{#f/5}I EXPLORED THIS NEW REALM FOR HOURS..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU EXPLOREI ESTA NOVA TERRA POR HORAS..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}WANDERING FROM PLANET TO PLANET, MEETING PEOPLE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}INDO DE LUGAR PARA LUGAR, CONHECENDO PESSOAS..."
 
 msgid "<18>{#p/papyrus}{#f/0}OF COURSE, I KNOW THEY'RE NOT REAL."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}CLARO, EU SEI QUE ELES NÃO SÃO REAIS."
 
 msgid "<18>{#p/papyrus}{#f/6}BUT WHEN ONE OF THEM GOT HURT, I FELT BAD!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}MAS QUANDO UM DELES FOI FERIDO, EU ME SENTI TRISTE?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}SO, I MADE IT MY MISSION TO SAVE EVERYONE I COULD."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ENTÃO, EU FIZ UMA MISSÃO DE SALVAR TODOS QUE EU "
+"CONSEGUISSE."
 
 msgid "<18>{#p/papyrus}{#f/0}EVENTUALLY, ALPHYS JOINED IN AS MY SIDEKICK!"
 msgstr ""
+"<18>{#p/papyrus}{#f/0} EVENTUALMENTE, ALPHYS JUNTOU-SE A MIM COMO "
+"COADJUVANTE!"
 
 msgid "<18>{#p/papyrus}{#f/0}WE'VE BEEN ADVENTURING EVER SINCE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}ESTAMOS NOS AVENTURANDO DESDE ENTÃO."
 
 msgid "<25>{#p/sans}{#f/0}* she's in there right now, isn't she?"
 msgstr ""
