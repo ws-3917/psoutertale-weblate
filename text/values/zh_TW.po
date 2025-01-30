@@ -1,12 +1,25 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-30 20:51+0000\n"
+"PO-Revision-Date: 2025-01-30 20:51+0000\n"
+"Last-Translator: MurderSans_MDR <z127568254@163.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://ws3917.site/"
+"projects/project-spacetime/7-values/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "en_US"
 msgstr "zh_TW"
 
-msgid ""
-msgstr ""
 
 msgid "You must choose a name."
 msgstr "你必須選定一個名字。"
@@ -281,7 +294,7 @@ msgid "(Pant pant)"
 msgstr "（喘氣！喘氣！）"
 
 msgid "I'LL ALLOW IT!!!!"
-msgstr "我準了！！！"
+msgstr "我准了！！！ゐ"
 
 msgid "ok."
 msgstr "好。"
