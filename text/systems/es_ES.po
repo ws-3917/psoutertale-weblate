@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-02 01:21+0000\n"
+"PO-Revision-Date: 2025-02-02 01:21+0000\n"
+"Last-Translator: Ariel_Nicolas <noezaraspe23130718@gmail.com>\n"
+"Language-Team: Spanish <https://ws3917.hbms.me/projects/ps-outertale/"
+"0-systems/es/>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Tomas un respiro profundo.)"
@@ -618,8 +633,6 @@ msgstr "§fill=#ff0§< DESARROLLADOR >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< ESCRITOR >§fill=#fff§"
@@ -2340,7 +2353,7 @@ msgid "Go back"
 msgstr "Regresar"
 
 msgid "OUTERTALE V5.05 (c) 2025 SPACEY_432"
-msgstr ""
+msgstr "OUTERTALE V5.05 (c) 2025 SPACEY_432"
 
 msgid "* (HP fully restored.)"
 msgstr "* (PS restaurados.)"

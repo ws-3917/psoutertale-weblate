@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-02 01:21+0000\n"
+"PO-Revision-Date: 2025-02-02 01:21+0000\n"
+"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
+"ps-outertale/2-starton/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -52,353 +67,403 @@ msgstr ""
 "\"premium\"!"
 
 msgid "<25>{#f/1}* That short skeleton gave me a bunch of these earlier."
-msgstr ""
+msgstr "<25>{#f/1}* Aquele esqueleto pequeno me deu um monte desses mais cedo."
 
 msgid "<25>{#f/2}* He also gave me some digital thing with a lot of money..."
-msgstr ""
+msgstr "<25>{#f/2}* Ele também me deu uma parada digital cheia de dinheiro..."
 
 msgid "<25>{#f/1}* I guess he really likes me, haha."
-msgstr ""
+msgstr "<25>{#f/1}* Acho que ele realmente gosta de mim, haha."
 
 msgid ""
 "<25>{#p/kidd}{#f/3}* Anyway, I kinda just wanted to give you the voucher."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/3}* Bem, eu só queria te dar o voucher."
 
 msgid "<25>{#f/1}* I hope you see something cool with it, though!"
-msgstr ""
+msgstr "<25>{#f/1}* Espero que você veja algo incrível com ele!"
 
 msgid "<25>{#p/kidd}{#f/1}* I'll be in town!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Eu estarei na cidade!"
 
 msgid "<25>{#p/asriel1}{#f/17}* See anything you like?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/17}* Viu algo que gostou?"
 
 msgid ""
 "<32>{#p/basic}* Stargazing in space...\n"
 "* Truly, this is some outside- the-box thinking."
 msgstr ""
+"<32>{#p/basic}* Explorar o espaço...\n"
+"* Realmente, é algo fora da caixa de se pensar."
 
 msgid "<32>{#p/basic}* ..."
-msgstr ""
+msgstr "<32>{#p/basic}* ..."
 
 msgid "<32>* Asriel and I had a telescope just like this."
-msgstr ""
+msgstr "<32>* Asriel e eu tínhamos eu telescópio igual a esse."
 
 msgid ""
 "<32>* We'd point it in random directions, hoping to see something "
 "exciting..."
 msgstr ""
+"<32>* Nós apontamos em direções aleatórias na esperança de ver algo "
+"animador..."
 
 msgid "<32>* ... we never saw much at all."
-msgstr ""
+msgstr "<32>* ... nunca vimos nada demais."
 
 msgid "<32>* Despite that, it didn't seem to matter to him..."
-msgstr ""
+msgstr "<32>* Além disso, ele não parecia ligar muito..."
 
 msgid ""
 "<32>* While I was focused on looking outward, he was just happy to spend "
 "time with me."
 msgstr ""
+"<32>* Enquanto eu ficava procurando por algo, ele parecia apenas feliz por "
+"estar comigo."
 
 msgid "<32>* ..."
-msgstr ""
+msgstr "<32>* ..."
 
 msgid "<32>{#p/human}* (You hear a sigh.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você escuta um chorinho.)"
 
 msgid "<32>{#p/basic}* ... uh, let's just get back to what we were doing."
-msgstr ""
+msgstr "<32>{#p/basic}* ... uh, vamos só voltar para o que estávamos fazendo."
 
 msgid ""
 "<32>{#p/basic}* It doesn't seem like there's anything interesting to watch."
-msgstr ""
+msgstr "<32>{#p/basic}* Parece que não tem nada de interessante para ver."
 
 msgid "<32>{#p/basic}* Not bad for your first try..."
-msgstr ""
+msgstr "<32>{#p/basic}* Nada mal para sua primeira tentativa..."
 
 msgid "<32>{#p/basic}* Not bad for your first try."
-msgstr ""
+msgstr "<32>{#p/basic}* Nada mal para a primeira tentativa."
 
 msgid "<32>{#p/basic}* You can do better than that..."
-msgstr ""
+msgstr "<32>{#p/basic}* Você pode fazer melhor que isso..."
 
 msgid "<32>{#p/basic}* You can do better than that."
-msgstr ""
+msgstr "<32>{#p/basic}* Você pode fazer melhor que isso."
 
 msgid ""
 "<32>{#p/basic}* You beat the top scorer...?\n"
 "* I don't think I've ever seen anyone do that..."
 msgstr ""
+"<32>{#p/basic}* Você consegue bater o recorde...?\n"
+"* Eu acho que nunca vi ninguém fazendo isso..."
 
 msgid ""
 "<32>{#p/basic}* You beat the top scorer?\n"
 "* I don't think I've ever seen anyone do that!"
 msgstr ""
+"<32>{#p/basic}* Você bateu o recorde?\n"
+"* Eu não acho que já vi alguém fazendo isso!"
 
 msgid "<33>{#p/basic}* You seem pretty good at this..."
-msgstr ""
+msgstr "<33>{#p/basic}* Você parece muito bom nisso..."
 
 msgid "<32>{#p/basic}* You seem pretty good at this."
-msgstr ""
+msgstr "<32>{#p/basic}* Você parece muito bom nisso."
 
 msgid "<32>{#p/basic}* You beat your high score...?"
-msgstr ""
+msgstr "<32>{#p/basic}* Você bateu o recorde...?"
 
 msgid "<32>{#p/basic}* Look at that, new high score!"
-msgstr ""
+msgstr "<32>{#p/basic}* Olha o novo recorde!"
 
 msgid ""
 "<32>{#p/basic}* For a second, I thought you were going to beat the top "
 "scorer..."
 msgstr ""
+"<32>{#p/basic}* Por um segundo eu pensei que você iria conseguir bater o "
+"recorde..."
 
 msgid ""
 "<32>{#p/basic}* Woah, you could've beaten the top scorer!\n"
 "* Can you go all the way?"
 msgstr ""
+"<32>{#p/basic}* Woah, você poderia ter batido o recorde!\n"
+"* Será se você consegue?"
 
 msgid "<32>{#p/basic}* Looks like you could use some practice..."
-msgstr ""
+msgstr "<32>{#p/basic}* Parece que você pode conseguir com prática..."
 
 msgid "<32>{#p/basic}* Looks like you could use some practice."
-msgstr ""
+msgstr "<32>{#p/basic}* Acho que você pode dar uma praticada."
 
 msgid "<32>{#p/basic}* That's better..."
-msgstr ""
+msgstr "<32>{#p/basic}* Está melhor..."
 
 msgid "<32>{#p/basic}* That's more like it."
-msgstr ""
+msgstr "<32>{#p/basic}* Assim tá bem melhor."
 
 msgid ""
 "<32>{#p/basic}* You beat the top scorer on your first try...?\n"
 "* How in the world..."
 msgstr ""
+"<32>{#p/basic}* Você bateu o recorde na primeira tentativa?\n"
+"* Qual é chance..."
 
 msgid ""
 "<32>{#p/basic}* You beat the top scorer on your first try?\n"
 "* You're a natural!"
 msgstr ""
+"<32>{#p/basic}* Você bateu o recorde na primeira tentativa?\n"
+"* Você é bom naturalmente!"
 
 msgid "<32>{#p/basic}* For a first try, that's pretty good..."
-msgstr ""
+msgstr "<32>{#p/basic}* Para a primeira tentativa, isso foi muito bom..."
 
 msgid "<32>{#p/basic}* For a first try, that's pretty good!"
-msgstr ""
+msgstr "<32>{#p/basic}* Para uma primeira tentativa, isso foi muito bom!"
 
 msgid "<32>{#p/basic}* You keep getting so close..."
-msgstr ""
+msgstr "<32>{#p/basic}* Você tá cada vez mais perto..."
 
 msgid ""
 "<32>{#p/basic}* Darn, you almost beat the top scorer again...\n"
 "* You can do it!"
 msgstr ""
+"<32>{#p/basic}* Droga, você quase bateu o recorde...\n"
+"* Você consegue!"
 
 msgid "<32>{#p/human}* (It doesn't seem to be powered on anymore.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Não parece estar funcionando mais.)"
 
 msgid "<32>{#p/human}* (You feel the nearby monster presence dwindling.)"
 msgstr ""
+"<32>{#p/human}* (Você sente a presença dos monstros próximos diminuindo.)"
 
 msgid "<32>{#p/human}* (But there was nothing left for you to do here.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Porém, não havia mais nada para fazer aqui.)"
 
 msgid "<32>{#p/basic}* It's out of service."
-msgstr ""
+msgstr "<32>{#p/basic}* Está fora de serviço."
 
 msgid "<32>{#p/human}* (You reach for the jukebox...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você pega a jukebox...)"
 
 msgid "<32>{#p/basic}* This jukebox only plays music you've heard before."
-msgstr ""
+msgstr "<32>{#p/basic}* Está jukebox só toca sons que você escutou antes."
 
 msgid "* (Play a song?)"
-msgstr ""
+msgstr "* (Tocar uma música?)"
 
 msgid "Track 01"
-msgstr ""
+msgstr "Track 01"
 
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgid "Track 02"
-msgstr ""
+msgstr "Track 02"
 
 msgid "Track 03"
-msgstr ""
+msgstr "Track 03"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "<32>{#p/human}* (But you couldn't play a song you didn't know yet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas você não pode tocar um som que ainda não conhece.)"
 
 msgid ""
 "<32>{#p/basic}* The cover depicts a spooky DJ playing to the crowd.\n"
 "* You can't know this song."
 msgstr ""
+"<32>{#p/basic}* A capa mostra um DJ assustador tocando para a multidão.\n"
+"* Você não pode conhecer essa música."
 
 msgid ""
 "<33>{#p/basic}* The cover depicts a spooky DJ at their computer.\n"
 "* You can't know this song."
 msgstr ""
+"<33>{#p/basic}* A capa mostra um DJ assustador em seu computador.\n"
+"* Você não pode conhecer essa música"
 
 msgid ""
 "<32>{#p/basic}* The cover depicts a little white dog surrounded by trash.\n"
 "* You can't know this song."
 msgstr ""
+"<32>{#p/basic}* A capa mostra um cachorrinho branco cercado por lixo.\n"
+"* Você não pode conhecer essa música."
 
 msgid "<32>{*}{#p/human}* (You select the disc...){^40}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/human}* (Você seleciona o disco...){^40}{%}"
 
 msgid "<32>{#p/human}* (It sounds like a song is currently playing.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Parece que já tem um som tocando.)"
 
 msgid "<32>{#p/basic}* Currently playing \"Track 01\""
-msgstr ""
+msgstr "<32>{#p/basic}* Tocando agora \"Track 01\""
 
 msgid "<32>{#p/basic}* Currently playing \"Track 02\""
-msgstr ""
+msgstr "<32>{#p/basic}* Tocando agora \"Track 02\""
 
 msgid "<32>{#p/basic}* Currently playing \"Track 03\""
-msgstr ""
+msgstr "<32>{#p/basic}* Tocando agora \"Track 03\""
 
 msgid "* (Stop playback?)"
-msgstr ""
+msgstr "* (Parar de tocar?)"
 
 msgid "<32>{#p/basic}{#npc/a}* That's more like it!"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* Gostei mais dessa!"
 
 msgid "<32>{#p/basic}{#npc/a}* (We love this kind of music.)"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* (Amamos este tipo de música.)"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Is that the song making the rounds at the dance "
 "club?"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Está é a música que está fazendo os clubes de dança "
+"lotarem?"
 
 msgid ""
 "<32>{#p/basic}* ...\n"
 "* ...\n"
 "* ..."
 msgstr ""
+"<32>{#p/basic}* ...\n"
+"* ...\n"
+"* ..."
 
 msgid "<32>{#npc/a}* Grillbz says he's heard this song somewhere before."
 msgstr ""
+"<32>{#npc/a}* Grillbz disse que já ouviu está música antes em algum lugar."
 
 msgid "<32>{#p/basic}{#npc/a}* You sure know a lot of music offhand, kid..."
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Você com certeza conhece um monte de músicas, "
+"criança..."
 
 msgid "<32>* You must be really tasty."
-msgstr ""
+msgstr "<32>* Você deve ser realmente conhecedor."
 
 msgid "<15>{#p/papyrus}{#e/papyrus/27}WHAT ON KRIOS IS GOING ON HERE??"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/27}O QUE EM KRIOS ESTÁ HAVENDO AQUI??"
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/21}I ANSWER A PHONE CALL FROM MY BALCONY..."
 msgstr ""
+"<15>{#p/papyrus}{#e/papyrus/21}EU SÓ RESPONDI UMA LIGAÇÃO DO MEU BALCÃO..."
 
 msgid "<15>{#p/papyrus}{#e/papyrus/19}AND THIS IS WHERE IT LEADS ME!?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/19}E AQUI ONDE ISSO ME LEVA!?"
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/14}I'LL HAVE YOU KNOW, I'M A SHOE-IN FOR THE "
 "ROYAL GUARD."
 msgstr ""
+"<15>{#p/papyrus}{#e/papyrus/14} SÓ PARA VOCÊ SABER, EU SOU UM CONCORRENTE "
+"PARA ENTRAR NA GUARDA REAL."
 
 msgid "<15>{#p/papyrus}{#e/papyrus/15}SO, WHATEVER YOU TWO ARE PLANNING..."
 msgstr ""
+"<15>{#p/papyrus}{#e/papyrus/15}ENTÃO, SEJA LÁ O QUE VOCÊS DOIS ESTÃO "
+"PLANEJANDO..."
 
 msgid "<15>{#p/papyrus}{#e/papyrus/24}... WAIT, THAT VOICE..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/24}... ESPERA, ESSA VOZ..."
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/22}ARE YOU THE ONE WHO CALLED ME ON THE PHONE "
 "EARLIER!?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/22} FOI VOCÊ QUEM ME LIGOU MAIS CEDO?"
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/20}... OF COURSE!\n"
 "THAT EXPLAINS EVERYTHING!"
 msgstr ""
+"<15>{#p/papyrus}{#e/papyrus/20}... É CLARO!\n"
+"* ISSO EXPLICA TUDO!"
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/10}WELL THEN.\n"
 "I'M GLAD TO HAVE FINALLY MET YOU."
 msgstr ""
+"<15>{#p/papyrus}{#e/papyrus/10}QUE BOM ENTÃO.\n"
+"ESTOU FELIZ EM FINALMENTE TE VER."
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/24}TO BE HONEST, YOU KIND OF REMIND ME OF..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/24}PARA SER SINCERO, VOCÊ ME LEMBRA DO..."
 
 msgid "<15>{#p/papyrus}{#e/papyrus/20}... HEY, WAIT A SECOND!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/20}... EI, ESPERA UM SEGUNDO!!"
 
 msgid "<15>{#p/papyrus}{#e/papyrus/22}DID YOU BRING A -HUMAN- WITH YOU!?!?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/22}VOCÊ TROUXE UM HUMANO CONTIGO!?!?"
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/10}WOWIE!!\n"
 "THIS JUST GETS BETTER AND BETTER!!"
 msgstr ""
+"<15>{#p/papyrus}{#e/papyrus/10}WOWIE!!\n"
+"ISSO AQUI ESTÁ CADA VEZ MELHOR!!"
 
 msgid "<15>{#p/papyrus}{#e/papyrus/20}SO, WHAT ARE WE DOING HERE ANYWAY?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/20}ENTÃO, O QUE ESTAMOS FAZENDO AQUI?"
 
 msgid "<32>{#p/asriel2}* Ready, $(name)?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Pronto, $(name)?"
 
 msgid "* (What should Asriel do?)"
-msgstr ""
+msgstr "* (O que Asriel deveria fazer?)"
 
 msgid "Mercy"
-msgstr ""
+msgstr "Piedade"
 
 msgid "Act"
-msgstr ""
+msgstr "Agir"
 
 msgid "Magic"
-msgstr ""
+msgstr "Magia"
 
 msgid "Fight"
-msgstr ""
+msgstr "Lutar"
 
 msgid "<32>{#p/asriel2}* Let's just get this over with."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Vamos só acabar logo com isso."
 
 msgid "<32>{#p/asriel2}* Mercy, huh?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Piedade, huh?"
 
 msgid "<32>{#p/asriel2}* Mercy... I think I like that word."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Piedade... Acho que eu gosto dessa palavra."
 
 msgid "<32>{#p/asriel2}* Let's show him some \"Mercy.\""
-msgstr ""
+msgstr "<32>{#p/asriel2}* Vamos mostrar a \"Piedade\" pra ele."
 
 msgid ""
 "<32>{#p/asriel2}* Act...?\n"
 "* I'll show you how to act."
 msgstr ""
+"<32>{#p/asriel2}* Agir...?\n"
+"* Vou te mostrar como agir."
 
 msgid "<32>{#p/asriel2}* First, you raise your arm..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Primeiro, você levanta seu braço..."
 
 msgid "<32>{#p/asriel2}* Then...!"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Então...!"
 
 msgid ""
 "<32>{#p/asriel2}* Magic.\n"
 "* The force that binds us monsters together."
 msgstr ""
+"<32>{#p/asriel2}* Magia.\n"
+"* A força que carrega os monstros juntos."
 
 msgid "<32>{#p/asriel2}* Or, in this case..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Ou, nesse caso..."
 
 msgid "<33>{#p/asriel2}* The force that rips them apart."
-msgstr ""
+msgstr "<33>{#p/asriel2}* A força que os corta no meio."
 
 msgid "<32>{#p/asriel2}* Fight... the ideal choice."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Lutar... a escolha ideal."
 
 msgid "<32>{#p/asriel2}* Hee hee hee..."
 msgstr ""
@@ -4903,8 +4968,6 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
