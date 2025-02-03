@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-28 05:51+0000\n"
-"PO-Revision-Date: 2025-01-28 05:51+0000\n"
-"Last-Translator: MurderSans_MDR <z127568254@163.com>\n"
+"PO-Revision-Date: 2025-02-03 10:51+0000\n"
+"Last-Translator: braing <3313576509@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://ws3917.site/projects/"
 "project-spacetime/4-aerialis/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
 msgstr ""
 "<32>{#p/human}* （看来控制台\n"
@@ -9604,7 +9602,6 @@ msgstr "<25>{#p/asriel2}{#f/8}* 只能换条路走了。"
 
 msgid "<32>{#p/human}* (Where would you like to go?)"
 msgstr "<32>{#p/human}* （你想去哪里？）"
-
 
 msgid "Floor L1"
 msgstr "左一层"
@@ -23465,7 +23462,7 @@ msgid ""
 msgstr ""
 "<32>{#p/human}* （你告诉Tsunderidex，\n"
 "  你想去一个没有人类\n"
-"  去过的地方。）"
+"  到过的地方。）"
 
 msgid ""
 "<32>{#p/human}* (You move in close to Tsunderidex to siphon its battery "
@@ -23493,7 +23490,7 @@ msgid ""
 "shields.)"
 msgstr ""
 "<32>{#p/human}* （你激活了Tsunderidex护盾的\n"
-"  自适应调节。）"
+"  自适应调节功能。）"
 
 msgid ""
 "<33>{#p/human}* (You can't activate further.)\n"
@@ -23697,7 +23694,7 @@ msgstr ""
 
 msgid "<32>{#p/story}* Tsunderidex sets its cannons to \"stun.\""
 msgstr ""
-"<32>{#p/story}* Tsunderidex将大炮\n"
+"<32>{#p/story}* Tsunderidex将大炮模式\n"
 "  设定为“晕眩”。"
 
 msgid "<32>{#p/story}* Smells like space cacti."
