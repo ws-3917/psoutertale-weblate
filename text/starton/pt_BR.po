@@ -1,21 +1,6 @@
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-02 01:21+0000\n"
-"PO-Revision-Date: 2025-02-02 01:21+0000\n"
-"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
-"ps-outertale/2-starton/pt_BR/>\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2\n"
-
-#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -67,7 +52,8 @@ msgstr ""
 "\"premium\"!"
 
 msgid "<25>{#f/1}* That short skeleton gave me a bunch of these earlier."
-msgstr "<25>{#f/1}* Aquele esqueleto pequeno me deu um monte desses mais cedo."
+msgstr ""
+"<25>{#f/1}* Aquele esqueleto pequeno me deu um monte desses mais cedo."
 
 msgid "<25>{#f/2}* He also gave me some digital thing with a lot of money..."
 msgstr "<25>{#f/2}* Ele também me deu uma parada digital cheia de dinheiro..."
@@ -266,7 +252,8 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "<32>{#p/human}* (But you couldn't play a song you didn't know yet.)"
-msgstr "<32>{#p/human}* (Mas você não pode tocar um som que ainda não conhece.)"
+msgstr ""
+"<32>{#p/human}* (Mas você não pode tocar um som que ainda não conhece.)"
 
 msgid ""
 "<32>{#p/basic}* The cover depicts a spooky DJ playing to the crowd.\n"
@@ -4968,6 +4955,8 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
+msgid ""
+msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""

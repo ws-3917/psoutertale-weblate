@@ -17774,9 +17774,9 @@ msgstr ""
 
 msgid "<20>{#e/undyne/13}But hey, that's pretty freaking tough!"
 msgstr ""
-"<20>{#e/undyne/13}但是，草！\n"
+"<20>{#e/undyne/13}但是，讚啦！\n"
 "這種勇氣\n"
-"實在令人佩服！"
+"實在令人佩服！ゐ"
 
 msgid "<20>{#e/undyne/1}Even though not everyone's gonna like you for it..."
 msgstr ""

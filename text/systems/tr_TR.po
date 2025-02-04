@@ -622,6 +622,9 @@ msgstr ""
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< YAZARLAR >§fill=#fff§"
 
+msgid "Aster"
+msgstr ""
+
 msgid "Balgamlı Kedi"
 msgstr ""
 
@@ -644,9 +647,6 @@ msgid "Jojoton56"
 msgstr ""
 
 msgid "Kiwi \"Quinn\""
-msgstr ""
-
-msgid "My Aster"
 msgstr ""
 
 msgid "neo9174"

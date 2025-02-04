@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-29 19:49+0000\n"
-"PO-Revision-Date: 2025-02-04 22:26+0000\n"
-"Last-Translator: superfrancy0171 <aquilonef@gmail.com>\n"
-"Language-Team: Italian <https://ws3917.hbms.me/projects/ps-outertale/"
-"1-outlands/it/>\n"
-"Language: it_IT\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
 
-#
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -7345,7 +7332,8 @@ msgstr "<25>{#f/7}* Sporco schiva frammenti."
 
 msgid "<25>{#p/twinkly}{#f/7}* I can play this game all day, idiot."
 msgstr ""
-"<25>{#p/twinkly}{#f/7}* Posso giocare a questo gioco tutto il giorno, idiota."
+"<25>{#p/twinkly}{#f/7}* Posso giocare a questo gioco tutto il giorno, "
+"idiota."
 
 msgid ""
 "<25>{#f/11}* Either way, since you already know what's coming next...{%15}"
@@ -7495,7 +7483,8 @@ msgid "<20>In this world, it's KILL or BE killed."
 msgstr "<20>In questo mondo, è UCCIDERE o ESSERE uccisi."
 
 msgid "<20>Imagine, a SOUL like yours crash-landing on my doorstep..."
-msgstr "<20>Immagina, un' ANIMA come la tua schiantarsi davanti la mia porta..."
+msgstr ""
+"<20>Immagina, un' ANIMA come la tua schiantarsi davanti la mia porta..."
 
 msgid "<20>Did you really think I'd pass up such a golden opportunity?"
 msgstr "<20>Pensavi davvero che avrei rinunciato a un'occasione d'oro?"
