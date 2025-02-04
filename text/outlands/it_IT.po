@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-29 19:49+0000\n"
-"PO-Revision-Date: 2025-01-29 19:49+0000\n"
+"PO-Revision-Date: 2025-02-04 22:26+0000\n"
 "Last-Translator: superfrancy0171 <aquilonef@gmail.com>\n"
 "Language-Team: Italian <https://ws3917.hbms.me/projects/ps-outertale/"
 "1-outlands/it/>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -7470,43 +7468,43 @@ msgid ""
 msgstr "<20>{*}{#f/5}Per iniziare al meglio, condividerò un po' del mio AMORE"
 
 msgid "<20>{*}{#f/5}Try to get as many as you can!{^20}{*}{#x1}{%}"
-msgstr ""
+msgstr "<20>{*}{#f/5}Prova a prenderne più che puoi!{^20}{*}{#x1}{%}"
 
 msgid "<20>{*}{#f/8}Whoops, I think you might've missed them..."
-msgstr ""
+msgstr "<20>{*}{#f/8}Ops, penso che tu li abbia mancati..."
 
 msgid "<20>{*}{#f/5}But that's okay!"
-msgstr ""
+msgstr "<20>{*}{#f/5}Ma va bene!"
 
 msgid "<20>{*}{#x2}{#f/10}Here, have some more.{^20}{*}{#x1}{%}"
-msgstr ""
+msgstr "<20>{*}{#x2}{#f/10}Ecco, ne arrivano altri.{^20}{*}{#x1}{%}"
 
 msgid "<20>{*}{#f/12}What the-... are you braindead or something??"
-msgstr ""
+msgstr "<20>{*}{#f/12}Ma che-... sei stupido o cosa??"
 
 msgid "<20>{*}{#x2}RUN. INTO. THE. BULLETS!!!{^20}{*}{#x1}{^999}"
-msgstr ""
+msgstr "<20>{*}{#x2}VAI. VERSO. I. PROIETTILI!!!{^20}{*}{#x1}{^999}"
 
 msgid "RUN. INTO. THE. happiness shards~"
-msgstr ""
+msgstr "VAI. VERSO. I. frammenti della felicità~!!!"
 
 msgid "<20>{#v/1}Hee hee hee..."
-msgstr ""
+msgstr "<20>{#v/1}Hee hee hee..."
 
 msgid "<20>In this world, it's KILL or BE killed."
-msgstr ""
+msgstr "<20>In questo mondo, è UCCIDERE o ESSERE uccisi."
 
 msgid "<20>Imagine, a SOUL like yours crash-landing on my doorstep..."
-msgstr ""
+msgstr "<20>Immagina, un' ANIMA come la tua schiantarsi davanti la mia porta..."
 
 msgid "<20>Did you really think I'd pass up such a golden opportunity?"
-msgstr ""
+msgstr "<20>Pensavi davvero che avrei rinunciato a un'occasione d'oro?"
 
 msgid "<20>{#f/7}Nah, you know what's going on here, don'tcha?"
-msgstr ""
+msgstr "<20>{#f/7}Nah, tu sai cosa sta succedendo, non è vero?"
 
 msgid "<20>You just wanted to torment little old Twinkly, didn'tcha?"
-msgstr ""
+msgstr "<20>Volevi solo tormentare il piccolo vecchio Twinkly, non è vero?"
 
 msgid "<20>Golly... you must have no idea who you're messing with."
 msgstr ""
