@@ -626,7 +626,7 @@ msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< 文本編寫 >§fill=#fff§"
 
 msgid "Aster"
-msgstr ""
+msgstr "Aster"
 
 msgid "Balgamlı Kedi"
 msgstr "Balgamlı Kedi"
