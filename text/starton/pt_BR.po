@@ -1,7 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-02 01:21+0000\n"
+"PO-Revision-Date: 2025-02-06 01:07+0000\n"
+"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
+"ps-outertale/2-starton/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
 
+#
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -453,1793 +466,2106 @@ msgid "<32>{#p/asriel2}* Fight... the ideal choice."
 msgstr "<32>{#p/asriel2}* Lutar... a escolha ideal."
 
 msgid "<32>{#p/asriel2}* Hee hee hee..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Hee hee hee..."
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/27}SANS!\n"
 "YOU'RE HURT!"
 msgstr ""
+"<15>{#p/papyrus}{#e/papyrus/27}SANS!\n"
+"VOCÊ ESTÁ FERIDO!"
 
 msgid "<20>{#p/sans}papyrus, didn't i tell you to stay at home?"
-msgstr ""
+msgstr "<20>{#p/sans}papyrus, eu não te disse pra ficar em casa?"
 
 msgid "{*}{#e/papyrus/21}{%}"
-msgstr ""
+msgstr "{*}{#e/papyrus/21}{%}"
 
 msgid "<20>{#p/sans}... don't worry bro, it's just yamok sauce."
-msgstr ""
+msgstr "<20>{#p/sans}... não se preocupe mano, é só molho yamok."
 
 msgid "{*}{#e/papyrus/26}{%}"
-msgstr ""
+msgstr "{*}{#e/papyrus/26}{%}"
 
 msgid "<15>{#p/papyrus}{#e/papyrus/21}BUT YOU'RE HURT..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/21}MAS VOCÊ ESTÁ FERIDO..."
 
 msgid "<20>{#p/sans}yeah, that's what happens when you act on instinct."
-msgstr ""
+msgstr "<20>{#p/sans}pois é, é isso que acontece quando você age por instinto."
 
 msgid "<20>{#p/sans}... not much i can do about it now."
-msgstr ""
+msgstr "<20>{#p/sans}... não tem muito o que eu possa fazer sobre isso agora."
 
 msgid "<20>{#p/sans}so..."
-msgstr ""
+msgstr "<20>{#p/sans}então..."
 
 msgid "<20>guess that's it, huh?"
-msgstr ""
+msgstr "<20>acho que é isso, huh?"
 
 msgid "<20>..."
-msgstr ""
+msgstr "<20>..."
 
 msgid "<20>just..."
-msgstr ""
+msgstr "<20>só..."
 
 msgid "<20>promise me you'll be fine without me, bro."
-msgstr ""
+msgstr "<20>prometa que você ficará bem sem mim, mano."
 
 msgid "<20>promise me you'll be g-{^5}great."
-msgstr ""
+msgstr "<20>prometa que você será g-{^5}grande."
 
 msgid "<20>after all..."
-msgstr ""
+msgstr "<20>até porque..."
 
 msgid "<20>{|}{#p/sans}you're the... great p-{^5}papyrus.{^20}{%}"
-msgstr ""
+msgstr "<20>{|}{#p/sans}você é o... grande p-{^5}papyrus.{^20}{%}"
 
 msgid "<15>{#p/papyrus}{#e/papyrus/33}N-NO...{^40}{%}"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/33} N-NÃO...{^40}{%}"
 
 msgid "<32>{#p/human}{#npc}* (You got the Flamin' Grillby.)"
-msgstr ""
+msgstr "<32>{#p/human}{#npc}* (Você pegou o Flamin Grillby.)"
 
 msgid "<32>{#p/human}{#npc}* (You got the Sliders.)"
-msgstr ""
+msgstr "<32>{#p/human}{#npc}* (Você pegou os Sliders.)"
 
 msgid "<32>{#p/human}{#npc}* (You're carrying too much.)"
-msgstr ""
+msgstr "<32>{#p/human}{#npc}* (Você está carregando muito.)"
 
 msgid "<25>{#p/sans}{#f/0}* finally."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* finalmente."
 
 msgid "<25>{#f/3}* i've been wondering when you'd show up."
-msgstr ""
+msgstr "<25>{#f/3}* eu vim me perguntando quando você iria aparecer."
 
 msgid "<25>{#f/0}* i dunno if you recall, but back when we first met..."
 msgstr ""
+"<25>{#f/0}* eu não sei se você lembra, mas quando nos vimos pela primeira "
+"vez..."
 
 msgid ""
 "<25>{#f/0}* i told papyrus to focus more on the \"gravity\" of the "
 "situation."
 msgstr ""
+"<25>{#f/0}* Eu falei para o papyrus focar mais na \"gravidade\" da situação."
 
 msgid "<25>{#f/0}* what did i mean by that, you ask?"
-msgstr ""
+msgstr "<25>{#f/0}* O que eu quis dizer por aquilo, você pergunta?"
 
 msgid "<25>{#f/3}* well."
-msgstr ""
+msgstr "<25>{#f/3}* bom."
 
 msgid "<25>{#f/2}* you're about to {@fill=#003cff}find out{@fill=#fff}."
-msgstr ""
+msgstr "<25>{#f/2}* você está prestes a {@fill=#003cff}descobrir{@fill=#fff}."
 
 msgid "<25>{#p/sans}{#f/0}* welcome back."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* bem vindo de volta."
 
 msgid "<25>{#f/2}* ready to find out what awaits you?"
-msgstr ""
+msgstr "<25>{#f/2}* pronto para descobrir o que te espera?"
 
 msgid "<25>{#p/sans}{#f/0}* go on, take a look."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* vamos lá, dê uma olhada."
 
 msgid "<25>{#f/2}* it's right up there, bucko."
-msgstr ""
+msgstr "<25>{#f/2}* está bem aqui, bacana."
 
 msgid "<25>{#p/sans}{#f/2}* it's right up there, bucko."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* está bem aqui, bacana."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* don't worry, it's not dangerous... even if it tries to "
 "be."
 msgstr ""
+"<25>{#p/sans}{#f/2}* não se preocupe, não é perigoso... mesmo que tente ser."
 
 msgid "<25>{#p/sans}{#f/2}* thanks for the help."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* obrigado pela ajuda."
 
 msgid "<25>{#p/sans}{#f/0}* sooo... whaddya think?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* entããão... o que cê acha?"
 
 msgid "<25>{#f/3}* i call it the \"trash planet.\""
-msgstr ""
+msgstr "<25>{#f/3}* Eu chamo de o \"Planeta de Lixo.\""
 
 msgid ""
 "<25>{#f/0}* ... actually, this thing's been growing in size for quite a "
 "while."
 msgstr ""
+"<25>{#f/0}* ... na verdade, essa coisa tem crescido bastante ultimamente."
 
 msgid "<25>{#f/0}* if it gets any larger, well..."
-msgstr ""
+msgstr "<25>{#f/0}* se crescer um pouco mais, bem..."
 
 msgid ""
 "<25>{#f/2}* let's just say we'd be in a {@fill=#ff0}world{@fill=#fff} of "
 "trouble."
 msgstr ""
+"<25>{#f/2}* vamos só dizer que estaríamos em um {@fill=#ff0}mundo{@fill=#fff}"
+" de problemas."
 
 msgid ""
 "<25>{#f/0}* don't worry, though.\n"
 "* with your help, it'll be gone in no time."
 msgstr ""
+"<25>{#f/0}* mas não se preocupa. \n"
+"* com sua ajuda, vai sumir em tempo."
 
 msgid "<25>{#f/2}* i even found you some music to keep you motivated."
-msgstr ""
+msgstr "<25>{#f/2}* eu achei algumas músicas pra te manter motivado."
 
 msgid ""
 "* Press [Z] repeatedly to shake\n"
 "  out all the trash!"
-msgstr ""
+msgstr "* Pressione [Z] repetidamente para balançar o lixo para fora!"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* wow.\n"
 "* all in one go, huh?"
 msgstr ""
+"<25>{#p/sans}{#f/3}* wow.\n"
+"* tudo de uma vez, huh?"
 
 msgid "<25>{#f/2}* ... well i'll be turned upside down."
-msgstr ""
+msgstr "<25>{#f/2}* ... eu estou de cabeça pra baixo."
 
 msgid "<25>{#f/0}* guess i gotta give you some kinda reward."
-msgstr ""
+msgstr "<25>{#f/0}* acho que eu devo te dar algum tipo de prêmio."
 
 msgid ""
 "<25>{#f/0}* ...\n"
 "* here.\n"
 "* have this on me."
 msgstr ""
+"<25>{#f/0}* ...\n"
+"* aqui.\n"
+"* pega esse aqui."
 
 msgid "<32>{#p/human}* (Sans tossed you something.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Sans te jogou alguma coisa.)"
 
 msgid "<32>{#s/equip}{#p/human}* (You got the Corn Dog Sword.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Você ganhou a Espada Cachorro Quente.)"
 
 msgid "<25>{#p/sans}{#f/2}* use it wisely."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* Use com cuidado."
 
 msgid "<32>{#p/human}* (You're carrying too much.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você está carregando muito.)"
 
 msgid "<25>{#p/sans}{#f/3}* no room, huh?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* sem espaço, huh?"
 
 msgid ""
 "<25>{#p/sans}{#f/2}* don't worry.\n"
 "* i'll leave it in my room for you."
 msgstr ""
+"<25>{#p/sans}{#f/2}* não se preocupa.\n"
+"* eu vou deixar no meu quarto pra você."
 
 msgid "<32>{#p/human}* (You look curiously at the seemingly useless device.)"
 msgstr ""
+"<32>{#p/human}* (Você olha com curiosidade para o dispositivo aparentemente "
+"inútil.)"
 
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Too bad we don't have the remote for this thing, "
 "huh?"
 msgstr ""
+"<25>{#p/asriel1}{#f/17}* Que triste que nós não temos o controle pra isso, "
+"huh?"
 
 msgid "<32>{#p/basic}* It's a \"gravometric inverter.\""
-msgstr ""
+msgstr "<32>{#p/basic}* É um \"inversor de gravidade.\""
 
 msgid "<32>* Whatever that means."
-msgstr ""
+msgstr "<32>* Seja lá o que isso significa."
 
 msgid ""
 "<32>{#p/human}* (You use the Gravometric Inverter Remote.)\n"
 "* (Nothing happens.)"
 msgstr ""
+"<32>{#p/human}* (Você usa o Controle do Inversor de Gravidade.)\n"
+"* (Nada acontece.)"
 
 msgid ""
 "<25>{#p/asriel1}{#f/21}* They're probably shutting off power for non-"
 "essential devices."
 msgstr ""
+"<25>{#p/asriel1}{#f/21}* Eles provavelmente estão desligando a energia de "
+"aparelhos não essenciais."
 
 msgid "<32>{#p/basic}* It must be offline..."
-msgstr ""
+msgstr "<32>{#p/basic}* Deve estar desligado..."
 
 msgid "<32>{#p/human}* (You use the Gravometric Inverter Remote.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você usa o Controle do Inversor de Gravidade.)"
 
 msgid "<32>{#p/human}* (It looks to have been closed with a deadlock seal.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Parece ter sido fechado com um selo de bloqueio.)"
 
 msgid "<32>{#p/basic}* It's locked."
-msgstr ""
+msgstr "<32>{#p/basic}* Está trancado."
 
 msgid "<32>{#p/human}* (You use the Skeleton Key.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você usa a Chave Esqueleto.)"
 
 msgid "<32>{#p/basic}* There's an odd remote inside of this envelope."
-msgstr ""
+msgstr "<32>{#p/basic}* Tem um controle remoto estranho dentro do envelope."
 
 msgid ""
 "<32>{#s/equip}{#p/human}* (The Gravometric Inverter Remote was added to your"
 " keyring.)"
 msgstr ""
+"<32>{#s/equip}{#p/human}* (O Controle do Inversor de Gravidade foi "
+"adicionado ao seu chaveiro.)"
 
 msgid ""
 "<32>{#p/human}* (But you already emptied the envelope of its contents.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas você já esvaziou o envelope de seus conteúdos.)"
 
 msgid "<32>{#p/basic}* It's just an empty envelope."
-msgstr ""
+msgstr "<32>{#p/basic}* É só um envelope vazio."
 
 msgid "<32>{#p/basic}* There's an odd... item, inside of this envelope."
-msgstr ""
+msgstr "<32>{#p/basic}* Tem um controle... item, dentro do envelope."
 
 msgid "<32>{#p/human}* (You got the Ice Dream.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você pegou o Sorvete Sonho.)"
 
 msgid "<32>{#p/basic}* Nothing left."
-msgstr ""
+msgstr "<32>{#p/basic}* Nada restando."
 
 msgid "<32>{#p/human}* (You reach into the cart.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você alcançou o carrinho.)"
 
 msgid "<32>{#p/human}{#s/equip}* (You got the Ice Dream.)"
-msgstr ""
+msgstr "<32>{#p/human}{#s/equip}* (Você pegou o Sorvete Sonho.)"
 
 msgid "<32>{#p/human}* (...)"
-msgstr ""
+msgstr "<32>{#p/human}* (...)"
 
 msgid "<32>{#p/human}* (You're carrying too much to reach inside.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você está carregando muito para alcançar lá dentro.)"
 
 msgid "<32>{#p/basic}* Mom says that we're going to a new homeworld soon."
-msgstr ""
+msgstr "<32>{#p/basic}* Mãe disse que iremos a um novo planeta logo, logo."
 
 msgid "<32>* ... what's a homeworld?"
-msgstr ""
+msgstr "<32>* ... o que é um planeta?"
 
 msgid ""
 "<32>{#p/basic}* Mom says that sleeping could recover your health "
 "{@fill=#ff0}above your maximum HP{@fill=#fff}."
 msgstr ""
+"<32>{#p/basic}* Mãe disse que dormir pode recuperar sua vida {@fill=#ff0}"
+"acima do máximo de HP{@fill=#fff}."
 
 msgid "<32>* ... what's maximum HP?"
-msgstr ""
+msgstr "<32>* ... o que é máximo de HP?"
 
 msgid "<32>{#p/basic}* Do humans have a homeworld?"
-msgstr ""
+msgstr "<32>{#p/basic}* Os humanos tem um planeta natal?"
 
 msgid "<32>{#p/basic}* Is it something monsters have?"
-msgstr ""
+msgstr "<32>{#p/basic}* Isso é algo que os monstros tem?"
 
 msgid "<32>{#p/human}* (The table strikes you as being rather lonesome.)"
-msgstr ""
+msgstr "<32>{#p/human}* (A tabela parece bastante solitária.)"
 
 msgid ""
 "<32>{#p/basic}* It's just a lonely table.\n"
 "* Smells like frosting."
 msgstr ""
+"<32>{#p/basic}* É uma mesa solitária.\n"
+"* Cheira a glacê."
 
 msgid ""
 "<32>{#p/basic}* It's just a lonely table.\n"
 "* Smells like hair."
 msgstr ""
+"<32>{#p/basic}* É uma mesa solitária.\n"
+"* Cheira a cabelo."
 
 msgid "<18>{#p/papyrus}ENJOYING THE VIEW?"
-msgstr ""
+msgstr "<18>{#p/papyrus}GOSTANDO DA VISTA?"
 
 msgid "* (What do you say?)"
-msgstr ""
+msgstr "* (O que você diz?)"
 
 msgid ""
 "<18>{#p/papyrus}{#f/9}GOOD!\n"
 "IT'S ABOUT TIME SOMEONE DID."
 msgstr ""
+"<18>{#p/papyrus}{#f/9}ÓTIMO!\n"
+"* JÁ ERA HORA DE ALGUÉM GOSTAR."
 
 msgid "<18>{#f/7}SANS BARELY EVER TAKES THE TIME TO LOOK OUTSIDE!!!"
-msgstr ""
+msgstr "<18>{#f/7}SANS QUASE NÃO TOMA TEMPO PARA OLHAR LÁ FORA!!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}OH...\n"
 "WELL, THAT'S OKAY..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}OH...\n"
+"BEM, TÁ TUDO BEM..."
 
 msgid ""
 "<18>{#f/4}(SIGH...)\n"
 "AT LEAST YOU TRIED WALKING OUT."
 msgstr ""
+"<18>{#f/4}(CHORINHO...)\n"
+"PELO MENOS VOCÊ TENTOU SAIR FORA."
 
 msgid "<18>{#f/7}SANS WOULDN'T EVEN DO THAT!!!"
-msgstr ""
+msgstr "<18>{#f/7}SANS NÃO FARIA NEM ISSO!"
 
 msgid ""
 "<32>{#p/human}* (You can't seem to understand the contents of this book.)"
 msgstr ""
+"<32>{#p/human}* (Você não parece entender os conteúdos que tem no livro.)"
 
 msgid "<32>{#p/basic}* It's a book, written in an ancient language."
-msgstr ""
+msgstr "<32>{#p/basic}* É um livro escrito em uma língua ancestral."
 
 msgid "<32>{#p/basic}* Would you like me to read it?"
-msgstr ""
+msgstr "<32>{#p/basic}* Você gostaria que eu lê-se?"
 
 msgid "<32>{#p/basic}* Read it again?"
-msgstr ""
+msgstr "<32>{#p/basic}* Ler de novo?"
 
 msgid "* (Have $(name) read the book?)"
-msgstr ""
+msgstr "* (Quer que $(name) leia o livro?)"
 
 msgid "<32>{#p/basic}* Okay, here goes..."
-msgstr ""
+msgstr "<32>{#p/basic}* Okay, aí vai..."
 
 msgid ""
 "<32>* \"Long ago, two species ruled the solar system: humans and monsters.\""
 msgstr ""
+"<32>* \"Muito tempo atrás, duas raças reinavam sobre o sistema solar: "
+"humanos e monstros.\""
 
 msgid ""
 "<32>* \"At first, the monsters were only visitors, soon to return to their "
 "own star system.\""
 msgstr ""
+"<32>* \"De início, os monstros eram apenas visitantes, que logo iriam "
+"retornar para seu próprio sistema solar.\""
 
 msgid ""
 "<32>* \"But the monsters became fascinated by humanity, and wanted to co-"
 "exist with them.\""
 msgstr ""
+"<32>* \"Mas os monstros se facinaram pela humanidade e queriam coexistir com "
+"eles.\""
 
 msgid ""
 "<32>* \"As such, they shared their technology with the humans, and forged an"
 " alliance.\""
 msgstr ""
+"<32>* \"Dessa forma, eles compartilharam sua tecnologia com os humanos, "
+"formando uma aliança.\""
 
 msgid ""
 "<32>* \"Over the next few hundred years, monsters and humans lived in peace "
 "and harmony.\""
 msgstr ""
+"<32>* \"Pelas próximas centenas de anos, monstros e humanos viveram em paz e "
+"harmonia.\""
 
 msgid ""
 "<32>* \"One day, the humans began to fear something about the monsters...\""
-msgstr ""
+msgstr "<32>* \"Um dia, os humanos começaram a temer algo nos monstros...\""
 
 msgid ""
 "<32>* \"A fear that, without skilled leadership, was allowed to spiral out "
 "of control.\""
 msgstr ""
+"<32>* "
+"\"Um medo que, sem liderança habilidosa, foi permitido sair do controle.\""
 
 msgid "<32>* \"As time passed, a war broke out between the two species.\""
-msgstr ""
+msgstr "<32>* \"O tempo passou, uma guerra estourou entre as duas espécies.\""
 
 msgid "<32>* \"Many battles and skirmishes would occur all across the stars...\""
-msgstr ""
+msgstr "<32>* \"Muitas batalhas e confrontos ocorreram entre as estrelas...\""
 
 msgid ""
 "<32>* \"But the humans, filled with fear and determination, easily took "
 "control.\""
 msgstr ""
+"<32>* \"Mas os humanos, cheios de medo e determinação, facilmente tomaram "
+"controle.\""
 
 msgid ""
 "<32>* \"Then, on one fateful day, a massive weapon was fired at the "
 "monsters' homeworld.\""
 msgstr ""
+"<32>* \"Então, em um dia de desgraça, uma arma colossal foi disparada contra "
+"o planeta dos monstros.\""
 
 msgid ""
 "<32>* \"After the monsters' home planet was destroyed, humans declared "
 "victory.\""
 msgstr ""
+"<32>* \"Após a destruição do planeta natal dos monstros, os humanos "
+"declararam vitória.\""
 
 msgid "<32>* \"A settlement between the two species was signed, and...\""
-msgstr ""
+msgstr "<32>* \"Um tratado foi assinado entre as duas espécies, e...\""
 
 msgid "<32>* \"The remaining monsters were banished to an abandoned outpost.\""
 msgstr ""
+"<32>* "
+"\"Os monstros restantes foram banidos para um posto avançado abandonado.\""
 
 msgid "<32>* \"Then, the humans gathered seven of their brightest minds.\""
 msgstr ""
+"<32>* \"Então, os humanos chamaram sete das suas mais brilhantes mentes.\""
 
 msgid "<32>* \"Together, they formulated a plan, and eventually...\""
-msgstr ""
+msgstr "<32>* \"Juntos, eles formaram um plano, e eventualmente...\""
 
 msgid ""
 "<32>* \"A powerful force field was erected, and the monsters were sealed "
 "in.\""
 msgstr ""
+"<32>* \"Um escudo de força poderoso foi criado, e os monstros foram presos "
+"dentro.\""
 
 msgid "<32>* Well, that's the story."
-msgstr ""
+msgstr "<32>* Bem, essa é a história."
 
 msgid "<32>{#p/basic}* Well, if you ever want me to read it, let me know."
-msgstr ""
+msgstr "<32>{#p/basic}* Se você quiser que eu leia é só dizer."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* If you want a room, you'll need to ask me first."
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Se você quiser um quarto, vai ter que me perguntar "
+"primeiro."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* If you want a room again, you'll need to ask me "
 "first."
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Se você quiser um quarto de novo, vai ter que "
+"perguntar antes."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Sorry, munchkin!\n"
 "* No more vacancies left here!"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Desculpe, munchkin!\n"
+"* Não há mais vagas aqui!"
 
 msgid "<32>{#p/human}* (You approach the vending machine.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você se aproxima da máquina de venda.)"
 
 msgid "<32>{#p/basic}* It's an exoberry-exclusive vending machine."
-msgstr ""
+msgstr "<32>{#p/basic}* É uma exuberante-exclusiva máquina de venda."
 
 msgid "* (Buy the Exoberries for 8G?)"
-msgstr ""
+msgstr "* (Comprar Exoberries por 8G?)"
 
 msgid "<32>{#p/human}* (You don't have enough G.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você não tem G suficiente.)"
 
 msgid "<32>{#p/human}* (You got the Exoberries.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você pegou as Exoberries.)"
 
 msgid "<32>{#p/human}* (You decide not to buy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você decide não comprar.)"
 
 msgid "<32>{#p/human}* (You look behind the station and find a key.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você olha atrás da estação e achou uma chave.)"
 
 msgid "<32>{#s/equip}{#p/human}* (The Rusty Key was added to your keyring.)"
 msgstr ""
+"<32>{#s/equip}{#p/human}* (A Chave Rústica foi adicionada ao seu chaveiro.)"
 
 msgid "<32>* (Check your CELL to see all acquired keys.)"
-msgstr ""
+msgstr "<32>* (Olhe seu Celular para ver todas as chaves.)"
 
 msgid "<32>{#p/human}* (You look behind the station.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você olha atrás da estação.)"
 
 msgid "<32>{#p/basic}* Nothing new back here."
-msgstr ""
+msgstr "<32>{#p/basic}* Nada novo aqui."
 
 msgid "<25>{#p/sans}* oh, hey there."
-msgstr ""
+msgstr "<25>{#p/sans}* oh, e aí."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* if you liked that last puzzle, just wait until you see "
 "this one."
 msgstr ""
+"<25>{#p/sans}{#f/2}* Se você gostou daquele último desafio, espera até você "
+"ver o próximo."
 
 msgid "<18>{#p/papyrus}{#f/9}HUMAN!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}HUMANO!!"
 
 msgid "<18>{#f/9}YOU HAVE SEEN MY PUZZLES."
-msgstr ""
+msgstr "<18>{#f/9}VOCÊ VIU MEUS QUEBRA-CABEÇAS."
 
 msgid "<18>{#f/4}BUT WHAT YOU ARE ABOUT TO SEE IS..."
-msgstr ""
+msgstr "<18>{#f/4}MAS O QUE VOCÊ ESTÁ PRESTES A VER..."
 
 msgid ""
 "<26>{#p/sans}* no, really.\n"
 "* walk up and take a look."
 msgstr ""
+"<26>{#p/sans}* não, realmente.\n"
+"* vem aí e dá uma olhada."
 
 msgid "<25>{#p/sans}* it's right there on the ground."
-msgstr ""
+msgstr "<25>{#p/sans}* está bem alí no chão."
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}SANS!!\n"
 "WHERE'S THE PUZZLE!?"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}SANS!!\n"
+"CADÊ O QUEBRA-CABEÇA!?"
 
 msgid "<25>{#p/sans}* you're lookin' at it."
-msgstr ""
+msgstr "<25>{#p/sans}* você tá olhando pra ele."
 
 msgid ""
 "<18>{#p/papyrus}{#f/1}WHAT?\n"
 "THAT TABLET LYING ON THE GROUND?"
 msgstr ""
+"<18>{#p/papyrus}{#f/1}O QUÊ?\n"
+"AQUELA COISA NO CHÃO?"
 
 msgid "<18>{#f/4}OKAY..."
-msgstr ""
+msgstr "<18>{#f/4}OKAY..."
 
 msgid ""
 "<25>{#p/sans}* well, how was it?\n"
 "* ... too hot to handle?"
 msgstr ""
+"<25>{#p/sans}* E aí, como é que foi?\n"
+"* ... muito difícil pra aguentar?"
 
 msgid "<25>{#p/sans}* can't even bring yourself to look at it, huh?"
-msgstr ""
+msgstr "<25>{#p/sans}* não se dá nem o esforço de olhar, huh?"
 
 msgid "<25>* i guess i shouldn't have expected much."
-msgstr ""
+msgstr "<25>* Acho que eu não deveria ter esperado muito."
 
 msgid ""
 "<26>{#f/3}* oh well.\n"
 "* maybe a kakuro puzzle would be easier for you."
 msgstr ""
+"<26>{#f/3}* oh pois bem.\n"
+"* talvez um kakuro seja mais fácil para você."
 
 msgid "<26>{#f/0}* but i digress."
-msgstr ""
+msgstr "<26>{#f/0}* mas eu dúvido."
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}SANS!!!\n"
 "THAT DIDN'T DO ANYTHING!"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}SANS!!!\n"
+"AQUILO NÃO FEZ NADA!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}SANS!!!\n"
 "THEY DIDN'T EVEN LOOK AT IT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}SANS!!!\n"
+"ELE NEM OLHOU!"
 
 msgid "<25>{#p/sans}* whoops."
-msgstr ""
+msgstr "<25>{#p/sans}* ops."
 
 msgid "<25>{#f/3}* i knew i should have used today's kakuro puzzle instead."
-msgstr ""
+msgstr "<25>{#f/3}* eu sabia que deveria ter usado o kakuro de hoje mais cedo."
 
 msgid "<18>{#p/papyrus}{#f/1}WHAT!? KAKURO!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}O QUÊ!? KAKURO!?"
 
 msgid "<18>{#f/9}I CAN'T BELIEVE YOU SAID THAT!!"
-msgstr ""
+msgstr "<18>{#f/9}EU NÃO ACREDITO QUE VOCÊ DISSE ISSO!!"
 
 msgid "<18>{#f/4}IN MY OPINION..."
-msgstr ""
+msgstr "<18>{#f/4}EM MINHA OPINIÃO..."
 
 msgid "<18>{#f/0}SUDOKU IS EASILY THE HARDEST."
-msgstr ""
+msgstr "<18>{#f/0}SUDOKU É BEM MAIS DIFÍCIL."
 
 msgid ""
 "<25>{#p/sans}* what? really, dude?\n"
 "* that easy-peasy number shuffle?"
 msgstr ""
+"<25>{#p/sans}* o quê? sério, mano?\n"
+"* aquele embaralhamento de números fácil?"
 
 msgid "<25>{#f/4}* that's for baby bones."
-msgstr ""
+msgstr "<25>{#f/4}* aquilo é pra esqueletinhos."
 
 msgid "<18>{#p/papyrus}{#f/4}UN. BELIEVABLE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}IN. NACREDITAVEL."
 
 msgid ""
 "<18>{#f/9}HUMAN!!!\n"
 "SOLVE THIS DISPUTE!"
 msgstr ""
+"<18>{#f/9}HUMANO!!!\n"
+"RESOLVA ESSA DISPUTA!"
 
 msgid "* (Which is harder?)"
-msgstr ""
+msgstr "* (Qual é mais difícil?)"
 
 msgid "Sudoku"
-msgstr ""
+msgstr "Sudoku"
 
 msgid "Kakuro"
-msgstr ""
+msgstr "Kakuro"
 
 msgid "<18>{#p/papyrus}HA! HA! YES!"
-msgstr ""
+msgstr "<18>{#p/papyrus}HA! HA! SIM!"
 
 msgid "<18>HUMANS MUST BE VERY INTELLIGENT!"
-msgstr ""
+msgstr "<18>HUMANOS DEVEM SER MUITO INTELIGENTES!"
 
 msgid "<18>IF THEY ALSO FIND SUDOKU SO DIFFICULT!"
-msgstr ""
+msgstr "<18>SE ELES TAMBÉM ACHAM SUDOKU DIFÍCIL!"
 
 msgid "<18>{#f/9}NYEH! HEH! HEH HEH!"
-msgstr ""
+msgstr "<18>{#f/9}NYEH! HEH! HEH HEH!"
 
 msgid "<18>{#p/papyrus}{#f/9}YOU TWO ARE WEIRD!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}VOCÊS DOIS SÃO ESQUISITOS!"
 
 msgid "<18>{#f/0}KAKURO PUZZLES ARE SO EASY."
-msgstr ""
+msgstr "<18>{#f/0}KAKURO É TÃO FÁCIL."
 
 msgid "<18>IT'S THE SAME SOLUTION EVERY TIME."
-msgstr ""
+msgstr "<18>É A MESMA SOLUÇÃO TODA VEZ."
 
 msgid "<18>{#f/4}I JUST FILL ALL THE BOXES IN WITH THE LETTER \"Z\"..."
-msgstr ""
+msgstr "<18>{#f/4}EU SÓ PREENCHO AS CAIXAS COM A LETRA \"Z\"..."
 
 msgid "<18>{#f/4}BECAUSE EVERY TIME I LOOK AT A KAKURO..."
-msgstr ""
+msgstr "<18>{#f/4}PORQUE TODA VEZ QUE EU OLHO PARA UM KAKURO..."
 
 msgid "<18>{#f/9}ALL I CAN DO IS SNORE!!!"
-msgstr ""
+msgstr "<18>{#f/9}TUDO QUE EU CONSIGO FAZER É DORMIR!!!"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* by the way, i think i saw a pair of dogs running "
 "around..."
 msgstr ""
+"<25>{#p/sans}{#f/3}* aliás, tem um par de cachorros vasculhando por aí..."
 
 msgid "<25>{#f/0}* i'd tread carefully if i were you."
-msgstr ""
+msgstr "<25>{#f/0}* eu tomaria bastante cuidado se fosse você."
 
 msgid "<25>{#p/sans}* hey, where ya goin there, bucko?"
-msgstr ""
+msgstr "<25>{#p/sans}* ei, onde você está indo, bacana?"
 
 msgid "<25>{#p/sans}* wrong way."
-msgstr ""
+msgstr "<25>{#p/sans}* caminho errado."
 
 msgid ""
 "<25>{#p/sans}* really?\n"
 "* it's not THAT bad."
 msgstr ""
+"<25>{#p/sans}* sério?\n"
+"* não é tão ruim."
 
 msgid "<25>{#p/sans}* really?"
-msgstr ""
+msgstr "<25>{#p/sans}* sério?"
 
 msgid "<25>{#p/sans}* thanks for saying \"sudoku\" just to appease my brother."
 msgstr ""
+"<25>{#p/sans}* valeu por dizer \"sudoku\" pra deixar meu irmão mais feliz."
 
 msgid "<25>{#f/4}* yesterday he got stumped trying to \"solve\" a star chart."
 msgstr ""
+"<25>{#f/4}* Ontem ele ficou perplexo tentando \"resolver\" um mapa estelar."
 
 msgid ""
 "<25>{#p/sans}* papyrus...\n"
 "* ... finds difficulty in interesting places."
 msgstr ""
+"<25>{#p/sans}* papyrus...\n"
+"* ... acha dificuldades em lugares interessantes."
 
 msgid "<25>{#p/sans}{#f/3}* i kinda figured you'd skip over it."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* eu meio que imaginei que você evitaria isso."
 
 msgid ""
 "<25>{#f/0}* that just seems like the sort of thing you'd do, doesn't it?"
-msgstr ""
+msgstr "<25>{#f/0}* isso só parece o tipo de coisa que você faz, não é mesmo?"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* i'm surprised.\n"
 "* i thought you'd walk right past it."
 msgstr ""
+"<25>{#p/sans}{#f/3}* estou surpreso.\n"
+"* eu pensei que você iria só passar sem olhar."
 
 msgid "<25>{#f/2}* perhaps you're not so terrible after all."
-msgstr ""
+msgstr "<25>{#f/2}* talvez você não seja tão terrível depois de tudo."
 
 msgid "<25>{#p/sans}{#f/2}* heheh, made you look."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* heheh, te fiz olhar."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* i'm surprised.\n"
 "* i thought you weren't even interested."
 msgstr ""
+"<25>{#p/sans}{#f/3}* estou surpreso.\n"
+"* eu acho que você nem estaria interessado."
 
 msgid ""
 "<32>{#p/basic}* Did something move?\n"
 "* Was it just my imagination?"
 msgstr ""
+"<32>{#p/basic}* Alguma coisa se mexeu?\n"
+"* Foi minha imaginação?"
 
 msgid ""
 "<32>* If something WAS moving...\n"
 "* For example, a human..."
 msgstr ""
+"<32>* Se algo estava se mexendo...\n"
+"* Por exemplo um humano..."
 
 msgid "<32>* I'll make sure it never leaves my sight again!"
-msgstr ""
+msgstr "<32>* Eu vou ter certeza que nunca mais saia daqui!"
 
 msgid ""
 "<32>{#p/basic}* S-S-S-Something pet me...\n"
 "* Something that isn't even m-m-moving...!"
 msgstr ""
+"<32>{#p/basic}* A-a-a-algo me acariciou...\n"
+"* Algo que nem estava se m-m-mexendo...!"
 
 msgid "<32>* I'm gonna need some dog treats for this."
-msgstr ""
+msgstr "<32>* Eu vou precisar de uns biscoitos caninos depois disso."
 
 msgid "<32>{#p/basic}* A w-w-wrench appeared out of nowhere, h-huh!?!?"
-msgstr ""
+msgstr "<32>{#p/basic}* Uma chave inglesa apareceu do nada, h-huh!?!?"
 
 msgid "<32>{#p/basic}* ... what a day!"
-msgstr ""
+msgstr "<32>{#p/basic}* ... que dia!"
 
 msgid ""
 "<32>{#p/basic}* A h-h-human came up and attacked me...\n"
 "* Out of n-n-nowhere...!"
 msgstr ""
+"<32>{#p/basic}* Um h-h-humano apareceu e me atacou...\n"
+"* Do n-n-nada...!"
 
 msgid ""
 "<32>{#p/basic}* I'm...\n"
 "* I'm gonna go to bed."
 msgstr ""
+"<32>{#p/basic}* Eu vou...\n"
+"* Eu vou pra cama."
 
 msgid ""
 "<32>{#p/basic}* Hello?\n"
 "* Is anybody there...?"
 msgstr ""
+"<32>{#p/basic}* Olá?\n"
+"* Tem alguém aí?"
 
 msgid ""
 "<32>{#p/basic}* Are you two playing a trick on me?\n"
 "* Real funny, guys."
 msgstr ""
+"<32>{#p/basic}* Vocês dois estão estão planejando me enganar?\n"
+"* Bem engraçado, caras."
 
 msgid ""
 "<32>{#p/basic}* Big lug?\n"
 "* Is that you?\n"
 "* Come on..."
 msgstr ""
+"<32>{#p/basic}* Big lug?\n"
+"* É você?\n"
+"* Vamos lá..."
 
 msgid ""
 "<32>{#p/basic}* Well, it's not the tall skeleton...\n"
 "* He's too loud."
 msgstr ""
+"<32>{#p/basic}* Bem, não é aquele esqueleto alto...\n"
+"* Ele é bem barulhento."
 
 msgid "<32>{#p/basic}* Whoever you are, knock it off!!!"
-msgstr ""
+msgstr "<32>{#p/basic}* Seja lá quem você for, para com isso!!!"
 
 msgid "<32>{#p/basic}* (Snore... snore...)"
-msgstr ""
+msgstr "<32>{#p/basic}* (Ronco... ronco...)"
 
 msgid ""
 "<32>{#p/basic}* Did you just...\n"
 "* Drop the part of me I had given you?"
 msgstr ""
+"<32>{#p/basic}* Você acabou de...\n"
+"* Jogar fora a parte minha que eu te dei?"
 
 msgid ""
 "<32>* I have no words for you...\n"
 "* Begone!"
 msgstr ""
+"<32>* Eu não tenho palavras para você...\n"
+"* Desapareça!"
 
 msgid "<32>{#p/basic}* You know, you're lucky I'm busy advertising."
-msgstr ""
+msgstr "<32>{#p/basic}* Você sabe, você tem sorte que eu sou ocupado."
 
 msgid ""
 "<32>{#p/basic}* Did you just...\n"
 "* Consume the part of me I had given you?"
 msgstr ""
+"<32>{#p/basic}* Você acabou de...\n"
+"* Consumir a parte de mim que eu te dei?"
 
 msgid ""
 "<32>{#p/basic}* Nice to see you enjoying your Ice Dream!\n"
 "* Very nice!"
 msgstr ""
+"<32>{#p/basic}* Legal te ver aproveitar um Sorvete Sonho!\n"
+"* Bem legal!"
 
 msgid "<25>{#p/asriel2}{#f/9}* Just follow my lead..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/9}* Só me segue..."
 
 msgid "<25>{#p/asriel2}{#f/16}* This way."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/16}* Por aqui."
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* Well, well... if it isn't the great Papyrus standing"
 " just ahead."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* Hora, hora... se não é o grande Papyrus logo a "
+"frente."
 
 msgid "<25>{#p/asriel2}{#f/3}* Well, well... here we go again."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Hora, hora... lá vamos nós de novo."
 
 msgid "<25>{#p/asriel2}{#f/1}* Let's go introduce ourselves, shall we?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Vamos nos apresentar, que tal?"
 
 msgid "<25>{#p/asriel2}{#f/4}* You know the drill by now."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Você sabe o roteiro daqui."
 
 msgid "<25>{*}{#p/asriel2}{#f/5}* Howdy!{^5}{%}"
-msgstr ""
+msgstr "<25>{*}{#p/asriel2}{#f/5}* Olá!{^5}{%}"
 
 msgid "<18>{*}{#p/papyrus}{#f/1}WHAT THE- {%}"
-msgstr ""
+msgstr "<18>{*}{#p/papyrus}{#f/1}MAS QUE- {%}"
 
 msgid "<25>{#p/asriel2}{#f/13}* ... $(name), do you..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/13}* ... $(name), você..."
 
 msgid "<25>{#f/17}* Do you think you could take over from here?"
-msgstr ""
+msgstr "<25>{#f/17}* Você acha que pode tomar frente daqui?"
 
 msgid "<25>{#f/15}* Not that anything's wrong with me, but..."
-msgstr ""
+msgstr "<25>{#f/15}* Não que tenha algo de errado como, mas..."
 
 msgid "<25>{#f/16}* I just think you'd be better at this than I am."
-msgstr ""
+msgstr "<25>{#f/16}* Eu só acho que você é melhor do que eu nisso."
 
 msgid ""
 "<25>{#f/17}* Yeah, that's it.\n"
 "* You're better at this sort of thing."
 msgstr ""
+"<25>{#f/17}* É, é isso.\n"
+"* Você é melhor nesse tipo de coisa."
 
 msgid ""
 "<25>{#p/asriel2}{#f/16}* Okay, yeah.\n"
 "* I'll, uh... let you take over now."
 msgstr ""
+"<25>{#p/asriel2}{#f/16}* Okay, é.\n"
+"* Eu vou, uh... te deixar tomar conta partir daqui."
 
 msgid "<25>{#p/asriel2}{#f/15}* So, uh... onwards?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* Então, uh... avante?"
 
 msgid "<25>{#p/asriel2}{#f/15}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* ..."
 
 msgid "<25>{#p/asriel2}{#f/8}* Psst, let's wait and see what he does."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* Psst, vamos esperar e ver o que ele faz."
 
 msgid ""
 "<25>{#p/asriel2}{#f/15}* Wow.\n"
 "* To see Papyrus in such a state..."
 msgstr ""
+"<25>{#p/asriel2}{#f/15}* Uau.\n"
+"* Ver Papyrus neste estado..."
 
 msgid "<25>{#f/16}* ... it's certainly unexpected, isn't it?"
-msgstr ""
+msgstr "<25>{#f/16}* ... é certamente inesperado, não é?"
 
 msgid "<25>{#f/13}* Oh, $(name)..."
-msgstr ""
+msgstr "<25>{#f/13}* Oh, $(name)..."
 
 msgid "<25>{#f/1}* I think we're going to have a lot of fun."
-msgstr ""
+msgstr "<25>{#f/1}* Nós vamos nos divertir bastante."
 
 msgid "<25>{#p/asriel2}{#f/16}* Poor, poor Papyrus."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/16}* Pobre, pobre Papyrus."
 
 msgid "<25>{#p/asriel2}{#f/16}* Golly... some people just don't get it."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/16}* Senhor... algumas pessoas só não entendem."
 
 msgid "<25>{#p/asriel2}{#f/4}* Tch."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Tch."
 
 msgid "<25>{#p/asriel2}{#f/4}* What a waste of time."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Que perda de tempo."
 
 msgid "<25>{#p/asriel2}{#f/3}* Huh."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Huh."
 
 msgid "<26>{#p/asriel2}{#f/3}* Well, that's the canine unit gone."
-msgstr ""
+msgstr "<26>{#p/asriel2}{#f/3}* Aqui acaba a unidade canina."
 
 msgid "<26>{#p/asriel2}{#f/4}* Only one bridge left between us and town."
-msgstr ""
+msgstr "<26>{#p/asriel2}{#f/4}* Só mais uma ponte entre nós e a cidade."
 
 msgid "<25>{#f/1}* ... stay behind me."
-msgstr ""
+msgstr "<25>{#f/1}* ... fique atrás de mim."
 
 msgid "<25>{#p/asriel2}{#f/3}* Into town we go..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Para a cidade nós vamos..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* Okay, $(name).\n"
 "* The town's all yours."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* Okay, $(name).\n"
+"* A cidade é toda sua."
 
 msgid ""
 "<25>{#f/7}* In the meantime, I have to do something that'll be important "
 "later."
 msgstr ""
+"<25>{#f/7}* No meio tempo, eu vou precisar fazer algo importante para mais "
+"tarde."
 
 msgid "<25>{#f/1}* I'll be back before you know it."
-msgstr ""
+msgstr "<25>{#f/1}* Eu estarei de volta antes que você saiba."
 
 msgid "<25>{#p/asriel2}{#f/1}* See you around the back of town."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Te vejo de novo depois da cidade."
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* Hee.\n"
 "* Hee.\n"
 "* Hee...."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* Hee.\n"
+"* Hee.\n"
+"* Hee...."
 
 msgid "<25>{#f/10}* ... wait, where's Papyrus?"
-msgstr ""
+msgstr "<25>{#f/10}* ... pera, cadê o Papyrus?"
 
 msgid "<25>{#f/10}* ..."
-msgstr ""
+msgstr "<25>{#f/10}* ..."
 
 msgid ""
 "<25>{#f/4}* Golly, $(name), I didn't think you'd kill him THAT quickly."
 msgstr ""
+"<25>{#f/4}* Senhor, $(name), eu não pensei que você o mataria com TANTA "
+"velocidade."
 
 msgid ""
 "<25>{#f/1}* It's about time that bonehead paid the price for his mercy."
 msgstr ""
+"<25>{#f/1}* Já era hora daquele cabeça de osso pagar o preço por sua piedade."
 
 msgid ""
 "<25>{#f/13}* Golly.\n"
 "* He wanted SO badly to forgive you."
 msgstr ""
+"<25>{#f/13}* Hee hee hee.\n"
+"* Ele queria tanto te perdoar."
 
 msgid "<25>{#f/16}* But, let's be honest with ourselves here..."
-msgstr ""
+msgstr "<25>{#f/16}* Mas, vamos ser honestos com nós mesmos..."
 
 msgid "<25>{#f/1}* We've got bigger fish to fry."
-msgstr ""
+msgstr "<25>{#f/1}* Nós temos peixe maior para pescar."
 
 msgid ""
 "<25>{#p/asriel2}{#f/13}* Oh well.\n"
 "* The skeleton died for nothing again."
 msgstr ""
+"<25>{#p/asriel2}{#f/13}* Pois bem.\n"
+"* O esqueleto morreu de novo para nada."
 
 msgid ""
 "<25>{#p/asriel2}{#f/13}* You know, they say the third time's the charm..."
 msgstr ""
+"<25>{#p/asriel2}{#f/13}* Você sabe, eles dizem que a terceira vez trás um "
+"charme."
 
 msgid "<25>{#f/16}* Too bad he only ever gets one."
-msgstr ""
+msgstr "<25>{#f/16}* Que triste que ele sempre morre só com uma porrada."
 
 msgid "<25>{#p/asriel2}{#f/6}* That's four times you've killed him now."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Já é a quarta vez que você o matou."
 
 msgid "<25>{#f/8}* I'm starting to think you enjoy this..."
-msgstr ""
+msgstr "<25>{#f/8}* Estou começando a pensar que você ama fazer isso..."
 
 msgid "<25>{#p/asriel2}{#f/15}* Again...?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* De novo...?"
 
 msgid "<25>{#p/asgore}{#f/1}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/1}* ..."
 
 msgid "<25>{#f/1}* Howdy, Asriel."
-msgstr ""
+msgstr "<25>{#f/1}* Olá, Asriel."
 
 msgid "<25>{#f/2}* ..."
-msgstr ""
+msgstr "<25>{#f/2}* ..."
 
 msgid "<25>{#f/3}* We need to talk."
-msgstr ""
+msgstr "<25>{#f/3}* Precisamos conversar."
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* Talk?\n"
 "* About what?"
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* Conversar?\n"
+"* Sobre o que?"
 
 msgid "<25>{#f/6}* Why are you even here?"
-msgstr ""
+msgstr "<25>{#f/6}* Pra quê você está aqui?"
 
 msgid "<25>{#f/7}* You know you'll just die to me anyway."
-msgstr ""
+msgstr "<25>{#f/7}* Você sabe que só morreria pra mim, de toda forma."
 
 msgid "<25>{#f/8}* Speaking of which... {%15}"
-msgstr ""
+msgstr "<25>{#f/8}* Falando nisso... {%15}"
 
 msgid ""
 "<25>{#p/asriel2}{#f/8}* Talk?\n"
 "* Don't waste my time."
 msgstr ""
+"<25>{#p/asriel2}{#f/8}* Conversar?\n"
+"* Não me faça perder tempo."
 
 msgid "<25>{#f/6}* I KNOW you're just using a hologram."
-msgstr ""
+msgstr "<25>{#f/6}* EU SEI muito bem que você é apenas um holograma."
 
 msgid "<25>{|}{#p/asgore}{#f/5}* How did you- {%}"
-msgstr ""
+msgstr "<25>{|}{#p/asgore}{#f/5}* Como você- {%}"
 
 msgid "<25>{#p/asriel2}{#f/1}* Hush."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Rum."
 
 msgid ""
 "<25>{#p/asriel2}{#f/8}* Seriously?\n"
 "* A hologram?"
 msgstr ""
+"<25>{#p/asriel2}{#f/8}* Sério?\n"
+"* Um holograma?"
 
 msgid "<25>{#f/6}* I knew you were a coward, but this is a whole new level."
-msgstr ""
+msgstr "<25>{#f/6}* Eu sabia que você era um covarde, mas isso é outro nível."
 
 msgid "<25>{#p/asgore}{#f/1}* Do you not have anything better to do?"
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/1}* Você não tem nada melhor para fazer?"
 
 msgid "<25>{#p/asriel2}{#f/8}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* ..."
 
 msgid "<25>{|}{#p/asgore}{#f/3}* Look, son, I simply- {%}"
-msgstr ""
+msgstr "<25>{|}{#p/asgore}{#f/3}* Olha, filho, eu só- {%}"
 
 msgid ""
 "<25>{#p/asriel2}{#f/7}* I'm not your son.\n"
 "* I haven't BEEN your son for a long time."
 msgstr ""
+"<25>{#p/asriel2}{#f/7}* Eu não sou seu filho.\n"
+"* Eu não tenho SIDO seu filho a muito tempo."
 
 msgid "<25>{#p/asgore}{#f/2}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/2}* ..."
 
 msgid ""
 "<25>{#p/asgore}{#f/1}* Alright, Asriel.\n"
 "* Do you not see what you are doing to yourself?"
 msgstr ""
+"<25>{#p/asgore}{#f/1}* Certo, Asriel.\n"
+"* Você não percebe o que está fazendo consigo mesmo?"
 
 msgid ""
 "<25>{#f/2}* You've become callous.\n"
 "* Unforgiving."
 msgstr ""
+"<25>{#f/2}* Você se tornou psicopático.\n"
+"* Imperdoável."
 
 msgid ""
 "<25>{#p/asriel2}{#f/8}* Ugh, don't say it like you actually care about me, "
 "dad."
 msgstr ""
+"<25>{#p/asriel2}{#f/8}* Ugh, não diga como se você realmente ligasse pra "
+"mim, pai."
 
 msgid "<25>{#p/asgore}{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* ..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/9}* Oh, sorry...\n"
 "* Did I say \"Dad?\"\n"
 "* I meant \"Asgore.\""
 msgstr ""
+"<25>{#p/asriel2}{#f/9}* Ah, desculpa.\n"
+"* Eu disse \"Pai?\"\n"
+"* Eu quis dizer \"Asgore.\""
 
 msgid "<25>{#f/1}* Forgive me."
-msgstr ""
+msgstr "<25>{#f/1}* Desculpinha."
 
 msgid ""
 "<25>{#p/asgore}{#f/3}* ...\n"
 "* Really now..."
 msgstr ""
+"<25>{#p/asgore}{#f/3}* ...\n"
+"* Sério agora..."
 
 msgid ""
 "<25>{#f/5}* You must reconsider what you are doing, not for our sakes..."
 msgstr ""
+"<25>{#f/5}* Você deve reconsiderar o que está fazendo, não pelo nosso bem..."
 
 msgid "<25>{#f/6}* But for yours!"
-msgstr ""
+msgstr "<25>{#f/6}* Mas pelos seus!"
 
 msgid "<25>{#p/asriel2}{#f/7}* ... give me a break."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/7}* ... me dá um tempo."
 
 msgid ""
 "<26>{#f/6}* It's OBVIOUS you're\n"
 "  just here to wind me up."
-msgstr ""
+msgstr "<26>{#f/6}* É ÓBVIO que você só está querendo me fazer parar."
 
 msgid "<25>{#p/asgore}{#f/3}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/3}* ..."
 
 msgid "<25>{#p/asriel2}{#f/6}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* ..."
 
 msgid "<25>{#p/asgore}{#f/7}* You must consider the gravity of your choices!"
 msgstr ""
+"<25>{#p/asgore}{#f/7}* Você deve considerar a gravidade das suas escolhas!"
 
 msgid ""
 "<25>{#p/asriel2}{#f/15}* Or what? I'll float off into space, never to be "
 "seen again?"
 msgstr ""
+"<25>{#p/asriel2}{#f/15}* Ou o quê? Eu vou voar no espaço para nunca mais ser "
+"visto?"
 
 msgid "<25>{#f/16}* Come on $(name), we're done here."
 msgstr ""
+"<25>{#f/16}* Vamos lá $(name), já fizemos tudo que tinha pra fazer aqui."
 
 msgid ""
 "<25>{*}{#p/asgore}{#f/8}* Asriel, please!\n"
 "* I only want to help!{^999}"
 msgstr ""
+"<25>{*}{#p/asgore}{#f/8}* Asriel, por favor!\n"
+"* Eu só quero ajudar!{^999}"
 
 msgid "<25>{#p/asriel2}{#f/3}* Ready yourself, $(name)."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Prepare-se, $(name)."
 
 msgid "<26>{#f/4}* This is Undyne's domain."
-msgstr ""
+msgstr "<26>{#f/4}* Aqui é domínio da Undyne."
 
 msgid "<25>{#p/asriel2}{#f/4}* Take us in."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Vamos indo."
 
 msgid ""
 "<18>{#p/papyrus}{#f/31}SANS?\n"
 "IS THAT A HUMAN?"
 msgstr ""
+"<18>{#p/papyrus}{#f/31}SANS?\n"
+"ESTE É UM HUMANO?"
 
 msgid "<18>{#f/5}IT IS, ISN'T IT?"
-msgstr ""
+msgstr "<18>{#f/5}É, NÃO É?"
 
 msgid ""
 "<18>{#f/32}NYEH...\n"
 "UNDYNE WILL FINALLY..."
 msgstr ""
+"<18>{#f/32}NYEH...\n"
+"UNDYNE FINALMENTE IRÁ..."
 
 msgid "<18>{#p/papyrus}{#f/31}I'LL GET TO JOIN THE ROYAL GUARD..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}EU IREI ME JUNTAR A GUARDA REAL..."
 
 msgid "<18>{#f/5}DOESN'T THAT MAKE YOU HAPPY?"
-msgstr ""
+msgstr "<18>{#f/5}ISSO NÃO TE FAZ FELIZ?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/3}* You can't keep pretending, Papyrus.\n"
 "* He's gone."
 msgstr ""
+"<25>{#p/asriel2}{#f/3}* Você não pode continuar pretendendo Papyrus.\n"
+"* Ele se foi."
 
 msgid "<18>{|}{#p/papyrus}{#f/5}BUT- {%}"
-msgstr ""
+msgstr "<18>{|}{#p/papyrus}{#f/5}MAS- {%}"
 
 msgid ""
 "<25>{#p/asriel2}{#f/3}* It's over.\n"
 "* You're wasting your time on him."
 msgstr ""
+"<25>{#p/asriel2}{#f/3}* Acabou.\n"
+"* Você está perdendo seu tempo nele."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}BUT IT CAN'T BE...\n"
 "SANS, HE..."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}MAS NÃO PODE SER...\n"
+"SANS, ELE..."
 
 msgid "<18>{#f/31}HE PROMISED..."
-msgstr ""
+msgstr "<18>{#f/31}ELE PROMETEU..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/8}* That bonehead is the LAST person I'd trust to keep a"
 " promise."
 msgstr ""
+"<25>{#p/asriel2}{#f/8}* Aquele preguiçoso é a ULTIMA pessoa da qual eu "
+"confiaria manter a promessa."
 
 msgid "<26>{#f/9}* Not that I'm any better."
-msgstr ""
+msgstr "<26>{#f/9}* Não que eu seja melhor."
 
 msgid "<18>{#p/papyrus}{#f/31}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}..."
 
 msgid ""
 "<18>{#f/3}I'M SORRY.\n"
 "I HAVE TO GO..."
 msgstr ""
+"<18>{#f/3}DESCULPA.\n"
+"EU TENHO QUE IR..."
 
 msgid "<18>{#p/papyrus}{#f/31}WELL, I JUST GOT BACK FROM UNDYNE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}OLHA, EU ACABEI DE VOLTAR DA UNDYNE..."
 
 msgid "<18>{#f/31}SHE TELLS ME THE KING HAS AN OFFER FOR YOU."
-msgstr ""
+msgstr "<18>{#f/31}ELA ME DISSE QUE O REI TEM UMA OFERTA."
 
 msgid "<18>{#p/papyrus}{#f/3}HIS EXACT WORDS WERE \"I WANT TO SEE MY SON.\""
 msgstr ""
+"<18>{#p/papyrus}{#f/3}SUAS EXATAS PALAVRAS FORAM \"EU QUERO VER MEU FILHO.\""
 
 msgid "<18>{#f/7}..."
-msgstr ""
+msgstr "<18>{#f/7}..."
 
 msgid "<18>{#f/7}I CAN'T BELIEVE THE PRINCE KILLED MY BROTHER!"
-msgstr ""
+msgstr "<18>{#f/7}EU NÃO ACREDITO QUE O PRÍNCIPE MATOU MEU IRMÃO!"
 
 msgid "<25>{|}{#p/asriel2}{#f/8}* Actually, it was you we were trying to- {%}"
 msgstr ""
+"<25>{|}{#p/asriel2}{#f/8}* A culpa foi sua, nós estávamos tentando te- {%}"
 
 msgid "<18>{#p/papyrus}{#f/7}ENOUGH!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}CALADO!!"
 
 msgid ""
 "<18>{#f/7}YOU BETRAYED YOUR OWN SOCIETY!\n"
 "YOUR OWN PEOPLE!"
 msgstr ""
+"<18>{#f/7}VOCÊ TRAIU SUA PRÓPRIA SOCIEDADE!\n"
+"SEU PRÓPRIO POVO!"
 
 msgid "<18>{#f/7}AND FOR WHAT!?"
-msgstr ""
+msgstr "<18>{#f/7}E PARA QUE!?"
 
 msgid "<18>{#f/7}A PETTY ATTEMPT AT SELF-AMUSEMENT?"
-msgstr ""
+msgstr "<18>{#f/7}UMA TENTATIVA DE EGOCENTRISMO?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/16}* Yes, Papyrus.\n"
 "* That's exactly what this is for."
 msgstr ""
+"<25>{#p/asriel2}{#f/16}* Sim, Papyrus.\n"
+"* É exatamente isso."
 
 msgid "<18>{#p/papyrus}{#f/7}... UGH!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}... UGH!!"
 
 msgid "<18>{#p/papyrus}{#f/4}AS FOR YOU, HUMAN..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}JÁ PARA VOCÊ, HUMANO..."
 
 msgid "<18>{#f/7}DON'T THINK I CAN'T SEE WHAT'S GOING ON."
-msgstr ""
+msgstr "<18>{#f/7}NÃO PENSE QUE EU NÃO SEI O QUE ESTÁ ACONTECENDO."
 
 msgid "<18>{#f/7}IT'S OBVIOUS YOU'RE THE ONE CALLING THE SHOTS!"
-msgstr ""
+msgstr "<18>{#f/7}É OBVIO QUE É VOCÊ QUEM ESTÁ TIRANDO VIDAS!"
 
 msgid "<25>{#p/asriel2}{#f/8}* How observant."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* Que observador."
 
 msgid ""
 "<25>{#f/7}* Guess we should just admit defeat to you here and now, huh?"
 msgstr ""
+"<25>{#f/7}* Acho que podemos provar isso e acabar com você aqui e agora, que "
+"tal?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/4}* Let me be clear.\n"
 "* I do admire the effort."
 msgstr ""
+"<25>{#p/asriel2}{#f/4}* Deixe-me ser claro.\n"
+"* Eu admiro seu esforço."
 
 msgid "<25>{#f/3}* But we've got our own plans to see to."
-msgstr ""
+msgstr "<25>{#f/3}* Mas nós temos nossos próprios planos."
 
 msgid "<18>{#p/papyrus}{#f/4}JUST SO YOU KNOW, UNDYNE'S PROBABLY WATCHING US."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}SÓ PRA VOCÊ SABER UNDYNE PROVAVELMENTE ESTÁ NOS "
+"ASSISTINDO AGORA."
 
 msgid "<25>{#p/asriel2}{#f/3}* And your point is?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* E seu ponto é?"
 
 msgid ""
 "<25>{#f/4}* ... look Papyrus, it doesn't matter what you or anyone else "
 "does."
 msgstr ""
+"<25>{#f/4}* ... olha Papyrus, não importa o que você ou qualquer um faça."
 
 msgid ""
 "<25>{#f/1}* When the two of us are together, NOTHING can bring us apart."
-msgstr ""
+msgstr "<25>{#f/1}* Quando nós dois estamos juntos, NADA pode nos separar."
 
 msgid "<18>{#p/papyrus}{#f/7}WHATEVER!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}TANTO FAZ!!!"
 
 msgid "<25>{#p/asriel2}{#f/3}* Howdy."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Olá."
 
 msgid "<18>{#p/papyrus}{#f/31}YOU KNOW..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}SABE DE UMA COISA..."
 
 msgid "<18>{#f/31}I OVERHEARD DR. ALPHYS TALKING..."
-msgstr ""
+msgstr "<18>{#f/31}EU ACABEI OUVINDO A DR. ALPHYS FALANDO..."
 
 msgid "<18>{#f/5}AND SHE MENTIONED SOMETHING LIKE \"TURN BACK TIME?\""
-msgstr ""
+msgstr "<18>{#f/5}E ELA MENCIONOU ALGO COMO \"VOLTAR NO TEMPO?\""
 
 msgid "<18>{|}{#f/32}{#x1}I CAN'T BE SURE, BUT IT SOUNDS LIKE- {%}"
-msgstr ""
+msgstr "<18>{|}{#f/32}{#x1}EU NÃO TENHO CERTEZA, MAS PARECE QUE- {%}"
 
 msgid "<25>{#p/asriel2}{#f/6}* No."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Não."
 
 msgid "<18>{|}{#p/papyrus}{#f/6}BUT SHE SAID YOU MIGHT BE ABLE TO- {%}"
-msgstr ""
+msgstr "<18>{|}{#p/papyrus}{#f/6}MAS ELA DISSE QUE VOCÊ DEVE SER CAPAZ DE- {%}"
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* No.\n"
 "* Though, I'm sure she'd love it if I did."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* Não.\n"
+"* Mas, eu tenho certeza que ela amaria se eu o fizesse."
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* No.\n"
 "* And she'll be dead in the end, anyway."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* Não.\n"
+"* E ela vai morrer no final também, de toda forma."
 
 msgid "<18>{#p/papyrus}{#f/31}BUT, IF YOU REALLY CAN ERASE WHAT HAPPENED..."
 msgstr ""
+"<18>{#p/papyrus}{#f/31}MAS, SE VOCÊ REALMENTE PODE RESETAR O QUE ACONTECE..."
 
 msgid "<18>{#f/5}THEN WHY NOT?"
-msgstr ""
+msgstr "<18>{#f/5}ENTÃO, POR QUE NÃO?"
 
 msgid "<18>{#f/31}A-AND, IN THE NEXT TIMELINE... I'LL TAKE HIS PLACE."
-msgstr ""
+msgstr "<18>{#f/31}E, NA PRÓXIMA LINHA DO TEMPO... EU VOU TOMAR O LUGAR DELE."
 
 msgid "<18>{#f/3}THEN HE WOULDN'T HAVE TO DIE, RIGHT?"
-msgstr ""
+msgstr "<18>{#f/3}ENTÃO ELE NÃO VAI PRECISAR MORRER, CERTO?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* ...\n"
 "* Trust me, I've already seen that timeline."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* ...\n"
+"* Confie em mim, eu já vi essa linha do tempo."
 
 msgid "<25>{#f/7}* It's BORING."
-msgstr ""
+msgstr "<25>{#f/7}* É ENTEDIANTE."
 
 msgid "<18>{#p/papyrus}{#f/3}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/3}..."
 
 msgid "<18>{#f/6}BUT WHAT IF I SHOW YOU THIS PUZZLE?"
-msgstr ""
+msgstr "<18>{#f/6}MAS E SE EU TE MOSTRAR ESTE QUEBRA-CABEÇA?"
 
 msgid "<18>{#f/32}IT MIGHT HELP TO ALLEVIATE YOUR BOREDOM..."
-msgstr ""
+msgstr "<18>{#f/32}TALVEZ TE AJUDE A ALIVIAR O TÉDIO..."
 
 msgid "<25>{#p/asriel2}{#f/15}* If it makes you feel better, I guess."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* Se faz você se sentir melhor, eu acho."
 
 msgid "<18>{#p/papyrus}OH... OH!"
-msgstr ""
+msgstr "<18>{#p/papyrus}OH... OH!"
 
 msgid "<18>{#f/0}THAT'S GREAT!!"
-msgstr ""
+msgstr "<18>{#f/0}ISSO É ÓTIMO!!"
 
 msgid "<18>{#f/0}YOU'RE ALREADY CHANGING YOUR MIND!!"
-msgstr ""
+msgstr "<18>{#f/0}VOCÊ JÁ ESTÁ MUDANDO DE IDEIA!"
 
 msgid "<18>{#p/papyrus}{#f/6}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}..."
 
 msgid "<18>{|}{#f/5}WELL, HERE ARE THE RULES OF THE- {%}"
-msgstr ""
+msgstr "<18>{|}{#f/5}AS REGRAS SÃO- {%}"
 
 msgid "<25>{#p/asriel2}{#f/7}* We already know the rules, idiot."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/7}* Nós já sabemos as regras, imbecil."
 
 msgid "<18>{#p/papyrus}{#f/31}... OH..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}... OH..."
 
 msgid ""
 "<18>{#f/6}UH, WELL THEN!!\n"
 "WITHOUT FURTHER ADO..."
 msgstr ""
+"<18>{#f/6}UH, POIS BEM!!\n"
+"SEM PERDA DE TEMPO..."
 
 msgid "<18>{#f/9}LET'S FIND OUT WHAT OUR RANDOM NUMBER WILL BE!!"
-msgstr ""
+msgstr "<18>{#f/9}VAMOS VER QUAL SERÁ O NÚMERO ALEATÓRIO!!"
 
 msgid "<18>{#p/papyrus}{#f/3}ASRIEL."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/3}ASRIEL."
 
 msgid "<25>{#p/asriel2}{#f/6}* Papyrus."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Papyrus."
 
 msgid "<18>{#f/31}WHY?"
-msgstr ""
+msgstr "<18>{#f/31}POR QUE?"
 
 msgid "<18>{#f/31}WHY WOULD YOU DO THIS?"
-msgstr ""
+msgstr "<18>{#f/31}POR QUE VOCÊ FARIA ISSO?"
 
 msgid "<18>{#f/3}MONSTERS AREN'T SUPPOSED TO BE LIKE THIS..."
-msgstr ""
+msgstr "<18>{#f/3}MONSTROS NÃO DEVERIAM SER ASSIM..."
 
 msgid ""
 "<18>{#f/5}WHERE'S YOUR LOVE?\n"
 "YOUR COMPASSION?"
 msgstr ""
+"<18>{#f/5}ONDE ESTÁ SEU AMOR?\n"
+"SUA COMPAIXÃO?"
 
 msgid "<18>{#f/31}YOUR... MERCY..."
-msgstr ""
+msgstr "<18>{#f/31}SUA... PIEDADE..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* ...\n"
 "* Oh, you sweet stellar star child..."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* ...\n"
+"* Oh, sua adorável criança estrelada..."
 
 msgid "<25>{#f/1}* I lost those things a LONG time ago."
-msgstr ""
+msgstr "<25>{#f/1}* Eu perdi essas coisas a MUITO tempo atrás."
 
 msgid ""
 "<18>{#p/papyrus}{#f/31}BUT...\n"
 "I DON'T GET IT..."
 msgstr ""
+"<18>{#p/papyrus}{#f/31}MAS...\n"
+"EU NÃO ENTENDO..."
 
 msgid "<18>{#f/5}HOW CAN A MONSTER SO PURE OF MIND..."
-msgstr ""
+msgstr "<18>{#f/5}COMO UM MONSTRO TÃO PURO DE MENTE..."
 
 msgid "<18>{#f/31}... BE TURNED SO COMPLETELY TO THE DARK SIDE?"
-msgstr ""
+msgstr "<18>{#f/31}... TER SE TORNADO TOTALMENTE PARA O LADO OBSCURO?"
 
 msgid "<25>{#p/asriel2}{#f/1}* You really wanna know?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Você realmente quer saber?"
 
 msgid "<18>{#f/3}YES..."
-msgstr ""
+msgstr "<18>{#f/3}SIM..."
 
 msgid "<25>{#p/asriel2}{#f/10}* But do you really, really wanna know?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/10}* Mas você realmente, realmente quer saber?"
 
 msgid "<18>{#p/papyrus}{#f/31}YES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}SIM."
 
 msgid "<25>{#p/asriel2}{#f/3}* Say it louder."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Diga mais alto."
 
 msgid "<18>{#p/papyrus}{#f/5}YES!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}SIM!"
 
 msgid "<26>{#p/asriel2}{#f/1}* With an exoberry on top."
-msgstr ""
+msgstr "<26>{#p/asriel2}{#f/1}* Com uma cereja no topo."
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}YES!\n"
 "WITH AN EXOBERRY ON TOP, DAMN IT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}SIM!\n"
+"COM UMA CEREJA NO TOPO, CARAMBA!"
 
 msgid "<25>{#p/asriel2}{#f/1}* Hee hee hee..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Hee hee hee..."
 
 msgid "<25>{#f/1}* Alright, I'll tell you."
-msgstr ""
+msgstr "<25>{#f/1}* Certo, eu te conto."
 
 msgid "<25>{#f/15}* In fact, it'll only take one word..."
-msgstr ""
+msgstr "<25>{#f/15}* Só vai precisar de uma palavra..."
 
 msgid "<18>{#p/papyrus}{#f/4}OH MY GOD, JUST SAY IT ALREADY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}AI MEU SENHOR, SÓ FALA LOGO..."
 
 msgid ""
 "<25>{*}{#p/asriel2}{#f/14}{@random=1.1/1.1}{@fill=#f00}* $(name).{%100}"
-msgstr ""
+msgstr "<25>{*}{#p/asriel2}{#f/14}{@random=1.1/1.1}{@fill=#f00}* $(name).{%100}"
 
 msgid "<18>{#p/papyrus}{#f/32}...!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/32}...!"
 
 msgid ""
 "<25>{#p/asriel2}{#f/5}* Hah!\n"
 "* Hahaha!\n"
 "* The look on your face!"
 msgstr ""
+"<25>{#p/asriel2}{#f/5}* Hah!\n"
+"* Hahaha!\n"
+"* O olhar em seu rosto!"
 
 msgid "<18>{#p/papyrus}{#f/31}I..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}EU..."
 
 msgid "<18>{#f/3}... NO..."
-msgstr ""
+msgstr "<18>{#f/3}... NÃO..."
 
 msgid "<18>{#p/papyrus}{#f/7}NO, YOU'RE WRONG."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}NÃO, VOCÊ ESTÁ ERRADO."
 
 msgid "<18>{#f/7}YOU ARE THE ONE WHO'S BEEN TRYING TO BRING ME DOWN."
-msgstr ""
+msgstr "<18>{#f/7}VOCÊ É QUEM ESTÁ TENTANDO ME TRAZER PARA BAIXO."
 
 msgid "<18>{#f/7}YOU ARE THE ONE WHO'S FED ME LIE AFTER LIE."
-msgstr ""
+msgstr "<18>{#f/7}VOCÊ É QUEM ESTÁ ME CONTANDO MENTIRA APÓS MENTIRA."
 
 msgid "<18>{#f/9}BUT I, PAPYRUS..."
-msgstr ""
+msgstr "<18>{#f/9}MAS EU, PAPYRUS..."
 
 msgid "<18>{#f/9}FINALLY UNDERSTAND THE {@fill=#f00}REAL TRUTH{@fill=#fff}."
-msgstr ""
+msgstr "<18>{#f/9}FINALMENTE ENTENDI A {@fill=#f00}REALIDADE{@fill=#fff}."
 
 msgid ""
 "<25>{#p/asriel2}{#f/13}* Oh?\n"
 "* And what's that?"
 msgstr ""
+"<25>{#p/asriel2}{#f/13}* Oh?\n"
+"* E o que seria?"
 
 msgid "<18>{#p/papyrus}{#f/34}YOU'RE NOT {@fill=#f00}ASRIEL{@fill=#fff}."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/34}VOCÊ NÃO É {@fill=#f00}ASRIEL{@fill=#fff}."
 
 msgid "<18>{#f/31}{@fill=#f00}ASRIEL{@fill=#fff} WOULD NEVER ACT LIKE THIS."
-msgstr ""
+msgstr "<18>{#f/31}{@fill=#f00}ASRIEL{@fill=#fff} JAMAIS AGIRIA ASSIM."
 
 msgid "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} WAS A KIND SOUL."
 msgstr ""
+"<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} TINHA UMA ALMA CHEIA DE BONDADE."
 
 msgid "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} BELIEVED IN PEOPLE..."
-msgstr ""
+msgstr "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} ACREDITAVA NAS PESSOAS..."
 
 msgid "<18>{#f/31}HE BELIEVED IN HUMANITY BEFORE ANYONE ELSE DID."
-msgstr ""
+msgstr "<18>{#f/31}ELE ACREDITOU NA HUMANIDADE ANTES DE TODO MUNDO."
 
 msgid "<18>{#f/4}YOU, ON THE OTHER HAND..."
-msgstr ""
+msgstr "<18>{#f/4}VOCÊ, POR OUTRO LADO..."
 
 msgid "<18>{#f/7}YOU JUST WANT TO USE THEM FOR YOUR OWN ENDS!"
-msgstr ""
+msgstr "<18>{#f/7}VOCÊ SÓ QUER USÁ-LO PARA SEUS PRÓPRIOS FINS!"
 
 msgid "<18>{#f/4}AND FRANKLY, I DON'T CARE WHAT YOU HAVE TO SAY."
-msgstr ""
+msgstr "<18>{#f/4}E FRANCAMENTE, EU NÃO ME IMPORTO COM O QUE VOCÊ TEM A DIZER."
 
 msgid "<18>{#f/9}I STILL HAVE HOPE FOR THAT HUMAN."
-msgstr ""
+msgstr "<18>{#f/9}EU AINDA TENHO ESPERANÇA NESTE HUMANO."
 
 msgid "<25>{#p/asriel2}{#f/8}* Well, if you've got so much faith in them..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* Pois, se você tem tanta esperança nele..."
 
 msgid "<25>{#f/7}* Then prove me wrong."
-msgstr ""
+msgstr "<25>{#f/7}* Então me prove errado."
 
 msgid "<25>{#f/3}* I'll let you take them on, one on one."
-msgstr ""
+msgstr "<25>{#f/3}* Eu vou deixar você levá-lo para o um contra um."
 
 msgid "<25>{#f/3}* If they spare you, then I'll admit I was wrong."
-msgstr ""
+msgstr "<25>{#f/3}* Se ele te poupar, então eu irei admitir estar errado."
 
 msgid "<25>{#f/4}* But if they kill you, which they inevitably will..."
-msgstr ""
+msgstr "<25>{#f/4}* Mas se ele te matar, o que inevitavelmente será o caso..."
 
 msgid ""
 "<25>{#f/1}* You'll realize that I was right, and that HE died for nothing."
 msgstr ""
+"<25>{#f/1}* Você perceberá que eu estava certo e que ELE morreu pra nada."
 
 msgid "<25>{#f/1}* How does that sound?"
-msgstr ""
+msgstr "<25>{#f/1}* O que você acha?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/9}...\n"
 "I ACCEPT."
 msgstr ""
+"<18>{#p/papyrus}{#f/9}...\n"
+"EU ACEITO."
 
 msgid "<25>{#p/asriel2}{#f/3}* Splendid."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Esplêndido."
 
 msgid "<25>{#f/4}* See you never."
-msgstr ""
+msgstr "<25>{#f/4}* Te vejo nunca."
 
 msgid "<32>{#p/human}* (You place your hands on the heavily scratched door.)"
 msgstr ""
+"<32>{#p/human}* <32>{#p/human}* (Você coloca as mãos na porta fortemente "
+"arranhada.)"
 
 msgid "<32>{#p/basic}* The door is covered in cat- claw scratches."
-msgstr ""
+msgstr "<32>{#p/basic}* A porta está coberta de arranhados de gato."
 
 msgid "<32>{#p/basic}* ... but everybody ran."
-msgstr ""
+msgstr "<32>{#p/basic}* ... mas todo mundo correu."
 
 msgid "<32>{#p/basic}* ... but nobody came."
-msgstr ""
+msgstr "<32>{#p/basic}* ... mas ninguém veio."
 
 msgid "<32>{#p/human}* (But there was nobody around to occupy the seat.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas não tem ninguém por perto para ocupar o acento.)"
 
 msgid "<32>{#p/human}* (But there was nobody here.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas não tem ninguém aqui.)"
 
 msgid "<32>{#p/basic}* Nobody's home."
-msgstr ""
+msgstr "<32>{#p/basic}* Ninguém está em casa."
 
 msgid "<32>{#p/human}* (You can't seem to find a way in.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você não achou um caminho para dentro.)"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Welcome to Starred Inn!\n"
 "* Starton's premier hotel!"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Bem-vindo ao Starred Inn!\n"
+"* O principal hotel de Starton!"
 
 msgid "<32>* One night will cost you 60G."
-msgstr ""
+msgstr "<32>* Uma noite custa 60G."
 
 msgid "* (Get a room?)"
-msgstr ""
+msgstr "* (Aceitar um quarto?)"
 
 msgid "<32>{#p/basic}{#npc/a}* Changed your mind?"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* Mudou de ideia?"
 
 msgid "<32>* Remember, one night is 60G."
-msgstr ""
+msgstr "<32>* Lembre-se, uma noite é 60G."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Back again?\n"
 "* Remember, one night is 60G."
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Voltou de novo?\n"
+"* Lembre-se, uma noite é 60G."
 
 msgid "* (Get a room again?)"
-msgstr ""
+msgstr "* (Pegar um quarto de novo?)"
 
 msgid ""
 "<33>{#p/basic}{#npc/a}* Back again?\n"
 "* Well, stay as long as you like!"
 msgstr ""
+"<33>{#p/basic}{#npc/a}* Voltou?\n"
+"* Fique o tanto que quiser!"
 
 msgid "<32>{#p/basic}{#npc/a}* ... you don't even have 60G?"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* ... você não tem 60G?"
 
 msgid ""
 "<32>* Oh! You poor thing.\n"
 "* I can only imagine what you've been through."
 msgstr ""
+"<32>* Oh! Pobre coisinha.\n"
+"* Eu posso apenas imaginar pelo que você tem passado."
 
 msgid ""
 "<32>* One of the rooms upstairs is empty, you can sleep there for free, "
 "okay?"
 msgstr ""
+"<32>* Um dos quartos lá em cima está vazio, você pode dormir de graça, tá "
+"bom?"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Here's your room key.\n"
 "* Remember to bundle up!"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Aqui está sua chave do quarto.\n"
+"* Lembre-se de dormir bem!"
 
 msgid "<32>{#p/basic}{#npc/a}* Sorry, you don't have enough G..."
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* Desculpa, você não tem G..."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Hiya!\n"
 "* You look like you had a great sleep."
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Uau!\n"
+"* Você parece ter dormido tão bem."
 
 msgid ""
 "<32>* Which is incredible...\n"
 "* ... considering you were only up there for a few minutes."
 msgstr ""
+"<32>* O que é incrível...\n"
+"* ... considerando que você só ficou lá em cima por alguns minutos."
 
 msgid "<32>* Feel free to come back if you get tired."
-msgstr ""
+msgstr "<32>* Sinta-se livre para voltar quando estiver cansado."
 
 msgid ""
 "<32>* Here's your money back.\n"
 "* You can pay me if you're going to stay overnight."
 msgstr ""
+"<32>* Pega seu dinheiro de volta.\n"
+"* Você pode me pagar quando for ficar a noite toda."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Not in a sleepy mood?\n"
 "* Well, I'll always be here if you need me!"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Não muito afim de dormir?\n"
+"* Bem, eu sempre estarei aqui se você precisar!"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Hello!\n"
 "* Sorry, no time for a nap..."
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Olá!\n"
+"* Desculpa, sem tempo pra dormir..."
 
 msgid ""
 "<32>* Starred Inn is shutting down so we can leave to find a new homeworld."
 msgstr ""
+"<32>* Starred Inn está fechando para sempre, já que assim podemos ir embora "
+"para o novo mundo."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Oh, there you are.\n"
 "* I've been worrying about you!"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Oh, você está aí.\n"
+"* Eu estive preocupada com você!"
 
 msgid "<32>* Things are going to be OK, you hear?"
-msgstr ""
+msgstr "<32>* Tudo vai ficar bem, ouviu?"
 
 msgid "<32>* We're all going to settle on a new homeworld soon..."
-msgstr ""
+msgstr "<32>* Nós todos iremos para um novo mundo, agora..."
 
 msgid "<32>* There's bound to be a place you can stay there!"
-msgstr ""
+msgstr "<32>* Com certeza haverá um lugar onde você pode ficar lá!"
 
 msgid "<25>{#p/kidd}{#f/1}* What's up?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Como tá?"
 
 msgid "<25>{#p/kidd}{#f/1}* Yo, howzzitgoin?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Yo, como tá ino?"
 
 msgid "<25>{#p/kidd}{#f/1}* Hey, hey!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Ei, ei!"
 
 msgid "<25>{#p/kidd}{#f/1}* Nice to see you, haha."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Muito legal te ver, haha."
 
 msgid "<25>{#p/kidd}{#f/1}* Woah, dude, what's up?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Woah, cara, o que você tá fazendo?"
 
 msgid "<25>{#p/kidd}{#f/1}* Yo, you're a kid too, right?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Yo, você é uma criança também, correto?"
 
 msgid "<25>{#p/kidd}{#f/1}* I can tell 'cause you're wearing a striped shirt."
 msgstr ""
+"<25>{#p/kidd}{#f/1}* Eu posso dizer porque você tá usando uma camisa "
+"listrada."
 
 msgid "<25>{#p/kidd}{#f/7}* Wait, you read books too!?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* Pera, você lê livros também!?"
 
 msgid ""
 "<25>{#p/kidd}{#f/1}* That librarby taught me everything I know about monster"
 " history!"
 msgstr ""
+"<25>{#p/kidd}{#f/1}* Aquela livrarvia me ensinou tudo que eu sei sobre os "
+"monstros!"
 
 msgid ""
 "<25>{#p/kidd}{#f/3}* I can't even imagine what living on a planet is like..."
 msgstr ""
+"<25>{#p/kidd}{#f/3}* Eu nem consigo imaginar como deve ser viver em um "
+"planeta..."
 
 msgid ""
 "<25>{#p/kidd}{#f/1}* I wonder if that short skeleton is an adult or a kid."
 msgstr ""
+"<25>{#p/kidd}{#f/1}* Eu me pergunto se aquele esqueleto pequeno é uma "
+"criança ou um adulto."
 
 msgid "<25>{#p/kidd}{#f/3}* Have you ever lived on a planet?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/3}* Você já viveu em um planeta?"
 
 msgid ""
 "<32>{#p/basic}* What's that smell?\n"
 "* (Where's that smell?)"
 msgstr ""
+"<32>{#p/basic}* O que é esse cheiro?\n"
+"* (Onde está esse cheiro?)"
 
 msgid ""
 "<32>* If you're a smell...\n"
 "* (... identify yoursmellf!)"
 msgstr ""
+"<32>* Se você é o cheiro...\n"
+"* (... identifique seu cheiro!)"
 
 msgid ""
 "<32>{#p/basic}* Hmmm...\n"
 "* Here's that weird smell."
 msgstr ""
+"<32>{#p/basic}* Hmmm...\n"
+"* Aqui está aquele cheiro estranho."
 
 msgid "<32>* It makes me want to eliminate..."
-msgstr ""
+msgstr "<32>* Ele me faz querer eliminar..."
 
 msgid "<32>* (... eliminate YOU!)"
-msgstr ""
+msgstr "<32>* (... eliminar VOCÊ!)"
 
 msgid ""
 "<32>{#p/basic}* Dogs can pet other dogs???\n"
 "* (A new world has opened up for us...)"
 msgstr ""
+"<32>{#p/basic}* Cachorros podem acariciar cachorros???\n"
+"* (Um novo mundo abriu-se para nós...)"
 
 msgid "<32>* Thanks, weird puppy!"
-msgstr ""
+msgstr "<32>* Obrigado, cachorrinho estranho!"
 
 msgid ""
 "<32>{#p/basic}* Weird smells can bring good things...\n"
 "* (Friendly fun fetch!)"
 msgstr ""
+"<32>{#p/basic}* Cheiros estranhos podem trazer boas coisas...\n"
+"* (Amizade divertida!)"
 
 msgid ""
 "<32>* Thanks, weird smell!\n"
 "* (It sure was fun to catch a \"wrench\" in the works!)"
 msgstr ""
+"<32>* Obrigado, cheiro estranho! \n"
+"* (Com certeza foi divertido pegar uma \"chave inglesa\" nas obras!)"
 
 msgid ""
 "<32>{#p/basic}* It's getting harder and harder to sniff things...\n"
 "* (Getting harder to see...)"
 msgstr ""
+"<32>{#p/basic}* Está ficando cada vez mais difícil de respirar...\n"
+"* (Cada vez mais difícil de enxergar...)"
 
 msgid "<32>* Let's get out of here!"
-msgstr ""
+msgstr "<32>* Vamos meter o pé daqui!"
 
 msgid ""
 "<32>{#p/basic}* That weird puppy came out of nowhere...\n"
 "* (Almost killed us...)"
 msgstr ""
+"<32>{#p/basic}* Aquele cachorro estranho aparou do nada...\n"
+"* (Quase nos matou...)"
 
 msgid ""
 "<32>{#p/basic}* Dogs can pet AND play fetch with other dogs???\n"
 "* (It's almost criminal...)"
 msgstr ""
+"<32>{#p/basic}* Os cães podem acariciar E brincar de buscar com outros "
+"cães???\n"
+"* (É quase criminoso...)"
 
 msgid ""
 "<32>* Thanks, weird puppy!\n"
 "* (After this, our lives will never be the same!)"
 msgstr ""
+"<32>* Obrigado, cachorrinho estranho!\n"
+"* (Depois disso, nossas vidas jamais serão as mesmas!)"
 
 msgid ""
 "<32>{#p/basic}* Where's the prince?\n"
 "* (Did we come the right way?)"
 msgstr ""
+"<32>{#p/basic}* Onde está o príncipe?\n"
+"* (Nós viemos no caminho certo?)"
 
 msgid ""
 "<32>* We must stop that menace...\n"
 "* (... and his human companion!)"
 msgstr ""
+"<32>* Nós devemos parar aquela ameaça...\n"
+"* (... e sua companhia humana!)"
 
 msgid ""
 "<32>{#p/basic}* Hmmm...\n"
 "* Here they are..."
 msgstr ""
+"<32>{#p/basic}* Hmmm...\n"
+"* Aqui estão eles..."
 
 msgid "<32>* (Let's capture them!)"
-msgstr ""
+msgstr "<32>* (Vamos captura-los!)"
 
 msgid "<25>{#p/sans}{#f/3}* it's a shame papyrus can't be here, because..."
 msgstr ""
+"<25>{#p/sans}{#f/3}* É bem triste que o Papyrus não possa estar aqui, por "
+"que..."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* he's been working very hard on this puzzle for a long "
 "time."
 msgstr ""
+"<25>{#p/sans}{#f/2}* Ele tem trabalho bem duro e por um bom tempo nestes "
+"quebra-cabeças."
 
 msgid "<25>{#p/sans}{#f/0}* but that's alright."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* mas tudo bem."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* i promised him earlier that i'd show it to you, so here"
 " goes."
 msgstr ""
+"<25>{#p/sans}{#f/0}* eu prometi pra ele mais cedo que eu te mostraria, então "
+"aí vai."
 
 msgid "<18>{#p/papyrus}OHO, THE HUMAN ARRIVES!"
-msgstr ""
+msgstr "<18>{#p/papyrus}OHO, O HUMANO APARECE!"
 
 msgid "<18>MY BROTHER AND I HAVE CREATED MANY PUZZLES."
-msgstr ""
+msgstr "<18>MEU IRMÃO E EU CRIAMOS QUEBRAS-CABEÇAS"
 
 msgid "<18>{#f/9}ARE YOU UP FOR THE CHALLENGE, HUMAN!?"
-msgstr ""
+msgstr "<18>{#f/9}VOCÊ ESTÁ PRONTO PARA UM DESAFIO, HUMANO!?"
 
 msgid ""
 "<18>{#p/papyrus}CORRECT ANSWER!\n"
 "FOR YOU SEE..."
 msgstr ""
+"<18>{#p/papyrus}RESPOSTA CORRETA!\n"
+"PARA VOCÊ ENTENDER..."
 
 msgid "<18>{#x4}{#f/9}NO CRAFTSMAN HAS EVER MADE TRAPS AS FINE AS ME!"
-msgstr ""
+msgstr "<18>{#x4}{#f/9}NENHUM ARTESÃO JAMAIS FEZ ARMADILHAS TÃO BOAS QUANTO EU!"
 
 msgid "<18>{#f/0}THEY'RE PRACTICALLY IRRESISTIBLE!"
-msgstr ""
+msgstr "<18>{#f/0}ELAS SÃO PRATICAMENTE IRRESISTÍVEIS!"
 
 msgid "<25>{#x1}{#p/sans}{#f/2}* maybe you're the one who's irresistible."
-msgstr ""
+msgstr "<25>{#x1}{#p/sans}{#f/2}* talvez você é quem é irresistível."
 
 msgid "<18>{#p/papyrus}{#f/1}REALLY!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}SÉRIO!?"
 
 msgid "<18>{#x4}{#f/9}NO HUMAN HAS EVER BESTED A PUZZLE BY THE GREAT PAPYRUS!"
 msgstr ""
+"<18>{#x4}{#f/9}NENHUM HUMANO JAMAIS PASSOU DAS ARMADILHAS DO GRANDE PAPYRUS!"
 
 msgid "<25>{#x1}{#p/sans}{#f/4}* no human has even had the chance to, bro."
-msgstr ""
+msgstr "<25>{#x1}{#p/sans}{#f/4}* nenhum humano teve a chance, mano."
 
 msgid "<18>{#p/papyrus}{#x3}{#f/7}UGH, THAT'S BESIDES THE POINT!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#x3}{#f/7}UGH, ISSO É ALÉM DO PONTO!!"
 
 msgid "<18>{#x1}{#f/0}ANYWAY, THIS HERE IS WHAT I LIKE TO CALL..."
-msgstr ""
+msgstr "<18>{#x1}{#f/0}DE TODA FORMA, ESTE É O QUE EU GOSTO DE CHAMAR..."
 
 msgid "<18>\"THE WALL OF FIRE!!\""
-msgstr ""
+msgstr "<18>\"O PODEROSO MURO DE FOGO!!\""
 
 msgid ""
 "<25>{#p/sans}* couldn't you just call it \"the firewall?\"\n"
 "* it'd save time."
 msgstr ""
+"<25>{#p/sans}* não dava só pra chamar de \"parede de fogo\"?\n"
+"* pra salvar tempo?"
 
 msgid "<18>{#p/papyrus}{#f/4}DR. ALPHYS WOULD THINK I'M MIS- USING THE TERM."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}DR. ALPHYS DIRIA QUE EU ESTOU SENDO PREGUIÇOSO AO "
+"CORTAR TERMOS."
 
 msgid ""
 "<25>{#p/sans}* i dunno bro, she's really into that kinda stuff. in fact..."
 msgstr ""
+"<25>{#p/sans}* sei não, mano, ela parece gostar de fazer isso as vezes. na "
+"verdade..."
 
 msgid "<30>{#f/2}* i bet she'd find it {@fill=#ff0}hot{@fill=#fff}."
 msgstr ""
+"<30>{#f/2}* aposto que ela acharia isso bem {@fill=#ff0}hot{@fill=#fff}."
 
 msgid "<18>{#p/papyrus}{#x3}{#f/7}NOT NOW, SANS!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#x3}{#f/7}AGORA NÃO, SANS!!"
 
 msgid "<25>{#p/sans}{#f/0}* it's called \"the firewall.\""
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* é chamado de \"parede de fogo.\""
 
 msgid ""
 "<25>{#p/sans}{#f/2}* y'know.\n"
 "* like the firewall on a computer."
 msgstr ""
+"<25>{#p/sans}{#f/2}* sabe.\n"
+"* igual o firewall no computador."
 
 msgid "<25>{#p/sans}* the idea behind this one is to get to the other side."
-msgstr ""
+msgstr "<25>{#p/sans}* a ideia por trás desse é chegar do outro lado."
 
 msgid "<25>{#p/sans}* simple, right?"
 msgstr ""
@@ -4953,9 +5279,6 @@ msgid "HOWDY!"
 msgstr ""
 
 msgid "SAVE YOURSELVES..."
-msgstr ""
-
-msgid ""
 msgstr ""
 
 msgid "FAILED TO CONNECT..."
