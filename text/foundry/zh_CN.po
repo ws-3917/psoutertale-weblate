@@ -21850,15 +21850,15 @@ msgid ""
 "determination.)"
 msgstr ""
 "<32>{#p/human}* （轻柔的哼唱在耳畔回响。）\n"
-"* （这使你充满了决心。）"
+"* （这使你充满了决心。）ゑ"
 
 msgid "<32>{#p/human}* (The sound of music fills you with determination.)"
 msgstr ""
 "<32>{#p/human}* （音乐在耳畔回响。）\n"
-"* （这使你充满了决心。）"
+"* （这使你充满了决心。）ゑ"
 
 msgid "Foundry - Trash Zone"
-msgstr "铸厂 - 垃圾场"
+msgstr "铸厂 - 垃圾场ゑ"
 
 msgid ""
 "<32>{#p/human}* (Getting lost amongst the trash fills you with "
