@@ -14746,7 +14746,7 @@ msgid ""
 "determination.)"
 msgstr ""
 "<32>{#p/human}* （四周都是金属围墙，\n"
-"  眼前却有一座小屋，\n"
+"  面前却有一座小屋，\n"
 "  这使你充满了决心。）"
 
 msgid "Outlands - Entrance"
