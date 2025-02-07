@@ -21697,7 +21697,7 @@ msgid "<32>{#p/human}* (The silence is deafening...)"
 msgstr "<32>{#p/human}* （虽然静得可怕...）ゑ"
 
 msgid "<32>{#p/human}* (Yet it fills you with determination.)"
-msgstr "<32>{#p/human}* （但这仍使你充满了决心。）"
+msgstr "<32>{#p/human}* （但这仍使你充满了决心。）ゑ"
 
 msgid ""
 "<32>{#p/human}* (Returning to such a quiet place after your journey fills "
