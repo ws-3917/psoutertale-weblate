@@ -29862,7 +29862,7 @@ msgstr ""
 msgid "<32>{#p/human}* (The spaghetti no longer defies the laws of physics.)"
 msgstr ""
 "<32>{#p/human}* （现在，这盘意大利面\n"
-"  也遵循物理规律了。）"
+"  也被牛顿驯服了。）"
 
 msgid "<32>{#p/human}* (This fills you with determination.)"
 msgstr "<32>{#p/human}* （这使你充满了决心。）"
