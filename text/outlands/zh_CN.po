@@ -14727,7 +14727,7 @@ msgid ""
 "determination.)"
 msgstr ""
 "<32>{#p/human}* （即使只是顺路看一眼这个小家，\n"
-"  你也充满了决心。）"
+"  你也充满了决心。）ゑ"
 
 msgid ""
 "<32>{#p/human}* (Even when visiting, this house fills you with "
