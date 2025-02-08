@@ -2656,7 +2656,7 @@ msgid "<18>{#x1}SO GO ON, DO TRY YOUR BEST!"
 msgstr "<18>{#x1}ENTÃO VAI LÁ, TENTE SEU MELHOR!"
 
 msgid "<18>{#p/papyrus}{#f/4}(SANS, WHAT IS THE HUMAN DOING??)"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}(SANS, O QUE O HUMANO ESTÁ FAZENDO??)"
 
 msgid "<25>{#p/sans}* they could just be studying the pattern."
 msgstr ""
