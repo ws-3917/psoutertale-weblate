@@ -2831,7 +2831,7 @@ msgstr ""
 "* É a guloseima congelada que vai incendiar sua mente!"
 
 msgid "<32>* For you, 6G!"
-msgstr ""
+msgstr "<32>* Para você, 6G!"
 
 msgid "<32>* Now just 12G."
 msgstr ""
