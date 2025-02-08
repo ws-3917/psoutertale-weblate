@@ -2594,6 +2594,8 @@ msgid ""
 "<18>{#f/0}GOOD LUCK!!\n"
 "NYEH HEH HEH!!"
 msgstr ""
+"<18>{#f/0}BOA SORTE!!\n"
+"NYEH HEH HEH!!"
 
 msgid "<25>{#p/sans}{#f/0}* what are you going back there for, huh?"
 msgstr ""
