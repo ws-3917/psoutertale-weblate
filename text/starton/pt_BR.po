@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-08 00:35+0000\n"
-"PO-Revision-Date: 2025-02-08 00:55+0000\n"
+"PO-Revision-Date: 2025-02-08 01:11+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -2877,97 +2877,114 @@ msgstr ""
 msgid ""
 "<32>* If you have three postcards, you can trade them for a free Ice Dream!"
 msgstr ""
+"<32>* Se você tiver três cartões, você pode trocá-los por um Sorvete Sonho "
+"grátis!"
 
 msgid "<32>* They're sure to get the customers to come back!"
-msgstr ""
+msgstr "<32>* Isso com certeza vai trazer os clientes de volta!"
 
 msgid "<32>* Oh, um, would you like an Ice Dream?"
-msgstr ""
+msgstr "<32>* Oh, um, você gostaria de um Sorvete Sonho?"
 
 msgid ""
 "<32>* It's the frozen treat that'll set your mind ablaze!\n"
 "* Now just 10G."
 msgstr ""
+"<32>* É a guloseima congelada que vai incendiar sua mente!\n"
+"* Agora apenas 10G."
 
 msgid "<32>* You've got three postcards, would you like to redeem them?"
-msgstr ""
+msgstr "<32>* Você tem três cartões, gostaria de trocá-los?"
 
 msgid "<32>* Now just 10G."
-msgstr ""
+msgstr "<32>* Agora por 10G."
 
 msgid "<32>* Four Ice Dreams for the price of three..."
-msgstr ""
+msgstr "<32>* Quatro Sorvete Sonhos pelo preço de três..."
 
 msgid "<32>{#p/basic}* Don't forget to take a postcard from the box!"
-msgstr ""
+msgstr "<32>{#p/basic}* Não esqueça de pegar um cartão postal da caixa!"
 
 msgid ""
 "<32>{#p/basic}* Huh?\n"
 "* You don't have enough room in your pockets..."
 msgstr ""
+"<32>{#p/basic}* Huh?\n"
+"* Você não tem espaço suficiente aí?"
 
 msgid "<32>{#p/basic}* I wish I could make Ice Dreams easier to store..."
 msgstr ""
+"<32>{#p/basic}* Eu queria fazer com que os Sorvete Sonho fossem fáceis de "
+"armazenar..."
 
 msgid ""
 "<32>{#p/basic}* Huh?\n"
 "* You don't have enough money..."
 msgstr ""
+"<32>{#p/basic}* Huh?\n"
+"* Você não tem grana o suficiente..."
 
 msgid "<32>{#p/basic}* I wish I could make Ice Dreams for free..."
-msgstr ""
+msgstr "<32>{#p/basic}* Eu desejava por vender os Sorvete Sonhos de graça..."
 
 msgid "<32>{#p/basic}* Tell you what, have your first one on me."
 msgstr ""
+"<32>{#p/basic}* Quer saber?\n"
+"* Pega, esse é pela casa."
 
 msgid "<32>{#p/basic}* Enjoy..."
-msgstr ""
+msgstr "<32>{#p/basic}* Aproveite..."
 
 msgid "<32>{#p/basic}* Well, you can always come back later."
-msgstr ""
+msgstr "<32>{#p/basic}* Bem, você sempre pode voltar mais tarde."
 
 msgid "<32>{#p/basic}* Oh, that's okay."
-msgstr ""
+msgstr "<32>{#p/basic}* Oh, tudo bem."
 
 msgid "<32>* Come again soon, kid!"
-msgstr ""
+msgstr "<32>* Volte depois, criança!"
 
 msgid ""
 "<32>{#p/basic}* Here you go!\n"
 "* Have a stellar starry night!"
 msgstr ""
+"<32>{#p/basic}* Aqui está!\n"
+"* Tenha uma noite estrelada estelar!"
 
 msgid "<32>{#s/equip}{#p/human}* (You got the Ice Dream.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Você pegou o Sorvete Sonho.)"
 
 msgid "<25>{#p/kidd}{#f/1}* Yo, can I get an Ice Dream?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Yo, posso ter um Sorvete Sonho?"
 
 msgid ""
 "<32>{#p/basic}* Sure, kid.\n"
 "* If you've got the money."
 msgstr ""
+"<32>{#p/basic}* Claro, carinha.\n"
+"* Se você tiver a grana."
 
 msgid "<25>{#p/kidd}{#f/2}* (Psst, give them this.)"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/2}* (Psst, da isso pra ele.)"
 
 msgid "<25>{#p/kidd}{#f/7}* Yo, they got free Ice Dreams here!?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* Yo, aqui tem Sorvete Sonho de graça!?"
 
 msgid "<25>{#p/kidd}{#f/1}* Get me one too!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Me dá um também!"
 
 msgid "<32>{#p/basic}* W... where did you get that?"
-msgstr ""
+msgstr "<32>{#p/basic}* O... onde você conseguiu isso?"
 
 msgid "<32>* S-sure, kid... here you go!"
-msgstr ""
+msgstr "<32>* C-claro, criança... aí vai!"
 
 msgid "<32>{#s/equip}{#p/human}* (You hand the Ice Dream to Monster Kid.)"
 msgstr ""
+"<32>{#s/equip}{#p/human}* (Você dá um Sorvete Sonho para a Criança Monstro.)"
 
 msgid "<25>{#p/kidd}{#f/7}* AWESOME..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* DA HORA..."
 
 msgid ""
 "<32>{#p/basic}* Sold out again, I'm afraid!\n"
