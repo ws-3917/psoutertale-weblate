@@ -1596,7 +1596,7 @@ msgid ""
 "<32>{#p/basic}* Additionally, a one-time use portable jetpack is available."
 msgstr ""
 "<32>{#p/basic}* 此外，\n"
-"  還有個一次性的可攜式噴氣背包。ゑ"
+"  還有個一次性的可攜式飛行器。ゑ"
 
 msgid "<32>{#p/human}* (You got the upgraded CELL.)"
 msgstr "<32>{#p/human}* （你有了一部新手機。）"
