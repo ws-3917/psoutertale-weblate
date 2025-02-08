@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-08 00:35+0000\n"
-"PO-Revision-Date: 2025-02-08 00:35+0000\n"
+"PO-Revision-Date: 2025-02-08 00:38+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -2649,13 +2647,13 @@ msgid "<18>IF THAT'S THE CASE, THEN YOU MUST KNOW..."
 msgstr "<18>SE ESSE É O CASO, ENTÃO VOCÊ DEVE SABER..."
 
 msgid "<18>{#x4}{#f/9}I, THE GREAT PAPYRUS, WOULD NOT JUDGE YOU FOR IT!"
-msgstr ""
+msgstr "<18>{#x4}{#f/9}EU, O GRANDE PAPYRUS, NÃO IREI TE JULGAR POR ISSO!"
 
 msgid "<18>{#f/0}AS EVERY STAR CHEF KNOWS, THE THOUGHT IS WHAT COUNTS."
-msgstr ""
+msgstr "<18>{#f/0}COMO TODO CHEFE SABE, É A INTENÇÃO QUE CONTA."
 
 msgid "<18>{#x1}SO GO ON, DO TRY YOUR BEST!"
-msgstr ""
+msgstr "<18>{#x1}ENTÃO VAI LÁ, TENTE SEU MELHOR!"
 
 msgid "<18>{#p/papyrus}{#f/4}(SANS, WHAT IS THE HUMAN DOING??)"
 msgstr ""
@@ -5296,7 +5294,6 @@ msgstr ""
 
 msgid "SAVE YOURSELVES..."
 msgstr ""
-
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
