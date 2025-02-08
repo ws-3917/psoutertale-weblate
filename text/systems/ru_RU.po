@@ -1,60 +1,60 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-08 00:40+0000\n"
-"PO-Revision-Date: 2025-02-08 00:40+0000\n"
-"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"PO-Revision-Date: 2025-02-08 13:30+0000\n"
+"Last-Translator: Lazarus <lazarusofficial2@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.site/projects/ps-outertale/"
 "0-systems/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "(You take a deep breath.)"
-msgstr ""
+msgstr "(Вы делаете глубокий вдох.)"
 
 msgid "(You're filled with determination.)"
-msgstr ""
+msgstr "(Вы наполняетесь решимостью.)"
 
 msgid "You cannot give up just yet..."
-msgstr ""
+msgstr "Ты не можешь сдаться сейчас..."
 
 msgid ""
 "$(name)!\n"
 "Stay determined..."
 msgstr ""
+"$(name)!\n"
+"Сохраняй решимость..."
 
 msgid "Our fate rests upon you..."
-msgstr ""
+msgstr "Наша судьба в твоих руках..."
 
 msgid "You're going to be alright!"
-msgstr ""
+msgstr "Ты будешь в порядке!"
 
 msgid "Don't lose hope!"
-msgstr ""
+msgstr "Не теряй надежды!"
 
 msgid "It cannot end now!"
-msgstr ""
+msgstr "Это ещё не конец!"
 
 msgid "    * Escaped..."
-msgstr ""
+msgstr "    * Пора уходить..."
 
 msgid "    * I'm outta here."
-msgstr ""
+msgstr "    * Я сваливаю."
 
 msgid "    * I've got better to do."
-msgstr ""
+msgstr "    * У меня есть дела поважнее."
 
 msgid "    * Don't slow me down."
-msgstr ""
+msgstr "    * Не задерживайте меня."
 
 msgid ""
 "    * Ran away with $(x) EXP\n"
@@ -74,12 +74,17 @@ msgid ""
 "<32>{#p/story}* YOU WON!\n"
 "* You earned $(x) EXP and $(y)G."
 msgstr ""
+"<32>{#p/story}* ВЫ ПОБЕДИЛИ!\n"
+"* Вы получили $(x) ОП и $(y)М."
 
 msgid ""
 "<32>{#p/story}* YOU WON!\n"
 "* You earned $(x) EXP and $(y)G.\n"
 "* Your LOVE increased."
 msgstr ""
+"<32>{#p/story}* ВЫ ПОБЕДИЛИ!\n"
+"* Вы получили $(x) ОП и $(y)М.\n"
+"* Ваш УР повышен."
 
 msgid "ERROR"
 msgstr ""
@@ -613,7 +618,6 @@ msgstr ""
 
 msgid "spacey_432"
 msgstr ""
-
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr ""
