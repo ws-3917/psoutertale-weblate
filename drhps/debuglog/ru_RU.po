@@ -68,10 +68,39 @@ msgstr ""
 msgid "Invalid index after '|' or index out of range."
 msgstr ""
 
+msgid "Battle has Begun: {Battle}"
+msgstr ""
+
+msgid "Battle has ended: {Battle} in the context of {EndType}"
+msgstr ""
+
 msgid "Player's Turn: "
 msgstr ""
 
+msgid ""
+"Player Use Round : \n"
+"{playerActions}"
+msgstr ""
+
 msgid "Enemy's Turn: "
+msgstr ""
+
+msgid "{targetEnemy} spared: {inflictor} | WasSpareable = {wasSpareable}"
+msgstr ""
+
+msgid "{targetEnemy} damaged by {inflictor} for {Damage} damage"
+msgstr ""
+
+msgid "{targetMember} damaged for {Damage} damage"
+msgstr ""
+
+msgid "{targetEnemy} killed {inflictor} with {Damage} damage"
+msgstr ""
+
+msgid "New Battle State: {newState} | Previous Battle State {oldState}"
+msgstr ""
+
+msgid "Battle Begun: {battle}"
 msgstr ""
 
 msgid "finished!"
@@ -124,7 +153,13 @@ msgstr ""
 msgid "AttemptRunMultipleActions ended."
 msgstr ""
 
+msgid "Recorded key {key} with time since last: {num}"
+msgstr ""
+
 msgid "Starting playback..."
+msgstr ""
+
+msgid "Key: {keyPress.Key}"
 msgstr ""
 
 msgid "Playback finished."
@@ -204,7 +239,16 @@ msgstr ""
 msgid "New keycode set: "
 msgstr ""
 
+msgid ""
+"Goal: {goal.GoalPlayprefName}, Current: {@int}, Required: {requiredTasks}"
+msgstr ""
+
 msgid "Goal already completed."
+msgstr ""
+
+msgid ""
+"Checking goal {hypothesisGoal.GoalPlayprefName}: "
+"{int2}/{hypothesisGoal.RequiredTasks}"
 msgstr ""
 
 msgid "All goals completed!"

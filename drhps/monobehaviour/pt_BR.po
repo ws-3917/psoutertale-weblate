@@ -41,6 +41,12 @@ msgstr ""
 msgid "currently on "
 msgstr ""
 
+msgid "max visible characters: {text.maxVisibleCharacters}"
+msgstr ""
+
+msgid "text length: {text.text.Length}"
+msgstr ""
+
 msgid "Susie Missing?"
 msgstr ""
 
@@ -54,6 +60,12 @@ msgid "FOUND YOU FUCKER"
 msgstr ""
 
 msgid "Disabled Disclaimer skip because currently in editor"
+msgstr ""
+
+msgid "Column {columnIndex + 1}: {symbolFromImage.sprite.name}"
+msgstr ""
+
+msgid "Payout awarded: {triplepayout}$"
 msgstr ""
 
 msgid "done"

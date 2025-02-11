@@ -1,119 +1,105 @@
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-11 07:49+0000\n"
-"PO-Revision-Date: 2025-02-11 07:49+0000\n"
-"Last-Translator: ws3917 <ws3917@outlook.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://"
-"translate.ws3917.site/projects/deltarune-hypothesis/3-cs-addnewhostmessage/"
-"zh_Hans/>\n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9.2\n"
-
-#
 
 msgid "ARE WE CONNECTED TO THE NETWORK?"
-msgstr "我们连上网了吗？"
+msgstr ""
 
 msgid "EXCELLENT."
-msgstr "很好。"
+msgstr ""
 
 msgid "WE MAY BEGIN."
-msgstr "我们可以开始了。"
+msgstr ""
 
+msgid ""
+msgstr ""
 
 msgid "WERE YOU AWARE THIS IS ALL FICTITIOUS AND <b>UNOFFICIAL<b>?"
-msgstr "你是否知悉这一切内容皆为虚构内容及<b>非官方内容<b>"
+msgstr ""
 
 msgid "HOW PECULIAR.."
-msgstr "怪了..."
+msgstr ""
 
 msgid "PLEASE REFRAIN FROM ILLOGICAL RESPONSES."
-msgstr "请不要做出不合逻辑的回应。"
+msgstr ""
 
 msgid "ANYWHO, WE MAY BEGIN."
-msgstr "不管怎样，我们可以开始了。"
+msgstr ""
 
 msgid "UNDERSTOOD."
-msgstr "明白。"
+msgstr ""
 
 msgid "MOVING ON."
-msgstr "继续。"
+msgstr ""
 
 msgid "ARE YOU CONTENT WITH IRREGULARITIES AND POSSIBLE <b>INACCURACIES<b>?"
-msgstr "你能否接受不规则现象和可能存在的<b>不准确之处<b>？"
+msgstr ""
 
 msgid "THIS WILL BE AN ISSUE."
-msgstr "这是个问题。"
+msgstr ""
 
 msgid "THIS COSMOS DOES NOT HAVE RELATION TO ANY CANINES."
-msgstr "这个宇宙与任何犬科动物都毫不相干。"
+msgstr ""
 
 msgid "THESE EXPERIMENTS ARE NOT OFFICIAL."
-msgstr "这些实验皆非官方所作。"
+msgstr ""
 
 msgid "THIS IS A RELIEF."
-msgstr "这是种解脱。"
+msgstr ""
 
 msgid "FEEL FREE TO CONTACT.. THE MANUFACTURER."
-msgstr "如果出现任何不准确的信息..."
+msgstr ""
 
 msgid "IF ANY INACCURATE INFORMATION CROPS UP."
-msgstr "请随时联系..制造商。"
+msgstr ""
 
 msgid "NOW WE MOVE ONTO THE FINALE."
-msgstr "现在，我们来看最后一项。"
+msgstr ""
 
 msgid "ARE YOU PRONE TO PAIN AND OR SEIZURE?"
-msgstr "你是否有癫痫等症状？"
+msgstr ""
 
 msgid "INTERESTING."
-msgstr "有趣。"
+msgstr ""
 
 msgid "VERY INTERESTING."
-msgstr "非常有趣。"
+msgstr ""
 
 msgid "IF YOU TAKE TRUE ISSUE OF IRREGULARITIES, DO NOT PANIC."
-msgstr "如果你确实遇到不规则现象，请不要惊慌。"
+msgstr ""
 
 msgid "CONTACT THE MANUFACTURER AND INFORM THEM OF YOUR ISSUE."
-msgstr "联系制造商，跟他们讲清楚。"
+msgstr ""
 
 msgid "HEED THIS USEFUL TIP."
-msgstr "记住了，这很有用的，"
+msgstr ""
 
 msgid "ENABLE \\\"SIMPLE VFX\\\" IN SETTINGS IF FLASHING LIGHTS ARE A CONCERN. "
 msgstr ""
 
 msgid "..."
-msgstr "..."
+msgstr ""
 
 msgid "AND WITH THAT, WE HAVE REACHED THE END OF THE CURRENT TRANSMISSION."
-msgstr "至此，我们已经结束了确认步骤。"
+msgstr ""
 
 msgid "YOU ARE READY TO BEGIN EXPERIMENTING WITH THE DELTARUNE SIMULATION."
-msgstr "你显然已准备好开始进行DELTARUNE模拟实验。"
+msgstr ""
 
 msgid "I'M VERY EXCITED TO SEE WHAT YOU BRING TO THE TABLE."
-msgstr "我非常对你做出的动作非常期待。"
+msgstr ""
 
 msgid "WITH ALL OUR COMBINED EFFORTS, WE MAY ACTUALIZE OUR DREAMS."
-msgstr "只要我们共同努力，我们的梦想就一定能够实现。"
+msgstr ""
 
 msgid "I WILL REACH OUT TO YOU AGAIN SOON."
-msgstr "我不久后会再次联系你。"
+msgstr ""
 
 msgid "I TRULY APPRECIATE YOUR TIME."
-msgstr "十分感谢你百忙之中抽出时间回答我。"
+msgstr ""
 
 msgid "GOODBYE FOR NOW, DR HYPOASTER."
-msgstr "先再见了，HYPOASTER博士。"
+msgstr ""
 
 msgid "\\\""
 msgstr ""
