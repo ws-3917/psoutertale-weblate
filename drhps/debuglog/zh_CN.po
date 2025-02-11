@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-11 08:21+0000\n"
 "PO-Revision-Date: 2025-02-12 09:13+0000\n"
-"Last-Translator: Holaamingo <1368779090@qq.com>\n"
+"Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.site/projects/deltarune-hypothesis/1-cs-debuglog/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -208,7 +208,7 @@ msgid "Target Transform cannot be null."
 msgstr ""
 
 msgid "Party member null?"
-msgstr ""
+msgstr "队伍成员为空？"
 
 msgid "Markiplier is missing???"
 msgstr ""
@@ -233,13 +233,13 @@ msgid "Activity Updated!"
 msgstr ""
 
 msgid "Discord.RunCallbacks() failed: "
-msgstr ""
+msgstr "函数\"Discord.RunCallbacks()\"运行出错，报错信息为："
 
 msgid "Disabling Discord integration to prevent further issues."
 msgstr "正在禁用Discord集成组件，以避免新的问题产生。"
 
 msgid "<color=green>DEBUG FREAKING MODE ENABLED!! WOAHH!!</color>"
-msgstr ""
+msgstr "<color=green>疯狂的调试模式已开启！！芜湖！！</color>"
 
 msgid "<color=green>Toggled output visibility</color>"
 msgstr ""
@@ -285,7 +285,7 @@ msgid "Gambling unlocked!"
 msgstr ""
 
 msgid "Susie is not in the party?????"
-msgstr ""
+msgstr "Susie不在队伍中？？？？？"
 
 msgid ""
 "Failed to set Party Member Walk Offset! ( No Susie_Follower in Prefab )"
@@ -295,7 +295,7 @@ msgid "Failed to create Party Member! ( No PartyMemberPrefab )"
 msgstr ""
 
 msgid "Failed to create Party Member! ( No Member Provided )"
-msgstr ""
+msgstr "未能创建成员！（未指定成员编号）"
 
 msgid ""
 "Failed to remove Party Member! ( SpecificedMemberIndex is greater than "
@@ -305,7 +305,7 @@ msgstr ""
 msgid ""
 "Failed to remove Party Member! ( SpecificMember is not in ActivePartyMembers"
 " )"
-msgstr ""
+msgstr "未能移除成员！（指定成员已倒下或不在队伍中）"
 
 msgid ""
 "Failed to get Party Member Transform! ( Member not found in "
@@ -325,13 +325,13 @@ msgid "Attempted to play player animation sound outside of index"
 msgstr ""
 
 msgid "Game data saved! | "
-msgstr ""
+msgstr "游戏档案已保存！ | "
 
 msgid "No Scene Position!"
 msgstr "无场景位置！"
 
 msgid "Game data loaded!"
-msgstr ""
+msgstr "游戏档案已载入！"
 
 msgid ""
 "Unable to find SpriteRenderer in SPR_Parallax object, defaulting to "
@@ -348,10 +348,10 @@ msgid "Incorrect apostrophe detected"
 msgstr ""
 
 msgid "Text Prefab is not assigned."
-msgstr ""
+msgstr "未指定文本配置文件。"
 
 msgid "Text Prefab does not have a TextMeshPro component."
-msgstr ""
+msgstr "文本配置未指向TextMeshPro文件。"
 
 msgid "Reverting CMenus to original states"
 msgstr "将CMenu恢复到原始状态"
