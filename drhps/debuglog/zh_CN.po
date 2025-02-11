@@ -1,72 +1,87 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 08:11+0000\n"
+"PO-Revision-Date: 2025-02-11 08:11+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.site/projects/deltarune-hypothesis/1-cs-debuglog/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "prefab For CharacterIcon is Null"
 msgstr ""
 
 msgid "Battle_PlayerSoul.Instance is not set."
-msgstr ""
+msgstr "Battle_PlayerSoul.Instance未被设置。"
 
 msgid "AttemptRunActions started."
-msgstr ""
+msgstr "AttemptRunActions已开始。"
 
 msgid "storedchatboxtext.Textboxes is null"
-msgstr ""
+msgstr "storedchatboxtext.Textboxes为null"
 
 msgid "storedchatboxtext.Textboxes[CurrentAdditionalTextIndex] is null"
-msgstr ""
+msgstr "storedchatboxtext.Textboxes[CurrentAdditionalTextIndex]为空"
 
 msgid "currentTextbox.Action is null"
-msgstr ""
+msgstr "currentTextbox.Action为空"
 
 msgid "currentTextbox.Action.Length is 0"
-msgstr ""
+msgstr "currentTextbox.Action.Length为0"
 
 msgid "currentTextbox.Action[CurrentTextIndex] is null"
-msgstr ""
+msgstr "currentTextbox.Action[CurrentTextIndex]为空"
 
 msgid "action.RunActionOnChatEnd is false"
-msgstr ""
+msgstr "action.RunActionOnChatEnd为false"
 
 msgid "Action will be run: "
-msgstr ""
+msgstr "行动将会运行： "
 
 msgid "action.PossibleSounds is null"
-msgstr ""
+msgstr "action.PossibleSounds为空"
 
 msgid "action.PossibleSounds.Length is 0"
-msgstr ""
+msgstr "action.PossibleSounds.Length为0"
 
 msgid "Playing sound: "
 msgstr ""
 
 msgid "action.TargetComponentGameObjectName is null"
-msgstr ""
+msgstr "action.TargetComponentGameObjectName为空"
 
 msgid "TargetGameObject not found: "
-msgstr ""
+msgstr "TargetGameObject（目标游戏物件）未找到："
 
 msgid "action.FunctionName is null"
-msgstr ""
+msgstr "action.FunctionName为空"
 
 msgid "action.TargetComponentClassname is null"
-msgstr ""
+msgstr "action.TargetComponentClassname为空"
 
 msgid "Couldn't find Component named: "
-msgstr ""
+msgstr "找不到组件："
 
 msgid "Method not found: "
-msgstr ""
+msgstr "Method（方法）未找到： "
 
 msgid "Invoking method: "
-msgstr ""
+msgstr "调用方法： "
 
 msgid "AttemptRunActions ended."
-msgstr ""
+msgstr "AttemptRunActions已完毕。"
 
 msgid "Invalid index after '|' or index out of range."
-msgstr ""
+msgstr "‘|’ 后的索引无效或超出范围。"
 
 msgid "Player's Turn: "
 msgstr ""
@@ -125,31 +140,31 @@ msgid "AttemptRunMultipleActions ended."
 msgstr ""
 
 msgid "Starting playback..."
-msgstr ""
+msgstr "开始回放..."
 
 msgid "Playback finished."
-msgstr ""
+msgstr "回放完毕。"
 
 msgid ""
 "Unable to rotate Character! | targetAnimator isn't active and or enabled"
-msgstr ""
+msgstr "无法旋转角色！| targetAnimator未激活或未启用"
 
 msgid ""
 "Unable to rotate towards position! | targetAnimator isn't active and or "
 "enabled"
-msgstr ""
+msgstr "无法旋转至指定位置！| targetAnimator未激活或未启用"
 
 msgid "Unable to shake transform! | transform gameobject not enabled"
-msgstr ""
+msgstr "摇动变换失败！ | transform gameobject（变换游戏对象）未启用"
 
 msgid "Unable to play sound! | clip is missing or null"
-msgstr ""
+msgstr "播放音效失败！ | clip缺失或为空"
 
 msgid "Unable to run fresh chat! | CHATBOXTEXT is null"
-msgstr ""
+msgstr "无法运行新对话！ | CHATBOXTEXT 为空"
 
 msgid "FadeInSprite failed! spriteRenderer is null"
-msgstr ""
+msgstr "FadeInSprite失败！spriteRenderer为空"
 
 msgid "FadeOutSprite failed! spriteRenderer is null"
 msgstr ""
