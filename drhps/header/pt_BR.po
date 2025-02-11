@@ -58,7 +58,7 @@ msgstr ""
 msgid "- Enemy Settings -"
 msgstr ""
 
-msgid "when the player uses \\"
+msgid "when the player uses \\\"Spare\\\" when the enemy isn't sparable yet"
 msgstr ""
 
 msgid "- Enemy Visuals -"
@@ -393,7 +393,7 @@ msgstr ""
 msgid "Is saved as Setting_<SettingName>"
 msgstr ""
 
-msgid "Will start as \\"
+msgid "Will start as \\\"HypothesisGoal_\\\""
 msgstr ""
 
 msgid "Hypothetical this goal will be in, used for tracking logs"
@@ -458,7 +458,7 @@ msgid ""
 "Make sure this matches current queued call amount, keep empty to not change"
 msgstr ""
 
-msgid "Use a # to not have the \\"
+msgid "Use a # to not have the \\\"Call\\\" text added to name"
 msgstr ""
 
 msgid "-= Music =-"

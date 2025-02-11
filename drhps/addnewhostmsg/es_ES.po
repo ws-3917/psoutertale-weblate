@@ -11,6 +11,9 @@ msgstr ""
 msgid "WE MAY BEGIN."
 msgstr ""
 
+msgid ""
+msgstr ""
+
 msgid "WERE YOU AWARE THIS IS ALL FICTITIOUS AND <b>UNOFFICIAL<b>?"
 msgstr ""
 
@@ -71,7 +74,7 @@ msgstr ""
 msgid "HEED THIS USEFUL TIP."
 msgstr ""
 
-msgid "ENABLE \\"
+msgid "ENABLE \\\"SIMPLE VFX\\\" IN SETTINGS IF FLASHING LIGHTS ARE A CONCERN. "
 msgstr ""
 
 msgid "..."
@@ -98,5 +101,5 @@ msgstr ""
 msgid "GOODBYE FOR NOW, DR HYPOASTER."
 msgstr ""
 
-msgid "\\"
+msgid "\\\""
 msgstr ""
