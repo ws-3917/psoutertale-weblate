@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-11 08:21+0000\n"
-"PO-Revision-Date: 2025-02-11 08:21+0000\n"
-"Last-Translator: Holaamingo <1368779090@qq.com>\n"
+"PO-Revision-Date: 2025-02-12 09:13+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.site/projects/deltarune-hypothesis/1-cs-debuglog/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "prefab For CharacterIcon is Null"
 msgstr "未找到角色贴图配置文件"
 
@@ -124,15 +123,15 @@ msgid "Failed to get Animator in children of Battle Member!"
 msgstr "无法在战斗成员的子级中获取Animator！"
 
 msgid "member in AddPartyMemberToBattle() is null!! WTF!!"
-msgstr ""
+msgstr "AddPartyMemberToBattle()中的成员为空！！啥玩意啊！！"
 
 msgid ""
 "SetupBattleScript FAILED! Either Battle or BattleScriptPrefab are null!"
-msgstr ""
+msgstr "SetupBattleScript失败！Battle或BattleScriptPrefab为空！"
 
 msgid ""
 "BattlePartyMembers[0] was null when trying to close battle box and lerp soul"
-msgstr ""
+msgstr "尝试关闭战斗框并插入灵魂时，BattlePartyMembers[0]为空"
 
 msgid "No new targets available to spare?"
 msgstr ""
@@ -244,21 +243,21 @@ msgid "<color=green>Toggled output visibility</color>"
 msgstr ""
 
 msgid "<color=green>Stack trace saved to "
-msgstr ""
+msgstr "<color=green>Stack trace（堆栈跟踪）保存至 "
 
 msgid ""
 "TODO - Require player to interact with lancer before being able to return"
-msgstr ""
+msgstr "待办 - 要求玩家与lancer互动后才能返回"
 
 msgid "New keycode set: "
-msgstr ""
+msgstr "新的键码设置为："
 
 msgid ""
 "Goal: {goal.GoalPlayprefName}, Current: {@int}, Required: {requiredTasks}"
 msgstr ""
 
 msgid "Goal already completed."
-msgstr ""
+msgstr "目标已被达成。"
 
 msgid ""
 "Checking goal {hypothesisGoal.GoalPlayprefName}: "
@@ -266,7 +265,7 @@ msgid ""
 msgstr ""
 
 msgid "All goals completed!"
-msgstr ""
+msgstr "目标全部达成！"
 
 msgid "Not all goals completed."
 msgstr ""
@@ -353,10 +352,10 @@ msgid "Text Prefab does not have a TextMeshPro component."
 msgstr ""
 
 msgid "Reverting CMenus to original states"
-msgstr ""
+msgstr "将CMenu恢复到原始状态"
 
 msgid "UI_LoadingIcon instance is not set. Make sure it's added to the scene."
-msgstr ""
+msgstr "实例UI_LoadingIcon未设置。请确保已将其添加到场景中。"
 
 msgid "LoadingIcon RawImage is not assigned in the UI_LoadingIcon."
-msgstr ""
+msgstr "LoadingIcon RawImage未在UI_LoadingIcon中分配。"
