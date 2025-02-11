@@ -7633,6 +7633,24 @@ msgstr ""
 "<33>{#p/basic}* 这里有一道安保屏障。\n"
 "* 已被激活。"
 
+msgid "<26>{#p/toriel}{#f/1}* Patience, my child!"
+msgstr "<26>{#p/toriel}{#f/1}* 再等等就好，我的孩子！"
+
+msgid "<26>{#p/toriel}{#f/1}* This may take a while..."
+msgstr "<26>{#p/toriel}{#f/1}* 给我点时间..."
+
+msgid "<32>{#p/basic}* It's locked."
+msgstr "<32>{#p/basic}* 锁住了。"
+
+msgid "<32>{#p/basic}* It sounds like Toriel is crying..."
+msgstr "<32>{#p/basic}* 听起来Toriel在哭..."
+
+msgid "<32>{#p/basic}* It sounds like Toriel is asleep..."
+msgstr "<32>{#p/basic}* 听起来Toriel睡着了..."
+
+msgid "<32>{#p/basic}* It sounds like Toriel is writing..."
+msgstr "<32>{#p/basic}* 听起来Toriel在写东西..."
+
 msgid "<32>{#p/basic}* It's a security field."
 msgstr "<32>{#p/basic}* 一道安保屏障。"
 
@@ -7790,12 +7808,6 @@ msgid "<32>* Certainly no shortage of those around here, is there?"
 msgstr ""
 "<32>* 这附近肯定不缺这种东西，\n"
 "  是吧？"
-
-msgid "<26>{#p/toriel}{#f/1}* Patience, my child!"
-msgstr "<26>{#p/toriel}{#f/1}* 再等等就好，我的孩子！"
-
-msgid "<26>{#p/toriel}{#f/1}* This may take a while..."
-msgstr "<26>{#p/toriel}{#f/1}* 给我点时间..."
 
 msgid ""
 "<32>{#p/human}* (The sign speaks of strength of will in times of trouble.)"
@@ -9129,18 +9141,6 @@ msgid ""
 msgstr ""
 "<32>{#p/basic}* Toriel家有几把餐椅，\n"
 "  这把，是国王的餐椅。"
-
-msgid "<32>{#p/basic}* It's locked."
-msgstr "<32>{#p/basic}* 锁住了。"
-
-msgid "<32>{#p/basic}* It sounds like Toriel is crying..."
-msgstr "<32>{#p/basic}* 听起来Toriel在哭..."
-
-msgid "<32>{#p/basic}* It sounds like Toriel is asleep..."
-msgstr "<32>{#p/basic}* 听起来Toriel睡着了..."
-
-msgid "<32>{#p/basic}* It sounds like Toriel is writing..."
-msgstr "<32>{#p/basic}* 听起来Toriel在写东西..."
 
 msgid ""
 "<32>{#p/human}* (The bed seems a lot smaller than it might have used to.)"

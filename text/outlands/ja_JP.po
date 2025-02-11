@@ -5783,6 +5783,24 @@ msgid ""
 "* It is active."
 msgstr ""
 
+msgid "<26>{#p/toriel}{#f/1}* Patience, my child!"
+msgstr ""
+
+msgid "<26>{#p/toriel}{#f/1}* This may take a while..."
+msgstr ""
+
+msgid "<32>{#p/basic}* It's locked."
+msgstr ""
+
+msgid "<32>{#p/basic}* It sounds like Toriel is crying..."
+msgstr ""
+
+msgid "<32>{#p/basic}* It sounds like Toriel is asleep..."
+msgstr ""
+
+msgid "<32>{#p/basic}* It sounds like Toriel is writing..."
+msgstr ""
+
 msgid "<32>{#p/basic}* It's a security field."
 msgstr ""
 
@@ -5897,12 +5915,6 @@ msgid "<32>{#p/basic}* It's a view of outer space."
 msgstr ""
 
 msgid "<32>* Certainly no shortage of those around here, is there?"
-msgstr ""
-
-msgid "<26>{#p/toriel}{#f/1}* Patience, my child!"
-msgstr ""
-
-msgid "<26>{#p/toriel}{#f/1}* This may take a while..."
 msgstr ""
 
 msgid ""
@@ -6853,18 +6865,6 @@ msgstr ""
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
 "* Fit for a king."
-msgstr ""
-
-msgid "<32>{#p/basic}* It's locked."
-msgstr ""
-
-msgid "<32>{#p/basic}* It sounds like Toriel is crying..."
-msgstr ""
-
-msgid "<32>{#p/basic}* It sounds like Toriel is asleep..."
-msgstr ""
-
-msgid "<32>{#p/basic}* It sounds like Toriel is writing..."
 msgstr ""
 
 msgid ""

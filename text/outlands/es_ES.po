@@ -6498,6 +6498,24 @@ msgstr ""
 "<33>{#p/basic}* Hay un campo de seguridad.\n"
 "* Está activo."
 
+msgid "<26>{#p/toriel}{#f/1}* Patience, my child!"
+msgstr "<26>{#p/toriel}{#f/1}* ¡Paciencia, mi niño!"
+
+msgid "<26>{#p/toriel}{#f/1}* This may take a while..."
+msgstr "<26>{#p/toriel}{#f/1}* Puede que esto tome un tiempo..."
+
+msgid "<32>{#p/basic}* It's locked."
+msgstr "<32>{#p/basic}* Está cerrado."
+
+msgid "<32>{#p/basic}* It sounds like Toriel is crying..."
+msgstr "<32>{#p/basic}* Suena como que Toriel está llorando..."
+
+msgid "<32>{#p/basic}* It sounds like Toriel is asleep..."
+msgstr "<32>{#p/basic}* Suena como que Toriel está durmiendo..."
+
+msgid "<32>{#p/basic}* It sounds like Toriel is writing..."
+msgstr "<32>{#p/basic}* Suena como que Toriel está escribiendo..."
+
 msgid "<32>{#p/basic}* It's a security field."
 msgstr "<32>{#p/basic}* Es un campo de seguridad."
 
@@ -6634,12 +6652,6 @@ msgstr "<32>{#p/basic}* Es una vista del espacio exterior."
 
 msgid "<32>* Certainly no shortage of those around here, is there?"
 msgstr "<32>* Ciertamente no faltan por aquí, ¿verdad?"
-
-msgid "<26>{#p/toriel}{#f/1}* Patience, my child!"
-msgstr "<26>{#p/toriel}{#f/1}* ¡Paciencia, mi niño!"
-
-msgid "<26>{#p/toriel}{#f/1}* This may take a while..."
-msgstr "<26>{#p/toriel}{#f/1}* Puede que esto tome un tiempo..."
 
 msgid ""
 "<32>{#p/human}* (The sign speaks of strength of will in times of trouble.)"
@@ -7829,18 +7841,6 @@ msgid ""
 msgstr ""
 "<32>{#p/basic}* Una silla de comedor de Toriel.\n"
 "* Hecha para un rey."
-
-msgid "<32>{#p/basic}* It's locked."
-msgstr "<32>{#p/basic}* Está cerrado."
-
-msgid "<32>{#p/basic}* It sounds like Toriel is crying..."
-msgstr "<32>{#p/basic}* Suena como que Toriel está llorando..."
-
-msgid "<32>{#p/basic}* It sounds like Toriel is asleep..."
-msgstr "<32>{#p/basic}* Suena como que Toriel está durmiendo..."
-
-msgid "<32>{#p/basic}* It sounds like Toriel is writing..."
-msgstr "<32>{#p/basic}* Suena como que Toriel está escribiendo..."
 
 msgid ""
 "<32>{#p/human}* (The bed seems a lot smaller than it might have used to.)"
