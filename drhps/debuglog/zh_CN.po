@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-11 08:11+0000\n"
 "PO-Revision-Date: 2025-02-11 08:11+0000\n"
-"Last-Translator: Holaamingo <1368779090@qq.com>\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.site/projects/deltarune-hypothesis/1-cs-debuglog/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "prefab For CharacterIcon is Null"
 msgstr "未找到角色贴图配置文件"
 
@@ -166,7 +165,7 @@ msgid "FadeInSprite failed! spriteRenderer is null"
 msgstr "FadeInSprite失败！spriteRenderer为空"
 
 msgid "FadeOutSprite failed! spriteRenderer is null"
-msgstr ""
+msgstr "FadeOutSprite失败！spriteRenderer为空！"
 
 msgid "Target Transform cannot be null."
 msgstr ""
