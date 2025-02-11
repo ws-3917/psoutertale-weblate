@@ -1,7 +1,21 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 07:49+0000\n"
+"PO-Revision-Date: 2025-02-11 08:11+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.site/projects/deltarune-hypothesis/3-cs-addnewhostmessage/"
+"zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9.2\n"
 
+#
 msgid "ARE WE CONNECTED TO THE NETWORK?"
 msgstr ""
 
@@ -9,10 +23,7 @@ msgid "EXCELLENT."
 msgstr ""
 
 msgid "WE MAY BEGIN."
-msgstr ""
-
-msgid ""
-msgstr ""
+msgstr "我们可以开始了。"
 
 msgid "WERE YOU AWARE THIS IS ALL FICTITIOUS AND <b>UNOFFICIAL<b>?"
 msgstr ""
@@ -39,7 +50,7 @@ msgid "THIS WILL BE AN ISSUE."
 msgstr ""
 
 msgid "THIS COSMOS DOES NOT HAVE RELATION TO ANY CANINES."
-msgstr ""
+msgstr "这个宇宙与那条狗狗毫不相干。"
 
 msgid "THESE EXPERIMENTS ARE NOT OFFICIAL."
 msgstr ""
@@ -75,7 +86,7 @@ msgid "HEED THIS USEFUL TIP."
 msgstr ""
 
 msgid "ENABLE \\\"SIMPLE VFX\\\" IN SETTINGS IF FLASHING LIGHTS ARE A CONCERN. "
-msgstr ""
+msgstr "如果对频闪感到不适，请在设置中启用“简化视觉特效”。"
 
 msgid "..."
 msgstr ""
@@ -102,4 +113,4 @@ msgid "GOODBYE FOR NOW, DR HYPOASTER."
 msgstr ""
 
 msgid "\\\""
-msgstr ""
+msgstr "\\\""
