@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-11 08:21+0000\n"
 "PO-Revision-Date: 2025-02-12 09:13+0000\n"
-"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
+"Last-Translator: Holaamingo <1368779090@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.site/projects/deltarune-hypothesis/1-cs-debuglog/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -94,6 +94,8 @@ msgid ""
 "Player Use Round : \n"
 "{playerActions}"
 msgstr ""
+"玩家占用回合：\n"
+"{playerActions}"
 
 msgid "Enemy's Turn: "
 msgstr "敌人回合："
@@ -134,34 +136,34 @@ msgid ""
 msgstr "尝试关闭战斗框并插入灵魂时，BattlePartyMembers[0]为空"
 
 msgid "No new targets available to spare?"
-msgstr ""
+msgstr "没有新的可饶恕目标？"
 
 msgid "FadeSpriteRenderer Failed | spriteRenderer is missing or null?"
 msgstr ""
 
 msgid "Scene Loaded: "
-msgstr ""
+msgstr "加载场景："
 
 msgid "PlayerPrefs saved!"
-msgstr ""
+msgstr "玩家数据已保存！"
 
 msgid "AttemptRunMultipleActions started."
 msgstr ""
 
 msgid "storedchatboxtext is null"
-msgstr ""
+msgstr "存储的对话框文本为空"
 
 msgid "currentTextbox.SubActions is null"
-msgstr ""
+msgstr "currentTextbox.SubActions为空"
 
 msgid "currentTextbox.SubActions.Length is 0"
-msgstr ""
+msgstr "currentTextbox.SubActions.Length为0"
 
 msgid "currentTextbox.SubActions.SubActions.Length is 0"
-msgstr ""
+msgstr "currentTextbox.SubActions.SubActions.Length为0"
 
 msgid "Action is null, skipping"
-msgstr ""
+msgstr "动作为空，跳过"
 
 msgid "AttemptRunMultipleActions ended."
 msgstr ""
@@ -326,7 +328,7 @@ msgid "Game data saved! | "
 msgstr ""
 
 msgid "No Scene Position!"
-msgstr ""
+msgstr "无场景位置！"
 
 msgid "Game data loaded!"
 msgstr ""
