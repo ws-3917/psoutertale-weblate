@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-12 12:44+0000\n"
-"PO-Revision-Date: 2025-02-12 12:44+0000\n"
+"PO-Revision-Date: 2025-02-13 03:33+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/6-common/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "The player did everything they could..."
 msgstr "O jogador fez tudo que ele pôde..."
 
@@ -457,7 +455,6 @@ msgstr "<25>{#p/basic}(Isso é tudo que se tem para dizer hoje!)"
 
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr "<25>{#p/basic}(Parabéns e tchau tchau!)"
-
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr "<32>{#s/phone}{#p/event}* Ring, ring..."
@@ -13791,9 +13788,8 @@ msgstr "* Aperto de Mão"
 msgid "* Hang Out"
 msgstr "* Dar Volta"
 
-#, fuzzy
 msgid "* Heckle"
-msgstr "* Heckle"
+msgstr "* Incomodar"
 
 msgid "* Heel Turn"
 msgstr "* Giro"
@@ -15301,470 +15297,552 @@ msgstr ""
 
 msgid "<32>{#p/story}* Monster Kid said no webs are as strong as Muffet's."
 msgstr ""
+"<32>{#p/story}* Criança Monstro diz que nenhuma teia é tão forte quanto as "
+"da Muffet."
 
 msgid "<32>{#p/story}* Monster Kid hummed a pretty melody."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro canta uma bela melodia."
 
 msgid "<32>{#p/story}* Monster Kid complimented Shyren's hair."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro elogia o cabelo da Shyren."
 
 msgid "<32>{#p/story}* Monster Kid complimented Shyren's voice."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro elogia a voz da Shyren."
 
 msgid ""
 "<32>{#p/story}* Monster Kid called Skrubbington the cleanest monster on the "
 "block."
 msgstr ""
+"<32>{#p/story}* Criança Monstro diz que Skrubbington é o monstro mais limpo "
+"da aérea."
 
 msgid ""
 "<32>{#p/story}* Monster Kid appreciated Skrubbington's efforts to freshen up"
 " the factory."
 msgstr ""
+"<32>{#p/story}* Criança Monstro diz apreciar o esforço de Skrubbington para "
+"deixar a fábrica limpa."
 
 msgid ""
 "<32>{#p/story}* Monster Kid noted Skrubbington's committment to perfection."
 msgstr ""
+"<32>{#p/story}* Criança Monstro nota o compromisso de Skrubbington com a "
+"perfeição."
 
 msgid "<32>{#p/story}* Monster Kid complimented Radtile's mirror."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro elogia o espelho do Radtile."
 
 msgid "<32>{#p/story}* Monster Kid complimented Radtile's hat."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro elogia o boné do Radtile."
 
 msgid ""
 "<32>{#p/story}* Monster Kid made sure to double-check Radtile's appearance."
 msgstr ""
+"<32>{#p/story}* Criança Monstro dá uma olhada dupla na aparência do Radtile."
 
 msgid "<32>{#p/story}* Monster Kid offered to keep $(x) company."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro se ofereceu para fazer companhia a $(x)"
 
 msgid "<32>{#p/story}* Monster Kid told $(x) they'd be there if it'd help."
 msgstr ""
+"<32>{#p/story* Criança Monstro disse a $(x) que ele estará ali para ajudar "
+"caso precise."
 
 msgid "<32>{#p/story}* Monster Kid stood on top of $(x)."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro fica no topo de $(x)."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about spider clans."
 msgstr ""
+"<32>{#p/story}* Criança Monstro tenta perguntar a Muffet sobre o clã de "
+"aranhas."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about bakeries."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro tenta perguntar Muffet sobre bolos."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about tea."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro tenta perguntar Muffet sobre chá."
 
 msgid "<32>{#p/story}* Monster Kid debated about musical notation."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro debate sobre notação musical."
 
 msgid "<32>{#p/story}* Monster Kid spoke about music theory."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro fala sobre teoria musical."
 
 msgid "<32>{#p/story}* Monster Kid discussed their favorite music genres."
 msgstr ""
+"<32>{#p/story}* Criança Monstro discute sobre seu gênero de música favorito."
 
 msgid "<32>{#p/story}* Monster Kid waxed poetic about proper hygiene."
 msgstr ""
+"<32>{#p/story}* Criança Monstro demonstra poesia sobre a higiene adequada."
 
 msgid "<32>{#p/story}* Monster Kid rapped about hazard safety."
 msgstr ""
+"<32>{#p/story}* Criança Monstro faz um rap sobre segurança contra riscos."
 
 msgid "<32>{#p/story}* Monster Kid showed off their polished sewer pipe set."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro exibiu seu conjunto de canos polido."
 
 msgid "<32>{#p/story}* Monster Kid made an ugly face at Radtile."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro faz uma careta para Radtile."
 
 msgid "<32>{#p/story}* Monster Kid came near and inspected Radtile up close."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro se aproxima e olha o Radtile de perto."
 
 msgid ""
 "<32>{#p/story}* Monster Kid acted out as if they were a feral creature."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro age como se fosse uma criatura feroz."
 
 msgid "<32>{#p/story}* Monster Kid wiggled around, mimicing $(x)."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro se mexeu, imitando $(x)."
 
 msgid "<32>{#p/story}* Monster Kid did a handstand, impressing $(x)."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro faz uma bananeira, impressionando $(x)"
 
 msgid "<32>{#p/story}* Monster Kid spun around, bewildering $(x)."
-msgstr ""
+msgstr "<32>{#p/story}* Criança Monstro gira para os lados, desconcertando $(x)"
 
 msgid ""
 "<32>{#p/story}* Monster Kid tried telling Muffet there's no point in all "
 "this!"
 msgstr ""
+"<32>{#p/story}* Criança Monstro tenta dizer a Muffet que não a ponto em tudo "
+"isso!"
 
 msgid ""
 "<32>{#p/story}* Monster Kid claimed a spatial distortion was approaching "
 "fast!"
 msgstr ""
+"<32>{#p/story}* Criança Monstro afirmou que uma distorção espacial estava se "
+"aproximando rapidamente"
 
 msgid ""
 "<32>{#p/story}* Monster Kid claimed an airborne viral agent was on its way!"
 msgstr ""
+"<32>{#p/story}* Criança Monstro afirma que um agente viral no ar estava a "
+"caminho."
 
 msgid ""
 "<32>{#p/story}* Monster Kid claimed the nearby pipes were leaking acid!"
 msgstr ""
+"<32>{#p/story}* Criança Monstro avisa que os tubos próximos estavam "
+"derramando ácido!"
 
 msgid "<32>{#p/story}* Nothing happened."
-msgstr ""
+msgstr "<32>{#p/story}* Nada acontece."
 
 msgid ""
 "<32>{#p/story}* Skrubbington was grossed out!\n"
 "* Skrubbington's DEFENSE down!"
 msgstr ""
+"<32>{#p/story}* Skrubbington está enojado!\n"
+"* DEFESA de Skrubbington caiu!"
 
 msgid ""
 "<32>{#p/story}* Shyren felt uncomfortable!\n"
 "* Shyren's DEFENSE down!"
 msgstr ""
+"<32>{#p/story}* Shyren se sentiu desconfortável!\n"
+"* A DEFESA de Shyren caiu!"
 
 msgid ""
 "<32>{#p/story}* Radtile felt uncomfortable!\n"
 "* Radtile's DEFENSE down!"
 msgstr ""
+"<32>{#p/story}* Radtile se sente desconfortável!\n"
+"* DEFESA de Radtile caiu!"
 
 msgid ""
 "<32>{#p/story}* $(x) felt uncomfortable!\n"
 "* $(x)'s DEFENSE down!"
 msgstr ""
+"<32>{#p/story}* $(x) se sentiu desconfortável!\n"
+"* A DEFESA de $(x) caiu!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington felt flattered!\n"
 "* Skrubbington's ATTACK down!"
 msgstr ""
+"<32>{#p/story}* Skrubbington se sentiu lisonjeado!\n"
+"* O ATAQUE de Skrubbington caiu!"
 
 msgid ""
 "<32>{#p/story}* Shyren felt flattered!\n"
 "* Shyren's ATTACK down!"
 msgstr ""
+"<32>{#p/story}* Shyren se sente lisonjeada!\n"
+"* O ATAQUE de Shyren caiu!"
 
 msgid ""
 "<32>{#p/story}* Radtile felt respected!\n"
 "* Radtile's ATTACK down!"
 msgstr ""
+"<32>{#p/story}* Radtile se sente respeitado!\n"
+"* ATAQUE de Radtile caiu!"
 
 msgid ""
 "<32>{#p/story}* $(x) felt respected!\n"
 "* $(x)'s ATTACK down!"
 msgstr ""
+"<32>{#p/story}* $(x) sente o respeito!\n"
+"* O ATAQUE de $(x) caiu!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington and the others were distracted by Monster Kid "
 "and forgot their turn!"
 msgstr ""
+"<32>{#p/story}* Skrubbington e outros monstros foram distraídos pela Criança "
+"Monstro e esqueçam da luta!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington was distracted by Monster Kid and forgot their "
 "turn!"
 msgstr ""
+"<32>{#p/story}* Skrubbington foi distraído pela Criança Monstro e esqueceu o "
+"turno!"
 
 msgid "<32>{#p/story}* Distracted by Monster Kid, Shyren forgot her turn!"
 msgstr ""
+"<32>{#p/story}* Distraída pela Criança Monstro, Shyren esquece seu turno!"
 
 msgid ""
 "<32>{#p/story}* Entranced by Monster Kid, $(x) and the others forgot their "
 "turn!"
 msgstr ""
+"<32>{#p/story}* Encantados pela Criança Monstro, $(x) e os outros esqueceram "
+"seus turnos!"
 
 msgid "<32>{#p/story}* Entranced by Monster Kid, Radtile forgot his turn!"
 msgstr ""
+"<32>{#p/story}* Encantado pela Criança Monstro, Radtile esqueceu seu turno!"
 
 msgid "<32>{#p/story}* Entranced by Monster Kid, $(x) forgot their turn!"
 msgstr ""
+"<32>{#p/story}* Pela distração da Criança Monstro, $(x) esqueceu seu turno!"
 
 msgid ""
 "<32>{#p/story}* Fearful for its life, Skrubbington panicked and left the "
 "battle!"
 msgstr ""
+"<32>{#p/story}* Com medo por sua vida, Skrubbington entra em pânico e foge "
+"da batalha!"
 
 msgid "<32>{#p/story}* The other monsters continue to fight you."
-msgstr ""
+msgstr "<32>{#p/story}* Os outros monstros continuam a lutar."
 
 msgid ""
 "<32>{#p/story}* Fearful for her life, Shyren panicked and left the battle!"
 msgstr ""
+"<32>{#p/story}* Temendo por sua vida, Shyren entra em pânico e foge da luta!"
 
 msgid ""
 "<32>{#p/story}* Encouraged by her own performance, Shyren braved the threat!"
 msgstr ""
+"<32>{#p/story}* Encorajada por seu próprio desempenho, Shyren enfrentou a "
+"ameaça!"
 
 msgid ""
 "<32>{#p/story}* Fearful for his life, Radtile panicked and left the battle!"
 msgstr ""
+"<32>{#p/story}* Temendo por sua vida, Radtile entra em pânico e foge da "
+"batalha!"
 
 msgid ""
 "<32>{#p/story}* Fearful for its life, $(x) panicked and left the battle!"
 msgstr ""
+"<32>{#p/story}* Temendo por sua vida, $(x) entra em pânico e foge da batalha!"
 
 msgid ""
 "<32>{#p/kidding}* Y... y-you want me to fight?\n"
 "* Are you sure?"
 msgstr ""
+"<32>{#p/kidding}* V... v-você quer que eu lute?\n"
+"* Tem certeza?"
 
 msgid "* (Do you confirm?)"
-msgstr ""
+msgstr "* (Você confirma essa ação?)"
 
 msgid "<32>{#p/kidding}* Okay... here goes nothing..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Tá... aqui vai nada..."
 
 msgid "<32>{#p/kidding}* Oh, okay..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Oh, okay..."
 
 msgid "<32>* I'll just spare them, then!"
-msgstr ""
+msgstr "<32>* Eu só vou poupar então!"
 
 msgid "<32>* Ngh...!"
-msgstr ""
+msgstr "<32>* Ngh...!"
 
 msgid "<32>* Hi-yah...!"
-msgstr ""
+msgstr "<32>* Hi-yah...!"
 
 msgid "<32>* Wa-POW!"
-msgstr ""
+msgstr "<32>* Wa-POW!"
 
 msgid ""
 "<32>{#p/kidding}* Mercy?\n"
 "* Do I spare them?"
 msgstr ""
+"<32>{#p/kidding}* Poupar?\n"
+"* Eu só deixo eles irem?"
 
 msgid "<32>{#p/kidding}* Haha, that's easy!"
-msgstr ""
+msgstr "<32>{#p/kidding}* Haha, isso é fácil!"
 
 msgid "* (What should Monster Kid do?)"
-msgstr ""
+msgstr "* (O que a Criança Monstro deveria fazer?)"
 
 msgid "Mercy"
-msgstr ""
+msgstr "Piedade"
 
 msgid "Act"
-msgstr ""
+msgstr "Agir"
 
 msgid "Magic"
-msgstr ""
+msgstr "Magia"
 
 msgid "Fight"
-msgstr ""
+msgstr "Lutar"
 
 msgid "Keyring"
-msgstr ""
+msgstr "Chaveiro"
 
 msgid "Say Hello"
-msgstr ""
+msgstr "Dizer Olá"
 
 msgid "About Yourself"
-msgstr ""
+msgstr "Sobre Você"
 
 msgid "Call Him \"Dad\""
-msgstr ""
+msgstr "Chamar ele de \"Pai\""
 
 msgid "Flirt"
-msgstr ""
+msgstr "Flertar"
 
 msgid "Insult"
-msgstr ""
+msgstr "Insultar"
 
 msgid "<32>{#s/phone}{#p/event}* Dialing..."
-msgstr ""
+msgstr "<32>{#s/phone}{#p/event}* Ligando..."
 
 msgid "<32>{#p/human}* (Too much interference.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Muita interferência.)"
 
 msgid "<32>{#p/basic}* ... but nobody came."
-msgstr ""
+msgstr "<32>{#p/basic}* ... mas ninguém veio."
 
 msgid "<32>{#p/human}* (No connection.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Sem conexão.)"
 
 msgid ""
 "<32>{#p/human}* (It sounds like a small, white dog is sleeping on the cell "
 "phone.)"
 msgstr ""
+"<32>{#p/human}* (Parece o som de um pequeno cachorro branco dormindo no "
+"celular.)"
 
 msgid "<32>{#p/basic}* (Snore... snore...)"
-msgstr ""
+msgstr "<32>{#p/basic}* (Ronco... ronco...)"
 
 msgid "<32>* (Snore... snore...)"
-msgstr ""
+msgstr "<32>* (Ronco... ronco...)"
 
 msgid "<32>{#p/basic}* (Snore... snore... snore...)"
-msgstr ""
+msgstr "<32>{#p/basic}* (Ronco... ronco... ronco...)"
 
 msgid "<32>* (Snore... snore... snore...)"
-msgstr ""
+msgstr "<32>* (Ronco... ronco... ronco...)"
 
 msgid "<32>{#p/basic}* (Snore...!)"
-msgstr ""
+msgstr "<32>{#p/basic}* (Ronco...!)"
 
 msgid "<32>* (Snore...!)"
-msgstr ""
+msgstr "<32>* (Ronco...!)"
 
 msgid "<32>{#p/basic}* (Snore...?)"
-msgstr ""
+msgstr "<32>{#p/basic}* (Ronco...?)"
 
 msgid "<32>* (Snore...?)"
-msgstr ""
+msgstr "<32>* (Ronco...?)"
 
 msgid "<32>{#p/basic}* (Whimper.)"
-msgstr ""
+msgstr "<32>{#p/basic}* (choramingo.)"
 
 msgid "<32>* (Whine.)"
-msgstr ""
+msgstr "<32>* (Lamentação.)"
 
 msgid "<25>{#p/asgore}{#f/5}* About me?"
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* Sobre minha pessoa?"
 
 msgid "<25>{#f/7}* ... oh, but where would I begin?"
-msgstr ""
+msgstr "<25>{#f/7}* ... oh, por onde eu começo?"
 
 msgid "<25>{#f/6}* There is far too much to tell at once."
-msgstr ""
+msgstr "<25>{#f/6}* A muito para dizer apenas de uma vez."
 
 msgid "<25>{#f/6}* Perhaps, over time, you will come to know me very well."
-msgstr ""
+msgstr "<25>{#f/6}* Talvez, com o tempo você vai me conhecer muito bem."
 
 msgid "<25>{#f/21}* It would be better than telling you everything at once."
-msgstr ""
+msgstr "<25>{#f/21}* Seria melhor do que te dizer tudo de uma vez."
 
 msgid ""
 "<25>{#p/asgore}{#f/5}* If you like, I can tell you something about myself "
 "later."
 msgstr ""
+"<25>{#p/asgore}{#f/5}* Eu você quiser, eu posso te dizer algo sobre mim "
+"depois."
 
 msgid "<25>{#f/7}* How does that sound?"
-msgstr ""
+msgstr "<25>{#f/7}* Que tal isso?"
 
 msgid "<25>{#f/4}* Frisk."
-msgstr ""
+msgstr "<25>{#f/4}* Frisk."
 
 msgid "<25>{#f/6}* Surely there is someone more your age."
-msgstr ""
+msgstr "<25>{#f/6}* Certamente há alguém da sua idade."
 
 msgid "<25>{#f/5}* I am not saying I cannot oblige, but..."
-msgstr ""
+msgstr "<25>{#f/5}* Não estou dizendo que não posso obrigar, mas..."
 
 msgid "<25>{#f/6}* There is a world of difference between \"can\" and \"should.\""
-msgstr ""
+msgstr "<25>{#f/6}* Há um mundo de diferença entre \"pode\" e \"deve."
 
 msgid "<25>{#p/asgore}{#f/20}* Frisk."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/20}* Frisk."
 
 msgid "<25>{#f/20}* Perhaps when you are older, we may explore this further."
 msgstr ""
+"<25>{#f/20}* Talvez quando você for mais velho, possamos explorar isso mais "
+"profundamente."
 
 msgid "<25>{#f/6}* But not now."
-msgstr ""
+msgstr "<25>{#f/6}* Mas não agora."
 
 msgid "<25>{#f/6}* You call me \"Dad,\" and then you flirt with me."
-msgstr ""
+msgstr "<25>{#f/6}* Você me chamou de \"Pai\", e então flertou comigo."
 
 msgid "<25>{#f/5}* I am not sure how to react to this."
-msgstr ""
+msgstr "<25>{#f/5}* Eu não tenho certeza como reagir a isso."
 
 msgid "<25>{#p/asgore}{#f/21}* A greeting, you say?"
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/21}* Uma saudação, você diz?"
 
 msgid "<25>{#f/7}* Hmm..."
-msgstr ""
+msgstr "<25>{#f/7}* Hmm..."
 
 msgid "<25>{#f/6}* I give you a \"Howdy!\""
-msgstr ""
+msgstr "<25>{#f/6}* Eu te darei um \"Howdy!\""
 
 msgid "<25>{#p/asgore}{#f/5}* Another greeting?"
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* Outra saudação?"
 
 msgid "<25>{#f/21}* I know..."
-msgstr ""
+msgstr "<25>{#f/21}* Eu sei..."
 
 msgid "<25>{#f/6}* \"How do you do!\""
-msgstr ""
+msgstr "<25>{#f/6}* \"Como você faz!\""
 
 msgid "<25>{#p/asgore}{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* ..."
 
 msgid "<25>{#f/5}* At this rate, I am going to run out of greetings."
-msgstr ""
+msgstr "<25>{#f/5}* Nesse ritmo, eu vou ficar sem saudações."
 
 msgid "<25>{#f/6}* Though, the birds outside may be more willing to oblige."
 msgstr ""
+"<25>{#f/6}* No entanto, os pássaros do lado de fora podem estar mais "
+"dispostos a fazê-lo."
 
 msgid "<25>{#f/7}* Why not try with them?"
-msgstr ""
+msgstr "<25>{#f/7}* Por que não tentar com eles?"
 
 msgid "<25>{#p/asgore}{#f/5}* ... howdy, little one."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* ... olá, pequeno."
 
 msgid "<25>{#f/6}* It is always nice to hear your voice."
-msgstr ""
+msgstr "<25>{#f/6}* É sempre ótimo ouvir sua voz."
 
 msgid "<25>{#p/asgore}{#f/6}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/6}* ..."
 
 msgid "<25>{#f/24}* ..."
-msgstr ""
+msgstr "<25>{#f/24}* ..."
 
 msgid "<25>{#f/21}* Of course."
-msgstr ""
+msgstr "<25>{#f/21}* Claro."
 
 msgid "<25>{#f/6}* I suppose it is only natural you would call me that."
-msgstr ""
+msgstr "<25>{#f/6}* Suponho que seja natural que você me chame assim."
 
 msgid "<25>{#f/6}* You may call me \"Dad\" if you want, Frisk."
 msgstr ""
+"<25>{#f/6}* Você tem a permissão para me chamar de \"Pai\" caso queira, "
+"Frisk."
 
 msgid ""
 "<25>{#p/asgore}{#f/24}* ...\n"
 "* Goodness gracious."
 msgstr ""
+"<25>{#p/asgore}{#f/24}* ...\n"
+"* Senhor da graça."
 
 msgid "<25>{#f/6}* You seem very intent on me being your father."
-msgstr ""
+msgstr "<25>{#f/6}* Você parece muito decidido que eu seja seu pai."
 
 msgid "<25>{#f/21}* Fortunately, I had already planned to fill that role."
-msgstr ""
+msgstr "<25>{#f/21}* Felizmente, eu já planejei trabalhar neste posto."
 
 msgid "<25>{#f/6}* You flirt with me, and then you call me \"Dad.\""
-msgstr ""
+msgstr "<25>{#f/6}* Você flertou comigo e depois me chama de \"Pai.\""
 
 msgid "<25>{#f/1}* You seem very upset about something..."
-msgstr ""
+msgstr "<25>{#f/1}* Você parece estar com raiva de alguma coisa..."
 
 msgid ""
 "<25>{#f/6}* If you like, we may talk once construction has come to an end."
 msgstr ""
+"<25>{#f/6}* Se você quiser, podemos conversar assim que a construção acabar."
 
 msgid "<25>{#p/asgore}{#f/8}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/8}* ..."
 
 msgid ""
 "<26>{#f/6}* Ooh.\n"
 "* How dastardly of you."
 msgstr ""
+"<26>{#f/6}* Ooh.\n"
+"* Que maldade de sua parte."
 
 msgid ""
 "<25>{#f/21}* But do not worry...\n"
 "* I can tell you are only kidding with me."
 msgstr ""
+"<25>{#f/21}* Mas não se preocupe...\n"
+"* Eu sei bem que você está apenas brincando comigo."
 
 msgid ""
 "<25>{#p/asgore}{#f/6}* I will be available to talk with you soon, okay?"
 msgstr ""
+"<25>{#p/asgore}{#f/6}* Estarei disponível para conversar com você em breve, "
+"ok?"
 
 msgid ""
 "<25>{#p/asgore}{#f/21}* Now, now.\n"
 "* There is no need to be so brazen."
 msgstr ""
+"<25>{#p/asgore}{#f/21}* Calma, calma.\n"
+"* Não há necessidade de ser tão descarado."
 
 msgid "Deep Space"
-msgstr ""
+msgstr "Espaço Sideral"
 
 msgid "Your Room"
-msgstr ""
+msgstr "Seu Quarto"
 
 msgid "<32>{#p/human}* (You're filled with determination.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você se enche de determinação.)"
 
 msgid "Eurybia"
-msgstr ""
+msgstr "Eurybia"
