@@ -1,30 +1,30 @@
 {
     "DeveloperInsightPart1": {
-        "<size=40>Beginning</size>\nInitial development and planning begun March 21st 2024 as originally just a small fangame that would've been the Overworlds and Ogres hypothetical only.\n\n<size=40>Expansion</size>\nAs development went on the scope grew as more ideas for other hypotheticals started getting tossed around. Instead of making each one a seperate game, which would come with a whole host of other issues like having to update each individual one if issues arise, the choice was made to make all of these hypotheticals packed into one singular experience.": ""
+        "<size=40>Beginning</size>\nInitial development and planning begun March 21st 2024 as originally just a small fangame that would've been the Overworlds and Ogres hypothetical only.\n\n<size=40>Expansion</size>\nAs development went on the scope grew as more ideas for other hypotheticals started getting tossed around. Instead of making each one a seperate game, which would come with a whole host of other issues like having to update each individual one if issues arise, the choice was made to make all of these hypotheticals packed into one singular experience.": "<size=40>起始</size>\n开发与规划最初始于2024年3月21日，起初还只是一个小型同人游戏而已，里面只有主世界和Ogres的猜想。\n\n<size=40>扩展</size>\n随着开发的进行，范围也不断扩大，各种猜想的各种想法开始被一一抛出。我们选择将所有这些猜想打包成一个游戏，而不是将每个猜想都做成一个单独的游戏，不然就会带来一大堆问题，比如出现了问题的话，就必须得挨个游戏更新。"
     },
     "DeveloperInsightPart2": {
-        "<size=40>Planning</size>\nAfter the choice to pack all planned hypotheticals into one game was made, next was to come up with a way to tie them all together.\n\nHaving all the hypotheticals be, quite literally, scientific hypotheticals for a simulation of the DELTARUNE universe seemed like a fun idea. Ontop of that, writing concepts for logs related to other hypotheses carried out by the player character.": ""
+        "<size=40>Planning</size>\nAfter the choice to pack all planned hypotheticals into one game was made, next was to come up with a way to tie them all together.\n\nHaving all the hypotheticals be, quite literally, scientific hypotheticals for a simulation of the DELTARUNE universe seemed like a fun idea. Ontop of that, writing concepts for logs related to other hypotheses carried out by the player character.": "<size=40>规划</size>\n在决定将所有计划中的猜想整合到一款游戏中之后，接下来的任务就是想办法把它们串联在一起。\n\n把所有猜想都放在三角符文宇宙的模拟器里，听起来是个有趣的点子吧。此外，还可以写写与玩家角色执行的其他猜想实验相关的日志。"
     },
     "DeveloperInsightPart3": {
-        "<size=40>Future</size>\nSo what's next?\n\nThe plan going forward is to continue working on more hypotheticals and logs up until the next two DELTARUNE chapters release, then we'll finish the hypotheticals being worked on and take a break, so we can take in all the additional content and story. This'll be used to make future hypotheticals planned more accurate.\n\nAt some point in the future, the game will be open sourced too! woo!!": ""
+        "<size=40>Future</size>\nSo what's next?\n\nThe plan going forward is to continue working on more hypotheticals and logs up until the next two DELTARUNE chapters release, then we'll finish the hypotheticals being worked on and take a break, so we can take in all the additional content and story. This'll be used to make future hypotheticals planned more accurate.\n\nAt some point in the future, the game will be open sourced too! woo!!": "<size=40>将来</size>\n然后呢？\n\n我们的计划是继续制作更多的猜想和日志，直到三角符文第三四章发布。到那时候，我们会放下手头上的猜想内容，好吸收新剧情和新内容。这样我们才能把猜想写的更加准确。\n\n在不久的将来，这款游戏也会开源！芜湖！！"
     },
     "EXPERIMENT LOG-00-A": {
-        "EXPERIMENT LOG-00-A": "",
-        "\"INTRODUCTION\"": "",
-        "Objective": "",
-        "Become acquainted with the DELTARUNE SIMULATION AND UNDERSTAND HOW IT RUNS WITH LITTLE TO NO HOST INFLUENCE. DOCUMENT THE TIMELINE OF EVENTS THAT OCCURE AND FIND A SUITABLE VESSEL TO INTEGRATE HOST CONTROL INTO.": "",
-        "Hypothesis": "",
-        "IF THE DELTARUNE SIMULATION RUNS ON A GUARANTEED TIMELINE OF EVENTS IN EACH ITERATION THEN IT SHOULD BE POSSIBLE TO AFFECT THE TIMELINE OF EVENTS WITH THE HOST IN CONTROL.\n\nHOWEVER. IF THE DELTARUNE SIMULATION DOESN'T FOLLOW A STRICT TIMELINE/RULE SET FURTHER EXPERIMENTS SHALL BE NECESSARY.": "",
-        "Experiment Design": "",
-        "1) RUN MULTIPLE ITERATIONS OF THE SIMULATION WITHOUT ANY HOST CONTROL, PLOT ANY REPEATED EVENTS OR ACTIONS AND TRACK HOW THE SIMULATION RUNS WITHOUT INTERFERENCE.\n\n2) RUN A SINGLE SIMULATION FOR AN EXTEND PERIOD OF TIME TO DEDUCE HOW LONGER ITERATIONS OF THE SIMULATION ACT AND IF ANY ISSUES CROP UP.\n\n3) BEGIN SEARCHING THE SIMULATION FOR SUITABLE ENTITIES THAT CAN FACILITATE THE HOSTS CONTROL WITHOUT CHANGING TOO MUCH.": "",
-        "Expected Result(s)": "",
-        "- A consistent TIMELINE OF EVENTS\n- A SUITABLE HOST TO GOVERN THE CONTROL ": ""
+        "EXPERIMENT LOG-00-A": "实验日志-00-甲",
+        "\"INTRODUCTION\"": "“介绍”",
+        "Objective": "物件",
+        "Become acquainted with the DELTARUNE SIMULATION AND UNDERSTAND HOW IT RUNS WITH LITTLE TO NO HOST INFLUENCE. DOCUMENT THE TIMELINE OF EVENTS THAT OCCURE AND FIND A SUITABLE VESSEL TO INTEGRATE HOST CONTROL INTO.": "熟悉三角符文模拟器并了解其在几乎没有操纵者影响的情况下会如何运行。记录发生事件的时间线，并寻找一个合适的载体，以整合操纵者的控制。",
+        "Hypothesis": "猜想",
+        "IF THE DELTARUNE SIMULATION RUNS ON A GUARANTEED TIMELINE OF EVENTS IN EACH ITERATION THEN IT SHOULD BE POSSIBLE TO AFFECT THE TIMELINE OF EVENTS WITH THE HOST IN CONTROL.\n\nHOWEVER. IF THE DELTARUNE SIMULATION DOESN'T FOLLOW A STRICT TIMELINE/RULE SET FURTHER EXPERIMENTS SHALL BE NECESSARY.": "如果三角符文模拟器在每次迭代中都遵循一条固定的事件时间线，那么在操纵者的控制下，应可以对时间线产生影响。\n\n然而，如果三角符文模拟器并不遵循严格的时间线或规则集，则需要进行进一步的实验。",
+        "Experiment Design": "实验设计",
+        "1) RUN MULTIPLE ITERATIONS OF THE SIMULATION WITHOUT ANY HOST CONTROL, PLOT ANY REPEATED EVENTS OR ACTIONS AND TRACK HOW THE SIMULATION RUNS WITHOUT INTERFERENCE.\n\n2) RUN A SINGLE SIMULATION FOR AN EXTEND PERIOD OF TIME TO DEDUCE HOW LONGER ITERATIONS OF THE SIMULATION ACT AND IF ANY ISSUES CROP UP.\n\n3) BEGIN SEARCHING THE SIMULATION FOR SUITABLE ENTITIES THAT CAN FACILITATE THE HOSTS CONTROL WITHOUT CHANGING TOO MUCH.": "1）多次运行三角符文模拟器，无操纵者控制，绘制所有重复的事件或动作，并跟踪模拟器在没有干扰的情况下如何运行。\n\n2）单次运行模拟器，持续较长时间，以推断更长时间的模拟迭代将如何运行，观察是否出现问题。\n\n3）开始在模拟器中寻找能够在不干预过多的情况下促进操纵者控制的实体。",
+        "Expected Result(s)": "预期结果",
+        "- A consistent TIMELINE OF EVENTS\n- A SUITABLE HOST TO GOVERN THE CONTROL ": "- 一条一致的事件时间线\n- 一个能够有效地掌控控制权的操纵者"
     },
     "EXPERIMENT LOG-00-B": {
-        "EXPERIMENT LOG-00-B": "",
-        "\"DISCOVERY\"": "",
-        "Logged Information": "",
-        "WHILE ACTIVELY TESTING BASIC HOST CONTROL WITH SMALLER BODIES IN THE SIMULATION, WE EMBARKED ON A MISSION TO EXPLORE THE SURROUNDING ENVIRONMENT.\n\nIN THIS SIMULATION INSTANCE, WE TOOK THE FORM OF WHAT WE BELIEVE TO BE A COMMON HOUSE FLY. DUE TO LIMITATIONS AND INEXPERIENCE, WE HAVE NOT YET SUCCESSFULLY ENABLED THE HOST TO CONSUME FOOD TO SUSTAIN ITSELF. WITHOUT NOURISHMENT, WE COULD LAST ONLY 2-3 DAYS PER INSTANCE AT MOST.\nNEVERTHELESS, WE USED MULTIPLE SIMULATION INSTANCES TO EXPLORE THE ENVIRONMENT AND MAP OUT ITS COMMON LANDMARKS.\n\nOUR FINDINGS HAVE PROVIDED <I>VALUABLE</I> INFORMATION:\n\n1) THE ENVIRONMENT CONSISTENTLY RESEMBLES A SMALL URBAN TOWN IN THE FALL SEASON.\n2) IT APPEARS THAT ONLY MONSTERS AND HUMANS INHABIT THE SIMULATION; NO OTHER TYPES OF BEINGS HAVE BEEN DOCUMENTED THUS FAR.\n3) THERE IS A POSSIBILITY THAT HUMANS AND MONSTERS COEXIST IN PEACE, ALTHOUGH ONLY ONE HUMAN HAS BEEN OBSERVED IN THE SIMULATION SO FAR.\n\nTHE MOST INTRIGUING DISCOVERY IS THAT T": ""
+        "EXPERIMENT LOG-00-B": "实验日志-00-乙",
+        "\"DISCOVERY\"": "“发现”",
+        "Logged Information": "已记录的信息",
+        "WHILE ACTIVELY TESTING BASIC HOST CONTROL WITH SMALLER BODIES IN THE SIMULATION, WE EMBARKED ON A MISSION TO EXPLORE THE SURROUNDING ENVIRONMENT.\n\nIN THIS SIMULATION INSTANCE, WE TOOK THE FORM OF WHAT WE BELIEVE TO BE A COMMON HOUSE FLY. DUE TO LIMITATIONS AND INEXPERIENCE, WE HAVE NOT YET SUCCESSFULLY ENABLED THE HOST TO CONSUME FOOD TO SUSTAIN ITSELF. WITHOUT NOURISHMENT, WE COULD LAST ONLY 2-3 DAYS PER INSTANCE AT MOST.\nNEVERTHELESS, WE USED MULTIPLE SIMULATION INSTANCES TO EXPLORE THE ENVIRONMENT AND MAP OUT ITS COMMON LANDMARKS.\n\nOUR FINDINGS HAVE PROVIDED <I>VALUABLE</I> INFORMATION:\n\n1) THE ENVIRONMENT CONSISTENTLY RESEMBLES A SMALL URBAN TOWN IN THE FALL SEASON.\n2) IT APPEARS THAT ONLY MONSTERS AND HUMANS INHABIT THE SIMULATION; NO OTHER TYPES OF BEINGS HAVE BEEN DOCUMENTED THUS FAR.\n3) THERE IS A POSSIBILITY THAT HUMANS AND MONSTERS COEXIST IN PEACE, ALTHOUGH ONLY ONE HUMAN HAS BEEN OBSERVED IN THE SIMULATION SO FAR.\n\nTHE MOST INTRIGUING DISCOVERY IS THAT T": "在模拟中积极测试操纵者控制较小身体时，我们开始了探索周围环境的任务。\n\n在这次模拟实例中，我们化身为我们认为是常见家蝇的形态。由于经验不足和限制，我们尚未成功让操纵者摄取食物以维持生命。没有营养支持，我们每次实例最多只能维持2到3天。\n尽管如此，我们仍利用多个模拟实例探索了环境，并绘制出了通用地标图。\n\n我们的发现提供了<I>宝贵</I>的信息：\n\n1）环境至始至终像是一个小型的城市小镇，正值秋季。\n2）似乎只有怪物和人类栖息其中；迄今为止没有记录到其他类型的生物。\n3）存在人类和怪物和平共处的可能性，尽管目前只观察到过一个人类。\n最令人感兴趣的发"
     },
     "EXPERIMENT LOG-01-A": {
         "EXPERIMENT LOG-01-A": "",
