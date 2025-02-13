@@ -10,7 +10,7 @@
     },
     "EXPERIMENT LOG-00-A": {
         "EXPERIMENT LOG-00-A": "实验日志-00-甲",
-        "\"INTRODUCTION\"": "“介绍”",
+        "\"INTRODUCTION\"": "“项目介绍”",
         "Objective": "物件",
         "Become acquainted with the DELTARUNE SIMULATION AND UNDERSTAND HOW IT RUNS WITH LITTLE TO NO HOST INFLUENCE. DOCUMENT THE TIMELINE OF EVENTS THAT OCCURE AND FIND A SUITABLE VESSEL TO INTEGRATE HOST CONTROL INTO.": "熟悉三角符文模拟器并了解其在几乎没有宿主影响的情况下会如何运行。记录发生事件的时间线，并寻找一个合适的载体，以整合宿主的控制。",
         "Hypothesis": "猜想",
@@ -70,8 +70,8 @@
         "Up": "",
         "EXP: 0": "",
         "Item Info": "",
-        "GAME": "",
-        "Simplify VFX": "",
+        "GAME": "游戏",
+        "Simplify VFX": "简化视觉特效",
         "Dice Brace": "",
         "ITEM": "",
         "Cancel": "",
@@ -123,7 +123,7 @@
         "Meeting Sans' Brother\n": "",
         "The time has come where you finally get to meet Sans' brother!\n\nHowever, a dark secret lies behind his door..": "",
         "This may be fun and games\nbut remember: real gambling can lead to serious problems. Play responsibly!": "",
-        "-> Return": "",
+        "-> Return": "-> 返回",
         "End of the DELTARUNE": "",
         "V0.0.2": "",
         "Bumpscosity": ""
@@ -161,7 +161,7 @@
     "BootUp": {
         "CROSS-DEPTHS CONNECTION": "跨层连接",
         " 1 USER(S) - HOST": " 用户数量：1 - 主机",
-        "Enter text...": "",
+        "Enter text...": "请输入...",
         "INITIALIZING BOOT SEQUENCE\r\nBIOS VERSION ( MODIFIED ) (C) [REDACTED]\r\nMemory Test: 8192MB OK\r\nCPU: WD Core I9\r\n\r\nDetected Drivers:\r\n    SIMULATOR: [DELTA] 32GB\r\n    VESSEL CONTROLLER: [GONER] 128MB\r\nChecking NVRAM... OK\r\n------------\r\nInitializing USB Controllers... Done\r\nInitializing Universe String... Done\r\nInitializing World Preview... Done\r\nInitializing Host Control... ERR (1/3)\r\nRETRYING Host Control Initialization\r\nInitializing Host Control... Done\r\n------------\r\n\r\nBeginning Universe Simulation Base SIZE: 93B LY OK\r\nFinalizing Boot [||||||||||] OK": "正在初始化引导进程\nBIOS 版本号（非原始数据）(C) [已隐藏]\n内存：8192MB 校验通过\nCPU：WD Core（酷睿）I9\n\n检测到以下设备：\n    模拟器：[型号 - DELTA] 容量 32GB\n    容器控制器：[型号 - GONER] 容量 128MB\n校验闪存中... 校验通过\n------------\n正在初始化USB控制器... 完成\n正在初始化通用字符串... 完成\n正在初始化场景预览... 完成\n正在初始化主机控制器... 错误（1/3）\n尝试重新初始化主机控制器\n正在初始化主机控制器... 完成\n------------\n\n为初始宇宙模拟分配的内存空间：93B 未发现缓冲区错误\n正在进行引导收尾工作 [||||||||||] 引导完成"
     },
     "Debug_TestBattle": {
