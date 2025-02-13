@@ -15,7 +15,7 @@
         "LogTitleText.text": ""
     },
     "NewMainMenu_ConsoleMenu": {
-        "CheckUpdateScreenText": "",
+        "CheckUpdateScreenText": "<b>>请选择一个条目</b>\n\n",
         "array": ""
     },
     "NewMainMenu_DiscordSubMenu": {
