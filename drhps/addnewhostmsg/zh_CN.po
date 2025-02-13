@@ -1,23 +1,21 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-11 08:21+0000\n"
-"PO-Revision-Date: 2025-02-11 08:21+0000\n"
-"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"PO-Revision-Date: 2025-02-13 08:31+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.site/projects/deltarune-hypothesis/3-cs-addnewhostmessage/"
 "zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "ARE WE CONNECTED TO THE NETWORK?"
 msgstr "我们连上网了吗？"
 
@@ -26,7 +24,6 @@ msgstr "很好。"
 
 msgid "WE MAY BEGIN."
 msgstr "我们可以开始了。"
-
 
 msgid "WERE YOU AWARE THIS IS ALL FICTITIOUS AND <b>UNOFFICIAL<b>?"
 msgstr "你是否知悉这一切内容皆为虚构内容及<b>非官方内容<b>"
@@ -98,7 +95,7 @@ msgid "AND WITH THAT, WE HAVE REACHED THE END OF THE CURRENT TRANSMISSION."
 msgstr "至此，我们已经结束了确认步骤。"
 
 msgid "YOU ARE READY TO BEGIN EXPERIMENTING WITH THE DELTARUNE SIMULATION."
-msgstr "你显然已准备好开始进行DELTARUNE模拟实验。"
+msgstr "你显然已准备好开始进行三角符文你模拟实验。"
 
 msgid "I'M VERY EXCITED TO SEE WHAT YOU BRING TO THE TABLE."
 msgstr "我非常对你做出的动作非常期待。"
