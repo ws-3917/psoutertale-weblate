@@ -12,7 +12,7 @@
         "TipText.text": ""
     },
     "HypotheticalEndScreen": {
-        "LogTitleText.text": ""
+        "LogTitleText.text": "解锁新日志"
     },
     "NewMainMenu_ConsoleMenu": {
         "CheckUpdateScreenText": "<b>>请选择一个条目</b>\n\n",
@@ -25,17 +25,17 @@
         "HypotheticalDescription": ""
     },
     "NewMainMenu_QuitSubMenu": {
-        "HypotheticalDescription": ""
+        "HypotheticalDescription": "<b>你确定你想要退出吗？</b>\n"
     },
     "HypothesisName": {
-        "1": "",
-        "2": "",
+        "1": "幕布背后",
+        "2": "终末之音",
         "3": "",
-        "4": "",
-        "5": "",
-        "6": "",
-        "7": "",
+        "4": "免费饮料",
+        "5": "无处容身",
+        "6": "万千世界与食人恶魔",
+        "7": "与衫斯的兄弟会面",
         "8": "",
-        "10": ""
+        "10": "天使圣域"
     }
 }
