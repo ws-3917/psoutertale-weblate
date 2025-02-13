@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-14 01:50+0000\n"
+"PO-Revision-Date: 2025-02-14 01:50+0000\n"
+"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
+"ps-outertale/5-citadel/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr ""
@@ -7320,98 +7335,124 @@ msgstr ""
 "EU SEI O QUE ESTOU FAZENDO!!!"
 
 msgid "<25>{#p/sans}{#f/2}* just making sure."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* Só tendo certeza."
 
 msgid "<18>{#p/papyrus}{#f/6}SO... TURNS OUT ASGORE'S A BIG FAN OF SPAGHETTI."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ENTÃO... ASGORE É UM GRANDE FÃ DE ESPAGUETE."
 
 msgid "<18>{#p/papyrus}{#f/4}AFTER MY FIRST DISH, HE WAS HOOKED..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}APÓS MINHA PRIMEIRA REFEIÇÃO, ELE FICOU ABISMADO..."
 
 msgid "<18>{#p/papyrus}{#f/0}NOW, HE WANTS ME TO COOK FOR THE WHOLE PARTY!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}AGORA, ELE QUER QUE EU COZINHE PARA TODA A FESTA!"
 
 msgid "<18>{#p/papyrus}{#f/9}I, MASTER CHEF PAPYRUS, AM HAPPY TO OBLIGE!"
 msgstr ""
+"<18>{#p/papyrus}{#f/9}EU, CHEFE MESTRE PAPYRUS, ESTOU FELIZ COM TAL TAREFA!"
 
 msgid ""
 "<25>{#p/sans}{#f/0}* you're finally getting the respect you deserve, huh?"
 msgstr ""
+"<25>{#p/sans}{#f/0}* você finalmente está ganhando o respeito que merece, "
+"huh?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}OH, ABSOLUTELY.\n"
 "BECAUSE UNTIL NOW..."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}OH, ABSOLUTAMENTE.\n"
+"PORQUE ATÉ O MOMENTO..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}I'VE NEVER SEEN A CUSTOMER GET PAST THE FIRST BITE."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}EU NUNCA VI UMA PESSOA PASSANDO DA PRIMEIRA MORDIDA."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* wow.\n"
 "* talk about moving up in the world."
 msgstr ""
+"<25>{#p/sans}{#f/0}* wow.\n"
+"* falando sobre mover o mundo pra cima."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* maybe now, not being in the royal guard... isn't so "
 "bad."
 msgstr ""
+"<25>{#p/sans}{#f/3}* talvez agora, não estar na guarda real... não é tão "
+"ruim."
 
 msgid "<25>{#p/sans}{#f/2}* i'm your brother, so i'm proud of you either way."
 msgstr ""
+"<25>{#p/sans}{#f/2}* eu sou seu irmão, então estou orgulhoso de ti de toda "
+"forma."
 
 msgid ""
 "<18>{#p/papyrus}{#f/8}SANS...!\n"
 "YOU'RE GOING TO MAKE ME CRY!"
 msgstr ""
+"<18>{#p/papyrus}{#f/8}SANS...!\n"
+"VOCÊ VAI ME FAZER CHORAR!"
 
 msgid "<18>{#p/papyrus}{#f/7}THE CUSTOMERS WON'T WANT TEARS IN THEIR PASTA!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}AS PESSOAS NÃO VÃO QUERER PASTA COM LÁGRIMAS!"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* whoops.\n"
 "* bad timing, i guess."
 msgstr ""
+"<25>{#p/sans}{#f/3}* whoops.\n"
+"* momento errado, eu acho."
 
 msgid "<18>{#p/papyrus}{#f/4}FOR YOU, THIS IS ABOVE AVERAGE TIMING..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}PARA VOCÊ, ISSO É ACIMA DO TEMPO ACEITÁVEL."
 
 msgid "<18>{#p/papyrus}{#f/0}... ANYWAY, WE'LL BE BUSY IN ASGORE'S KITCHEN."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}... DE TODA FORMA, ESTAREMOS NA COZINHA DO ASGORE."
 
 msgid "<18>{#p/papyrus}{#f/9}FEEL FREE TO SWING BY WHEN YOU GET THE CHANCE!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}SINTA-SE LIVRE PARA VOLTAR QUANDO TIVER A CHANCE!"
 
 msgid "<25>{#p/sans}{#f/0}* hey, bucko."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* ei, carinha."
 
 msgid "<25>{#f/0}* i've been wondering when you'd swing by this way."
-msgstr ""
+msgstr "<25>{#f/0}* eu estava me perguntando quando você apareceria por aqui."
 
 msgid ""
 "<25>{#f/3}* some kid blew past me not too long ago, probably to find you."
 msgstr ""
+"<25>{#f/3}* alguma criança passou por mim a não muito tempo, provavelmente "
+"pra te encontrar."
 
 msgid ""
 "<25>{#f/2}* that must be why you finally picked up the phone after ten "
 "rings."
 msgstr ""
+"<25>{#f/2}* deve ser por isso que você atendeu o telefone depois de dez "
+"ligações."
 
 msgid ""
 "<25>{#f/0}* ... anyway.\n"
 "* i've been looking for someone myself, y'know."
 msgstr ""
+"<25>{#f/0}* ... de toda forma.\n"
+"* eu estive procurando por alguém também."
 
 msgid ""
 "<25>{#f/0}* you probably know her.\n"
 "* name's toriel."
 msgstr ""
+"<25>{#f/0}* você provavelmente conhece ela.\n"
+"* o nome é toriel."
 
 msgid "<25>{#f/3}* i've looked in all the obvious places, but no dice."
-msgstr ""
+msgstr "<25>{#f/3}* eu a procurei por todos os lados, mas sem sucesso."
 
 msgid "<25>{#f/0}* by now, she could be anywhere..."
-msgstr ""
+msgstr "<25>{#f/0}* por agora, ela pode estar em qualquer lugar."
 
 msgid "<25>{#f/3}* if you see her, or hear from her, tell her to call me."
 msgstr ""
@@ -14555,8 +14596,6 @@ msgstr ""
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "N/A"
 msgstr ""
