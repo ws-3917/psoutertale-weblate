@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-11 08:21+0000\n"
-"PO-Revision-Date: 2025-02-13 08:31+0000\n"
-"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
+"PO-Revision-Date: 2025-02-13 12:38+0000\n"
+"Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.site/projects/deltarune-hypothesis/3-cs-addnewhostmessage/"
 "zh_Hans/>\n"
@@ -17,16 +17,18 @@ msgstr ""
 
 #
 msgid "ARE WE CONNECTED TO THE NETWORK?"
-msgstr "我们连上网了吗？"
+msgstr "我们连接到网络上了吗？"
 
 msgid "EXCELLENT."
-msgstr "很好。"
+msgstr "太棒了。"
 
 msgid "WE MAY BEGIN."
 msgstr "我们可以开始了。"
 
 msgid "WERE YOU AWARE THIS IS ALL FICTITIOUS AND <b>UNOFFICIAL<b>?"
-msgstr "你是否知悉这一切内容皆为虚构内容及<b>非官方内容<b>"
+msgstr ""
+"这里的一切均为<b>非官方内容<b>，纯属虚构。\n"
+"你是否知晓？"
 
 msgid "HOW PECULIAR.."
 msgstr "怪了..."
@@ -41,16 +43,18 @@ msgid "UNDERSTOOD."
 msgstr "明白。"
 
 msgid "MOVING ON."
-msgstr "继续。"
+msgstr "我们继续。"
 
 msgid "ARE YOU CONTENT WITH IRREGULARITIES AND POSSIBLE <b>INACCURACIES<b>?"
 msgstr "你能否接受不规则现象和可能存在的<b>不准确之处<b>？"
 
 msgid "THIS WILL BE AN ISSUE."
-msgstr "这是个问题。"
+msgstr "那问题就大了。"
 
 msgid "THIS COSMOS DOES NOT HAVE RELATION TO ANY CANINES."
-msgstr "这个宇宙与任何犬科动物都毫不相干。"
+msgstr ""
+"记住，这个宇宙与任何犬科动物\n"
+"都毫不相干。"
 
 msgid "THESE EXPERIMENTS ARE NOT OFFICIAL."
 msgstr "这些实验皆非官方所作。"
@@ -80,7 +84,7 @@ msgid "IF YOU TAKE TRUE ISSUE OF IRREGULARITIES, DO NOT PANIC."
 msgstr "如果你确实遇到不规则现象，请不要惊慌。"
 
 msgid "CONTACT THE MANUFACTURER AND INFORM THEM OF YOUR ISSUE."
-msgstr "联系制造商，跟他们讲清楚。"
+msgstr "联系制造商，跟他们反映你的问题。"
 
 msgid "HEED THIS USEFUL TIP."
 msgstr "记住了，这很有用的，"
