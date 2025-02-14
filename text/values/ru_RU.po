@@ -1,12 +1,26 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-15 01:43+0000\n"
+"PO-Revision-Date: 2025-02-15 01:43+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Language-Team: Russian <https://translate.ws3917.site/projects/ps-outertale/"
+"7-values/ru/>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "en_US"
 msgstr "ru_RU"
 
-msgid ""
-msgstr ""
 
 msgid "You must choose a name."
 msgstr "Вы должны выбрать имя."
@@ -45,7 +59,7 @@ msgid ""
 "The story is yours, no matter what you feel."
 msgstr ""
 "Не унывайте.\n"
-"Эта история - ваша, что бы вы ни чувствовали."
+"Эта история — ваша, что бы вы ни чувствовали."
 
 msgid "May tranquility come upon you as you embark on your journey."
 msgstr "Пусть на вашем пути царит спокойствие."
@@ -70,63 +84,71 @@ msgid "May your ingenuity surpass the challenges on your journey."
 msgstr "Пусть ваше мастерство преодолеет все трудности на вашем пути."
 
 msgid "A confident mindset will take you far on your journey."
-msgstr ""
+msgstr "Уверенный настрой поможет вам пройти долгий путь."
 
 msgid "May your inginuity surpass the challanges on your journey."
-msgstr ""
+msgstr "Пусть ваша изобретательность превзойдёт все трудности на вашем пути."
 
 msgid "May balance come upon you as you embark on your journey."
-msgstr ""
+msgstr "Пусть равновесие снизойдёт на вас, когда вы отправитесь в путь."
 
 msgid ""
 "Take heart.\n"
 "There is much to be learned on the road ahead."
 msgstr ""
+"Не унывайте.\n"
+"Впереди вас ждёт много уроков."
 
 msgid "May the tapestry of chaos and order satisfy you on your journey."
-msgstr ""
+msgstr "Пусть гобелен хаоса и порядка поможет вам на вашем пути."
 
 msgid "May your story gain meaning in this cocoon amidst the darkness."
-msgstr ""
+msgstr "Пусть ваша история обретёт смысл в этом коконе тьмы."
 
 msgid "May the experience be as playful as you desire."
-msgstr ""
+msgstr "Пусть увлекательность этого опыта будет ограничена лишь вашим желанием."
 
 msgid "May the experience be as excessive as you desire."
-msgstr ""
+msgstr "Пусть богатство вашего опыта ограничивается лишь вашим желанием."
 
 msgid ""
 "Take heart.\n"
 "You have nothing to feel ashamed of now."
 msgstr ""
+"Не унывайте.\n"
+"Вам больше нечего стыдиться."
 
 msgid "A temperate ego will take you far on your journey."
-msgstr ""
+msgstr "Умеренное самолюбие поможет вам зайти дальше на вашем пути."
 
 msgid "May the experience provide the sustenance you require."
-msgstr ""
+msgstr "Пусть ваш опыт окажет вам поддержку."
 
 msgid "May your story bring forth the emotion you strive to feel."
-msgstr ""
+msgstr "Пусть ваша история вызовет те эмоции, к которым вы стремились."
 
 msgid "May your choices be as effortless as they come."
-msgstr ""
+msgstr "Пусть принятие решений вас не тяготит."
 
 msgid ""
 "Take heart.\n"
 "There is much companionship to be had here."
 msgstr ""
+"Не унывайте.\n"
+"Здесь можно найти много друзей."
 
 msgid "May your fortune carry you forward on your journey."
-msgstr ""
+msgstr "Пусть удача сопутствует вам на вашем пути."
 
 msgid "May the tapestry of chaos and order please you on your journey."
-msgstr ""
+msgstr "Пусть гобелен хаоса и порядка радует вас на вашем пути."
 
 msgid ""
 "Take heart.\n"
 "Your story is as uplifting as you make it."
 msgstr ""
+"Не унывайте.\n"
+"Ваша история радостна настолько, насколько вы ей позволяете."
 
 msgid "May your stability provide a solid foundation on your journey."
 msgstr ""
