@@ -1,26 +1,23 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-15 01:43+0000\n"
-"PO-Revision-Date: 2025-02-15 01:43+0000\n"
+"PO-Revision-Date: 2025-02-16 03:13+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.site/projects/ps-outertale/"
 "7-values/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "en_US"
 msgstr "ru_RU"
-
 
 msgid "You must choose a name."
 msgstr "Вы должны выбрать имя."
@@ -69,7 +66,7 @@ msgid ""
 "Your story is as interesting as you make it."
 msgstr ""
 "Не унывайте.\n"
-"Ваша история интересна настолько, насколько вы ей позволите."
+"Ваша история будет интересна настолько, насколько вы ей позволите."
 
 msgid "May your quality of speech translate to action on your journey."
 msgstr "Пусть ваша речь перейдёт в действие на вашем пути."
@@ -151,7 +148,7 @@ msgstr ""
 "Ваша история радостна настолько, насколько вы ей позволяете."
 
 msgid "May your stability provide a solid foundation on your journey."
-msgstr ""
+msgstr "Пусть непоколебимость станет вашим преимуществом."
 
 msgid "May the experience only add to your state of satisfaction."
 msgstr ""
