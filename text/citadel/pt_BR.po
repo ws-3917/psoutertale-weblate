@@ -11075,7 +11075,7 @@ msgstr ""
 "estava vazia."
 
 msgid "<25>{#f/13}* Luckily, out in the woods, there was..."
-msgstr ""
+msgstr "<25>{#f/13}* Com sorte, no meio das árvores, tinha..."
 
 msgid "<25>{#f/20}* Well, as Dad so plainly described it, a \"ghost town.\""
 msgstr ""
