@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-17 01:51+0000\n"
-"PO-Revision-Date: 2025-02-17 01:51+0000\n"
+"PO-Revision-Date: 2025-02-17 10:30+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/5-citadel/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr ""
 "<32>{#p/human}* (Você sente a escuridão preencher dentro do seu corpo.)"
@@ -10695,137 +10693,161 @@ msgid "<32>{#p/basic}* This pillar isn't imposing at all."
 msgstr "<32>{#p/basic}* Este pilar não é nada imponente."
 
 msgid "<32>{#p/human}* (You feel inclined to greet this pillar.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você sente uma vontade de cumprimentar este pilar.)"
 
 msgid "<32>{#p/basic}* This pillar just wants to say \"hello.\""
-msgstr ""
+msgstr "<32>{#p/basic}* Este pilar só quer dizer \"olá.\""
 
 msgid "<32>{#p/human}* (You feel inclined to tuck this pillar into bed.)"
 msgstr ""
+"<32>{#p/human}* (Você sente uma vontade de levar este pilar para a cama.)"
 
 msgid "<32>{#p/basic}* This pillar just wants to go to sleep."
-msgstr ""
+msgstr "<32>{#p/basic}* Este pilar só quer dormir"
 
 msgid ""
 "<32>{#p/human}* (You feel this pillar would be best kept at a distance.)"
 msgstr ""
+"<32>{#p/human}* (Você sente que seria melhor manter distância deste pilar.)"
 
 msgid "<32>{#p/basic}* This pillar feels its personal space is being invaded."
 msgstr ""
+"<32>{#p/basic}* Este pilar sente que seu espaço pessoal está sendo invadido."
 
 msgid "<32>{#p/human}* (You're not sure how to feel about this pillar.)"
 msgstr ""
+"<32>{#p/human}* (Você não tem certeza sobre o que sentir em relação a este "
+"pilar.)"
 
 msgid "<32>{#p/basic}* This pillar is a self- proclaimed \"space invader.\""
-msgstr ""
+msgstr "“<32>{#p/basic}* Este pilar se autoproclama \"invasor espacial.\""
 
 msgid ""
 "<32>{#p/human}* (You've never been more appreciated by a simple pillar.)"
 msgstr ""
+"<32>{#p/human}* (Você nunca sentiu tanta admiração por um pilar tão simples.)"
 
 msgid "<32>{#p/basic}* This pillar is judging you for your sins."
-msgstr ""
+msgstr "<32>{#p/basic}* Este pilar está te julgando por seus pecados."
 
 msgid "<32>{#p/basic}* This pillar is not judging you in any way."
-msgstr ""
+msgstr "<32>{#p/basic}* Este pilar não está te julgando de forma alguma."
 
 msgid "<32>{#p/basic}* This pillar is smiling upon your good deeds."
-msgstr ""
+msgstr "<32>{#p/basic}* Este pilar está sorrindo por conta das suas boas ações."
 
 msgid "<25>{#p/sans}{#f/0}* last i heard, she was on her way up here."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* última vez que ouvi, ela estava indo pra ali."
 
 msgid "<25>{#f/3}* i'm starting to get worried about her, to be honest."
 msgstr ""
+"<25>{#f/3}* Eu estou começando a ficar preocupado com ela, sinceramente."
 
 msgid "<25>{#p/sans}{#f/0}* maybe she got lost?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* Talvez ela se perdeu?"
 
 msgid "<25>{#p/sans}{#f/3}* maybe she just had to take a nap."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* Talvez ela só precisou tirar uma soneca."
 
 msgid "<25>{#p/sans}{#f/2}* i can relate to that."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* Disso aí eu entendo."
 
 msgid "<25>{#p/sans}{#f/0}* hey, are you following me around or something?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* Ei, você tá seguindo ou o quê?"
 
 msgid "<25>{#p/sans}{#f/2}* come on now."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* Que foi."
 
 msgid "<32>{#p/human}* (You stare into the dazzling sight from beyond.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você olha para a visão deslumbrante do além.)"
 
 msgid "<32>{#p/basic}* They're made of magic."
-msgstr ""
+msgstr "<32>{#p/basic}* Elas são feitas de magia."
 
 msgid "<32>{#p/human}* (You stare graciously into the now-abandoned city...)"
 msgstr ""
+"<32>{#p/human}* (Você encara graciosamente a agora abandonada cidade...)"
 
 msgid "<32>{#p/basic}* A sense of panic consumes the Citadel's very being."
-msgstr ""
+msgstr "<32>{#p/basic}* Um sentimento de pânico consome a Cidadela."
 
 msgid "<32>{#p/basic}* An eerie darkness falls over the Citadel."
-msgstr ""
+msgstr "<32>{#p/basic}* Uma escuridão mortal cai sobre a Cidadela."
 
 msgid "<32>{#p/basic}* The Citadel gleams from beyond the untempered glass."
-msgstr ""
+msgstr "<32>{#p/basic}* A Cidadela brilha além do vidro não temperado."
 
 msgid "<32>{#p/basic}* A lonely little couch in this somewhat-empty house."
-msgstr ""
+msgstr "<32>{#p/basic}* Um pequeno sofá solitário nesta casa um tanto vazia."
 
 msgid ""
 "<32>{#p/human}* (The books on this bookshelf consist of various resources "
 "belonging to Asgore.)"
 msgstr ""
+"<32>{#p/human}* (Estes livros nesta prateleira consistem em vários artigos "
+"que pertencem a Asgore.)"
 
 msgid "<32>{#p/basic}* It's a bookshelf."
-msgstr ""
+msgstr "<32>{#p/basic}* É uma estante."
 
 msgid "<32>{#p/human}* (You pick out a book...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você escolhe um livro...)"
 
 msgid "<32>{#p/basic}* This book is labelled \"Grand Library Brochure.\""
 msgstr ""
+"<32>{#p/basic}* Este livro está rotulado como "
+"\"Brochura da Grande Biblioteca.\""
 
 msgid ""
 "<32>* \"Welcome to the Grand Library, a stronghold of knowledge on a variety"
 " of topics.\""
 msgstr ""
+"<32>* \"Bem-vindo a Grande Biblioteca, um universo cheio de conhecimento com "
+"uma variedade de tópicos.\""
 
 msgid ""
 "<32>* \"Along each corridor lie books of history, culture, science, "
 "technology, and beyond.\""
 msgstr ""
+"<32>* \"Ao longo de cada corredor estão livros de história, cultura, "
+"ciência, tecnologia e muito mais.\""
 
 msgid ""
 "<32>* \"For the adventerous readers, works from famous fiction writers may "
 "also be found.\""
 msgstr ""
+"<32>* \"Para os leitores aventureiros, trabalhos de escritores de ficção "
+"também podem ser encontrados.\""
 
 msgid ""
 "<32>* \"Andori, Terrestria, Strax Seterra, Vashta Nerada, and many others "
 "adorn our walls.\""
 msgstr ""
+"<32>* \"Andori, Terrestria, Strax Seterra, Vashta Nerada, e muitos outros "
+"sobre estás paredes.\""
 
 msgid ""
 "<33>* \"Visit the Grand Library of Krios today, and your first\n"
 "  ten books will be 1/2KT on us.\""
 msgstr ""
+"<33>* \"Visite a Grande Biblioteca de Krios hoje e seus primeiros dez livros "
+"serão 1/2KT por nossa conta.\""
 
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você põe o livro de volta na prateleira.)"
 
 msgid "<32>{#p/basic}* This book has been signed by \"Toriel Dreemurr.\""
-msgstr ""
+msgstr "<32>{#p/basic}* Este livro foi assinado por \"Toriel Dreemurr.\""
 
 msgid "<32>{#p/basic}* \"Dreemurr Family Recipes: Snail Pie\""
-msgstr ""
+msgstr "<32>{#p/basic}* \"Receitas da Família Dreemurr: Torta de Lesma.\""
 
 msgid ""
 "<32>* \"Snail Pie is a coveted tradition among members of the Dreemurr "
 "family line.\""
 msgstr ""
+"<32>* "
+"\"Torta de Lesma é uma tradição de anos por membros da família Dreemurr.\""
 
 msgid ""
 "<32>* \"Making it is a simple process, and can be broken down into five "
@@ -15141,7 +15163,6 @@ msgstr ""
 
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr ""
-
 
 msgid "N/A"
 msgstr ""
