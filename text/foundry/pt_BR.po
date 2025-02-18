@@ -11169,7 +11169,7 @@ msgid ""
 "<25>{#p/kidd}{#f/3}* Well, yeah, but like, I barely get time away from my "
 "parents, so..."
 msgstr ""
-"<25>{#p/kidd}{#f/3}* Bem, claro, mas eu mau tiro tempo longe dos meus pais, "
+"<25>{#p/kidd}{#f/3}* Bem, claro, mas eu mal tiro tempo longe dos meus pais, "
 "então..."
 
 msgid ""
