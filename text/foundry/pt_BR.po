@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-16 12:24+0000\n"
-"PO-Revision-Date: 2025-02-18 13:20+0000\n"
+"PO-Revision-Date: 2025-02-18 14:19+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/3-foundry/pt_BR/>\n"
@@ -11176,255 +11176,296 @@ msgid ""
 "<25>{#p/asriel2}{#f/8}* You have parents?\n"
 "* That's new."
 msgstr ""
+"<25>{#p/asriel2}{#f/8}* Você tem pais?\n"
+"* Essa é nova."
 
 msgid "<25>{#p/kidd}{#f/7}* Uh, o-of course I have parents, who doesn't??"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* Uh, M-mas é óbvio, quem não tem pais?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/16}* ...\n"
 "* Right."
 msgstr ""
+"<25>{#p/asriel2}{#f/16}* ...\n"
+"* Claro."
 
 msgid "<32>{#p/undyne}* Seven."
-msgstr ""
+msgstr "<32>{#p/undyne}* Sete."
 
 msgid "<32>* Seven human SOULs, and..."
-msgstr ""
+msgstr "<32>* Sete ALMAS humanas, e..."
 
 msgid ""
 "<32>* Seven human SOULs, and {@fill=#f00}King ASGORE{@fill=#fff} will become"
 " a god."
 msgstr ""
+"<32>* Sete ALMAS humanas, e o {@fill=#f00}Rei ASGORE{@fill=#fff} se tornará "
+"um deus."
 
 msgid "<32>{#x1}* Six."
-msgstr ""
+msgstr "<32>{#x1}* Seis."
 
 msgid "<32>{#x1}* That's how many we have collected thus far."
-msgstr ""
+msgstr "<32>{#x1}* Essas são quantas nos coletamos até agora."
 
 msgid "<32>{#x1}* Understand?"
-msgstr ""
+msgstr "<32>{#x1}* Entende?"
 
 msgid ""
 "<32>{#x1}* Through your seventh and final SOUL, monsters will finally go "
 "free."
 msgstr ""
+"<32>{#x1}* Através da sua sétima e última ALMA, os monstros finalmente serão "
+"livres."
 
 msgid ""
 "<32>{#x3}* First, however, as is customary for those who make it this far..."
 msgstr ""
+"<32>{#x3}* Primeiro, entretanto, como é de costume para aqueles que chegam "
+"tão longe..."
 
 msgid "<32>{#x4}* I must tell you the tragic tale of our people."
-msgstr ""
+msgstr "<32>{#x4}* Eu devo te contar a trágica história do nosso povo."
 
 msgid "<32>{#x5}* It all began long ago, when..."
-msgstr ""
+msgstr "<32>{#x5}* Começou a muito tempo, quando..."
 
 msgid "<32>{#p/undyne}* No..."
-msgstr ""
+msgstr "<32>{#p/undyne}* Não..."
 
 msgid "<32>{#p/undyne}* You know what?"
-msgstr ""
+msgstr "<32>{#p/undyne}* Quer saber de uma coisa?"
 
 msgid "<32>{*}{#p/undyne}{#i/2}* NO!!{^999}"
-msgstr ""
+msgstr "<32>{*}{#p/undyne}{#i/2}* NÃO!!{^999}"
 
 msgid "<32>{*}{#p/undyne}{#i/2}* SCREW IT!!{^999}"
-msgstr ""
+msgstr "<32>{*}{#p/undyne}{#i/2}* QUE SE DANE!!{^999}"
 
 msgid ""
 "<32>{*}{#p/undyne}{#i/1}* HOW COULD I TALK DOWN TO YOU LIKE THAT!!{^999}"
-msgstr ""
+msgstr "<32>{*}{#p/undyne}{#i/1}* COMO EU POSSO FALAR COM VOCÊ ASSIM!!{^999}"
 
 msgid "<32>{*}{#p/undyne}{#i/1}* WHY SHOULD I TELL YOU THAT STORY!!{^999}"
 msgstr ""
+"<32>{*}{#p/undyne}{#i/1}* POR QUE EU DEVERIA TE CONTAR ESSA HISTÓRIA!!{^999}"
 
 msgid "<32>{*}{#p/undyne}{#i/1}* AFTER YOU'VE FOUGHT SO HONORABLY!!{^999}"
-msgstr ""
+msgstr "<32>{*}{#p/undyne}{#i/1}* APÓS VOCÊ LUTAR COM TANTA HONRA!!{^999}"
 
 msgid "<32>{*}{#p/undyne}{#i/1}* WHEN YOU'RE ABOUT TO DIE!!{^999}"
-msgstr ""
+msgstr "<32>{*}{#p/undyne}{#i/1}* QUANDO VOCÊ ESTÁ PRESTES A MORRER!!{^999}"
 
 msgid "<32>{*}{#p/undyne}{#i/2}* NGAHHHHHHHHHHHH!!!{^999}"
-msgstr ""
+msgstr "<32>{*}{#p/undyne}{#i/2}* NGAHHHHHHHHHHHH!!!{^999}"
 
 msgid "<25>{#p/undyne}{#f/1}* LISTEN UP!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* ESCUTA AQUI!"
 
 msgid "<25>* I like the way you fight."
-msgstr ""
+msgstr "<25>* Eu gosto do jeito que você luta."
 
 msgid ""
 "<25>{#f/16}* Like any good warrior, you fight until your enemy's been "
 "crushed..."
 msgstr ""
+"<25>{#f/16}* Como qualquer grande guerreiro, você luta até seu inimigo cair "
+"no chão..."
 
 msgid ""
 "<25>{#f/17}* ... and then you spare them, so they can live to tell the tale!"
 msgstr ""
+"<25>{#f/17}* ... e então vocês os deixa ir, para que eles possam contar a "
+"lenda!"
 
 msgid "<25>{#f/10}* What courage..."
-msgstr ""
+msgstr "<25>{#f/10}* Quanta coragem..."
 
 msgid "<25>{#p/undyne}{#f/1}* HUMAN!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* HUMANO!"
 
 msgid "<25>* YOU'RE standing in the way of EVERYBODY's hopes and dreams!"
-msgstr ""
+msgstr "<25>* VOCÊ está no caminho dos sonhos e esperanças de TODO MUNDO!"
 
 msgid "<25>{#f/11}* Alphys's history films made me think humans were cool..."
 msgstr ""
+"<25>{#f/11}* Os filmes de história da Alphys me fizeram pensar que os "
+"humanos legais..."
 
 msgid ""
 "<25>{#f/16}* ... with their living spacecraft and inter- dimensional "
 "portals."
 msgstr ""
+"<25>{#f/16}* ... com suas naves espaciais vivas e portais interdimensionais."
 
 msgid "<25>{#f/4}* But YOU???"
-msgstr ""
+msgstr "<25>{#f/4}* Mas VOCÊ???"
 
 msgid "<25>{#f/1}* I guess I should apologize for how I acted back there."
 msgstr ""
+"<25>{#f/1}* Eu acho que devo me desculpar da forma como agi anteriormente."
 
 msgid ""
 "<25>{#f/16}* You and your friend were just standing up for each other, "
 "right?"
-msgstr ""
+msgstr "<25>{#f/16}* Você e seu amigo só estavam se protegendo, certo?"
 
 msgid "<25>{#f/1}* Well, I can respect that sort of thing."
-msgstr ""
+msgstr "<25>{#f/1}* Bem, eu respeito isso."
 
 msgid "<25>{#f/17}* And then there's the local ELITE squad!"
-msgstr ""
+msgstr "<25>{#f/17}* E então tem o esquadrão de ELITE local!"
 
 msgid "<25>{#f/9}* I'll admit, I was impressed..."
-msgstr ""
+msgstr "<25>{#f/9}* Eu admito, estava impressionada..."
 
 msgid "<25>* The way you managed to not only get past them..."
-msgstr ""
+msgstr "<25>* A forma com a qual você passou deles..."
 
 msgid "<25>{#f/10}* But BEFRIEND them???"
-msgstr ""
+msgstr "<25>{#f/10}* Mas também os tornou seus AMIGOS???"
 
 msgid ""
 "<25>{#f/1}* I guess I shouldn't be surprised, though.\n"
 "* They'd like your style."
 msgstr ""
+"<25>{#f/1}* Mas, eu acho que não deveria estar surpresa.\n"
+"* Eles gostaram do seu estilo."
 
 msgid "<25>{#f/10}* The way you managed to EMBARRASS them?"
-msgstr ""
+msgstr "<25>{#f/10}* A maneira como você conseguiu envergonhá-los?"
 
 msgid "<25>{#f/11}* I don't think I've ever seen those two so red-faced."
-msgstr ""
+msgstr "<25>{#f/11}* Acho que nunca vi aqueles dois tão vermelhos."
 
 msgid ""
 "<25>{#f/10}* Even when faced with their blades, you still held your nerve?"
 msgstr ""
+"<25>{#f/10}* Mesmo quando enfrentando a ponta da lança, você ainda segurou "
+"seus nervos?"
 
 msgid "<25>{#f/1}* I guess you really are something special!"
-msgstr ""
+msgstr "<25>{#f/1}* Acho que você é realmente algo especial!"
 
 msgid "<25>{#f/8}* ... BUT GETTING BACK TO MY POINT!"
-msgstr ""
+msgstr "<25>{#f/8}* ... MAS VOLTANDO AO MEU PONTO!"
 
 msgid ""
 "<25>{#f/1}* So, at first, I was just going to kill you and take your SOUL."
-msgstr ""
+msgstr "<25>{#f/1}* De início eu iria simplesmente te matar e roubar sua ALMA."
 
 msgid "<25>{#f/11}* But after seeing the way you fight..."
-msgstr ""
+msgstr "<25>{#f/11}* Mas após ver sua forma de lutar..."
 
 msgid "<25>{#f/8}* THERE'S NO WAY I'D GO SO EASY ON YOU!!!"
-msgstr ""
+msgstr "<25>{#f/8}* SEM CHANCES DE EU PEGAR LEVE COM VOCÊ!!!"
 
 msgid "<25>{#f/1}* No... I want you to show me what you're REALLY made of!"
 msgstr ""
+"<25>{#f/1}* Não... eu quero que você me mostre do que REALMENTE é feito!"
 
 msgid "<25>{#f/4}* And only once I've beaten you fair and square..."
-msgstr ""
+msgstr "<25>{#f/4}* E quando eu te derrotar justamente..."
 
 msgid "<25>{#f/5}* Will I finally claim the freedom that's rightfully ours!"
-msgstr ""
+msgstr "<25>{#f/5}* Eu finalmente irei proclamar a liberdade em nossa frente!"
 
 msgid "<25>{#f/16}* But, if you manage to beat me..."
-msgstr ""
+msgstr "<25>{#f/16}* Mas, se você me derrotar..."
 
 msgid "<25>{#f/9}* I'll let you through."
-msgstr ""
+msgstr "<25>{#f/9}* Eu te deixarei ir."
 
 msgid "<25>{#f/8}* ... IF you actually manage to beat me!!!"
-msgstr ""
+msgstr "<25>{#f/8}* ... ISSO se você me derrotar!!!"
 
 msgid ""
 "<25>{#f/1}* Step forward when you're ready!\n"
 "* Fuhuhuhu!"
 msgstr ""
+"<25>{#f/1}* Dê um passo à frente quando estiver pronta!\n"
+"* Fuhuhuhu"
 
 msgid "<25>{#f/7}* You're just a COWARD!"
-msgstr ""
+msgstr "<25>{#f/7}* Você é só um COVARDE!"
 
 msgid "<25>{#f/16}* Remember that friend of yours from earlier?"
-msgstr ""
+msgstr "<25>{#f/16}* Lembra daquele seu amigo de mais cedo?"
 
 msgid "<25>{#f/17}* The one you ABANDONED?"
-msgstr ""
+msgstr "<25>{#f/17}* Aquele que você ABANDONOU?"
 
 msgid ""
 "<25>{#f/13}* Even when their life was in danger, you didn't bat an eye."
 msgstr ""
+"<25>{#f/13}* Mesmo quando a vida deles estava em perigo, você não pestanejou."
 
 msgid ""
 "<25>{#f/9}* Maybe if you had, your fighting style would've earned my "
 "respect."
 msgstr ""
+"<25>{#f/9}* Talvez se você tivesse, seu estilo de luta teria ganho meu "
+"respeito."
 
 msgid ""
 "<25>{#f/16}* But it'd be naive to think you've got any sort of honor NOW."
 msgstr ""
+"<25>{#f/16}* Mas eu seria ingênua em pensar que você tem algum tipo de honra "
+"AGORA."
 
 msgid ""
 "<25>{#f/16}* Typical human.\n"
 "* Always quick to stab people in the back."
 msgstr ""
+"<25>{#f/16}* Típico humano.\n"
+"* Sempre esperando para apunhalar os amigos nas costas."
 
 msgid ""
 "<25>{#f/4}* But that's fine...\n"
 "* I didn't need you to be some kind of saint..."
 msgstr ""
+"<25>{#f/4}* Mas tudo bem...\n"
+"* Eu nunca pensei que você fosse um sento..."
 
 msgid "<25>{#f/7}* BECAUSE ALL THAT MATTERS IS YOUR SOUL!"
-msgstr ""
+msgstr "<25>{#f/7}* PORQUE TUDO QUE IMPORTA É SUA ALMA!"
 
 msgid "<25>* Hiding behind that kid so you could run away from me again!"
-msgstr ""
+msgstr "<25>* Se escondendo atrás daquela criança só pra fugir de mim de novo!"
 
 msgid ""
 "<25>* The way you managed to not only get past the local ELITE squad..."
 msgstr ""
+"<25>* A forma como você não apenas conseguiu passar pelo esquadrão de "
+"ELITE..."
 
 msgid "<25>{#f/11}* You've got cojones, punk."
-msgstr ""
+msgstr "<25>{#f/11}* Você tem nervos, pirralha."
 
 msgid "<25>{#f/8}* ... NOT THAT IT ACTUALLY MATTERS!"
-msgstr ""
+msgstr "<25>{#f/8}* ... NÃO QUE ISSO IMPORTE!"
 
 msgid "<25>{#f/10}* The way you managed to EMBARRASS the local ELITE squad?"
 msgstr ""
+"<25>{#f/10}* A maneira como você conseguiu envergonhar o esquadrão de ELITE "
+"local?"
 
 msgid "<25>{#f/8}* ... AS IF THAT'D WORK ON ME!"
-msgstr ""
+msgstr "<25>{#f/8}* ... COMO SE ISSO FOSSE FUNCIONAR EM MIM!"
 
 msgid ""
 "<25>{#f/10}* The way you've managed to get through without killing anyone?"
-msgstr ""
+msgstr "<25>{#f/10}* A forma como você chegou aqui sem matar ninguém?"
 
 msgid ""
 "<25>{#f/11}* Congratulations, punk.\n"
 "* You're a little nicer than the average human."
 msgstr ""
+"<25>{#f/11}* Parabéns, pirralha. \n"
+"* Você é um pouco mais legal do que outros humanos."
 
 msgid "<25>{#f/8}* ... AS IF I CARE!"
-msgstr ""
+msgstr "<25>{#f/8}* ... COMO SE EU ME IMPORTASSE!"
 
 msgid "<25>{#f/4}* You know what would be more valuable to everyone?"
 msgstr ""
