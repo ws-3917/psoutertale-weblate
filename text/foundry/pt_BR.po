@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-16 12:24+0000\n"
-"PO-Revision-Date: 2025-02-17 01:51+0000\n"
+"PO-Revision-Date: 2025-02-18 13:20+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/3-foundry/pt_BR/>\n"
@@ -10813,315 +10813,364 @@ msgid "<25>{#p/undyne}{#f/11}* So that's your way of making friends?"
 msgstr "<25>{#p/undyne}{#f/11}* Então esse é nosso jeito de sermos amigas?"
 
 msgid "<25>{#p/undyne}{#f/17}* Stop doing that!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* Para de fazer isso!"
 
 msgid ""
 "<23>{#p/papyrus}{#f/30}H... HI, UNDYNE!\n"
 "I'M HERE WITH MY DAILY REPORT..."
 msgstr ""
+"<23>{#p/papyrus}{#f/30}O... OI, UNDYNE!\n"
+"EU ESTOU AQUI PARA MINHA REVISÃO DIÁRIA..."
 
 msgid "<23>UHHH... REGARDING THAT HUMAN I CALLED YOU ABOUT EARLIER..."
-msgstr ""
+msgstr "<23>UHHH... SOBRE AQUELE HUMANO QUE TE FALEI MAIS CEDO..."
 
 msgid ""
 "<23>{#p/papyrus}{#f/30}... HUH?\n"
 "DID I FIGHT THEM?"
 msgstr ""
+"<23>{#p/papyrus}{#f/30}... HUH?\n"
+"SE EU LUTEI COM ELE?"
 
 msgid "<23>{#p/papyrusnt}UH..."
-msgstr ""
+msgstr "<23>{#p/papyrusnt}UH..."
 
 msgid "<23>I-IT'S COMPLICATED!"
-msgstr ""
+msgstr "<23>É C-COMPLICADO!"
 
 msgid ""
 "<23>{#p/papyrusnt}Y-YES!\n"
 "OF COURSE I DID!"
 msgstr ""
+"<23>{#p/papyrusnt}S-SIM!\n"
+"CLARO QUE EU LUTEI!"
 
 msgid "<23>I FOUGHT THEM VALIANTLY!"
-msgstr ""
+msgstr "<23>EU LUTEI VALENTAMENTE!"
 
 msgid ""
 "<23>{#p/papyrus}{#f/30}... WHAT?\n"
 "DID I CAPTURE THEM...?"
 msgstr ""
+"<23>{#p/papyrus}{#f/30}... O QUE?\n"
+"SE EU OS CAPTUREI...?"
 
 msgid "<23>{#p/papyrus}{#f/30}W-W-WELL..."
-msgstr ""
+msgstr "<23>{#p/papyrus}{#f/30}B-B-BEM..."
 
 msgid "<23>NO..."
-msgstr ""
+msgstr "<23>NÃO..."
 
 msgid "<23>{#p/papyrus}{#f/30}L-LIKE I SAID, IT'S COMPLICATED!"
-msgstr ""
+msgstr "<23>{#p/papyrus}{#f/30}COMO EU DISSE, É C-COMPLICADO!"
 
 msgid ""
 "<23>{#p/papyrus}{#f/30}I-I MEAN, I TRIED VERY HARD TO, B-BUT, IN THE END..."
 msgstr ""
+"<23>{#p/papyrus}{#f/30}E-EU QUERO DIZER, EU TENTEI MUITO, M-MAS NO FIM..."
 
 msgid "<23>{#p/papyrus}{#f/30}... W-WHAT?"
-msgstr ""
+msgstr "<23>{#p/papyrus}{#f/30}... O-O-O QUE?"
 
 msgid "<23>THEY'VE ALREADY KILLED AN ELITE SQUAD MEMBER??"
-msgstr ""
+msgstr "<23>ELE JÁ MATOU UM MEMBRO DO ESQUADRÃO DE ELITE??"
 
 msgid "<23>N-NO... THEY WOULDN'T DO THAT, WOULD THEY?"
-msgstr ""
+msgstr "<23>N-NÃO... ELE NÃO FARIA ISSO, FARIA?"
 
 msgid "<23>YOU'RE GOING TO TAKE THE HUMAN'S SOUL YOURSELF??"
-msgstr ""
+msgstr "<23>VOCÊ VAI PEGAR A ALMA HUMANA POR CONTA PRÓPRIA??"
 
 msgid "<23>{#p/papyrus}{#f/30}SURELY THERE MUST BE ANOTHER WAY!"
-msgstr ""
+msgstr "<23>{#p/papyrus}{#f/30}DEVE TER OUTRO JEITO!"
 
 msgid "<23>SURELY..."
-msgstr ""
+msgstr "<23>COM CERTEZA..."
 
 msgid ""
 "<23>{#p/papyrus}{#f/30}BUT UNDYNE, YOU DON'T H-HAVE TO DESTROY THEM! YOU "
 "SEE..."
-msgstr ""
+msgstr "<23>{#p/papyrus}{#f/30}MAS UNDYNE, VOCÊ NÃO PRECISA M-MATA-LOS! SABE..."
 
 msgid "<23>YOU SEE..."
-msgstr ""
+msgstr "<23>SABE..."
 
 msgid "<23>{#p/papyrus}{#f/30}I..."
-msgstr ""
+msgstr "<23>{#p/papyrus}{#f/30}EU..."
 
 msgid "<23>... I UNDERSTAND."
-msgstr ""
+msgstr "<23>... EU ENTENDO."
 
 msgid "<23>I'LL HELP YOU IN ANY WAY I CAN."
-msgstr ""
+msgstr "<23>EU VOU TE AJUDAR DA FORMA QUE PUDER."
 
 msgid "<23>BY THE WAY... YOU NEED TO DOUBLE-CHECK THE ATMOSPHERIC SYSTEM."
-msgstr ""
+msgstr "<23>ALIÁS... VOCÊ PRECISA DAR UMA OLHADA NO SISTEMA ATMOSFÉRICO."
 
 msgid ""
 "<23>WHAT WAS IT CALLED?\n"
 "THE WIDE-AREA TROPE-A- SPHERE FRAMEWORK?"
 msgstr ""
+"<23>COMO SE CHAMAVA?\n"
+"A ESTRUTURA DE TROPOSFERA DE ÁREA AMPLA DA ESFERA?"
 
 msgid "<23>SOMETHING SEEMS... OFF."
-msgstr ""
+msgstr "<23>ALGO PARECE... ERRADO."
 
 msgid ""
 "<25>{#p/kidd}{#f/1}* Yo!\n"
 "* There she is!"
 msgstr ""
+"<25>{#p/kidd}{#f/1}* Yo!\n"
+"* Lá está ela!"
 
 msgid "<25>{#p/kidd}{#f/7}* Wait... you're a human, aren't you?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* Espera... você é um humano, não é?"
 
 msgid "<25>{*}{#p/kidd}{#f/7}* RUUUUUUUUUUUN!{^20}{%}"
-msgstr ""
+msgstr "<25>{*}{#p/kidd}{#f/7}* COOOORREEEE!{^20}{%}"
 
 msgid "<25>{#p/kidd}{#f/2}* Phew..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/2}* Ufa..."
 
 msgid "<25>{#p/kidd}{#f/1}* Uh, you can step off the platform now."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Uh, você pode sair da plataforma agora."
 
 msgid "<25>{#p/kidd}{#f/4}* Where'd she go...?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/4}* Onde ela foi...?"
 
 msgid "<25>{#p/kidd}{#f/7}* AH!{^10}{%}"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* AH!{^10}{%}"
 
 msgid ""
 "<25>{#p/kidd}{#f/2}* Psst, I think we can sneak past her.\n"
 "* Come on!"
 msgstr ""
+"<25>{#p/kidd}{#f/2}* Psst, acho que podemos passar escondidos.\n"
+"* Vamos!"
 
 msgid "<25>{#p/kidd}{#f/4}* It's dark..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/4}* Está escuro..."
 
 msgid "<25>{#p/kidd}{#f/7}* ... but we have to keep going forward!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* ... mas temos que continuar andando!"
 
 msgid "<25>{#p/kidd}{#f/7}* Quick, into the conveniently-placed plants!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* Rápido, nas plantas convenientemente localizados!"
 
 msgid "<25>{#p/kidd}{#f/7}* She... she..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* Ela... ela..."
 
 msgid "<25>{#f/7}* She TOUCHED me!!"
-msgstr ""
+msgstr "<25>{#f/7}* Ela me TOCOU!!"
 
 msgid ""
 "<25>{#f/4}* ...\n"
 "* Guess we're BOTH lucky, then, huh?"
 msgstr ""
+"<25>{#f/4}* ...\n"
+"* Acho que estamos ambos com sorte, huh?"
 
 msgid "<25>{#f/5}* Things could've gotten real bad if she saw you."
-msgstr ""
+msgstr "<25>{#f/5}* As coisas poderiam ficar bem tensas se ela te visse."
 
 msgid "<25>{#p/kidd}{#f/1}* She... she..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Ela... ela..."
 
 msgid "<25>{#f/1}* She's NOWHERE to be found!?"
-msgstr ""
+msgstr "<25>{#f/1}* Ela não está EM LUGAR NENHUM!?"
 
 msgid "<25>{#f/3}* Have you guys seen her ANYWHERE out here?"
-msgstr ""
+msgstr "<25>{#f/3}* Ei caras, vocês viram ela por aí?"
 
 msgid "<25>{#p/asriel2}{#f/3}* Who, Undyne?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Quem, Undyne?"
 
 msgid ""
 "<25>{#p/kidd}{#f/1}* Yeah!\n"
 "* I've been looking around for AGES!"
 msgstr ""
+"<25>{#p/kidd}{#f/1}* Isso!\n"
+"* Eu estou procurando por ela faz HORAS!"
 
 msgid "<25>{#p/asriel2}{#f/2}* (Hee hee hee...)"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/2}* (Hee hee hee...)"
 
 msgid "<25>{#p/kidd}{#f/4}* Huh??"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/4}* Huh??"
 
 msgid "<25>{#p/asriel2}{#f/4}* Nothing."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Nada."
 
 msgid "<25>{#f/13}* Say, wanna join us for a bit?"
-msgstr ""
+msgstr "<25>{#f/13}* Me diz, quer se juntar a nós por um tempinho?"
 
 msgid "<25>{#p/kidd}{#f/3}* Y... you want me to join you?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/3}* M... me juntar com vocês?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/4}* Yeah, why not.\n"
 "* It'll be fun, I think."
 msgstr ""
+"<25>{#p/asriel2}{#f/4}* É, porque não.\n"
+"* Vai ser divertido, eu acho."
 
 msgid ""
 "<25>{#p/kidd}{#f/4}* Uh...\n"
 "* I don't know..."
 msgstr ""
+"<25>{#p/kidd}{#f/4}* Uh...\n"
+"* Eu não sei..."
 
 msgid "<25>{#p/asriel2}{#f/15}* Well, did you know Dr. Alphys likes Undyne?"
 msgstr ""
+"<25>{#p/asriel2}{#f/15}* Olha, você sabia que a Doutora Alphys gosta da "
+"Undyne?"
 
 msgid "<25>* Like, she likes her... a LOT."
-msgstr ""
+msgstr "<25>* Tipo, ela gosta dela... MUITO."
 
 msgid ""
 "<25>{#p/asriel2}{#f/9}* Well, did you know Dr. Alphys is actually stronger "
 "than Undyne?"
 msgstr ""
+"<25>{#p/asriel2}{#f/9}* Bem,. você sabia que a Dr. Alphys é mais forte que a "
+"Undyne?"
 
 msgid ""
 "<25>{#f/5}* Alphys's problem is that she's usually too scared to do "
 "anything!"
 msgstr ""
+"<25>{#f/5}* O problema da Alphys é que ela é assustada demais pra fazer "
+"alguma coisa!"
 
 msgid ""
 "<25>{#p/kidd}{#f/7}* What!?\n"
 "* No way..."
 msgstr ""
+"<25>{#p/kidd}{#f/7}* Que!?\n"
+"* Sem chance..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/1}* Yeah, and that's not the only thing I know about "
 "those two."
 msgstr ""
+"<25>{#p/asriel2}{#f/1}* Isso aí, e essa não é a única coisa que eu sei sobre "
+"essas duas."
 
 msgid "<25>{#p/kidd}{#f/7}* Tell me more!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* Me conta mais!"
 
 msgid ""
 "<25>{#p/asriel2}{#f/5}* Okay, okay...\n"
 "* But only if you come with $(name) and me."
 msgstr ""
+"<25>{#p/asriel2}{#f/5}* Tá, tá...\n"
+"* Mas só se você vir com $(name) e eu."
 
 msgid ""
 "<25>{#p/kidd}{#f/1}* Deal!\n"
 "* Haha."
 msgstr ""
+"<25>{#p/kidd}{#f/1}* Feito!\n"
+"* Haha."
 
 msgid "<25>{#p/kidd}{#f/1}* Yo, what are you waiting for?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Yo, o que você tá esperando?"
 
 msgid "<25>{#p/kidd}{#f/1}* Let's go!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Vamos!"
 
 msgid "<25>{#f/3}* Hey... I know we only just met, but..."
-msgstr ""
+msgstr "<25>{#f/3}* Ei... eu sei que acabamos de nós conhecer, mas..."
 
 msgid "<25>{#f/4}* I don't want Undyne to hurt you..."
-msgstr ""
+msgstr "<25>{#f/4}* Eu não quero que Undyne te machuque..."
 
 msgid "<25>* ..."
-msgstr ""
+msgstr "<25>* ..."
 
 msgid "<25>{#f/2}* Why don't we stick together for a while?"
-msgstr ""
+msgstr "<25>{#f/2}* Por que não andamos juntos por um tempo?"
 
 msgid "<25>{#f/1}* Come on, it'll be fun!"
-msgstr ""
+msgstr "<25>{#f/1}* Vai ser legal!"
 
 msgid ""
 "<25>{#p/kidd}{#f/2}* Man, you shoulda SEEN her during human- chasing "
 "practice..."
 msgstr ""
+"<25>{#p/kidd}{#f/2}* Cara, você tinha que ver ela durante prática de caça a "
+"humanos..."
 
 msgid "<25>{#f/1}* She was throwing like, a MILLION spears a second!"
-msgstr ""
+msgstr "<25>{#f/1}* Ela jogava tipo, um MILHÃO de lanças por segundo!"
 
 msgid "<25>{#f/1}* I'm right behind you!"
-msgstr ""
+msgstr "<25>{#f/1}* Eu tô atrás de você!"
 
 msgid "<25>{#p/kidd}{#f/2}* And when the target was about to get away..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/2}* E quando o alvo tentou fugir..."
 
 msgid "<25>{#f/1}* She nailed it at the VERY last moment!"
-msgstr ""
+msgstr "<25>{#f/1}* Ela o capturou no ÚLTIMO segundo!"
 
 msgid "<25>{#p/asriel2}{#f/6}* Good for her, I guess."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Bom pra ela, eu acho."
 
 msgid "<25>{#p/kidd}{#f/1}* Yeah!!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Sim!!"
 
 msgid "<25>{#p/kidd}{#f/4}* Wait..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/4}* Espera..."
 
 msgid ""
 "<25>* If Undyne's not here, who's going to protect us from those baddies?"
-msgstr ""
+msgstr "<25>* Se a Undyne não tá aqui, quem vai nos proteger daqueles malvados?"
 
 msgid ""
 "<25>{|}{#f/8}* You know...\n"
 "* The ones who- {%}"
 msgstr ""
+"<25>{|}{#f/8}* Sabe...\n"
+"* Aqueles que- {%}"
 
 msgid "<25>{#p/asriel2}{#f/4}* I wouldn't worry about it."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Eu não me preocuparia com isso."
 
 msgid "<25>{#f/3}* Besides, if Undyne is as tactically skilled as you say..."
-msgstr ""
+msgstr "<25>{#f/3}* E mais, se a Undyne é tão habilidosa como você diz..."
 
 msgid ""
 "<25>{#f/4}* Then clearly she must have a reason.\n"
 "* She's smart, right?"
 msgstr ""
+"<25>{#f/4}* Então ela deve ter um motivo.\n"
+"* Ela é esperta, certo?"
 
 msgid ""
 "<25>{#p/kidd}{#f/4}* Yeah...\n"
 "* That's true..."
 msgstr ""
+"<25>{#p/kidd}{#f/4}* É...\n"
+"* Isso é verdade..."
 
 msgid "<25>{#p/kidd}{#f/2}* Well, thanks for taking me along, you guys."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/2}* Bem, valeu por carregar com vocês, galera."
 
 msgid ""
 "<25>{#p/asriel2}{#f/10}* Sure...?\n"
 "* We haven't gotten THAT far, you know..."
 msgstr ""
+"<25>{#p/asriel2}{#f/10}* Sério...?\n"
+"* A gente não foi TÃO longe, sabem..."
 
 msgid ""
 "<25>{#p/kidd}{#f/3}* Well, yeah, but like, I barely get time away from my "
 "parents, so..."
 msgstr ""
+"<25>{#p/kidd}{#f/3}* Bem, claro, mas eu mau tiro tempo longe dos meus pais, "
+"então..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/8}* You have parents?\n"
