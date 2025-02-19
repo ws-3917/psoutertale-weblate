@@ -21240,7 +21240,7 @@ msgid ""
 "* Where on Krios did you learn THAT handshake?"
 msgstr ""
 "<32>{#p/basic}{#k/3}* 啥？\n"
-"* 你在克裡烏斯的哪個地方\n"
+"* 你在克伊俄斯的哪個地方\n"
 "  學的這個握手方式？"
 
 msgid "<32>{#k/2}* I haven't shown anyone that routine in years!"

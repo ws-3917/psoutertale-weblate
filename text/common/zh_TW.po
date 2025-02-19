@@ -13548,7 +13548,7 @@ msgid ""
 "<32>* I think that's what happened to Krios, when monsters first gained "
 "THEIR magic."
 msgstr ""
-"<32>* 我猜，母星克裡烏斯本沒有魔法，\n"
+"<32>* 我猜，母星克伊俄斯本沒有魔法，\n"
 "  突然，母星有了魔法，\n"
 "  怪物也有了魔法。"
 

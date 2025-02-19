@@ -11550,7 +11550,7 @@ msgid ""
 "<25>{#p/asriel1}{#f/13}* This is Krios...\n"
 "* A simple representation of it, anyway."
 msgstr ""
-"<25>{#p/asriel1}{#f/13}* 這是克裡烏斯...\n"
+"<25>{#p/asriel1}{#f/13}* 這是克伊俄斯...\n"
 "* 好吧，這只是一個\n"
 "  簡單的模型。"
 

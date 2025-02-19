@@ -12157,7 +12157,7 @@ msgid ""
 "<33>* \"Visit the Grand Library of Krios today, and your first\n"
 "  ten books will be 1/2KT on us.\""
 msgstr ""
-"<33>* 「快來克裡烏斯大圖書館吧！\n"
+"<33>* 「快來克伊俄斯大圖書館吧！\n"
 "   今日來館，還能享受\n"
 "   前十本半價的優惠喔。」"
 

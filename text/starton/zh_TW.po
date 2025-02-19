@@ -12614,7 +12614,7 @@ msgid ""
 "<32>* \"JEWEL and KRIOTAAN were the most prominent... but only on the home "
 "planet.\""
 msgstr ""
-"<32>* 「主要流通的是珠寶和『克裡』...\n"
+"<32>* 「主要流通的是珠寶和『克伊』...\n"
 "   但它們只能在母星上使用。」"
 
 msgid ""
@@ -22232,7 +22232,7 @@ msgstr ""
 
 msgid "<18>{#p/papyrus}JOKE OR NOT, IT WAS STILL PRETTY LUCKY, HUH?"
 msgstr ""
-"<18>{#p/papyrus}就算母星「克裡」\n"
+"<18>{#p/papyrus}就算母星「克伊」\n"
 "沒能收穫「顆粒」，\n"
 "但咱也挺幸運，是吧？"
 
