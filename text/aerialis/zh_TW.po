@@ -2163,7 +2163,7 @@ msgstr ""
 "  次元箱子..."
 
 msgid "<25>{#g/alphysHellYeah}* And your very own OuterNet account!"
-msgstr "<25>{#g/alphysHellYeah}* 還有你自己的域外網帳號！"
+msgstr "<25>{#g/alphysHellYeah}* 還有你自己的域外網帳戶！"
 
 msgid ""
 "<25>{#g/alphysSmileSweat}* I also made us friends so you can ping me for "
@@ -2196,7 +2196,7 @@ msgstr ""
 "  次元箱子..."
 
 msgid "<25>{#g/alphysSmileSweat}* And your very own OuterNet account!"
-msgstr "<25>{#g/alphysSmileSweat}* 還有你自己的域外網帳號！"
+msgstr "<25>{#g/alphysSmileSweat}* 還有你自己的域外網帳戶！"
 
 msgid ""
 "<25>{#g/alphysNervousLaugh}* Don't worry, I made us friends so you can ping "
@@ -2975,7 +2975,7 @@ msgstr "<25>{#g/alphysSideSad}* ..."
 
 msgid "<25>{#g/alphysWelp}* Wait, I'm still logged into Mettaton's account."
 msgstr ""
-"<25>{#g/alphysWelp}* 等下，Mettaton的帳號\n"
+"<25>{#g/alphysWelp}* 等下，Mettaton的帳戶\n"
 "  我還登著呢。"
 
 msgid "<25>{#g/alphysNervousLaugh}* Maybe I c-can just unlock it right away!"

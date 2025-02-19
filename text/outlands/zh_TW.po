@@ -2047,7 +2047,7 @@ msgstr ""
 msgid "<32>* \"Mom said Im too young to make an online acount tho.\""
 msgstr ""
 "<32>* 「不過，媽媽說我現在還太小。\n"
-"   不能住冊自己的帳號。」"
+"   不能住冊自己的帳戶。」"
 
 msgid "<32>* \"Maybe one day when Im older I can have one.\""
 msgstr ""

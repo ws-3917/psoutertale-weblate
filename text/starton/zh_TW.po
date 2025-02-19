@@ -3654,7 +3654,7 @@ msgid ""
 "<32>{#p/basic}{#npc/a}* Don't tell me you don't have an OuterNet account..."
 msgstr ""
 "<32>{#p/basic}{#npc/a}* 你該不會沒有\n"
-"  域外網帳號吧..."
+"  域外網帳戶吧..."
 
 msgid "<32>{#p/basic}{#npc/a}* What's an onionsan, anyway?"
 msgstr "<32>{#p/basic}{#npc/a}* 到底啥是onionsan啊？"
@@ -6506,7 +6506,7 @@ msgstr ""
 "  社交媒體網站。"
 
 msgid "* (Log in to Papyrus's account?)"
-msgstr "* （登入Papyrus的帳號嗎？）"
+msgstr "* （登入Papyrus的帳戶嗎？）"
 
 msgid "<32>{#p/human}* (You decide not to log in.)"
 msgstr "<32>{#p/human}* （你決定先不登入。）"
