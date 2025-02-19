@@ -16989,7 +16989,7 @@ msgid "<32>{#p/story}* Undyne isn't in the mood for games."
 msgstr "<32>{#p/story}* Undyne沒心情跟你胡鬧。ゑ"
 
 msgid "<32>{#p/story}* Smells like tuna salad."
-msgstr "<32>{#p/story}* 金槍魚沙拉的味道撲面而來。ゑ"
+msgstr "<32>{#p/story}* 鮪魚沙拉的味道撲面而來。ゑ"
 
 msgid "<32>{#p/story}* Undyne's eye is twitching involuntarily."
 msgstr "<32>{#p/story}* Undyne的眼皮不由自主地跳了起來。"

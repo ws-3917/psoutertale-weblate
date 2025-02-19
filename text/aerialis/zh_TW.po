@@ -3698,7 +3698,7 @@ msgstr "<32>* 看來...ゑ"
 
 msgid "<32>* TRUSTING A LOW-LEVEL SERVICE WORKER TO GUARD THAT LIFTGATE..."
 msgstr ""
-"<32>* 派一個低級服務員\n"
+"<32>* 派一個低級服務生\n"
 "  去守升降機...\n"
 "* 是我失策了。ゑ"
 
@@ -14180,7 +14180,7 @@ msgid ""
 "suit me."
 msgstr ""
 "<32>{#p/basic}{#npc/a}* 既然我們自由了，\n"
-"  當服務員兒可能\n"
+"  當服務生兒可能\n"
 "  不再適合我了。"
 
 msgid "<32>* Our Son's returned, so I'll have to find mahself a new job..."
