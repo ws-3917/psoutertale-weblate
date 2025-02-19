@@ -8458,7 +8458,7 @@ msgid ""
 "LEVELS"
 msgstr ""
 "功率\n"
-"水平"
+"水準"
 
 msgid "DATE: K-615.09"
 msgstr "日期：克歷615年9月"

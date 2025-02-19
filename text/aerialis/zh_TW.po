@@ -19041,7 +19041,7 @@ msgstr ""
 msgid "<20>{#p/mettaton}It's time to bring your a-game!"
 msgstr ""
 "<20>{#p/mettaton}該發揮你的\n"
-"最佳水平了！"
+"最佳水準了！"
 
 msgid "<20>{#p/mettaton}Can you keep up the pace?"
 msgstr "<20>{#p/mettaton}能跟上節奏嗎？"

@@ -15104,7 +15104,7 @@ msgstr "<32>{#p/human}* （但是Doge已經清洗乾淨了。）"
 msgid "<32>{#p/story}* Doge is a little smarter than the average dog."
 msgstr ""
 "<32>{#p/story}* Doge的智商在普通狗的\n"
-"  平均水平之上。"
+"  平均水準之上。"
 
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
