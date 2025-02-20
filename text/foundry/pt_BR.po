@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-16 12:24+0000\n"
-"PO-Revision-Date: 2025-02-19 04:06+0000\n"
+"PO-Revision-Date: 2025-02-21 11:19+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/3-foundry/pt_BR/>\n"
@@ -12845,128 +12845,150 @@ msgid "<32>{#p/kidding}* Woah, so many people!"
 msgstr "<32>{#p/kidding}* Woah, tantas pessoas!"
 
 msgid "<32>{#p/story}* Shyren thinks about her future."
-msgstr ""
+msgstr "<32>{#p/story}* Shyren pensa sobre seu futuro."
 
 msgid ""
 "<32>{#p/kidding}* One last time!\n"
 "* One last time!\n"
 "* One last time!"
 msgstr ""
+"<32>{#p/kidding}* Mais uma vez!\n"
+"* Mais uma vez!\n"
+"* Mais uma vez!"
 
 msgid ""
 "<32>{#p/human}* (You flirt with Shyren.)\n"
 "* (Though uneasy, she blushes a little in return.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta com a Shyren.)\n"
+"* (Meio hesitante, ela cora um pouco em retorno.)"
 
 msgid "<08>{#p/basic}{~}(happy toot)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(sorriso feliz)"
 
 msgid ""
 "<32>{#p/human}* (You hum a melancholy waltz.)\n"
 "* (Shyren follows your melody.)"
 msgstr ""
+"<32>{#p/human}* (Você cantarola uma valsa melancólica.)\n"
+"* (Shyren segue sua melodia.)"
 
 msgid ""
 "<32>{#p/human}* (You hum a funky tune.)\n"
 "* (Shyren follows your melody.)"
 msgstr ""
+"<32>{#p/human}* (Você cantarola uma melodia funky.)\n"
+"* (Shyren segue sua melodia.)"
 
 msgid ""
 "<32>{#p/human}* (You hum a bluesy song.)\n"
 "* (Shyren follows your melody.)"
 msgstr ""
+"<32>{#p/human}* (Você cantarola uma música de blues.)\n"
+"* (Shyren segue sua melodia.)"
 
 msgid ""
 "<32>{#p/human}* (You hum a jazz ballad.)\n"
 "* (Shyren follows your melody.)"
 msgstr ""
+"<32>{#p/human}* (Você cantarola uma música de balada jazz.)\n"
+"* (Shyren segue sua melodia.)"
 
 msgid ""
 "<32>{#p/human}* (You hum an apology song.)\n"
 "* (Shyren calms down.)"
 msgstr ""
+"<32>{#p/human}* (Você cantarola uma canção de desculpas.)\n"
+"* (Shyren se acalma.)"
 
 msgid "<32>{#p/human}* (You hum some more.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você canta um pouco mais.)"
 
 msgid "<32>{#p/basic}* It's a veritable duet!"
-msgstr ""
+msgstr "<32>{#p/basic}* É um verdadeiro dueto!"
 
 msgid "<32>{#p/basic}* Monsters are drawn to the music."
-msgstr ""
+msgstr "<32>{#p/basic}* Monstros são feitos para a música."
 
 msgid "<32>{#p/basic}* Suddenly, it's a concert..."
-msgstr ""
+msgstr "<32>{#p/basic}* De repente, é um concerto..."
 
 msgid "<32>{#p/basic}* Shyren is happy to have you as her vocal partner."
-msgstr ""
+msgstr "<32>{#p/basic}* Shyren está feliz em te ter como parceiro de vocal."
 
 msgid ""
 "<32>{#p/basic}* The seats are sold out.\n"
 "* It's a rockstar performance!"
 msgstr ""
+"<32>{#p/basic}* Os acentos estão todos vendidos!\n"
+"* É uma performance de rockstar!"
 
 msgid "<33>{#p/human}* (You hum some more.)"
-msgstr ""
+msgstr "<33>{#p/human}* (Você canta mais um pouco.)"
 
 msgid ""
 "<32>{#p/basic}* Even without a crowd, a dance of melody and harmony "
 "persists."
 msgstr ""
+"<32>{#p/basic}* Mesmo sem uma plateia, uma dança de melodia e harmonia "
+"persiste."
 
 msgid "<32>{#p/basic}* Despite your success, the constant attention..."
-msgstr ""
+msgstr "<32>{#p/basic}* Apesar do sucesso e constante atenção..."
 
 msgid ""
 "<32>* The tours...\n"
 "* The groupies...\n"
 "* It's all..."
 msgstr ""
+"<32>* Os tours...\n"
+"* Os grupos...\n"
+"* Tudo..."
 
 msgid "<32>{#p/human}* (You and Shyren have come so far, but it's time.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Shyren e você já chegaram tão longe, mas é hora.)"
 
 msgid "<32>* (You both have your own journeys to embark on.)"
-msgstr ""
+msgstr "<32>* (Vocês dois tem suas próprias jornadas para seguir.)"
 
 msgid "<32>* (You hum a farewell song.)"
-msgstr ""
+msgstr "<32>* (Você cantarola uma canção de fogo.)"
 
 msgid "<32>{#p/story}* Shyren's voice is raspy."
-msgstr ""
+msgstr "<32>{#p/story}* A voz de Shyren está rouca."
 
 msgid "* Shyren"
-msgstr ""
+msgstr "* Shyren"
 
 msgid "<32>{#p/story}* Shyren hums very faintly."
-msgstr ""
+msgstr "<32>{#p/story}* Shyren cantarola bem calmamente."
 
 msgid "<32>{#p/kidding}* Are you okay?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Você está bem?"
 
 msgid "<32>{#p/story}* Shyren pretends to be a pop idol."
-msgstr ""
+msgstr "<32>{#p/story}* Shyren pretende ser um ídolo da cultura pop."
 
 msgid "<32>{#p/kidding}* You look sad..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Você parece triste..."
 
 msgid "<32>{#p/story}* Shyren taps a little beat with her fins."
-msgstr ""
+msgstr "<32>{#p/story}* Shyren faz um som com suas nadadeiras."
 
 msgid "<32>{#p/kidding}* Do you need any help?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Você precisa de ajuda?"
 
 msgid "<32>{#p/story}* Shyren thinks about doing karaoke by herself."
-msgstr ""
+msgstr "<32>{#p/story}* Shyren pensa em fazer um karaokê por conta própria."
 
 msgid "<32>{#p/kidding}* Is there anything I can do?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Tem alguma coisa que eu possa fazer?"
 
 msgid "<32>{#p/story}* Smells like music."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a música."
 
 msgid "<32>{#p/kidding}* Wait... what's with her body?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Espera... qual o problema com o corpo dela?"
 
 msgid ""
 "<08>{#p/basic}{~}..\n"
@@ -12974,6 +12996,10 @@ msgid ""
 "toot\n"
 ".."
 msgstr ""
+"<08>{#p/basic}{~}..\n"
+"..\n"
+"toot\n"
+".."
 
 msgid ""
 "<08>{#p/basic}{~}..\n"
@@ -12981,555 +13007,630 @@ msgid ""
 "hum hum\n"
 ".."
 msgstr ""
+"<08>{#p/basic}{~}..\n"
+"..\n"
+"hum hum\n"
+".."
 
 msgid ""
 "<32>{#p/kidding}* No...\n"
 "* Not again..."
 msgstr ""
+"<32>{#p/kidding}* Não...\n"
+"* Não de novo..."
 
 msgid ""
 "<32>{#p/kidding}* Yo, how's it going?\n"
 "* You look sad..."
 msgstr ""
+"<32>{#p/kidding}* Yo, como vai?\n"
+"* Você parece triste..."
 
 msgid "<08>{#p/basic}{~}si re, si re, si mi, si mi"
-msgstr ""
+msgstr "<08>{#p/basic}{~}si re, si re, si mi, si mi"
 
 msgid "<08>{#p/basic}{~}Si Fa Si Fa So Fa So Mi Re Re"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Si Fa Si Fa So Fa So Mi Re Re"
 
 msgid "<08>{#p/basic}{~}Mi So Mi So Mi Si Mi La Si So"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Mi So Mi So Mi Si Mi La Si So"
 
 msgid "<08>{#p/basic}{~}(pas- sionate tooting)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(dança apaixonada)"
 
 msgid "<08>{#p/basic}{~}(final toot)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(dança final)"
 
 msgid ""
 "<32>{#p/human}* (You wave your arms wildly.)\n"
 "* (Nothing happens.)"
 msgstr ""
+"<32>{#p/human}* (Você balança os braços descontroladamente.)\n"
+"* (Nada acontece.)"
 
 msgid "<32>{#p/human}* (You wave your arms wildly.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você balança seus braços descontroladamente.)"
 
 msgid "<32>{#p/basic}* The crowd eats it up!"
-msgstr ""
+msgstr "<32>{#p/basic}* A plateia ama!"
 
 msgid "<32>{#p/human}* (You boo Shyren.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você assusta Shyren.)"
 
 msgid "<32>{#p/basic}* Her head down, Shyren moves away quietly..."
-msgstr ""
+msgstr "<32>{#p/basic}* Com a cabeça baixa, Shyren vai embora..."
 
 msgid ""
 "<32>{#p/basic}* Shyren, seeing how you handle rejection, leaves in a huff."
-msgstr ""
+msgstr "<32>{#p/basic}* Shyren, vendo que você a rejeitou, vai embora correndo."
 
 msgid ""
 "<32>{#p/basic}* Shyren's fleeting joy fades just as soon as it came to her."
 msgstr ""
+"<32>{#p/basic}* A alegria fugaz de Shyren desaparece assim que chega a ela."
 
 msgid ""
 "<32>{#p/basic}* The crowd, distraught, watches as Shyren flees the scene."
 msgstr ""
+"<32>{#p/basic}* A multidão, perturbada, observa enquanto Shyren foge do "
+"local."
 
 msgid ""
 "<32>{#p/basic}* The betrayal brings Shyren to tears as she flees the scene."
-msgstr ""
+msgstr "<32>{#p/basic}* A traição trás Shyren aos choros e ela foge."
 
 msgid "<08>{#p/basic}{~}Until next time, G."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Até a próxima, G."
 
 msgid ""
 "<08>{#p/basic}{~}Huh..!\n"
 "Since when did you get scary!"
 msgstr ""
+"<08>{#p/basic}{~}Huh..!\n"
+"Desde quando você virou assustador!"
 
 msgid "<08>{#p/basic}{~}This feel- ing.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Essa sensação."
 
 msgid "<08>{#p/basic}{~}I mustn't resist!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu não consigo resistir!"
 
 msgid ""
 "<08>{#p/basic}{~}Yeah..\n"
 "We make a pretty radical team."
 msgstr ""
+"<08>{#p/basic}{~}É...\n"
+"Nós somos um time bem radical."
 
 msgid "<08>{#p/basic}{~}It's so comfort- able.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}É tão confortável..."
 
 msgid "<08>{#p/basic}{~}At least my end will serve a purpose."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Pelo menos meu fim servirá um propósito."
 
 msgid "<08>{#p/basic}{~}Peace 'n' tran- quility, G."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Paz e tranquilidade, G."
 
 msgid "<08>{#p/basic}{~}Here's your G, my G!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Aqui está seu G, meu G!"
 
 msgid ""
 "<32>{#p/asriel2}* Radtile, the \"cool crocodile.\"\n"
 "* Funny, considering how un-cool he actually is."
 msgstr ""
+"<32>{#p/asriel2}* Radtile, o \"crocodilo bonito.\"\n"
+"* Engraçado, considerando o quão feio ele é."
 
 msgid ""
 "<32>{#p/story}* RADTILE - ATK 24 DEF 12\n"
 "* A stargazer in starglasses.\n"
 "* Favorite genre: Kriobeat"
 msgstr ""
+"<32>{#p/story}* RADTILE - ATQ 24 DEF 12\n"
+"* Estilista com óculos de sol.\n"
+"* Gênero favorito: Música Krio"
 
 msgid ""
 "<32>{#p/story}* RADTILE - ATK 24 DEF 12\n"
 "* Things aren't looking so hot for this cool crocodile."
 msgstr ""
+"<32>{#p/story}* RADTILE - ATQ 24 DEF 12\n"
+"* As coisas não estão parecendo muitos legais para o crocodilo."
 
 msgid ""
 "<33>{#p/story}* RADTILE - ATK 24 DEF 12\n"
 "* This cool crocodile is on fire."
 msgstr ""
+"<33>{#p/story}* RADTILE - ATQ 24 DEF 12\n"
+"* Este crocodilo da hora está pegando fogo."
 
 msgid ""
 "<32>{#p/story}* RADTILE - ATK 24 DEF 12\n"
 "* When it comes to romance, this cool crocodile is stone cold."
 msgstr ""
+"<32>{#p/story}* RADTILE - ATQ 24 DEF 12\n"
+"* Quando se trata de romance, esse crocodilo top é frio feito pedra."
 
 msgid "* Radtile"
-msgstr ""
+msgstr "* Radtile"
 
 msgid "<32>{#p/asriel2}* Radtile."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Radtile."
 
 msgid "<32>{#p/kidding}* Not this guy..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Esse cara não..."
 
 msgid "<32>{#p/story}* Radtile makes an impression!"
-msgstr ""
+msgstr "<32>{#p/story}* Radtile faz uma expressão!"
 
 msgid ""
 "<32>{#p/kidding}* That sure is an interesting hat he's got on his head."
 msgstr ""
+"<32>{#p/kidding}* Aquele com certeza é um chapéu muito fera que ele tem na "
+"cabeça."
 
 msgid "<32>{#p/story}* Radtile adjusts his hat."
-msgstr ""
+msgstr "<32>{#p/story}* Radtile arruma seu boné."
 
 msgid ""
 "<32>{#p/kidding}* Everyone around here just loves Raddy's little mirror."
-msgstr ""
+msgstr "<32>{#p/kidding}* Todo mundo por aqui adora o espelhinho do Raddy."
 
 msgid "<32>{#p/story}* Radtile looks deeply into his mirror image."
-msgstr ""
+msgstr "<32>{#p/story}* Radtile se encara profundamente pelo espelho."
 
 msgid "<32>{#p/kidding}* What's he doing, anyway?"
-msgstr ""
+msgstr "<32>{#p/kidding}* O que ele tá fazendo?"
 
 msgid "<32>{#p/story}* Radtile is making gestures to improve his cool factor."
 msgstr ""
+"<32>{#p/story}* Radtile está fazendo gestos para melhorar seu fator de cara "
+"da hora."
 
 msgid "<32>{#p/kidding}* I wonder what his face looks like."
-msgstr ""
+msgstr "<32>{#p/kidding}* Me pergunto como ele se parece."
 
 msgid "<32>{#p/story}* Smells like an old skatepark."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a um velho parque de skate."
 
 msgid "<08>{#p/basic}{~}Check it."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Checa isso."
 
 msgid "<08>{#p/basic}{~}Take a looksie."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Da uma olhada."
 
 msgid "<08>{#p/basic}{~}Sneak a peek.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}De uma olhadela..."
 
 msgid "<08>{#p/basic}{~}Give it a gaze.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Da uma chance..."
 
 msgid "<08>{#p/basic}{~}Meh."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Meh."
 
 msgid "<08>{#p/basic}{~}Whatever."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Tanto faz."
 
 msgid "<09>{#p/basic}{~}\\x00*shrugs*"
-msgstr ""
+msgstr "<09>{#p/basic}{~}\\x00*shrugs*"
 
 msgid "<08>{#p/basic}{~}Very un- cool."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Bem não dá hora."
 
 msgid "<32>{#p/human}* (You tell Radtile he's as cool as a quantum cucumber.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Radtile que ele é tão legal quanto um pepino "
+"quântico.)"
 
 msgid "<32>{#p/human}* (You tell Radtile his scars make him look tougher.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Radtile que as escamas dele o fazem mais durão.)"
 
 msgid "<08>{#p/basic}{~}Were you really lookin'?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Pra onde você realmente tá olhando?"
 
 msgid "<08>{#p/basic}{~}Check first, opinions later."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Olha primeiro, opinião depois."
 
 msgid "<08>{#p/basic}{~}Show and tell, in that order."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Mostrar e dizer, nesta ordem."
 
 msgid "<08>{#p/basic}{~}You're a liar, anyway."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você é um mentiroso, de toda forma."
 
 msgid "<32>{#p/kidding}* Yeah, I don't think that's gonna work now, dude..."
-msgstr ""
+msgstr "<32>{#p/kidding}* É, acho que isso não vai funcionar agora, cara."
 
 msgid "<32>{#p/story}* Radtile isn't having it."
-msgstr ""
+msgstr "<32>{#p/story}* Radtile não está no clima."
 
 msgid "<08>{#p/basic}{~}Woah, hey, hold on.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Woah, ei, pera aí..."
 
 msgid ""
 "<32>{#p/kidding}* Maybe if you show him you're checking him out first...?"
 msgstr ""
+"<32>{#p/kidding}* Talvez se você mostrar a ele que está checando ele "
+"primeiro...?"
 
 msgid "<32>{#p/story}* Radtile wants you to check him out first."
-msgstr ""
+msgstr "<32>{#p/story}* Radtile quer que você dê uma olhada nele primeiro."
 
 msgid "<08>{#p/basic}{~}Study me, heh heh."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Me estuda, heh heh."
 
 msgid "<08>{#p/basic}{~}Right on."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Certinho."
 
 msgid ""
 "<32>{#p/kidding}* You did it!\n"
 "* ... can we leave now?"
 msgstr ""
+"<32>{#p/kidding}* Você conseguiu!\n"
+"* ... podemos ir embora?"
 
 msgid "<32>{#p/story}* Radtile's feeling a whole lot cooler than before."
-msgstr ""
+msgstr "<32>{#p/story}* Radtile está se sentindo bem mais da hora do que antes."
 
 msgid "<08>{#p/basic}{~}\\x00*fist bump*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*malhando braço*"
 
 msgid "<08>{#p/basic}{~}You're the coolest."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você é o mais da hora."
 
 msgid "<08>{#p/basic}{~}Let's rock 'n' roll."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Vamos fazer rock 'n' roll."
 
 msgid "<08>{#p/basic}{~}.. cool."
-msgstr ""
+msgstr "<08>{#p/basic}{~}.. top."
 
 msgid "<32>{#p/kidding}* Uh..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Uh..."
 
 msgid "<32>{#p/story}* Radtile is not amused."
-msgstr ""
+msgstr "<32>{#p/story}* Radtile não está se divertindo."
 
 msgid "<32>{#p/human}* (You call Radtile a loser, and tell him to shut up.)"
 msgstr ""
+"<32>{#p/human}* (Você fala que Radtile é um perdedor e que ele deve calar a "
+"boca.)"
 
 msgid "<32>{#p/human}* (You mock Radtile's bruises, and tell him to go away.)"
 msgstr ""
+"<32>{#p/human}* (Você zomba dos hematomas de Radtile e diz a ele para ir "
+"embora.)"
 
 msgid "<32>{#p/human}* (You beckon Radtile.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você acena para Radtile.)"
 
 msgid ""
 "<32>{#p/human}* (You tell Radtile he's beautiful no matter how disfigured he"
 " is.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Radtile que ele é lindo independente do quão "
+"desfigurado esteja.)"
 
 msgid "<08>{#p/basic}{~}And what if I don't?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}E se eu não?"
 
 msgid "<32>{#p/story}* Radtile keeps his distance."
-msgstr ""
+msgstr "<32>{#p/story}* Radtile mantém distância."
 
 msgid "<08>{#p/basic}{~}Come to take another look?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Veio dar outra olhada?"
 
 msgid "<32>{#p/kidding}* Ah, we're going in circles!"
-msgstr ""
+msgstr "<32>{#p/kidding}* Ah, estamos andando em círculos!"
 
 msgid "<32>{#p/story}* Radtile gives you a chance."
-msgstr ""
+msgstr "<32>{#p/story}* Radtile te dá uma chance."
 
 msgid "<32>{#p/kidding}* This isn't looking good..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Isso não tá parecendo bom..."
 
 msgid "<32>{#p/story}* Radtile's teeth are beginning to fall out."
-msgstr ""
+msgstr "<32>{#p/story}* Os dentes de Radtile estão começando a cair."
 
 msgid ""
 "<32>{#p/asriel2}* Doge, the callous dog.\n"
 "* Cares only for her work."
 msgstr ""
+"<32>{#p/asriel2}* Doge, a cadela insensível.\n"
+"* Preocupa-se apenas com o trabalho dela."
 
 msgid ""
 "<32>{#p/story}* DOGE - ATK 14 DEF 10\n"
 "* Pronounced \"dohj.\" Soft j.\n"
 "* Member of the ELITE squad."
 msgstr ""
+"<32>{#p/story}* DOGE - ATQ 14 DEF 10\n"
+"* Pronunciado \"doug.\" D mudo.\n"
+"* Membro do esquadrão de ELITE."
 
 msgid "<32>{#p/human}* (You flirt with Doge.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você flerta com Doge.)"
 
 msgid "<32>{#p/basic}* Doge ignores your attempts at flattery."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge decide ignorar está tentativa."
 
 msgid "<32>{#p/basic}* Doge smiles in return."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge sorri em retorno."
 
 msgid "<32>{#p/basic}* Doge, despondent, was unreceptive to your remark."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge, desanimada, não foi receptiva à sua observação."
 
 msgid "<32>{#p/basic}* Doge doesn't react in any strong way."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge não tem uma reação visível."
 
 msgid "<32>{#p/basic}* Doge is giving it her all to resist you."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge está dando tudo de si para resistir."
 
 msgid "<32>{#p/human}* (You flirt with Doge again.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você flerta com Doge de novo.)"
 
 msgid "<32>{#p/basic}* Doge can't keep this up for much longer..."
 msgstr ""
+"<32>{#p/basic}* Doge não vai conseguir se manter assim por muito mais tempo."
 
 msgid ""
 "<32>{#p/human}* (You muster your courage, and call Doge a little munchkin.)"
 msgstr ""
+"<32>{#p/human}* (Você reúne coragem e chama Doge de uma pequena delícia.)"
 
 msgid "<32>{#p/basic}* Doge tries not to react, but finds herself blushing."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge tenta não reagir, mas se encontra corando."
 
 msgid ""
 "<32>* She squirms and she struggles, but there's no hiding what's on her "
 "face."
 msgstr ""
+"<32>* Ela se contorce e luta, mas não há como esconder o que está em seu "
+"rosto."
 
 msgid "<32>* Thoroughly embarrassed, Doge flees the scene..."
-msgstr ""
+msgstr "<32>* Envergonhada, Doge foge da batalha."
 
 msgid "<32>{#p/human}* (You suggest Doge get a shower.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você sugere que Doge tome um banho.)"
 
 msgid ""
 "<32>{#p/basic}* Doge rips open a pipe from the ceiling... water comes "
 "flooding out."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge rasga um cano do teto... a água sai inundando."
 
 msgid "<32>* It's cold, but she doesn't seem to mind..."
-msgstr ""
+msgstr "<32>* Está fria, mas ela não parece se importar..."
 
 msgid ""
 "<32>* Soon, the water runs dry.\n"
 "* Doge relaxes a little..."
 msgstr ""
+"<32>* Logo, a água passa por todo o corpo.\n"
+"* Doge se sente relaxada..."
 
 msgid "<32>{#p/story}* Doge's ATTACK down!"
-msgstr ""
+msgstr "<32>{#p/story}* ATAQUE de Doge caiu!"
 
 msgid ""
 "<32>{#p/human}* (You suggest Doge get a shower, but she wasn't in the mood "
 "yet.)"
 msgstr ""
+"<32>{#p/human}* (Você sugere que Doge deve tomar um banho, mas ela não está "
+"no clima ainda.)"
 
 msgid "<32>{#p/basic}* Doge does not seem concerned for her hygiene."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge não parece preocupada com sua higiene."
 
 msgid "<32>{#p/human}* (You suggest Doge get a shower, but it was too late.)"
 msgstr ""
+"<32>{#p/human}* (Você sugere que Doge tome um banho, mas já é tarde demais.)"
 
 msgid "<32>{#p/human}* (But Doge was already clean.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Doge já está limpa.)"
 
 msgid "<32>{#p/story}* Doge is a little smarter than the average dog."
-msgstr ""
+msgstr "<32>{#p/story}* Doge é mais esperta que outros cachorros."
 
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Doge intercepts your throw, launching it back at you.)"
 msgstr ""
+"<32>{#p/human}* (Você joga a chave inglesa.)\n"
+"* (Doge intercepta seu arremesso, lançando-o de volta em você.)"
 
 msgid "<32>{#p/basic}* The spanner bonks you directly in the head!"
-msgstr ""
+msgstr "<32>{#p/basic}* A chave bate direto na sua cabeça!"
 
 msgid "<32>{#p/story}* SPEED down!"
-msgstr ""
+msgstr "<32>{#p/story}* VELOCIDADE caiu!"
 
 msgid "<32>{#p/asriel2}* Maybe don't try that again."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Não tenta isso de novo."
 
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Doge, inspired, picks it up and brings it back to you.)"
 msgstr ""
+"<32>{#p/human}* (Você joga a chave inglesa.)\n"
+"* (Doge, inspirada, pega e traz de volta para você.)"
 
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Doge, exhausted, ignores it.)"
 msgstr ""
+"<32>{#p/human}* (Você joga a chave inglesa.)\n"
+"* (Doge, exausta, ignora.)"
 
 msgid "<32>{#p/story}* Doge questions the intention behind your advances."
-msgstr ""
+msgstr "<32>{#p/story}* Doge questiona a intenção dos seus avanços."
 
 msgid "<32>{#p/story}* Doge blushes slightly."
-msgstr ""
+msgstr "<32>{#p/story}* Doge fica envergonhada."
 
 msgid "<32>{#p/story}* Doge sighs apathetically."
-msgstr ""
+msgstr "<32>{#p/story}* Doge suspira apática."
 
 msgid "<32>{#p/story}* Doge is trying desperately to pretend she's just fine."
 msgstr ""
+"<32>{#p/story}* Doge está desesperadamente tentando pretender que tudo está "
+"bem."
 
 msgid "* Doge"
-msgstr ""
+msgstr "* Doge"
 
 msgid "<11>{#p/basic}{~}Ah..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ah..."
 
 msgid "<32>{#p/human}* (You try to pet Doge.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta acariciar Doge.)"
 
 msgid "<32>{#p/basic}* Doge hesitantly reaches her head up to meet your hand."
 msgstr ""
+"<32>{#p/basic}* Doge hesitando coloca sua cabeça em encontro com sua mão."
 
 msgid ""
 "<32>* You make contact.\n"
 "* Her face lights up.\n"
 "* She gives you a big smile."
 msgstr ""
+"<32>* Você faz contato visual.\n"
+"* O rosto dela brilha.\n"
+"* Ela te dá um grande sorriso."
 
 msgid "<32>* All her pent-up stress has finally been released."
-msgstr ""
+msgstr "<32>* Todo o seu estresse reprimido finalmente foi liberado."
 
 msgid "<32>* Doge is no longer interested in fighting you."
-msgstr ""
+msgstr "<32>* Doge não tem mais interesse em lutar com você."
 
 msgid "<32>{#p/human}* (You try to pet Doge, but she can't be reached yet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta acariciar Doge, mas ela ainda não quer.)"
 
 msgid "<32>{#p/basic}* Doge does not care for your attempts at affection."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge não se importa com suas tentativas de afeição."
 
 msgid "<32>{#p/human}* (You try to pet Doge, but it was too late.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta acariciar Doge, mas já é tarde demais.)"
 
 msgid "<32>{#p/human}* (You try to pet Doge again.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta acariciar Doge de novo.)"
 
 msgid ""
 "<32>{#p/basic}* Doge laps up your love like it's the first time she's been "
 "cared for in years..."
 msgstr ""
+"<32>{#p/basic}* Doge te lambe com amor como se fosse a primeira vez que é "
+"cuidada em anos..."
 
 msgid "<32>{#p/human}* (You try to pet Doge yet again.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta acariciar Doge de novo.)"
 
 msgid "<32>{#p/basic}* Doge has reached nirvana."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge chegou em nirvana."
 
 msgid "<32>{#p/human}* (You continue petting Doge.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você continua acariciando Doge.)"
 
 msgid "<32>{#p/basic}* Is this even legal?"
-msgstr ""
+msgstr "<32>{#p/basic}* Isso deveria ser crime de tão bom!"
 
 msgid "<32>{#p/human}* (You pet Doge some more.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você acaricia Doge ainda mais.)"
 
 msgid "<32>{#p/basic}* Doge flops on the ground."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge se joga no chão."
 
 msgid "<32>{#p/human}* (You give Doge a side rub.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você dá uma massagem lateral na Doge.)"
 
 msgid "<32>{#p/basic}* Doge is drooling..."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge está enlouquecendo..."
 
 msgid "<32>{#p/human}* (You pet Doge.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você acaricia Doge.)"
 
 msgid "<32>{#p/basic}* It continues."
-msgstr ""
+msgstr "<32>{#p/basic}* E continua."
 
 msgid "<32>{#p/human}* (But Doge was too antsy to be pet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Doge está muito impaciente para ser acariciada.)"
 
 msgid "<32>{#p/asriel2}* Doge."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Doge."
 
 msgid "<32>{#p/story}* Doge struts towards you."
-msgstr ""
+msgstr "<32>{#p/story}* Doge te puxa para trás."
 
 msgid "<32>{#p/story}* Doge studies your stance, and deems it lacking."
-msgstr ""
+msgstr "<32>{#p/story}* Doge estuda sua postura e a considera desprezível."
 
 msgid "<32>{#p/story}* Doge fiddles with her spear."
-msgstr ""
+msgstr "<32>{#p/story}* Doge brinca com sua lança."
 
 msgid "<32>{#p/story}* Doge needs a good washdown."
-msgstr ""
+msgstr "<32>{#p/story}* Doge precisa se lavar."
 
 msgid "<32>{#p/story}* Doge double-checks her stance."
-msgstr ""
+msgstr "<32>{#p/story}* Doge arruma sua postura."
 
 msgid "<32>{#p/story}* Doge is dripping wet."
-msgstr ""
+msgstr "<32>{#p/story}* Doge está suada."
 
 msgid "<32>{#p/story}* Doge's hygiene remains unchanged, much to her dismay."
 msgstr ""
+"<32>{#p/story}* A higiene de Doge permanece inalterada, para sua "
+"consternação."
 
 msgid "<32>{#p/story}* Doge thinks of her duty."
-msgstr ""
+msgstr "<32>{#p/story}* Doge pensa em sua batalha."
 
 msgid "<32>{#p/story}* Doge thinks of her colleagues."
-msgstr ""
+msgstr "<32>{#p/story}* Doge pensa em seus colegas de batalha."
 
 msgid "<32>{#p/story}* Doge seeks a little adventure."
-msgstr ""
+msgstr "<32>{#p/story}* Doge busca uma aventura."
 
 msgid "<32>{#p/story}* Doge ponders the meaning of her duty."
-msgstr ""
+msgstr "<32>{#p/story}* Doge pondera o propósito de sua batalha."
 
 msgid "<32>{#p/story}* Doge thinks of her honor."
-msgstr ""
+msgstr "<32>{#p/story}* Doge pensa em sua honra."
 
 msgid "<32>{#p/story}* Doge thinks of her friends."
-msgstr ""
+msgstr "<32>{#p/story}* Doge pensa em seus amigos."
 
 msgid "<32>{#p/story}* Doge relaxes back into her standard pose."
-msgstr ""
+msgstr "<32>{#p/story}* Doge relaxa de volta na sua posição original."
 
 msgid "<32>{#p/story}* Doge regains her composure."
-msgstr ""
+msgstr "<32>{#p/story}* Doge reganha sua compostura."
 
 msgid "<32>{#p/story}* Doge remembers an old colleague fondly."
-msgstr ""
+msgstr "<32>{#p/story}* Doge se lembra com carinho de um antigo colega."
 
 msgid "<32>{#p/story}* Doge keeps a cool head."
-msgstr ""
+msgstr "<32>{#p/story}* Doge se mantém no controle."
 
 msgid "<32>{#p/story}* Doge takes a deep breath."
-msgstr ""
+msgstr "<32>{#p/story}* Doge respira fundo."
 
 msgid "<32>{#p/story}* Doge breaks into a cold sweat."
-msgstr ""
+msgstr "<32>{#p/story}* Doge está suando frio."
 
 msgid "<32>{#p/story}* Doge seeks affection."
-msgstr ""
+msgstr "<32>{#p/story}* Doge procura carinho."
 
 msgid "<32>{#p/story}* Doge remains intent."
-msgstr ""
+msgstr "<32>{#p/story}* Doge continua na intenção."
 
 msgid "<32>{#p/story}* Doge could use a helping hand."
-msgstr ""
+msgstr "<32>{#p/story}* Doge pode usar uma mão amiga."
 
 msgid "<32>{#p/story}* Doge's breath shortens."
-msgstr ""
+msgstr "<32>{#p/story}* A respiração de Doge diminui."
 
 msgid "<32>{#p/story}* Doge just wants to be pet."
-msgstr ""
+msgstr "<32>{#p/story}* Doge só quer carinho."
 
 msgid "<32>{#p/story}* Doge is hyperventilating."
 msgstr ""
