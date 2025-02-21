@@ -1,12 +1,26 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-22 12:15+0000\n"
+"PO-Revision-Date: 2025-02-22 12:15+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
+"7-values/ru/>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10\n"
+
+#
 
 msgid "en_US"
 msgstr "ru_RU"
 
-msgid ""
-msgstr ""
 
 msgid "You must choose a name."
 msgstr "Вы должны выбрать имя."
@@ -141,89 +155,93 @@ msgid "May your stability provide a solid foundation on your journey."
 msgstr "Пусть непоколебимость станет вашим преимуществом."
 
 msgid "May the experience only add to your state of satisfaction."
-msgstr ""
+msgstr "Пусть игровой опыт удовлетворит вас."
 
 msgid "May the experience be as comforting as you desire."
-msgstr ""
+msgstr "Пусть комфорт вашей игры будет ограничен лишь вашим желанием."
 
 msgid "May the experience provide the energy you require."
-msgstr ""
+msgstr "Пусть ваш игровой опыт наполнит вас энергией."
 
 msgid "May your overflowing energy power you through your journey."
-msgstr ""
+msgstr "Пусть энергия, струящаяся сквозь вас, поможет на вашем пути."
 
 msgid "I am honored by your choice."
-msgstr ""
+msgstr "Ваш выбор — честь для меня."
 
 msgid "Let the experiment begin."
-msgstr ""
+msgstr "Да начнётся же эксперимент."
 
 msgid "The true name."
-msgstr ""
+msgstr "Настоящее имя."
 
 msgid "This name is incorrect."
-msgstr ""
+msgstr "Это имя введено неверно."
 
 msgid ""
 "............\n"
 "(They're powerless to stop you.)"
 msgstr ""
+"............\n"
+"(Они бессильны против вас.)"
 
 msgid ""
 "............\n"
 "(It's not much for conversation.)"
 msgstr ""
+"............\n"
+"(Здесь не о чём говорить.)"
 
 msgid "Hello."
-msgstr ""
+msgstr "Привет."
 
 msgid "Saddle up!"
-msgstr ""
+msgstr "Запрыгивай!"
 
 msgid "Well... I suppose that works..."
-msgstr ""
+msgstr "Ну... Думаю, это сработало..."
 
 msgid "I think you should think of your own name, my child."
-msgstr ""
+msgstr "Я думаю, тебе следует подумать над собственным именем, моё дитя."
 
 msgid "Really..."
-msgstr ""
+msgstr "Серьёзно..."
 
 msgid "Nice try, idiot."
-msgstr ""
+msgstr "Хорошая попытка, идиот."
 
 msgid "Don't you mean \"Eyewalker?\""
-msgstr ""
+msgstr "Ты хотел сказать «глазомер»?"
 
 msgid "Check out my antenna!"
-msgstr ""
+msgstr "Зацени мою антенну!"
 
 msgid "Guh huh huh, nice one."
-msgstr ""
+msgstr "Га-ха-ха, это хорошее."
 
 msgid "Huh? What's that smell?"
-msgstr ""
+msgstr "Хм? Что это за запах?"
 
 msgid "It's m-moving! I-I-It's shaking!"
-msgstr ""
+msgstr "Оно д-движется! О-оно трясётся!"
 
 msgid "Jerry."
-msgstr ""
+msgstr "Джерри."
 
 msgid "(The dog jumped into your lap.)"
-msgstr ""
+msgstr "(Собака запрыгнула к вам на колени.)"
 
 msgid "(Pant pant)"
 msgstr ""
 
 msgid "I'LL ALLOW IT!!!!"
-msgstr ""
+msgstr "Я РАЗРЕШАЮ!!!"
 
 msgid "ok."
-msgstr ""
+msgstr "лан."
 
 msgid "nope."
-msgstr ""
+msgstr "не."
 
 msgid "A \"stellar\" choice."
 msgstr ""
@@ -232,65 +250,69 @@ msgid "A pleasing nomenclature, no?"
 msgstr ""
 
 msgid "I am not amused."
-msgstr ""
+msgstr "Мне не смешно."
 
 msgid "Roar."
-msgstr ""
+msgstr "Равр."
 
 msgid "Wah ha ha! Why not?"
-msgstr ""
+msgstr "Вах-ха-ха! Почему нет?"
 
 msgid "What. What! WHAT!"
-msgstr ""
+msgstr "Что. Что! ЧТО!"
 
 msgid "That's my name!!"
-msgstr ""
+msgstr "Это моё имя!"
 
 msgid ""
 "Ahuhuhu~\n"
 "You must have great taste, dearie~"
 msgstr ""
+"Аху-ху-ху~\n"
+"У тебя отличный вкус, дорогуша~"
 
 msgid ""
 "Hey!\n"
 "Only Skrubby gets to call me that!"
 msgstr ""
+"Эй!\n"
+"Только Чистику позволено так меня называть!"
 
 msgid "Sorry, but you're a letter shy."
-msgstr ""
+msgstr "Прошу прощения, но вы очень скупы на буквы."
 
 msgid "...?"
-msgstr ""
+msgstr "?.."
 
 msgid "Clean name."
 msgstr ""
 
 msgid "hOI!"
-msgstr ""
+msgstr "пРИФ!"
 
 msgid "Ngah, fine."
-msgstr ""
+msgstr "Нгах, отлично."
 
 msgid "Get your OWN name!"
-msgstr ""
+msgstr "Добудь себе СВОЁ имя!"
 
 msgid "Uh.... OK?"
 msgstr ""
 
 msgid "D-don't do that."
-msgstr ""
+msgstr "Н-не делай этого."
 
 msgid "You are really scraping the bottom of the barrel."
 msgstr ""
 
 msgid "Like, OK I guess."
-msgstr ""
+msgstr "Типа, окей, наверное..."
 
 msgid "You like my name, little buddy?"
-msgstr ""
+msgstr "Понравилось моё имя, мелочь?"
 
 msgid "Bratty! Bratty! That's MY name!"
-msgstr ""
+msgstr "Брэтти! Брэтти! Это же МОЁ имя!"
 
 msgid "A fellow wizard?"
 msgstr ""
@@ -302,37 +324,37 @@ msgid "Now you're just being rude, darling."
 msgstr ""
 
 msgid "OOOOH!!! ARE YOU PROMOTING MY BRAND?"
-msgstr ""
+msgstr "О-О-О-Х!!! ТЫ ПРОДВИГАЕШЬ МОЙ БРЭНД?"
 
 msgid "Is this name correct? ;)"
-msgstr ""
+msgstr "Вы уверены в своём выборе? ;)"
 
 msgid "Hot, but not hot enough."
-msgstr ""
+msgstr "Горячо, но недостаточно."
 
 msgid "You don't have to do that..."
-msgstr ""
+msgstr "Не стоит этого делать..."
 
 msgid "You KNEW!?"
-msgstr ""
+msgstr "Ты ЗНАЛ?!"
 
 msgid "Respect my AUTHORITY!"
 msgstr ""
 
 msgid "Ahh! Thank you~"
-msgstr ""
+msgstr "Аах! Спасибо~"
 
 msgid "Thanks for, uh, using my name."
-msgstr ""
+msgstr "Спасибо, что, эм, используешь моё имя."
 
 msgid "You can?"
-msgstr ""
+msgstr "Ты можешь?"
 
 msgid "You cannot."
-msgstr ""
+msgstr "Ты не можешь."
 
 msgid "... fine."
-msgstr ""
+msgstr "...пусть так."
 
 msgid "..."
-msgstr ""
+msgstr "..."
