@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-23 15:12+0000\n"
+"PO-Revision-Date: 2025-02-23 15:12+0000\n"
+"Last-Translator: Chicken <isazacek08@gmail.com>\n"
+"Language-Team: Czech <https://ws3917.hbms.me/projects/ps-outertale/0-systems/"
+"cs/>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Zhluboka se nadechnete.)"
@@ -72,7 +87,7 @@ msgid ""
 msgstr ""
 "<32>{#p/story}* VYHRÁLI JSTE!\n"
 "* Dostali jste $(x) BP a $(y)Z.\n"
-"* Vaše ÚN vzrostla."
+"* Vaše LÁSKA vzrostla."
 
 msgid "ERROR"
 msgstr "CHYBA"
@@ -615,14 +630,12 @@ msgstr "§fill=#ff0§< VÝVOJÁŘ >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< SPISOVATEL >§fill=#fff§"
 
 msgid "Aster"
-msgstr ""
+msgstr "Aster"
 
 msgid "Balgamlı Kedi"
 msgstr "Balgamlı Kedi"
@@ -2273,7 +2286,7 @@ msgid "[PRESS Z OR ENTER]"
 msgstr "[STISKNĚTE Z NEBO ENTER]"
 
 msgid "LV"
-msgstr "ÚN"
+msgstr "LS"
 
 msgid ""
 "§mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz§aaaaaa§mystify=§"
@@ -2338,7 +2351,7 @@ msgid "Go back"
 msgstr "Zpět"
 
 msgid "OUTERTALE V5.05 (c) 2025 SPACEY_432"
-msgstr ""
+msgstr "OUTERTALE V5.05 (c) 2025 SPACEY_432"
 
 msgid "* (HP fully restored.)"
 msgstr "* (ZB plně obnoveno.)"
@@ -2407,7 +2420,7 @@ msgid "EXIT"
 msgstr "EXIT"
 
 msgid "-> LANGUAGE & MUSIC"
-msgstr ""
+msgstr "-> JAZYK & HUBDA"
 
 msgid "LANGUAGE"
 msgstr "JAZYK"
@@ -2443,7 +2456,7 @@ msgid "REDUCED"
 msgstr "REDUKOVANÝ"
 
 msgid "MOBILE SETTINGS"
-msgstr ""
+msgstr "MOBILNÍ NASTAVENÍ"
 
 msgid "DEADZONE"
 msgstr "MRTVÁ ZÓNA"
@@ -2455,7 +2468,7 @@ msgid "RESTART"
 msgstr "RESTARTOVAT"
 
 msgid "GAME BORDER"
-msgstr ""
+msgstr "HRA HRANICE"
 
 msgid "DYNAMIC"
 msgstr ""
@@ -2467,55 +2480,55 @@ msgid "STAR"
 msgstr ""
 
 msgid "OUTLANDS"
-msgstr ""
+msgstr "OUTLANDS"
 
 msgid "TORIEL HOME"
 msgstr ""
 
 msgid "STARTON"
-msgstr ""
+msgstr "STARTON"
 
 msgid "FOUNDRY"
-msgstr ""
+msgstr "FOUNDRY"
 
 msgid "AERIALIS"
-msgstr ""
+msgstr "AERIALIS"
 
 msgid "REC CENTER"
-msgstr ""
+msgstr "REC CENTRUM"
 
 msgid "CORE"
-msgstr ""
+msgstr "JÁDRO"
 
 msgid "CITADEL"
-msgstr ""
+msgstr "CITADEL"
 
 msgid "ASGORE HOME"
 msgstr ""
 
 msgid "ARCHIVE SIX"
-msgstr ""
+msgstr "ARCHIV ŠEST"
 
 msgid "OUTLANDS (ARCHIVE)"
-msgstr ""
+msgstr "OUTLANDS (ARCHIV)"
 
 msgid "STARTON (ARCHIVE)"
-msgstr ""
+msgstr "STARTON (ARCHIV)"
 
 msgid "FOUNDRY (ARCHIVE)"
-msgstr ""
+msgstr "FOUNDRY (ARCHIV)"
 
 msgid "AERIALIS (ARCHIVE)"
-msgstr ""
+msgstr "AERIALIS (ARCHIV)"
 
 msgid "ASRIEL BATTLE"
-msgstr ""
+msgstr "ASRIEL BITVA"
 
 msgid "NEW WORLD"
-msgstr ""
+msgstr "NOVÝ SVĚT"
 
 msgid "§fill=#808080§(LOCKED)"
-msgstr ""
+msgstr "§fill=#808080§(ZAMČENO)"
 
 msgid "MOBILE CTRLS"
 msgstr ""
@@ -2554,58 +2567,58 @@ msgid "--- SELECT PROFILE ---"
 msgstr ""
 
 msgid "--- GENERAL SETTINGS ---"
-msgstr ""
+msgstr "-- GENERÁLNÍ NASTAVENÍ --"
 
 msgid "--- CONTROL SETTINGS ---"
-msgstr ""
+msgstr "-- OVLÁDÁNÍ NASTAVENÍ --"
 
 msgid "--- MODIFY BUTTONS ---"
 msgstr ""
 
 msgid "NEXT PAGE >"
-msgstr ""
+msgstr "DALŠI STRÁNKA >"
 
 msgid "< PREVIOUS PAGE"
-msgstr ""
+msgstr "< PŘEDCHOZÍ STRÁNKA"
 
 msgid "[Z]"
-msgstr ""
+msgstr "[Z]"
 
 msgid "[X]"
-msgstr ""
+msgstr "[X]"
 
 msgid "[C]"
-msgstr ""
+msgstr "[C]"
 
 msgid "[←↑→↓]"
-msgstr ""
+msgstr "[←↑→↓]"
 
 msgid "[↖↗↘↙]"
-msgstr ""
+msgstr "[↖↗↘↙]"
 
 msgid "[←]"
-msgstr ""
+msgstr "[←]"
 
 msgid "[↑]"
-msgstr ""
+msgstr "[↑]"
 
 msgid "[→]"
-msgstr ""
+msgstr "[→]"
 
 msgid "[↓]"
-msgstr ""
+msgstr "[↓]"
 
 msgid "[↖]"
-msgstr ""
+msgstr "[↖]"
 
 msgid "[↗]"
-msgstr ""
+msgstr "[↗]"
 
 msgid "[↘]"
-msgstr ""
+msgstr "[↘]"
 
 msgid "[↙]"
-msgstr ""
+msgstr "[↙]"
 
 msgid "SHOW FULLSCREEN BUTTON"
 msgstr ""
@@ -2629,9 +2642,11 @@ msgid ""
 "§fill=#ffd700§>> §fill=#fff§EDITING: §fill=#00ffff§$(x) §fill=#808080§(Press"
 " [R] to reset)"
 msgstr ""
+"§fill=#ffd700§>> §fill=#fff§EDITING: §fill=#00ffff§$(x) §fill=#808080§("
+"Stiskni [R] pro reset)"
 
 msgid "§fill=#fff§PROGRESS: §fill=#00ffff§($(x)§fill=#fff§/§fill=#00ffff§3)"
-msgstr ""
+msgstr "§fill=#fff§PROGRESS: §fill=#00ffff§($(x)§fill=#fff§/§fill=#00ffff§3)"
 
 msgid " [1] Initial Button Placement"
 msgstr ""
@@ -2655,7 +2670,7 @@ msgid ""
 msgstr ""
 
 msgid "§fill=#4169e1§--- INSTRUCTION ---"
-msgstr ""
+msgstr "§fill=#4169e1§--- INSTRUKCE ---"
 
 msgid ""
 "§fill=#fff§* Drag §fill=#00ffff§$(x)§fill=#fff§ to set initial position\n"
@@ -2684,7 +2699,7 @@ msgid ""
 msgstr ""
 
 msgid "§fill=#4169e1§-> §fill=#fff§SIZE: §fill=#00ffff§$(x)"
-msgstr ""
+msgstr "§fill=#4169e1§-> §fill=#fff§VELK.: §fill=#00ffff§$(x)"
 
 msgid ""
 "§fill=#ff0§Press [Z]§fill=#808080§ to reset your settings to default.\n"
