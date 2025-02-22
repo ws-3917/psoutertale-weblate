@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-23 15:12+0000\n"
+"PO-Revision-Date: 2025-02-23 15:12+0000\n"
+"Last-Translator: Chicken <isazacek08@gmail.com>\n"
+"Language-Team: Czech <https://ws3917.hbms.me/projects/ps-outertale/2-starton/"
+"cs/>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -241,7 +256,7 @@ msgid "Track 01"
 msgstr "Trasa 01"
 
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgid "Track 02"
 msgstr "Trasa 02"
@@ -313,6 +328,9 @@ msgid ""
 "* ...\n"
 "* ..."
 msgstr ""
+"<32>{#p/basic}* ...\n"
+"* ...\n"
+"* ..."
 
 msgid "<32>{#npc/a}* Grillbz says he's heard this song somewhere before."
 msgstr "<32>{#npc/a}* Grillbz říká, že tuhle píseň už někde slyšel."
@@ -447,7 +465,7 @@ msgid "<32>{#p/asriel2}* Fight... the ideal choice."
 msgstr "<32>{#p/asriel2}* Boj... ideální volbou."
 
 msgid "<32>{#p/asriel2}* Hee hee hee..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Hee hee hee..."
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/27}SANS!\n"
@@ -460,13 +478,13 @@ msgid "<20>{#p/sans}papyrus, didn't i tell you to stay at home?"
 msgstr "<20>{#p/sans}papyrus, neříkal jsem ti, abys zůstal doma?"
 
 msgid "{*}{#e/papyrus/21}{%}"
-msgstr ""
+msgstr "{*}{#e/papyrus/21}{%}"
 
 msgid "<20>{#p/sans}... don't worry bro, it's just yamok sauce."
 msgstr "<20>{#p/sans}... Neboj se, brácho, je to jen yamok omáčka."
 
 msgid "{*}{#e/papyrus/26}{%}"
-msgstr ""
+msgstr "{*}{#e/papyrus/26}{%}"
 
 msgid "<15>{#p/papyrus}{#e/papyrus/21}BUT YOU'RE HURT..."
 msgstr "<15>{#p/papyrus}{#e/papyrus/21}ALE JSI ZRANĚNÝ..."
@@ -484,7 +502,7 @@ msgid "<20>guess that's it, huh?"
 msgstr "<20>to je asi ono, co?"
 
 msgid "<20>..."
-msgstr ""
+msgstr "<20>..."
 
 msgid "<20>just..."
 msgstr "<20>jen..."
@@ -722,7 +740,7 @@ msgid "<32>{#p/human}{#s/equip}* (You got the Ice Dream.)"
 msgstr "<32>{#p/human}{#s/equip}* (Dostali jste ledový sen.)"
 
 msgid "<32>{#p/human}* (...)"
-msgstr ""
+msgstr "<32>{#p/human}* (...)"
 
 msgid "<32>{#p/human}* (You're carrying too much to reach inside.)"
 msgstr "<32>{#p/human}* (Neseš toho příliš mnoho, než abys dosáhl dovnitř.)"
@@ -766,7 +784,7 @@ msgid "<18>{#p/papyrus}ENJOYING THE VIEW?"
 msgstr ""
 
 msgid "* (What do you say?)"
-msgstr ""
+msgstr "* (Co říkáš?)"
 
 msgid ""
 "<18>{#p/papyrus}{#f/9}GOOD!\n"
@@ -911,13 +929,13 @@ msgid "<32>{#p/basic}* It's an exoberry-exclusive vending machine."
 msgstr ""
 
 msgid "* (Buy the Exoberries for 8G?)"
-msgstr ""
+msgstr "* (Koupit Exobobule za 8Z?)"
 
 msgid "<32>{#p/human}* (You don't have enough G.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You got the Exoberries.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Získal jsi Exobobule.)"
 
 msgid "<32>{#p/human}* (You decide not to buy.)"
 msgstr ""
@@ -1014,7 +1032,7 @@ msgid "<25>{#f/3}* i knew i should have used today's kakuro puzzle instead."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/1}WHAT!? KAKURO!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}COŽE!? KAKURO!?"
 
 msgid "<18>{#f/9}I CAN'T BELIEVE YOU SAID THAT!!"
 msgstr ""
@@ -1249,7 +1267,7 @@ msgid "<25>{*}{#p/asriel2}{#f/5}* Howdy!{^5}{%}"
 msgstr ""
 
 msgid "<18>{*}{#p/papyrus}{#f/1}WHAT THE- {%}"
-msgstr ""
+msgstr "<18>{*}{#p/papyrus}{#f/1}CO TO- {%}"
 
 msgid "<25>{#p/asriel2}{#f/13}* ... $(name), do you..."
 msgstr ""
@@ -1353,7 +1371,7 @@ msgstr ""
 
 msgid ""
 "<25>{#f/4}* Golly, $(name), I didn't think you'd kill him THAT quickly."
-msgstr ""
+msgstr "<25>{#f/4}* Sakra, $(name), nemyslel jsem že zabiješ ho TAK rychle."
 
 msgid ""
 "<25>{#f/1}* It's about time that bonehead paid the price for his mercy."
@@ -1670,7 +1688,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/7}WHATEVER!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}COKOLIV!!!"
 
 msgid "<25>{#p/asriel2}{#f/3}* Howdy."
 msgstr ""
@@ -1751,7 +1769,7 @@ msgid "<18>{|}{#f/5}WELL, HERE ARE THE RULES OF THE- {%}"
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/7}* We already know the rules, idiot."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/7}* Už známe pravidly, idiote."
 
 msgid "<18>{#p/papyrus}{#f/31}... OH..."
 msgstr ""
@@ -2065,7 +2083,7 @@ msgid "<32>* There's bound to be a place you can stay there!"
 msgstr ""
 
 msgid "<25>{#p/kidd}{#f/1}* What's up?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Co se děje?"
 
 msgid "<25>{#p/kidd}{#f/1}* Yo, howzzitgoin?"
 msgstr ""
@@ -2384,7 +2402,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/1}WHAT!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}COŽE!?"
 
 msgid "<18>{#f/7}HOW DID YOU MANAGE TO DO THAT!?!?"
 msgstr ""
@@ -2436,7 +2454,7 @@ msgid "<25>{#p/sans}* dang, i didn't know you thought THAT highly of me."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}WHAT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}COŽE."
 
 msgid "<25>{|}{#p/sans}* like, if even SHE can't do it, then- {%}"
 msgstr ""
@@ -4984,8 +5002,6 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
@@ -13167,7 +13183,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/21}IDIOT..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}IDIOT..."
 
 msgid "<15>{#p/papyrus}{#f/21}SHOOT FOR THE STARS..."
 msgstr ""
@@ -13335,31 +13351,31 @@ msgid ""
 msgstr ""
 
 msgid "<11>{#p/asgore}{#f/2}..."
-msgstr ""
+msgstr "<11>{#p/asgore}{#f/2}..."
 
 msgid "<11>{#f/1}I am not really here, Asriel."
-msgstr ""
+msgstr "<11>{#f/1}Nejsem opravdu tady, Asriel."
 
 msgid "<11>{#f/2}It's just a projection."
 msgstr ""
 
 msgid "* Asgore"
-msgstr ""
+msgstr "* Asgore"
 
 msgid "<32>{#p/asriel2}* Kill him, $(name)."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Zabij ho, $(name)."
 
 msgid "A small branch of semi-translucent berries."
 msgstr ""
 
 msgid "Exoberries"
-msgstr ""
+msgstr "Exobobule"
 
 msgid "<32>{#p/human}* (You throw away the Exoberries.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (7 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (7 ZB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Exoberries\" Heals 7 HP\n"
@@ -13373,19 +13389,19 @@ msgid "Fresh exoberries, bathed in a sea of moist Jell-O."
 msgstr ""
 
 msgid "Berry Pie"
-msgstr ""
+msgstr "Bobule Koláč"
 
 msgid "<32>{#p/human}* (You throw away the Exoberry Pie.)"
 msgstr ""
 
 msgid "<32>{#p/napstablook}* ......... huh?"
-msgstr ""
+msgstr "<32>{#p/napstablook}* ......... co?"
 
 msgid "<32>{#p/napstablook}* oh.................."
-msgstr ""
+msgstr "<32>{#p/napstablook}* oh.................."
 
 msgid "<32>{#p/human}* (99 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (99 ZB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Exoberry Pie\" Heals 99 HP\n"
@@ -13393,7 +13409,7 @@ msgid ""
 msgstr ""
 
 msgid "Exoberry Pie"
-msgstr ""
+msgstr "Exobobule Koláč"
 
 msgid "<32>{#p/human}* (You eat the Exoberry Pie.)"
 msgstr ""
@@ -13407,7 +13423,7 @@ msgid "Please take this to the edge of the galaxy."
 msgstr ""
 
 msgid "Chip"
-msgstr ""
+msgstr "Čip"
 
 msgid "<32>{#p/human}* (You throw away the Computer Chip.)"
 msgstr ""
@@ -13426,7 +13442,7 @@ msgid ""
 msgstr ""
 
 msgid "Computer Chip"
-msgstr ""
+msgstr "Počítačový Čip"
 
 msgid "<32>{#p/human}* (You bit into the Computer Chip.)"
 msgstr ""
@@ -13441,13 +13457,13 @@ msgid "A portable force field."
 msgstr ""
 
 msgid "Emitter"
-msgstr ""
+msgstr "Vysílač"
 
 msgid "<32>{#p/human}* (You throw away the Field Emitter.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (7 DF.)"
-msgstr ""
+msgstr "<32>{#p/human}* (7 OB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Field Emitter\" (7 DF)\n"
@@ -13464,10 +13480,10 @@ msgid "A somewhat underpowered portable force field."
 msgstr ""
 
 msgid "Emitter?"
-msgstr ""
+msgstr "Vysílač?"
 
 msgid "<32>{#p/human}* (5 DF.)"
-msgstr ""
+msgstr "<32>{#p/human}* (5 OB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Field Emitter?\" (5 DF)\n"
@@ -13487,7 +13503,7 @@ msgid "<32>{#p/human}* (You fold the Ghost Fruit in on itself.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (15 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (15 ZB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Ghost Fruit\" Heals 15 HP\n"
@@ -13546,7 +13562,7 @@ msgid "<32>{#p/human}* (You rid yourself of the Milkshake.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (18 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (18 ZB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Milkshake\" Heals 18 HP\n"
@@ -13647,7 +13663,7 @@ msgid "<32>{#p/human}* (You throw away the Vortex Pop.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (11 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (11 ZB.)"
 
 msgid ""
 "<33>{#p/basic}* \"Vortex Pop\" Heals 11 HP\n"
@@ -13780,7 +13796,7 @@ msgid "<25>{#f/2}* more for me, i guess."
 msgstr ""
 
 msgid "<32>{#p/human}* (16 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (16 ZB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Spaghetti\" Heals 16 HP\n"
@@ -13948,7 +13964,7 @@ msgid "<32>{#p/human}* (You throw away the Radiant Swirl.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (22 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (22 ZB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Radiant Swirl\" Heals 22 HP\n"
@@ -14046,7 +14062,7 @@ msgid "<32>{#p/human}* (You tossed the Flamin' Grillby like a molotov.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (30 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (30 ZB.)"
 
 msgid ""
 "<32>{#p/basic}* \"Flamin' Grillby\" Heals 30 HP\n"
@@ -19396,7 +19412,7 @@ msgid "<18>{#p/papyrus}{#f/5}SINCE HE ENJOYED THE JOB SO MUCH."
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/7}* I am GOING to kill her."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/7}* Zabiju ji."
 
 msgid "<18>{#p/papyrus}{#f/5}BUT YOU DON'T EVEN KNOW IF SHE TRACKED YOU YET!"
 msgstr ""
