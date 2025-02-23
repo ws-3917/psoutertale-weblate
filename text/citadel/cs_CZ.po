@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-24 01:19+0000\n"
+"PO-Revision-Date: 2025-02-24 01:19+0000\n"
+"Last-Translator: Chicken <isazacek08@gmail.com>\n"
+"Language-Team: Czech <https://ws3917.hbms.me/projects/ps-outertale/5-citadel/"
+"cs/>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr "<32>{#p/human}* (Cítíte, jak se ve vás shromažďuje temnota.)"
@@ -851,6 +866,8 @@ msgid ""
 "<18>{#p/papyrus}{#f/5}HELLO?\n"
 "IS ANYONE THERE?"
 msgstr ""
+"<18>{#p/papyrus}{#f/5}AHOJ?\n"
+"JE NĚKDO TADY?"
 
 msgid "<18>{#p/papyrus}{#f/5}I'VE BEEN LOOKING AROUND FOR THE HUMAN, AND..."
 msgstr ""
@@ -865,7 +882,7 @@ msgid "<18>{#p/papyrus}{#f/4}I'VE GOT A BAD FEELING ABOUT THIS.{%40}"
 msgstr ""
 
 msgid "<32>{#p/basic}* ... hello?{%40}"
-msgstr ""
+msgstr "<32>{#p/basic}* ... ahoj?{%40}"
 
 msgid "<32>{#p/basic}{#s/spiderLaugh}* Keep it steady, dearies~"
 msgstr ""
@@ -1782,7 +1799,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/0}{#npc/a}HELLO THERE, FRISK!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}{#npc/a}AHOJ, FRISKU!"
 
 msgid "<18>{#f/9}I'M ONLY PREPARING THE GREATEST DISH I'VE EVER MADE!"
 msgstr ""
@@ -5353,7 +5370,7 @@ msgid "<25>{*}* ... die.{^10}{%}"
 msgstr ""
 
 msgid "<99>{#p/twinkly}{#v/1}Hello, $(name).{^100}{%}"
-msgstr ""
+msgstr "<99>{#p/twinkly}{#v/1}Ahoj, $(name).{^100}{%}"
 
 msgid "<99>{#p/twinkly}{#v/1}Welcome to your new reality.{^100}{%}"
 msgstr ""
@@ -6140,7 +6157,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/kidd}{#f/4}* Hello?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/4}* Haló?"
 
 msgid "<25>{#f/4}* Is someone there...?"
 msgstr ""
@@ -6531,7 +6548,7 @@ msgid "<25>{#p/toriel}* Oh, there you are, little one!"
 msgstr ""
 
 msgid "<25>{#f/5}* ... hello, Asgore."
-msgstr ""
+msgstr "<25>{#f/5}* ... ahoj, Asgore."
 
 msgid "<25>{#p/asgore}{#f/1}* Howdy."
 msgstr ""
@@ -6707,7 +6724,7 @@ msgid "<18>{#p/papyrus}HEY GUYS!"
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/1}* ... oh, hello!"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* ... ach, ahoj!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}HELLO!\n"
@@ -7719,6 +7736,8 @@ msgid ""
 "<25>{#p/alphys}{#g/alphysCutscene3}* Hello?\n"
 "* Are you there?"
 msgstr ""
+"<25>{#p/alphys}{#g/alphysCutscene3}* Haló?\n"
+"* Jsi tady?"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysYeahYouKnowWhatsUp}* We're...\n"
@@ -7834,6 +7853,8 @@ msgid ""
 "<25>{#p/toriel}{#f/5}* Hello?\n"
 "* This is TORIEL."
 msgstr ""
+"<25>{#p/toriel}{#f/5}* Haló?\n"
+"* To je TORIEL."
 
 msgid "<25>* You must be very far along by now."
 msgstr ""
@@ -8079,7 +8100,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}{#v/5}{@fill=#00c000}* Hello?"
-msgstr ""
+msgstr "<32>{#p/human}{#v/5}{@fill=#00c000}* Haló?"
 
 msgid "<32>{#p/human}* (You're carrying too much.)"
 msgstr ""
@@ -8506,12 +8527,14 @@ msgid ""
 "<32>{#p/human}{#v/2}{@fill=#ff993d}* Hello?\n"
 "* Is anyone there?"
 msgstr ""
+"<32>{#p/human}{#v/2}{@fill=#ff993d}* Haló?\n"
+"* Je někdo tady?"
 
 msgid "<32>{@fill=#ff993d}* ..."
 msgstr ""
 
 msgid "<32>{@fill=#ff993d}* HELLO!?!?"
-msgstr ""
+msgstr "<32>{@fill=#ff993d}* HALÓ!?!?"
 
 msgid ""
 "<32>{@fill=#ff993d}* ...\n"
@@ -8578,6 +8601,8 @@ msgid ""
 "<32>{#s/bark}{#p/event}* {@mystify=Bark}Bark{@mystify=}!\n"
 "{#s/bark}* {@mystify=Bark}Bark{@mystify=}!"
 msgstr ""
+"<32>{#s/bark}{#p/event}* {@mystify=Bark}Štěk{@mystify=}!\n"
+"{#s/bark}* {@mystify=Bark}Štěk{@mystify=}!"
 
 msgid ""
 "<32>{#p/basic}* (The sound, higher!)\n"
@@ -8591,7 +8616,7 @@ msgid "<32>{#p/basic}* (Can you join the poles in each dimension?)"
 msgstr ""
 
 msgid "<32>{#s/bark}{#p/event}* {@mystify=Bark}Bark{@mystify=}!"
-msgstr ""
+msgstr "<32>{#s/bark}{#p/event}* {@mystify=Bark}Štěk{@mystify=}!"
 
 msgid "<32>{#p/basic}* (Good luck!)"
 msgstr ""
@@ -13536,8 +13561,6 @@ msgstr ""
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "N/A"
 msgstr ""
