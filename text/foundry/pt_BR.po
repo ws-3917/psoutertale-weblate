@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-16 12:24+0000\n"
-"PO-Revision-Date: 2025-02-21 11:19+0000\n"
+"PO-Revision-Date: 2025-02-25 12:12+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/3-foundry/pt_BR/>\n"
@@ -13633,1846 +13633,2130 @@ msgid "<32>{#p/story}* Doge just wants to be pet."
 msgstr "<32>{#p/story}* Doge só quer carinho."
 
 msgid "<32>{#p/story}* Doge is hyperventilating."
-msgstr ""
+msgstr "<32>{#p/story}* Doge está hiperventilando."
 
 msgid "<32>{#p/story}* Doge is satisfied."
-msgstr ""
+msgstr "<32>{#p/story}* Doge está satisfeita."
 
 msgid "<32>{#p/story}* Doge stands patiently before you in surrender."
 msgstr ""
+"<32>{#p/story}* Doge fica pacientemente parada próxima de você em redenção."
 
 msgid "<11>{#p/basic}{~}I know what you've been doing."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu sei o que você fez."
 
 msgid "<11>{#p/basic}{~}The captain warned us about your arrival."
-msgstr ""
+msgstr "<11>{#p/basic}{~}A capitã nos avisou de sua chegada."
 
 msgid "<11>{#p/basic}{~}All those you two have hurt together..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Todos que vocês dois feriram juntos..."
 
 msgid "<11>{#p/basic}{~}Have you truly lost yourselves this badly?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Vocês realmente se perderam tanto assim?"
 
 msgid "<11>{#p/basic}{~}All that carnage..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Toda aquela carnificina..."
 
 msgid "<11>{#p/basic}{~}Did you ever once feel remorse?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você se sentiu mau ao menos uma vez?"
 
 msgid "<11>{#p/basic}{~}The canine unit..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}A unidade canina..."
 
 msgid "<11>{#p/basic}{~}You killed them all!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você matou todos eles!"
 
 msgid "<11>{#p/basic}{~}As such, I have been on extended patrol."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Por tempo, eu estive na patrulha."
 
 msgid "<11>{#p/basic}{~}Mind you... it is quite dirty here."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Como pode ver... está meio empoeirado aqui."
 
 msgid "<11>{#p/basic}{~}It is a difficult conclusion to avoid..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}É conclusão difícil de evitar..."
 
 msgid "<11>{#p/basic}{~}But I see no alterna- tive."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas eu não vejo outra alternativa."
 
 msgid "<11>{#p/basic}{~}You could have surrendered at any moment..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você poderia ter se rendido a qualquer momento..."
 
 msgid "<11>{#p/basic}{~}Yet you chose violence."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ainda assim você escolheu a violência."
 
 msgid "<11>{#p/basic}{~}How pleasant..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Que agradável..."
 
 msgid "<11>{#p/basic}{~}But we are ELITE squad members, I suppose."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas nós somos membros do esquadrão de ELITE."
 
 msgid "<11>{#p/basic}{~}We must adapt to any situation."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Devemos nos adaptar a qualquer situação."
 
 msgid "<11>{#p/basic}{~}When I first joined the ELITE squad..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Quando eu me juntei ao esquadrão de ELITE..."
 
 msgid "<11>{#p/basic}{~}Part of me doubted Undyne's stance on humans..."
 msgstr ""
+"<11>{#p/basic}{~}Parte de mim duvidou dos conceitos dados por Undyne sobre "
+"humanos..."
 
 msgid "<11>{#p/basic}{~}Too much water in my hair..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Muita água no meu cabelo..."
 
 msgid "<11>{#p/basic}{~}When I asked to join the ELITE squad..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Quando eu pedi para entrar no esquadrão de ELITE..."
 
 msgid "<11>{#p/basic}{~}I never imagined I'd make it in."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu nunca imaginei que conseguiria uma vaga."
 
 msgid "<11>{#p/basic}{~}But after what you've done..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas após o que você fez..."
 
 msgid "<11>{#p/basic}{~}There's no more doubt in my mind."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Não existe mais dúvida em minha mente."
 
 msgid ""
 "<11>{#p/basic}{~}Well.\n"
 "Nothing beats a nice walk."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Bem. Nada ganha de uma bela caminhada."
 
 msgid "<11>{#p/basic}{~}{#f.batmusic1}Just a moment."
-msgstr ""
+msgstr "<11>{#p/basic}{~}{#f.batmusic1}Só um momento."
 
 msgid "<11>{#p/basic}{~}..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}..."
 
 msgid "<11>{#p/basic}{~}\\x00*whips around*"
-msgstr ""
+msgstr "<11>{#p/basic}{~}\\x00*balança ao redor*"
 
 msgid "<11>{#p/basic}{~}\\x00*whipping continues*"
-msgstr ""
+msgstr "<11>{#p/basic}{~}\\x00*chicotadas continuam*"
 
 msgid "<11>{#p/basic}{~}\\x00*shakes off*"
-msgstr ""
+msgstr "<11>{#p/basic}{~}\\x00*balança*"
 
 msgid ""
 "<11>{#p/basic}{~}There, all dry now.\n"
 "Back to fighting, yes?"
 msgstr ""
+"<11>{#p/basic}{~}Pronto, sequinha.\n"
+"Vamos voltar para a luta?"
 
 msgid "{*}{#f.batmusic2}{%}"
-msgstr ""
+msgstr "{*}{#f.batmusic2}{%}"
 
 msgid "<11>{#p/basic}{~}But after that dummy called it quits..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas após aquele boneco sair..."
 
 msgid "<11>{#p/basic}{~}I became the next in line."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu me tornei a próxima na lista."
 
 msgid "<11>{#p/basic}{~}And you, Asriel... a traitor to your own kind..."
 msgstr ""
+"<11>{#p/basic}{~}E você, Asriel... um traidor para sua própria espécie..."
 
 msgid "<11>{#p/basic}{~}It is hard to believe you were once to be our king."
-msgstr ""
+msgstr "<11>{#p/basic}{~}É difícil acreditar que você seria nomeado nosso rei."
 
 msgid "<11>{#p/basic}{~}It would be wise for you to surrender."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Seria inteligente da sua parte se render."
 
 msgid "<11>{#p/basic}{~}Not that you know how."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Não que você saiba como."
 
 msgid "<12>{#p/basic}{~}Doggo was the newest recruit to the canines."
-msgstr ""
+msgstr "<12>{#p/basic}{~}Doggo foi o mais novo recruta da unidade canina."
 
 msgid "<11>{#p/basic}{~}Some saw his blindness as a weakness..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Alguns viram sua cegueira como uma fraqueza..."
 
 msgid "<11>{#p/basic}{~}But he had so much promise."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas ele prometeu muito."
 
 msgid "<11>{#p/basic}{~}You've sure been walking for a while."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você com certeza tem andando faz um tempo."
 
 msgid "<11>{#p/basic}{~}How much stamina do YOU have?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Quanta energia você Tem?"
 
 msgid ""
 "<11>{#p/basic}{~}Apologies.\n"
 "There is much on my mind."
 msgstr ""
+"<11>{#p/basic}{~}Desculpa.\n"
+"Tem muito na minha cabeça."
 
 msgid "<11>{#p/basic}{~}It has been a difficult line of work..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Tem sido uma linha difícil de trabalho..."
 
 msgid "<11>{#p/basic}{~}Even Undyne herself has moments of doubt."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Até mesmo Undyne tem seus momentos de dúvida."
 
 msgid "<11>{#p/basic}{~}... do not tell her I shared that."
-msgstr ""
+msgstr "<11>{#p/basic}{~}... não conte a ele que eu te disse isso."
 
 msgid "<11>{#p/basic}{~}Is this really the fate that befalls us?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Este é realmente o destino que nos pertence?"
 
 msgid "<11>{#p/basic}{~}A vile prince and his human partner..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Um príncipe vilão e o seu parceiro humano..."
 
 msgid "<11>{#p/basic}{~}... on a mission to kill us all?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}... em uma missão para matar todos nós?"
 
 msgid "<11>{#p/basic}{~}For life, you show nothing but contempt."
 msgstr ""
+"<11>{#p/basic}{~}Pela vida, você não tem mostrado nada além de desprezo."
 
 msgid "<11>{#p/basic}{~}At every turn, you treat us as inferior."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Em cada momento, você nos tratou como inferiores."
 
 msgid "<11>{#p/basic}{~}Canis Minor was Canis Major's underling."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Canis Minor era o subordinado de Canis Major."
 
 msgid "<11>{#p/basic}{~}Its unique perspective helped in unexpected ways..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Sua perspectiva única nos ajudou de inúmeras formas..."
 
 msgid "<11>{#p/basic}{~}Even if it was often mis- understood."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mesmo que as vezes fosse mau entendido."
 
 msgid "<11>{#p/basic}{~}Clearly more than I antici- pated..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Claramente mais do que eu esperava..."
 
 msgid "<11>{#p/basic}{~}(Sigh...)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Chorinho...)"
 
 msgid "<11>{#p/basic}{~}After all is said and done..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Após tudo dito e feito..."
 
 msgid "<11>{#p/basic}{~}I can't decide which of you is worse."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu não consigo decidir qual de vocês é pior."
 
 msgid "<11>{#p/basic}{~}Now, it is your turn."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Agora, é a sua vez."
 
 msgid "<11>{#p/basic}{~}Your turn to be treated as inferior."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Sua vez de ser tratado como inferior."
 
 msgid "<11>{#p/basic}{~}Dogamy and Dogaressa, a duo of dilligence."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Dogamy e Dogaressa, uma dupla de inteligência."
 
 msgid "<11>{#p/basic}{~}Before they met, they often misbehaved."
 msgstr ""
+"<11>{#p/basic}{~}Antes de se conhecerem, eles sempre se metiam em briga."
 
 msgid "<11>{#p/basic}{~}But once together, they could do ANYTHING."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas assim que se uniram, eles conseguiram TUDO."
 
 msgid "<11>{#p/basic}{~}Can we really keep going like this?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Podemos realmente continuar desse jeito?"
 
 msgid "<11>{#p/basic}{~}This battle is starting to drag on."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Esta batalha está começando a me cansar."
 
 msgid "<11>{#p/basic}{~}Suffice it to say..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Basta dizer..."
 
 msgid "<11>{#p/basic}{~}This, I did not expect."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Isso, eu não esperava."
 
 msgid ""
 "<11>{#p/basic}{~}Canis Major was there when the canine unit was formed."
 msgstr ""
+"<11>{#p/basic}{~}Major Canis estava lá quando a unidade canina foi formada."
 
 msgid "<11>{#p/basic}{~}Along with its master, it led the unit well."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Junto com seu mestre, isso levou bem a unidade."
 
 msgid "<11>{#p/basic}{~}But now..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas agora..."
 
 msgid "<11>{#p/basic}{~}Human, I..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Humano, eu..."
 
 msgid "<11>{#p/basic}{~}There is nothing left to say."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Não há mais nada a dizer."
 
 msgid "<11>{#p/basic}{~}I will have justice for the terror you have inspired."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu lançarei justiça ao terror que foi entregue."
 
 msgid "<11>{#p/basic}{~}I will have justice for what you've done."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu lançarei justiça ao terror que foi entregue."
 
 msgid "<11>{#p/basic}{~}I will have justice for those dogs' deaths."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu lançarei justiça pela morte daqueles cães."
 
 msgid "<11>{#p/basic}{~}(Blushes)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Cora)"
 
 msgid "<11>{#p/basic}{~}You are a... kind human..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você é um... bom humano..."
 
 msgid "<11>{#p/basic}{~}I think I have had enough."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu acho que já chega."
 
 msgid "<11>{#p/basic}{~}In fairness, you do not seem so bad."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Em certo lado, você não parece tão mau."
 
 msgid "<11>{#p/basic}{~}At least, compared to how Undyne described."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Pelo menos, comparado a como Undyne descreve."
 
 msgid "<11>{#p/basic}{~}Accept my mercy as a plea..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Aceite minha piedade como um controle..."
 
 msgid "<11>{#p/basic}{~}A plea that you will not stray into the darkness."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Um controle que te fará não cair na escuridão."
 
 msgid "<32>{#p/human}* (You offer to take Doge on a walk.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você se oferece a levar Doge em uma caminhada.)"
 
 msgid ""
 "<32>{#p/basic}* Doge follows your lead.\n"
 "* Together you march in unison."
 msgstr ""
+"<32>{#p/basic}* Doge te segue.\n"
+"* Juntos vocês marcham em união."
 
 msgid "<32>* This continues for a while..."
-msgstr ""
+msgstr "<32>* Continua por um tempo..."
 
 msgid "<32>* But eventually..."
-msgstr ""
+msgstr "<32>* Mas eventualmente..."
 
 msgid "<32>* Doge grows tired of this frivolous exercise."
-msgstr ""
+msgstr "<32>* Doge se cansa deste exaustivo exercício."
 
 msgid "<32>* She follows you back to her patrol zone, and relaxes a little..."
 msgstr ""
+"<32>* Ela te segue de volta para a zona de patrulha e relaxa um pouco..."
 
 msgid ""
 "<32>{#p/human}* (You offer to take Doge on a walk, but she has no reason to "
 "go on one yet.)"
 msgstr ""
+"<32>{#p/human}* (Você oferece levar Doge em uma caminhada, mas ela ainda não "
+"tem razão para ir.)"
 
 msgid "<32>{#p/basic}* Doge refuses to walk anywhere with you."
-msgstr ""
+msgstr "<32>{#p/basic}* Doge se recusa a caminhar com você a qualquer lugar."
 
 msgid ""
 "<32>{#p/human}* (You offer to take Doge on a walk, but she's already dried "
 "herself up for you.)"
 msgstr ""
+"<32>{#p/human}* (Você se oferece para levar Doge para passear, mas ela já se "
+"secou para você.)"
 
 msgid ""
 "<32>{#p/human}* (You offer to take Doge on a walk, but she never did "
 "anything to necessitate it.)"
 msgstr ""
+"<32>{#p/human}* (Você se oferece para levar Doge para passear, mas ela nunca "
+"fez nada para precisar disso.)"
 
 msgid "<32>{#p/human}* (But Doge was already spent from walking beforehand.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Doge já estava cansada de caminhar de antemão.)"
 
 msgid "<32>{#p/human}* (But Doge was too dirty to go on a walk.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Doge estava suja demais para dar um passeio.)"
 
 msgid ""
 "<32>{#p/story}* MUFFET - ATK 39 DEF 19\n"
 "* Queen of all spider clans.\n"
 "* ELITE squad volunteer."
 msgstr ""
+"<32>{#p/story}* MUFFET - ATQ 39 DEF 19\n"
+"* Rainha do clã das aranhas.\n"
+"* Voluntária do esquadrão de ELITE."
 
 msgid ""
 "<32>{#p/human}* (You flirt with Muffet.)\n"
 "* (Muffet gives you the stink eyes.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta com Muffet.)\n"
+"* (Muffet lhe dá uma olhada rabugenta.)"
 
 msgid ""
 "<32>{#p/human}* (You flirt with Muffet.)\n"
 "* (Muffet giggles and pats your head with several hands.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta com a Muffet.)\n"
+"* (Muffet sorri e te faz carinho na cabeça com suas várias mãos.)"
 
 msgid ""
 "<32>{#p/human}* (You flirt with Muffet.)\n"
 "* (Muffet giggles and wags several fingers at you.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta com Muffet.)\n"
+"* (Muffet sorri e passa os dedos por sua bochecha.)"
 
 msgid ""
 "<32>{#p/human}* (You flirt with Muffet.)\n"
 "* (Muffet seems intrigued, but it may not be enough.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta com Muffet.)\n"
+"* (Muffet parece intrigada, mas isso pode não ser suficiente.)"
 
 msgid ""
 "<32>{#p/human}* (You flirt with Muffet again.)\n"
 "* (Muffet turns more than a few eyes towards you.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta com Muffet novamente.)\n"
+"* (Muffet vira mais do que alguns olhos para você.)"
 
 msgid ""
 "<32>{#p/human}* (You muster your courage, and ask Muffet out on a picnic "
 "date.)"
 msgstr ""
+"<32>{#p/human}* (Você cria coragem, e chama Muffet para um encontro de "
+"piquenique.)"
 
 msgid "<32>{#p/basic}* Muffet giggles..."
-msgstr ""
+msgstr "<32>{#p/basic}* Muffet sorri..."
 
 msgid "<32>* Then giggles some more..."
-msgstr ""
+msgstr "<32>* E sorri ainda mais..."
 
 msgid ""
 "<32>* She can't stop herself!\n"
 "* Muffet succumbs to your immaculate flirtatious power!"
 msgstr ""
+"<32>* Ela não consegue se conter!\n"
+"* Muffet sucumbe ao seu poder de flerte imparável!"
 
 msgid ""
 "<32>* ... then promptly decides to end this battle, so as not to shame her "
 "fellow spiders."
 msgstr ""
+"<32>* ... então prontamente decide encerrar esta batalha, para não "
+"envergonhar suas companheiras aranhas."
 
 msgid "<32>{#p/kidding}* ... what?"
-msgstr ""
+msgstr "<32>{#p/kidding}* ... quê?"
 
 msgid "<11>{#p/basic}{~}How adorable~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Que adorável~"
 
 msgid "<11>{#p/basic}{~}You're the sweetest~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você é super fofinho~"
 
 msgid "<11>{#p/basic}{~}Ahuhu~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ahuhu~"
 
 msgid ""
 "<33>{#p/human}* (You make an appeal to Muffet.)\n"
 "* (Muffet is once again\n"
 "  intrigued by your words.)"
 msgstr ""
+"<33>{#p/human}* (Você faz um apelo a Muffet.)\n"
+"* (Muffet é mais uma vez\n"
+"  intrigada com suas palavras.)"
 
 msgid ""
 "<32>* (You mention how innocent dogs were haphazardly enstated into the "
 "Royal Guard.)"
 msgstr ""
+"<32>* (Você menciona como cachorros inocentes foram enfiados na Guarda Real.)"
 
 msgid ""
 "<32>* (As such, you suggest that trusting its captain would put spider clans"
 " at risk.)"
 msgstr ""
+"<32>* (Sendo assim, você sugere que confiar na capitã seria colocar o clã "
+"das aranhas em risco.)"
 
 msgid "<32>{#p/basic}* Muffet starts considering the situation..."
-msgstr ""
+msgstr "<32>{#p/basic}* Muffet considera a situação..."
 
 msgid "<32>{#p/story}* Muffet's SPEED down!"
-msgstr ""
+msgstr "<32>{#p/story}* VELOCIDADE da Muffet caiu!"
 
 msgid ""
 "<32>{#p/human}* (You make an appeal to Muffet, but she doesn't seem ready to"
 " hear it yet.)"
 msgstr ""
+"<32>{#p/human}* (Você faz um apelo para a Muffet, mas ela não está pronta "
+"para ouvir.)"
 
 msgid "<32>{#p/human}* (You make an appeal to Muffet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você faz um apelo para Muffet.)"
 
 msgid "<32>{#p/basic}* Muffet will not be swayed by your shallow claims."
 msgstr ""
+"<32>{#p/basic}* Muffet não será influenciado por suas reivindicações "
+"superficiais."
 
 msgid ""
 "<32>{#p/human}* (You make an appeal to Muffet, but she's already past the "
 "point of hearing you out.)"
 msgstr ""
+"<32>{#p/human}* (Você faz um apelo para Muffet, mas ela já passou do ponto "
+"de querer te ouvir.)"
 
 msgid "<32>{#p/human}* (But Muffet didn't need to be appeased twice.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Muffet não precisou ser apaziguada duas vezes.)"
 
 msgid "<32>{#p/human}* (But Muffet had no reason to listen to you.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Muffet não tem razões para te ouvir.)"
 
 msgid ""
 "<32>{#p/human}* (You try to counter Muffet.)\n"
 "* (Muffet is intrigued by your words.)"
 msgstr ""
+"<32>{#p/human}* (Você tenta argumentar contra Muffet.)\n"
+"* (Muffet está intrigada com suas palavras.)"
 
 msgid "<32>* (You propose that a deal with the ELITE squad is flimsy.)"
-msgstr ""
+msgstr "<32>* (Você propõe que o acordo com o esquadrão de ELITE é frágil.)"
 
 msgid ""
 "<32>* (You point out that one of their ranks already failed to capture you.)"
 msgstr ""
+"<32>* (Você aponta para a falha que um de seus membros teve em captura-lo.)"
 
 msgid "<32>{#p/basic}* Muffet begins to carefully think everything over..."
-msgstr ""
+msgstr "<32>{#p/basic}* Muffet começa a pensar em tudo calmamente..."
 
 msgid ""
 "<32>{#p/human}* (You try to counter Muffet, but she hasn't said anything "
 "that could be countered yet.)"
 msgstr ""
+"<32>{#p/human}* (Você tenta refutar Muffet, mas ela não disse nada para ser "
+"refutada.)"
 
 msgid "<32>{#p/human}* (You try to counter Muffet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta contra argumentar Muffet.)"
 
 msgid "<32>{#p/basic}* Muffet is deadset in her goal."
-msgstr ""
+msgstr "<32>{#p/basic}* Muffet está indecisa em seu objetivo."
 
 msgid ""
 "<32>{#p/human}* (You try to counter Muffet, but she's already made up her "
 "mind.)"
 msgstr ""
+"<32>{#p/human}* (Você tenta contra argumentar Muffet, mas ela já está "
+"decidida.)"
 
 msgid "<32>{#p/human}* (But Muffet has already heard your argument.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Muffet já ouviu seu argumento.)"
 
 msgid "* Muffet"
-msgstr ""
+msgstr "* Muffet"
 
 msgid ""
 "<11>{#p/basic}{~}That's very kind, but we already have more than enough~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Isso é bem legal, mas já tivemos o suficiente~"
 
 msgid "<32>{#p/human}* (You try to pay Muffet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta pagar Muffet.)"
 
 msgid ""
 "<32>* As it turns out, Monster Kid had enough G to cover all of the spider "
 "clans' expenses!"
 msgstr ""
+"<32>* Ao que parece, Criança Monstro tem todo o G que o clã das aranhas "
+"necessita!"
 
 msgid "<32>* Muffet pockets the money and bows to you and Monster Kid."
 msgstr ""
+"<32>* Muffet enche os bolsos de dinheiro e lança beijos para vocês dois."
 
 msgid "<32>* Her subjects will be well fed for quite a while."
-msgstr ""
+msgstr "<32>* Seus serventes estarão bem alimentados por um tempo."
 
 msgid "<32>* Muffet doesn't care about fighting anymore."
-msgstr ""
+msgstr "<32>* Muffet não tem mais interesse em lutar."
 
 msgid ""
 "<32>{#p/human}* (You try to pay Muffet, but she didn't yet see any basis on "
 "which she could accept it.)"
 msgstr ""
+"<32>{#p/human}* (Você tenta pagar Muffet, mas ela ainda não viu nenhuma base "
+"sobre a qual pudesse aceita-lo.)"
 
 msgid "<32>{#p/basic}* Muffet doesn't need any money from you."
-msgstr ""
+msgstr "<32>{#p/basic}* Muffet não quer nenhum dinheiro vindo de você."
 
 msgid ""
 "<32>{#p/human}* (You try to pay Muffet, but she's already past the point of "
 "bribery.)"
 msgstr ""
+"<32>{#p/human}* (Você tenta pagar Muffet, mas ela já passou do ponto de "
+"bajulação.)"
 
 msgid "<32>{#p/human}* (You try to pay Muffet again.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta pagar Muffet de novo.)"
 
 msgid "<32>{#p/human}* (But Muffet had no reason to trust you.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Muffet não tem razões para acreditar em você.)"
 
 msgid "<32>{#p/kidding}* I'm trapped...!"
-msgstr ""
+msgstr "<32>{#p/kidding}* Eu tô preso...!"
 
 msgid "<32>{#p/kidding}* Little bullies...?"
-msgstr ""
+msgstr "<32>{#p/kidding}* quem a gente bullinou...?"
 
 msgid "<32>{#p/kidding}* Little killers...?"
-msgstr ""
+msgstr "<32>{#p/kidding}* assassinos?"
 
 msgid "<32>{#p/kidding}* Little bully...?"
-msgstr ""
+msgstr "<32>{#p/kidding}* quem você bullinou...?"
 
 msgid "<32>{#p/kidding}* Little killer...?"
-msgstr ""
+msgstr "<32>{#p/kidding}* quem você matou...?"
 
 msgid "<32>{#p/kidding}* Help...!"
-msgstr ""
+msgstr "<32>{#p/kidding}* Ajuda...!"
 
 msgid "<32>{#p/kidding}* But we haven't done anything!"
-msgstr ""
+msgstr "<32>{#p/kidding}* Mas a gente não fez nada!"
 
 msgid "<32>{#p/kidding}* I've got a bad feeling about this..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Eu tenho uma sensação ruim em relação a isso..."
 
 msgid "<32>{#p/kidding}* So it's a business thing..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Então são negócios..."
 
 msgid ""
 "<32>{#p/kidding}* Yo...\n"
 "* She REALLY doesn't like you..."
 msgstr ""
+"<32>{#p/kidding}* Yo...\n"
+"* Ela REALMENTE não gosta de você..."
 
 msgid "<32>{#p/kidding}* What are we going to do?"
-msgstr ""
+msgstr "<32>{#p/kidding}* O que nós vamos fazer?"
 
 msgid "<32>{#p/kidding}* We're never getting outta here, are we..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Nós nunca vamos sair daqui..."
 
 msgid "<32>{#p/kidding}* What the heck was THAT?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Mas que caramba foi AQUILO?"
 
 msgid "<32>{#p/kidding}* Is she... changing her mind?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Ela esta... mudando de ideia?"
 
 msgid "<32>{#p/kidding}* Of course..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Claro..."
 
 msgid "<32>{#p/kidding}* Guess it won't be so easy..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Acho que não vai ser tão fácil..."
 
 msgid ""
 "<32>{#p/kidding}* Y... you're kidding, right?\n"
 "* This isn't fun at all!"
 msgstr ""
+"<32>{#p/kidding}* V... você tá brincando, né?\n"
+"* Isso nem é nem um pouco legal!"
 
 msgid "<32>{#p/kidding}* I don't like what she's saying about you, dude..."
 msgstr ""
+"<32>{#p/kidding}* Eu não gosto do que ela está falando sobre você, cara..."
 
 msgid "<32>{#p/kidding}* Fellow spiders...?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Amigas aranhas...?"
 
 msgid "<32>{#p/kidding}* She's relentless...!"
-msgstr ""
+msgstr "<32>{#p/kidding}* Ela é implacável...!"
 
 msgid ""
 "<32>{#p/kidding}* Hey, wait...\n"
 "* I think this is working!\n"
 "* Keep going, dude!"
 msgstr ""
+"<32>{#p/kidding}* Ei, espera...\n"
+"* Eu acho que tá funcionando!\n"
+"* Continua assim, mano!"
 
 msgid ""
 "<32>{#p/kidding}* I'm...\n"
 "* I'm scared, dude..."
 msgstr ""
+"<32>{#p/kidding}* Eu...\n"
+"* Eu estou com medo, cara..."
 
 msgid "<32>{#p/kidding}* Dude, HOW are we STILL ALIVE??"
-msgstr ""
+msgstr "<32>{#p/kidding}* Cara, COMO a gente AINDA TÁ VIVO??"
 
 msgid ""
 "<32>{#p/kidding}* Yo, freaky muffins aside... we're making progress!\n"
 "* I think?"
 msgstr ""
+"<32>{#p/kidding}* Yo, muffins esquisitos à parte... Estamos progredindo!\n"
+"* Eu acho?"
 
 msgid "<32>{#p/kidding}* Ack, not again!!"
-msgstr ""
+msgstr "<32>{#p/kidding}* Ack, não de novo!!"
 
 msgid "<32>{#p/kidding}* What's \"inevitable?\""
-msgstr ""
+msgstr "<32>{#p/kidding}* O que é \"inevitável?\""
 
 msgid ""
 "<32>{#p/kidding}* But...\n"
 "* I thought we..."
 msgstr ""
+"<32>{#p/kidding}* Mas...\n"
+"* Eu achei que a gente..."
 
 msgid "<32>{#p/kidding}* Yo, I'm here too, you know..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Yo, eu estou aqui também, sabe..."
 
 msgid ""
 "<32>{#p/kidding}* Hey, I've got money!\n"
 "* Let's use it, dude!"
 msgstr ""
+"<32>{#p/kidding}* Ei, eu tenho dinheiro!\n"
+"* Vamos usar, cara!"
 
 msgid "<32>{#p/kidding}* Someone, anyone..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Alguém, qualquer pessoa..."
 
 msgid "<32>{#p/kidding}* This isn't funny...!"
-msgstr ""
+msgstr "<32>{#p/kidding}* Isso não é legal...!"
 
 msgid ""
 "<32>{#p/kidding}* I hope that short skeleton doesn't mind me using the money"
 " he gave me..."
 msgstr ""
+"<32>{#p/kidding}* Espero que aquele esqueleto pequeno não se importe de eu "
+"usar o dinheiro que ele me deu..."
 
 msgid ""
 "<32>{#p/kidding}* Dude...\n"
 "* Why didn't we help her?"
 msgstr ""
+"<32>{#p/brincando}* Cara...\n"
+"* Por que não a ajudamos?"
 
 msgid "<32>{#p/kidding}* It's over..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Acabou..."
 
 msgid "<32>{#p/kidding}* ..."
-msgstr ""
+msgstr "<32>{#p/kidding}* ..."
 
 msgid "<32>{#p/kidding}* Are we gonna end this, or...?"
-msgstr ""
+msgstr "<32>{#p/kidding}* A gente vai acabar com isso, ou...?"
 
 msgid "<32>{#p/kidding}* Is it really over?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Realmente acabou?"
 
 msgid "<11>{#p/basic}{~}Ahuhuhu... two little bullies crawl into my web~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ahuhuhu... dois valentões na minha teia~"
 
 msgid "<11>{#p/basic}{~}Ahuhuhu... two little killers crawl into my web~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ahuhuhu... dois assassinos na minha teia~"
 
 msgid "<11>{#p/basic}{~}Ahuhuhu... a little bully crawls into my web~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ahuhuhu... um valentão na minha teia~"
 
 msgid "<11>{#p/basic}{~}Ahuhuhu... a little killer crawls into my web~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ahuhuhu... um assassino na minha teia~"
 
 msgid "<11>{#p/basic}{~}You're mine now, dearies~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você é meu agora, querido~"
 
 msgid "<11>{#p/basic}{~}I hope you like your new color~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Espero que você goste da sua nova cor~"
 
 msgid "<11>{#p/basic}{~}I think purple looks better on you..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu acho que roxo fica melhor em você..."
 
 msgid "<11>{#p/basic}{~}Don't you, dearie?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Não é, querido?"
 
 msgid "<11>{#p/basic}{~}What did you think would happen, dearies?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}O vocês pensavam que aconteceria, amores?"
 
 msgid "<11>{#p/basic}{~}What did you think would happen, dearie?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}O que você pensou que aconteceria, amor?"
 
 msgid "<11>{#p/basic}{~}Did you expect me to SPARE you?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você espera que eu te poupe?"
 
 msgid "<11>{#p/basic}{~}Don't expect me to go easy on you, little human."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Não espere que eu pegue leve contigo, humaninho."
 
 msgid "<11>{#p/basic}{~}That ELITE squad offered lots of money for your SOUL~"
 msgstr ""
+"<11>{#p/basic}{~}Aquele esquadrão de ELITE ofereceu muito dinheiro por sua "
+"ALMA~"
 
 msgid "<11>{#p/basic}{~}Oh my~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Oh meu~"
 
 msgid "<11>{#p/basic}{~}Such a shame for you~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Que lástima para você~"
 
 msgid ""
 "<11>{#p/basic}{~}Ahuhuhu...\n"
 "Well..."
 msgstr ""
+"<11>{#p/basic}{~}Ahuhuhu...\n"
+"Bem..."
 
 msgid "<11>{#p/basic}{~}With your lack of a counter- offer..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Com a falta de uma contra-oferta..."
 
 msgid "<11>{#p/basic}{~}The choice for me is clear~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}A escolha para mim é óbvia~"
 
 msgid ""
 "<11>{#p/basic}{~}Well.\n"
 "There is one good thing about it~"
 msgstr ""
+"<11>{#p/basic}{~}Olha.\n"
+"Da pra tirar uma coisa boa disso tudo."
 
 msgid "<11>{#p/basic}{~}I don't have to feel bad about feeding my pet!"
 msgstr ""
+"<11>{#p/basic}{~}Eu não preciso me sentir mau em relação a alimentação do "
+"meu pet!"
 
 msgid "<11>{#p/basic}{~}A better deal would be nice..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Um acordo melhor seria legal..."
 
 msgid "<11>{#p/basic}{~}Where are you, my pet~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Onde você está, meu pet~"
 
 msgid "<11>{#p/basic}{~}It's time to eat~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}É hora de comer~"
 
 msgid ""
 "<11>{#p/basic}{~}You survived?\n"
 "Impressive~"
 msgstr ""
+"<11>{#p/basic}{~}Você sobreviveu?\n"
+"Impressionante~"
 
 msgid "<11>{#p/basic}{~}I shall have to reward you..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu devo te presentear..."
 
 msgid ""
 "<11>{#p/basic}{~}... with more attacks, of course.\n"
 "Ahuhuhu!"
 msgstr ""
+"<11>{#p/basic}{~}... com mais ataques, é claro.\n"
+"Ahuhuhu!"
 
 msgid "<11>{#p/basic}{~}But what guarantee do I have..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas que garantia eu tenho..."
 
 msgid "<11>{#p/basic}{~}... that you won't just stab me in the back?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}... que você não vai me apunhalar pelas costas?"
 
 msgid "<11>{#p/basic}{~}I often wondered what fighting would be like."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu sempre me perguntei como seria lutar."
 
 msgid "<11>{#p/basic}{~}I never realized it'd be so much fun~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu nunca imaginei que seria tão divertido~"
 
 msgid "<11>{#p/basic}{~}How did it feel, hmm?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Como foi a sensação, hmm?"
 
 msgid "<11>{#p/basic}{~}All those monsters falling like dominoes..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Todos aqueles monstros caindo como dominós..."
 
 msgid "<11>{#p/basic}{~}All those monsters running scared..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Todos aqueles monstros correndo assustados..."
 
 msgid "<11>{#p/basic}{~}My fellow spiders need kept safe..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Minha amigas aranhas precisam estar em segurança..."
 
 msgid ""
 "<11>{#p/basic}{~}I can't put THEM in danger, can I?\n"
 "Ahuhuhu..."
 msgstr ""
+"<11>{#p/basic}{~}Eu não posso colocá-las em perigo, posso?\n"
+"Ahuhu..."
 
 msgid "<11>{#p/basic}{~}Aren't you having fun, dearies?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você não está se divertindo, querido?"
 
 msgid "<11>{#p/basic}{~}My fellow spiders certainly will..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Minhas amigas aranhas com certeza vão..."
 
 msgid "<11>{#p/basic}{~}... when they get their share of the money~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}... quando pegarem sua parte do dinheiro~"
 
 msgid "<11>{#p/basic}{~}Well, dearies..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Bem, queridos..."
 
 msgid "<11>{#p/basic}{~}Well, dearie..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Bem, querido..."
 
 msgid "<11>{#p/basic}{~}I shall enjoy killing you personally~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu devo apreciar te matar pessoalmente~"
 
 msgid "<11>{#p/basic}{~}I shall enjoy paying back the favor~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu devo apreciar pagar o favor de volta~"
 
 msgid "<11>{#p/basic}{~}I must admit, that is very worrying..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu devo admitir, isto é bem preocupante..."
 
 msgid "<11>{#p/basic}{~}Well, no matter, little human~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Bem, não importa, pequeno humano~"
 
 msgid "<11>{#p/basic}{~}The only thing that matters now is your SOUL~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}A única coisa que importa agora é sua ALMA~"
 
 msgid "<11>{#p/basic}{~}Oh, this is so much fun, you two!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Oh, isso é tão divertido!"
 
 msgid "<11>{#p/basic}{~}Oh, this is so much fun, is it not?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Oh, isso é tão divertido, não é?"
 
 msgid "<11>{#p/basic}{~}My pet, it's feeding time~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Meu pet, é hora de comer~"
 
 msgid "<11>{#p/basic}{~}And they didn't exactly do much to earn my trust..."
 msgstr ""
+"<11>{#p/basic}{~}E eles não fizeram exatamente muito para ganhar minha "
+"confiança..."
 
 msgid "<11>{#p/basic}{~}Oh, hello, my pet~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Oh, olá, meu pet~"
 
 msgid "<11>{#p/basic}{~}Time for round two, my pet~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Segundo turno, meu pet~"
 
 msgid "<11>{#p/basic}{~}You only delay the inevitable~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você está apenas atrasando o inevitável~"
 
 msgid "<11>{#p/basic}{~}Still, dearies..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ainda assim, queridos..."
 
 msgid "<11>{#p/basic}{~}I don't know if I can trust you~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Eu não sei se posso confiar em você~"
 
 msgid "<11>{#p/basic}{~}You're resilient, I'll give you that~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você é resiliente, vou te dizer isso~"
 
 msgid "<11>{#p/basic}{~}Come now..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Nossa..."
 
 msgid "<11>{#p/basic}{~}Aren't you getting tired?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você não tá ficando cansado?"
 
 msgid "<11>{#p/basic}{~}Unless, perhaps..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ah não ser que, talvez..."
 
 msgid "<11>{#p/basic}{~}You can offer me a little insurance?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Você possa me oferecer uma garantia?"
 
 msgid ""
 "<11>{#p/basic}{~}But unless my deal changes, your SOUL is as good as mine~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Mas a não ser que o acordo mude, sua ALMA será minha~"
 
 msgid "<11>{#p/basic}{~}Ahuhuhu..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ahuhuhu..."
 
 msgid "<11>{#p/basic}{~}You two have my sincerest apologies~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Vocês dois tem minhas sinceras desculpas~"
 
 msgid "<11>{#p/basic}{~}This is a good deed I won't easily forget!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Esta é uma boa ação que não esquecerei facilmente!"
 
 msgid ""
 "<11>{#p/basic}{~}What's this?\n"
 "A message from Undyne?"
 msgstr ""
+"<11>{#p/basic}{~}O que é isso?\n"
+"Uma mensagem da Undyne?"
 
 msgid "<11>{#p/basic}{~}She's called off the deal...?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ela cortou o acordo...?"
 
 msgid "<11>{#p/basic}{~}... hmmm..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}... hmmm..."
 
 msgid "<11>{#p/basic}{~}Well, I think my job here is done, don't you?"
 msgstr ""
+"<11>{#p/basic}{~}Bem, acho que meu trabalho aqui está feito, não é mesmo?"
 
 msgid "<11>{#p/basic}{~}Sorry for wasting your time~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Desculpa por gastar seu tempo~"
 
 msgid "<11>{#p/basic}{~}You know what, dearies?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Quer saber de uma coisa, queridos?"
 
 msgid "<11>{#p/basic}{~}You know what, dearie?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Quer saber de uma coisa, querido?"
 
 msgid "<11>{#p/basic}{~}I've had enough of fighting you."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Já me cansei de lutar."
 
 msgid "<11>{#p/basic}{~}So do what you will."
-msgstr ""
+msgstr "<11>{#p/basic}{~} Então faça o que quiser."
 
 msgid ""
 "<11>{#p/basic}{~}... sorry, Undyne.\n"
 "I'd rather die on my own terms, thank you."
 msgstr ""
+"<11>{#p/basic}{~}... desculpa, Undyne.\n"
+"Eu prefiro morrer do meu jeito, obrigada."
 
 msgid ""
 "<11>{#p/basic}{~}... sorry, Undyne.\n"
 "This has dragged on for long enough."
 msgstr ""
+"<11>{#p/basic}{~}... desculpa, Undyne.\n"
+"Meu cansaço bateu, eu não quero mais lutar."
 
 msgid ""
 "<11>{#p/basic}{~}Honestly, a little bully like you isn't worth dying over..."
 msgstr ""
+"<11>{#p/basic}{~}Sinceramente, um bully feito você, não é quem vai ter o "
+"prazer de me matar..."
 
 msgid ""
 "<11>{#p/basic}{~}Honestly, a little bully like you isn't worth my time..."
 msgstr ""
+"<11>{#p/basic}{~}Sinceramente, um bully feito você não vale meu tempo..."
 
 msgid "<11>{#p/basic}{~}Bye bye, now~"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Tchau tchau~"
 
 msgid "<32>{#p/human}* (Undyne doesn't even seem to know what it is.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Undyne nem parece saber o que é isso.)"
 
 msgid ""
 "<20>{#p/undyne}Huh?\n"
 "What even IS this?"
 msgstr ""
+"<20>{#p/undyne}Huh?\n"
+"Mas o que é isso?"
 
 msgid "<32>{#p/basic}* The smell reminds Undyne of someone close to her..."
-msgstr ""
+msgstr "<32>{#p/basic}* O cheiro lembra Undyne, de alguém próximo a ela..."
 
 msgid "<32>{#p/story}* Undyne's ATTACK down!"
-msgstr ""
+msgstr "<32>{#p/story}* Undyne perdeu ATAQUE!"
 
 msgid ""
 "<32>{#p/basic}* The smell reminds Undyne of someone she'll never see "
 "again..."
 msgstr ""
+"<32>{#p/basic}* O cheiro lembra Undyne de alguém que ele jamais verá de "
+"novo..."
 
 msgid ""
 "<32>{#p/basic}* ... but her determination to eliminate you strengthens."
-msgstr ""
+msgstr "<32>{#p/basic}* ... mas sua determinação de eliminá-lo se fortalece."
 
 msgid ""
 "<32>{#p/story}* Undyne's ATTACK up!\n"
 "* Undyne's DEFENSE down!"
 msgstr ""
+"<32>{#p/story}* ATAQUE da Undyne subiu!\n"
+"* DEFESA da Undyne caiu!"
 
 msgid "<32>{#p/story}* Undyne's DEFENSE down!"
-msgstr ""
+msgstr "<32>{#p/story}* DEFESA da Undyne caiu!"
 
 msgid ""
 "<32>{#p/asriel2}* Undyne.\n"
 "* Still not dead...?"
 msgstr ""
+"<32>{#p/asriel2}* Undyne.\n"
+"* Não morreu?"
 
 msgid ""
 "<32>{#p/asriel2}* Undyne.\n"
 "* Shouldn't you be attacking her or something?"
 msgstr ""
+"<32>{#p/asriel2}* Undyne.\n"
+"* Não era pra você estar atacando ela ou sei lá?"
 
 msgid ""
 "<32>{#p/story}* UNDYNE - ATK 40 DEF 100\n"
 "* Captain of the Royal Guard.\n"
 "* Relentless."
 msgstr ""
+"<32>{#p/história}* UNDYNE - ATQ 40 DEF 100\n"
+"* Capitã da Guarda Real.\n"
+"* Implacável."
 
 msgid ""
 "<32>{#p/story}* UNDYNE - ATK 25 DEF 10\n"
 "* Once your sworn enemy, now your unmatched equal!"
 msgstr ""
+"<32>{#p/story}* UNDYNE - ATQ 25 DEF 10\n"
+"* Uma vez sua mortal inimiga, mas agora sua igual!"
 
 msgid ""
 "<32>{#p/story}* UNDYNE - ATK 50 DEF 20\n"
 "* The heroine that NEVER gives up."
 msgstr ""
+"<32>{#p/story}* UNDYNE - ATQ 50 DEF 20\n"
+"* A heroína que NUNCA desiste."
 
 msgid "* Undyne the Undying"
-msgstr ""
+msgstr "* Undyne a Imortal"
 
 msgid "* Undyne"
-msgstr ""
+msgstr "* Undyne"
 
 msgid "<32>{#p/story}* Undyne towers above you."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne se põe em frente a você."
 
 msgid "<32>{#p/story}* Undyne takes you head-on!"
-msgstr ""
+msgstr "<32>{#p/story}* Undyne te encara de frente!"
 
 msgid "<32>{#p/story}* Undyne attacks!"
-msgstr ""
+msgstr "<32>{#p/story}* Undyne te ataca!"
 
 msgid "<20>{*}{#p/undyne}Ready yourself."
-msgstr ""
+msgstr "<20>{*}{#p/undyne}Prepare-se."
 
 msgid "<20>{*}{#p/undyne}En guarde!"
-msgstr ""
+msgstr "<20>{*}{#p/undyne}Em guarda!"
 
 msgid "<20>{*}{#p/undyne}I wasn't done with my story."
-msgstr ""
+msgstr "<20>{*}{#p/undyne}Eu não tinha terminado de contar minha história."
 
 msgid ""
 "<20>{*}{#p/undyne}Huh!?\n"
 "I thought you were tough!"
 msgstr ""
+"<20>{*}{#p/undyne}Huh!?\n"
+"Eu pensei que você era durona!"
 
 msgid "<20>{*}{#p/undyne}You won't get away from me this time!"
-msgstr ""
+msgstr "<20>{*}{#p/undyne}Você não vai fugir de mim dessa vez!"
 
 msgid "<20>{*}{#p/undyne}No more second chances!"
-msgstr ""
+msgstr "<20>{*}{#p/undyne}Sem segundas chances!"
 
 msgid "<20>{*}{#p/undyne}You've escaped from me for the LAST time!"
-msgstr ""
+msgstr "<20>{*}{#p/undyne}Você escapou de mim pela ÚLTIMA vez!"
 
 msgid "<20>{*}{#p/undyne}STOP RUNNING AWAY!!!"
-msgstr ""
+msgstr "<20>{*}{#p/undyne}PARE DE CORRER!!!"
 
 msgid "<20>{*}{#p/undyne}COME BACK HERE, YOU LITTLE PUNK!!"
-msgstr ""
+msgstr "<20>{*}{#p/undyne}VOLTA AQUI, PIRRALHA!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/3}So, you wanna do this the {@fill=#f00}hard "
 "way{@fill=#000}, huh?"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/3}Então, você quer fazer isso da maneira "
+"{@fill=#f00}difícil{@fill=#000}, né?"
 
 msgid "<20>{#e/undyne/2}Fine by me."
-msgstr ""
+msgstr "<20>{#e/undyne/2}Por mim beleza."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/17}What!?\n"
 "I'm already going as fast as I can!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/17}Quê!?\n"
+"Eu já estou correndo o mais rápido que posso!"
 
 msgid ""
 "<20>{#e/undyne/17}But...\n"
 "I... you..."
-msgstr ""
+msgstr "<20>{#e/undyne/17}Mas... eu... você..."
 
 msgid ""
 "<20>{#e/undyne/17}N-no!\n"
 "I'll show you!"
 msgstr ""
+"<20>{#e/undyne/17}Não!\n"
+"Eu vou te mostrar!"
 
 msgid ""
 "<20>{#e/undyne/1}I'll show you {@fill=#f00}EVERYTHING I'VE GOT{@fill=#000}!"
 msgstr ""
+"<20>{#e/undyne/1}Eu vou te mostrar {@fill=#f00}TUDO QUE EU TENHO{@fill=#000}!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/17}So, you wanna do this the {@fill=#f00}hard "
 "way{@fill=#000}, huh?"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/17}Então, você quer fazer isso da maneira "
+"{@fill=#f00}difícil{@fill=#000}, hein?"
 
 msgid ""
 "<20>{#e/undyne/1}FINE BY ME!\n"
 "FUHUHU!"
 msgstr ""
+"<20>{#e/undyne/1}POR MIM BELEZA! \n"
+"FUHUHU!"
 
 msgid "<32>{#p/story}* Things are about to get spicy."
-msgstr ""
+msgstr "<32>{#p/story}* As coisas vão ficar quentes!"
 
 msgid "<32>{#p/story}* Undyne points dramatically towards space."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne aponta dramaticamente para o espaço."
 
 msgid "<32>{#p/story}* Undyne points heroically towards space."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne aponta heroicamente para o espaço."
 
 msgid "<32>{#p/story}* Undyne twirls her spear with grace."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne gira sua lança com graça."
 
 msgid "<32>{#p/story}* Undyne flips her spear impatiently."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne balança sua lança com impaciência."
 
 msgid ""
 "<32>{#p/story}* Undyne suplexes an asteroid.\n"
 "* Just because she can."
 msgstr ""
+"<32>{#p/story}* Undyne flexiona um asteróide.\n"
+"* Só porque ela pode."
 
 msgid "<32>{#p/story}* Undyne bounces with fervor."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne balança em fervor."
 
 msgid "<32>{#p/story}* Undyne bounces impatiently."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne balança impaciente."
 
 msgid "<32>{#p/story}* Undyne flashes a genuine smile."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne da um sorriso genuíno."
 
 msgid "<32>{#p/story}* Undyne flashes a menacing smile."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne da um sorriso saliente."
 
 msgid "<33>{#p/story}* Undyne looks on with adoration."
-msgstr ""
+msgstr "<33>{#p/story}* Undyne olha por cima com adoração."
 
 msgid "<32>{#p/story}* Undyne draws her finger across her neck."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne passa o dedo pelo pescoço."
 
 msgid "<32>{#p/story}* Undyne lets out a battle cry."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne deixa cair uma lágrima de batalha."
 
 msgid ""
 "<32>{#p/story}* Undyne holds her fist in front of her and shakes her head."
 msgstr ""
+"<32>{#p/story}* Undyne coloca seu punho em frente ao rosto e balança a "
+"cabeça."
 
 msgid "<32>{#p/story}* Undyne stares into your SOUL."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne encara sua ALMA."
 
 msgid "<32>{#p/story}* Undyne towers threateningly."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne se eleva ameaçadoramente."
 
 msgid "<32>{#p/story}* Undyne thinks of her friends... and thinks of you."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne pensa em seus amigos... e pensa em você."
 
 msgid ""
 "<32>{#p/story}* Undyne thinks of her friends and pounds the ground with her "
 "fists."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne pensa em seus amigos e soca o chão."
 
 msgid "<32>{#p/story}* Smells like tilapia."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a tilápia."
 
 msgid "<32>{#p/story}* Smells like sushi."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a sushi."
 
 msgid "<32>{#p/story}* Undyne has a tear in her eye."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne tem lágrimas em seus olhos."
 
 msgid "<32>{#p/story}* Undyne scowls at you."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne franze a testa para você."
 
 msgid ""
 "<32>{#p/story}* Undyne thinks of her friends and shatters the ground with "
 "her body."
 msgstr ""
+"<32>{#p/story}* Undyne pensa em seus amigos e destrói o chão com seu corpo."
 
 msgid "<32>{#p/story}* Undyne isn't in the mood for games."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne não está no clima para jogos."
 
 msgid "<32>{#p/story}* Smells like tuna salad."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a salada de atum."
 
 msgid "<32>{#p/story}* Undyne's eye is twitching involuntarily."
-msgstr ""
+msgstr "<32>{#p/story}* Os olhos de Undyne tremem involuntariamente."
 
 msgid "<32>{#p/story}* Undyne is smashing spears on the ground."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne está jogando lanças no chão."
 
 msgid "<32>{#p/story}* Undyne's eye dart around to see if this is a prank."
 msgstr ""
+"<32>{#p/story}* O olho de Undyne se vira para ver se isso é uma brincadeira."
 
 msgid "<32>{#p/story}* Undyne is hyperventilating."
-msgstr ""
+msgstr "<32>{#p/story}* Undyne está hiperventilando."
 
 msgid "<32>{#p/story}* Smells like roasted fish."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a peixe assado."
 
 msgid "<20>{#p/undyne}{#e/undyne/3}..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}..."
 
 msgid ""
 "<20>{#e/undyne/4}What? You think I'm just gonna stand here and explain my "
 "strategy to you?"
 msgstr ""
+"<20>{#e/undyne/4}O quê? Você tá esperando que eu te explique estratégia aqui?"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/0}As long as you're "
 "{@fill=#00c000}GREEN{@fill=#000} you {@fill=#f00}CAN'T ESCAPE{@fill=#000}!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/0}Com tanto que você esteja "
+"{@fill=#00c000}VERDE{@fill=#000} {@fill=#f00}NÃO IRÁ ESCAPAR{@fill=#000}!"
 
 msgid ""
 "<20>{#e/undyne/0}Unless you learn to {@fill=#f00}face danger head-"
 "on{@fill=#000}..."
 msgstr ""
+"<20>{#e/undyne/0}Ah não ser que você saiba {@fill=#f00}enfrentar o "
+"perigo{@fill=#000}..."
 
 msgid "<20>{#e/undyne/1}You won't last a SECOND against ME!"
-msgstr ""
+msgstr "<20>{#e/undyne/1}Não vai durar um segundo contra MIM!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/0}When I said {@fill=#f00}face towards "
 "danger{@fill=#000}..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/0}Quando eu disse {@fill=#f00}enfrentar o "
+"perigo{@fill=#000}..."
 
 msgid "<20>{#e/undyne/1}I meant face towards the bullets!"
-msgstr ""
+msgstr "<20>{#e/undyne/1}Eu disse para encarar as balas!"
 
 msgid "<20>{#p/undyne}{#e/undyne/3}Look."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}Olha."
 
 msgid "<20>{#e/undyne/3}I gave you a spear."
-msgstr ""
+msgstr "<20>{#e/undyne/3}Eu te dei o escudo."
 
 msgid "<20>{#e/undyne/2}You can use that to block my attacks."
-msgstr ""
+msgstr "<20>{#e/undyne/2}Você pode usar para bloquear meus ataques."
 
 msgid ""
 "<20>{#e/undyne/17}I should not have to explain this to YOU of all people!"
-msgstr ""
+msgstr "<20>{#e/undyne/17}Eu não deveria precisar te explicar ISSO!"
 
 msgid "<20>{#e/undyne/17}Do I have to explain this any more clearly?"
-msgstr ""
+msgstr "<20>{#e/undyne/17}Eu preciso explicar isso de forma mais clara?"
 
 msgid "<20>{#p/undyne}{#e/undyne/6}WHAT ARE YOU DOING?"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/6}O QUE VOCÊ TÁ FAZENDO?"
 
 msgid "<20>{#e/undyne/7}JUST FACE UPWARDS!!!"
-msgstr ""
+msgstr "<20>{#e/undyne/7}SÓ ME ENFRENTA!!!"
 
 msgid "<20>{#e/undyne/5}IT'S NOT THAT HARD!!!"
-msgstr ""
+msgstr "<20>{#e/undyne/5}NÃO É TÃO DIFÍCIL!!!"
 
 msgid "<20>{#p/undyne}{#e/undyne/2}..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/2}..."
 
 msgid "<20>{#e/undyne/2}I wanted this to be a fair fight."
-msgstr ""
+msgstr "<20>{#e/undyne/2}Eu queria que essa fosse uma batalha justa."
 
 msgid "<20>{#e/undyne/3}I had hoped you'd show me what you're capable of."
-msgstr ""
+msgstr "<20>{#e/undyne/3}Eu esperava que você fosse me mostrar do que é capaz."
 
 msgid "<20>{#e/undyne/4}And maybe, if you beat me like this..."
-msgstr ""
+msgstr "<20>{#e/undyne/4}E talvez, se você me derrotar assim..."
 
 msgid "<20>{#e/undyne/2}It'd truly show how strong you are."
-msgstr ""
+msgstr "<20>{#e/undyne/2}Mostraria o quão forte você é."
 
 msgid "<20>{#e/undyne/6}BUT NOW???"
-msgstr ""
+msgstr "<20>{#e/undyne/6}MAS AGORA???"
 
 msgid "<20>{#e/undyne/5}I DON'T CARE!"
-msgstr ""
+msgstr "<20>{#e/undyne/5}EU NÃO LIGO!"
 
 msgid "<20>{#e/undyne/5}I'M NOT YOUR FREAKING BABYSITTER!"
-msgstr ""
+msgstr "<20>{#e/undyne/5}EU NÃO SOU SUA BABÁ!"
 
 msgid "<20>{#e/undyne/17}Unless your babysitter..."
-msgstr ""
+msgstr "<20>{#e/undyne/17}Ah não ser que sua babá..."
 
 msgid "<20>{#e/undyne/5}DOES THIS!"
-msgstr ""
+msgstr "<20>{#e/undyne/5}FAÇA ISSO!"
 
 msgid "<20>{#e/undyne/3}I wanted to give you a chance."
-msgstr ""
+msgstr "<20>{#e/undyne/3}Eu queria te dar uma chance."
 
 msgid "<20>{#e/undyne/4}And maybe, if I beat you like this..."
-msgstr ""
+msgstr "<20>{#e/undyne/4}E talvez, se eu te derrotar assim..."
 
 msgid "<20>{#e/undyne/2}It'd truly show how strong monsters can be."
-msgstr ""
+msgstr "<20>{#e/undyne/2}Isso mostraria o quão forte monstros podem ser."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/33}Too difficult?\n"
 "Feh."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/33}Difícil demais?\n"
+"Feh."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}You should've thought about THAT when you had "
 "the chance."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Você deveria ter pensado sobre ISSO quando eu te "
+"dei a chance."
 
 msgid "<20>{#p/undyne}{#e/undyne/3}Not bad, not great."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}Nada mal, nada super legal."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}Papyrus certainly wouldn't be satisfied, though."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/2}Papyrus com certeza não estaria satisfeito."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/3}So you're gonna be a little tougher than I "
 "expected."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/3}Então você vai ser um pouco mais forte do que eu "
+"esperava."
 
 msgid "<20>{#p/undyne}{#e/undyne/2}Fair enough."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/2}Justo."
 
 msgid "<20>{#p/undyne}{#e/undyne/4}Impressive..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/4}Impressionante..."
 
 msgid "<20>{#p/undyne}{#e/undyne/2}Just don't expect your luck to last long."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Só não espere que sua sorte dure tanto tempo."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/1}\\x00*huff...*\n"
 "\\x00*huff...*"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}\\x00*huff...*\n"
+"\\x00*huff...*"
 
 msgid "<20>{#e/undyne/1}So this was your plan all along, huh?"
-msgstr ""
+msgstr "<20>{#e/undyne/1}Então era esse seu plano o tempo todo, huh?"
 
 msgid ""
 "<20>{#e/undyne/5}Get me all riled up so you could face me at FULL STRENGTH?"
 msgstr ""
+"<20>{#e/undyne/5}Me irritar para que você possa me enfrentar com força total?"
 
 msgid "<20>{#e/undyne/0}Well then."
-msgstr ""
+msgstr "<20>{#e/undyne/0}Pois bem."
 
 msgid ""
 "<20>{#e/undyne/6}Looks like WE'RE gonna have to do this the {@fill=#f00}hard"
 " way{@fill=#000}!"
 msgstr ""
+"<20>{#e/undyne/6}Parece que vamos ter que fazer isso do {@fill=#f00}jeito "
+"difícil{@fill=#000}!"
 
 msgid "<20>{#e/undyne/1}Fuhuhuhu!!"
-msgstr ""
+msgstr "<20>{#e/undyne/1}Fuhuhuhu!!"
 
 msgid "<20>{#e/undyne/21}Not bad."
-msgstr ""
+msgstr "<20>{#e/undyne/21}Nada mal."
 
 msgid "<20>{#e/undyne/15}But I don't have time for your games."
-msgstr ""
+msgstr "<20>{#e/undyne/15}Mas eu não tenho tempo para seus joguinhos."
 
 msgid ""
 "<20>{#e/undyne/6}So WE'RE gonna have to do this the {@fill=#f00}hard "
 "way{@fill=#000}!"
 msgstr ""
+"<20>{#e/undyne/6}Então VAMOS fazer isso do {@fill=#f00}jeito "
+"difícil{@fill=#000}!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/1}Not bad!\n"
 "Then how about THIS!?"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}Nada mal!\n"
+"Que tal isso!?"
 
 msgid "<20>{#p/undyne}{#e/undyne/2}Let me tell you a little story."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/2}Deixa eu te contar uma história."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/0}It's been a long time since I've met a warrior "
 "like you..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/0}Faz tempo desde que eu lutei com um guerreiro "
+"igual a você..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/0}For years, we've dreamed of a happy ending..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/0}Por anos, nós sonhamos com um final feliz..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}Back when I was training to be a royal guard..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Quando eu estava treinando para ser da guarda "
+"real..."
 
 msgid "<20>{#p/undyne}{#e/undyne/2}Things weren't all starlight and roses."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/2}As coisas não eram estrelas e rosas."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/0}And now, I've got the chance to do battle with "
 "one!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/0}E agora, tenho a chance de lutar com um!"
 
 msgid "<20>{#p/undyne}{#e/undyne/0}And now, the stars are just within reach!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/0}E agora, as estrelas estão ao nosso alcance!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}Many were against me joining the guard, "
 "including my family."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Muitas eram contra minha entrada na guarda, "
+"inclusive minha família."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/1}I'll savor this moment for as long as it lasts!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}Eu irei aproveitar este momento pelo tempo que "
+"ele durar!"
 
 msgid "<20>{#p/undyne}{#e/undyne/1}I won't let you snatch it away from us!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/1}Eu não deixar você tirar isso de nós!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/3}And when I lost my eye in a training accident..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/3}E quando eu perdi meu olho em um acidente de "
+"treino..."
 
 msgid "<20>{#p/undyne}{#e/undyne/2}I felt like I had nobody to turn to."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Eu senti como se não tivesse ninguém para "
+"conversar."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/5}NGAHHH!\n"
 "Enough warming up!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/5}NGAHHH!\n"
+"Chega de aquecimento!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/11}Howling in pain, I dragged myself across the "
 "floor..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/11}Rolando em dor, eu me tremia no chão..."
 
 msgid "<20>{#e/undyne/3}Hoping someone would hear me."
-msgstr ""
+msgstr "<20>{#e/undyne/3}Esperando que alguém me ouvisse."
 
 msgid "<20>{#p/undyne}{#e/undyne/20}Well... you're tough!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/20}Bem... você é durona!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/9}Come on!\n"
 "Hit me already!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/9}Vamos!\n"
+"Me dá uma porrada!"
 
 msgid "<20>{#e/undyne/7}Don't just stand there!"
-msgstr ""
+msgstr "<20>{#e/undyne/7}Não fica só aí parada!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/6}Mercy!\n"
 "Ha!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/6}Piedade!\n"
+"Ha!"
 
 msgid "<20>{#e/undyne/5}I still can't believe you want to SPARE me!"
-msgstr ""
+msgstr "<20>{#e/undyne/5}Eu nem posso acreditar que você quer me POUPAR!"
 
 msgid "<20>{#p/undyne}{#e/undyne/4}Then, I heard an innocent voice."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/4}Então, eu escutei uma voz inocente."
 
 msgid "<20>{#e/undyne/3}Calling from the distance."
-msgstr ""
+msgstr "<20>{#e/undyne/3}Chamando na distância."
 
 msgid "<20>{#p/undyne}{#e/undyne/0}Not that I expected anything less..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/0}Não que eu esperasse menos..."
 
 msgid "<20>{#p/undyne}{#e/undyne/0}But even if you could beat me..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/0}Mas mesmo se você puder me derrotar..."
 
 msgid "<20>{#p/undyne}{#e/undyne/10}This isn't like you at all!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/10}Isso não é nada parecido com você!"
 
 msgid "<20>{#p/undyne}{#e/undyne/3}But even if I DID spare you..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}Mas mesmo se eu TE poupar..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}After searching desperately for help, to no "
 "avail..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Depois de procurar desesperadamente por ajuda, "
+"sem sucesso..."
 
 msgid "<20>{#e/undyne/3}An innocent voice called my name."
-msgstr ""
+msgstr "<20>{#e/undyne/3}Uma voz inocente chamou meu nome."
 
 msgid "<20>{#p/undyne}{#e/undyne/3}You know..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}Sabe..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/4}Even though we haven't escaped the outpost "
 "yet..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/4}Mesmo que nós ainda não tenhamos escapado do "
+"Outpost ainda..."
 
 msgid "<20>{#p/undyne}{#e/undyne/3}Honestly, I'm doing you a favor..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}Eu estou te fazendo um favor..."
 
 msgid "<20>{#p/undyne}{#e/undyne/2}At the time, Papyrus was just a kid."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/2}Naquele tempo, Papyrus era só uma criança."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/0}Getting to fight makes me FEEL like I'm already "
 "free!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/0}Lutar faz com eu já me sinta livre!"
 
 msgid "<20>{#p/undyne}{#e/undyne/1}No human has EVER made it past ASGORE!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/1}Nenhum humano JAMAIS passou de Asgore!"
 
 msgid "<20>{#p/undyne}{#e/undyne/3}Most kids run when they sense danger..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/3}Maior parte das crianças fogem quando sentem "
+"perigo..."
 
 msgid "<20>{#e/undyne/4}But not him."
-msgstr ""
+msgstr "<20>{#e/undyne/4}Mas ele não."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/4}Just like that one anime Alphys showed me..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/4}Igual aquele anime que a Alphys me mostrou..."
 
 msgid "<20>{#p/undyne}{#e/undyne/4}Killing you now is an act of mercy..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/4}Te matar agora é um ato de piedade..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}All that mattered to him was that someone was "
 "hurting."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Tudo o que importava para ele era que alguém "
+"estava ferido."
 
 msgid ""
 "<20>{#e/undyne/2}Someone he could-\n"
 "No, HAD to help."
 msgstr ""
+"<20>{#e/undyne/2}Alguém que ele poderia-\n"
+"Não, DEVERIA ajudar."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/1}No matter how awful being trapped out here can "
 "be..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}Não importa o quão dolorido seja estar preso "
+"aqui..."
 
 msgid "<20>{#e/undyne/0}It won't stop us from doing what we love!"
-msgstr ""
+msgstr "<20>{#e/undyne/0}Não vai nos impedir de fazer aquilo nós amamos!"
 
 msgid "<20>{#p/undyne}{#e/undyne/6}So STOP being so damn resilient!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/6}Então PARA de ser tão resistente!"
 
 msgid "<20>{#p/undyne}{#e/undyne/4}'Cause that's just who he was."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/4}Porque é assim que ele é."
 
 msgid "<20>{#p/undyne}{#e/undyne/3}Right to the end."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}Direto ao fim."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/1}... but man, you really don't know when to quit!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}... mas cara, você realmente não sabe a hora de "
+"desistir!"
 
 msgid "<20>{#e/undyne/17}How'd you manage to get this strong!?"
-msgstr ""
+msgstr "<20>{#e/undyne/17}Como você ficou tão forte!?"
 
 msgid "<20>{#p/undyne}{#e/undyne/5}What the hell are humans made out of!?"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/5}De que caramba os humanos são feitos?"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/4}For all my bravado, courage, and strength of "
 "will..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/4}Apesar de toda a minha bravata, coragem e força "
+"de vontade..."
 
 msgid "<20>{#e/undyne/11}Even I didn't have what it took to be like him."
-msgstr ""
+msgstr "<20>{#e/undyne/11}Mesmo eu não tive o necessário para ser como ele."
 
 msgid "<20>{#p/undyne}{#e/undyne/5}Anyone else would've GIVEN UP by now!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/5}Qualquer outro já teria DESISTIDO!"
 
 msgid "<20>{#p/undyne}{#e/undyne/5}Anyone else would be DEAD by now!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/5}Qualquer outro já estaria MORTO!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}You didn't just kill a friend, or a student."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Você não matou só um amigo, ou um estudante."
 
 msgid ""
 "<20>{#e/undyne/2}You killed the one person who would've forgiven you for it."
-msgstr ""
+msgstr "<20>{#e/undyne/2}Você matou a única pessoa que te perdoaria por isso."
 
 msgid "<20>{#p/undyne}{#e/undyne/3}Then again, you've had time to train..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}E de novo, você teve tempo para treinar..."
 
 msgid "<20>{#p/undyne}{#e/undyne/7}Are you even listening to me!?"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/7}Você pelo menos está me escutando?"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/3}Huh?\n"
 "Don't tell me you're ACTUALLY giving up..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/3}Huh? \n"
+"Não me fala que você tá desistindo de verdade..."
 
 msgid "<20>{#p/undyne}{#e/undyne/8}And sparing me won't do anything!!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/8}E me poupar não vai resolver nada!"
 
 msgid "<20>{#p/undyne}{#e/undyne/11}With him and so many others gone..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/11}Com ele e tantos desaparecidos..."
 
 msgid "<20>{#p/undyne}{#e/undyne/11}With him gone..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/11}Com ele morto..."
 
 msgid "<20>{#p/undyne}{#e/undyne/2}The only mercy YOU'RE going to get..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/2}A única PIEDADE que vai ter..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/1}... is a quick death at the end of MY spear!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}... é uma morte rápida pela ponta da MINHA "
+"espada!"
 
 msgid "<20>{#p/undyne}{#e/undyne/18}All those other monsters you fought..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/18}Todos os outros monstros que você lutou..."
 
 msgid "<20>{#p/undyne}{#e/undyne/1}THAT'S the source of your power!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/1}ESTA é a fonte do seu poder!"
 
 msgid "<20>{#p/undyne}{#e/undyne/9}Come on!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/9}Vamos logo!"
 
 msgid "<20>{#p/undyne}{#e/undyne/5}Come on, I'm GIVING you an opening here!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/5}Vamos lá, eu estou te dando uma chance!"
 
 msgid "<20>{#p/undyne}{#e/undyne/1}Seriously."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/1}Sério."
 
 msgid "<20>{#p/undyne}{#e/undyne/11}You know, punk..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/11}Sabe de uma coisa, pirralha..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}It's rude to interrupt people when they're "
 "monologuing."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}É bem rude interromper as pessoas enquanto elas "
+"falam."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/11}...\n"
 "You're going to pay for what you did to him..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/11}... \n"
+"Você vai pagar pelo que fez com ele..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}... and all the other monsters you've "
 "slaughtered."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}... e todos os outros monstros que você matou."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}...\n"
 "You're going to pay for what you did to him."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}...\n"
+"Você vai pagar pelo que fez com ele."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/17}Keep a close eye on my attacks, and maybe..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/17}Mantenha os olhos abertos para meus ataques, e "
+"talvez..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/5}... you'll be smart enough to know when to let "
 "'em through!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/5}... você será esperto o suficiente para deixá-"
+"los passar."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/2}Y'know, Alphys told me humans can be "
 "determined..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/2}Sabe, Alphys me disse que humanos podem ser "
+"determinados..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/1}Feh.\n"
 "Determination will only get you so far."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}Feh. \n"
+"Determinação não vai te levar tão longe."
 
 msgid "<20>{#p/undyne}{#e/undyne/1}Still going!?"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/1}Ainda de pé!?"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/17}Ha...\n"
 "Alphys told me humans can be determined..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/17}Ha...\n"
+"Alphys me disse que humanos podem ser determinados..."
 
 msgid "<20>{#p/undyne}{#e/undyne/1}Alphys told me humans can be determined..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}Alphys me disse que humanos podem ser "
+"determinados..."
 
 msgid "<20>{#p/undyne}{#e/undyne/1}I see now what she meant by that!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/1}Agora eu entendo o que ela quis dizer com isso!"
 
 msgid "<20>{#p/undyne}{#e/undyne/1}But you know what?"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/1}Mas sabe de uma coisa?"
 
 msgid "<20>{#e/undyne/1}I'm determined, too!"
-msgstr ""
+msgstr "<20>{#e/undyne/1}Eu sou determinada, também!"
 
 msgid "<20>{#p/undyne}{#e/undyne/1}But I'm determined, too!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/1}Mas eu sou determinada, também!"
 
 msgid "<20>{#p/undyne}{#e/undyne/5}Determined to show you who's BOSS!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/5}Determinada para mostrar QUEM manda!"
 
 msgid "<20>{#p/undyne}{#e/undyne/6}Determined to end this RIGHT NOW!!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/6}Determinada para acabar com isso AGORA!"
 
 msgid "<20>{#p/undyne}{#e/undyne/9}... WHO'S BOSS!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/9}... QUEM É QUE MANDA!"
 
 msgid "<20>{#p/undyne}{#e/undyne/7}... RIGHT NOW!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/7}... AGORA MESMO!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/10}... WHO'S...\n"
 "...\n"
 "... BOSS!!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/10}... QUEM...\n"
+"...\n"
+"... MANDA!!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/9}... RIGHT...\n"
 "...\n"
 "... NOW!!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/9}... AGORA...\n"
+"...\n"
+"... MESMO!!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/10}Ha...\n"
 "Ha..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/10}Ha...\n"
+"Ha..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/5}NGAHHH!!!\n"
 "FINAL ATTACK!!!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/5}NGAHHH!!!\n"
+"ATAQUE FINAL!!!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/5}NGAHHH!!!\n"
 "DIE ALREADY, YOU LITTLE BRAT!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/5}NGAHHH!!!\n"
+"MORRE LOGO, SUA RATINHA!"
 
 msgid "<20>{#p/undyne}{#e/undyne/5}YOU'RE GETTING IN MY WAY!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/5}VOCÊ TÁ NO MEU CAMINHO!"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/5}I WILL NEVER TAKE MERCY FROM THE LIKES OF YOU!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/5}EU JAMAIS IREI DESEJAR PIEDADE DE PESSOAS COMO "
+"VOCÊ!"
 
 msgid "<20>{#p/undyne}{#e/undyne/6}I WILL NOT BE DEFEATED!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/6}EU NÃO SEREI DERROTADA!"
 
 msgid "<20>{#p/undyne}{#e/undyne/6}I WILL FIGHT YOU TO THE BITTER END!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/6}EU VOU LUTAR COM VOCÊ ATÉ O FIM!"
 
 msgid "<20>{#p/undyne}{#e/undyne/9}..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/9}..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/11}\\x00*huff...*\n"
 "\\x00*huff...*"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/11}\\x00*huff...*\n"
+"\\x00*huff...*"
 
 msgid "<20>{#e/undyne/3}..."
-msgstr ""
+msgstr "<20>{#e/undyne/3}..."
 
 msgid "<20>{#e/undyne/4}Well..."
-msgstr ""
+msgstr "<20>{#e/undyne/4}Bem..."
 
 msgid "<20>{#e/undyne/17}You're certainly tough, aren't you?"
-msgstr ""
+msgstr "<20>{#e/undyne/17}Você é bem durona, hein?"
 
 msgid "<20>{#e/undyne/0}... heh, enough to beat me, anyway."
-msgstr ""
+msgstr "<20>{#e/undyne/0}... heh, o suficiente para me derrotar, pelo menos."
 
 msgid "<20>{#e/undyne/13}But hey, that's pretty freaking tough!"
-msgstr ""
+msgstr "<20>{#e/undyne/13}Mas ei, isso é muito legal!"
 
 msgid "<20>{#e/undyne/1}Even though not everyone's gonna like you for it..."
 msgstr ""
+"<20>{#e/undyne/1}Mesmo sabendo que nem todos vão gostar de você por isso..."
 
 msgid ""
 "<20>{#e/undyne/0}Seeing a human fight with honor gives me hope for your "
 "kind."
 msgstr ""
+"<20>{#e/undyne/0}Ver um humano lutando com honra me dá esperança para sua "
+"raça."
 
 msgid "<20>{#e/undyne/4}..."
-msgstr ""
+msgstr "<20>{#e/undyne/4}..."
 
 msgid "<20>{#e/undyne/3}It's a shame we can't do battle forever, huh?"
-msgstr ""
+msgstr "<20>{#e/undyne/3}É chato não podermos lutar mais, né?"
 
 msgid "<20>{#e/undyne/1}Just... whatever you do, whoever you fight with..."
 msgstr ""
+"<20>{#e/undyne/1}Só... seja lá o que você fizer, seja lá com quem você "
+"lutar..."
 
 msgid "<20>{#e/undyne/1}Don't let it change who you are, got it?"
-msgstr ""
+msgstr "<20>{#e/undyne/1}Não deixe isso mudar quem você é, beleza?"
 
 msgid "<20>{#e/undyne/4}Until next time..."
-msgstr ""
+msgstr "<20>{#e/undyne/4}Até a próxima..."
 
 msgid "<20>{#e/undyne/4}Warrior."
-msgstr ""
+msgstr "<20>{#e/undyne/4}Guerreiro."
 
 msgid "<20>{#p/undyne}Ngahhh..."
-msgstr ""
+msgstr "<20>{#p/undyne}Ngahhh..."
 
 msgid ""
 "<21>I thought...\n"
 "You were different..."
 msgstr ""
+"<21>Eu pensei...\n"
+"Que você era diferente..."
 
 msgid ""
 "<20>But then...\n"
 "... you actually...\n"
 "... urgh..."
 msgstr ""
+"<20>Mas você...\n"
+"... você realmente...\n"
+"... urgh..."
 
 msgid "<20>..."
-msgstr ""
+msgstr "<20>..."
 
 msgid ""
 "<20>You were stronger...\n"
 "Than I thought..."
-msgstr ""
+msgstr "<20>Você é mais forte do que eu pensava..."
 
 msgid ""
 "<20>So then...\n"
 "... this is where...\n"
 "... it ends..."
 msgstr ""
+"<20>Então...\n"
+"... é assim...\n"
+"... que acaba..."
 
 msgid "<20>{#p/undyne}{#e/undyne/31}..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/31}..."
 
 msgid "<20>{#p/undyne}{#e/undyne/31}No..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/31}Não..."
 
 msgid "<20>{#p/undyne}{#e/undyne/46}... no."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/46}... não."
 
 msgid "<20>{#e/undyne/43}Not yet."
-msgstr ""
+msgstr "<20>{#e/undyne/43}Ainda não."
 
 msgid "<20>{#p/undyne}{#e/undyne/32}NO!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/32}NÃO!"
 
 msgid "<20>I won't die!"
-msgstr ""
+msgstr "<20>Eu não vou morrer!"
 
 msgid ""
 "<20>This betrayal...\n"
 "This... dishonor..."
 msgstr ""
+"<20>Essa traição...\n"
+"Essa... desonra..."
 
 msgid "<20>I won't let you get away with it!"
-msgstr ""
+msgstr "<20>Eu não vou deixar você se safar disso!"
 
 msgid ""
 "<20>{#e/undyne/36}Alphys...\n"
 "Asgore..."
 msgstr ""
+"<20>{#e/undyne/36}Alphys...\n"
+"Asgore..."
 
 msgid ""
 "<20>{#e/undyne/36}Alphys...\n"
 "Asgore...\n"
 "Papyrus..."
 msgstr ""
+"<20>{#e/undyne/36}Alphys...\n"
+"Asgore...\n"
+"Papyrus..."
 
 msgid "<20>{#e/undyne/32}Everyone is counting on me to protect them!"
-msgstr ""
+msgstr "<20>{#e/undyne/32}Todos estão contando comigo para protegê-los!"
 
 msgid "<20>{#e/undyne/32}NNNNGAH!"
-msgstr ""
+msgstr "<20>{#e/undyne/32}NNNNGAH!"
 
 msgid "<20>{#e/undyne/45}Not while you're still breathing."
-msgstr ""
+msgstr "<20>{#e/undyne/45}Não enquanto você ainda respira."
 
 msgid "<20>{#p/undyne}{#e/undyne/32}Human!"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/32}Humano!"
 
 msgid "<20>{#e/undyne/36}In the name of a good and fair fight..."
-msgstr ""
+msgstr "<20>{#e/undyne/36}Em nome da boa e justa luta..."
 
 msgid "<20>{#e/undyne/36}In the name of everybody's hopes and dreams..."
-msgstr ""
+msgstr "<20>{#e/undyne/36}No nome dos sonhos e esperanças de todos..."
 
 msgid "<20>{#e/undyne/32}I WILL DEFEAT YOU!"
-msgstr ""
+msgstr "<20>{#e/undyne/32}EU VOU TE DERROTAR!"
 
 msgid "<20>{#p/undyne}{#e/undyne/32}Come on, is that all you've got!?"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/32}Isso é tudo que você tem?"
 
 msgid "<20>{#p/undyne}{#e/undyne/32}... pathetic."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/32}... patético."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/32}You're going to have to try harder than that!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/32}Você vai ter que esforçar um pouco mais que "
+"isso!"
 
 msgid "<20>{#p/undyne}{#e/undyne/34}W-where's your fighting spirit now, huh?"
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/3}Onde está seu espírito de luta agora, huh?"
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/34}S-see how strong we are when we believe in "
 "ourselves?"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/34}V-vê como forte somos quando acreditamos em nós "
+"mesmos?"
 
 msgid "<20>{#p/undyne}{#e/undyne/35}H... heh..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/35}H... heh..."
 
 msgid "<20>{#e/undyne/34}Had enough yet?"
-msgstr ""
+msgstr "<20>{#e/undyne/34}Já está cansada?"
 
 msgid "<20>{#p/undyne}{#e/undyne/34}..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/34}..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/35}... I won't...\n"
 "...\n"
 "give up..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/35}... Eu não vou...\n"
+"...\n"
+"desistir..."
 
 msgid "<20>{#p/undyne}{#e/undyne/43}..."
-msgstr ""
+msgstr "<20>{#p/undyne}{#e/undyne/43}..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/47}Ha...\n"
 "Ha..."
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/47}Ha...\n"
+"Ha..."
 
 msgid ""
 "<20>{#e/undyne/44}...\n"
 "Alphys..."
 msgstr ""
+"<20>{#e/undyne/44}...\n"
+"Alphys..."
 
 msgid "<20>This is what I was afraid of..."
-msgstr ""
+msgstr "<20>Era isso que temia..."
 
 msgid "<20>{#e/undyne/49}This is why I never told you..."
-msgstr ""
+msgstr "<20>{#e/undyne/49}É por isso que eu nunca te disse..."
 
 msgid ""
 "<20>{#p/undyne}{#e/undyne/44}No...\n"
 "No!"
 msgstr ""
+"<20>{#p/undyne}{#e/undyne/44}Não...\n"
+"Não!"
 
 msgid "<20>{#e/undyne/34}Not yet!"
-msgstr ""
+msgstr "<20>{#e/undyne/34}Ainda não!"
 
 msgid "<20>{#e/undyne/48}I won't die!"
-msgstr ""
+msgstr "<20>{#e/undyne/48}Eu não vou morrer!"
 
 msgid "<20>{*}{#p/undyne}{#i/4}{@random=1.1/1.1}NGAHHHHHHHH!!!{^10}{%}"
-msgstr ""
+msgstr "<20>{*}{#p/undyne}{#i/4}{@random=1.1/1.1}NGAHHHHHHHH!!!{^10}{%}"
 
 msgid "<20>{*}{#p/undyne}{#i/5}{#v/1}{@random=1.1/1.1}I WON'T DIE!{^15}{%}"
 msgstr ""
+"<20>{*}{#p/undyne}{#i/5}{#v/1}{@random=1.1/1.1}EU NÃO VOU MORRER!{^15}{%}"
 
 msgid "<20>{*}{#p/undyne}{#i/5}{#v/2}{@random=1.1/1.1}I WON'T DIE!{^15}{%}"
 msgstr ""
+"<20>{*}{#p/undyne}{#i/5}{#v/2}{@random=1.1/1.1}EU NÃO VOU MORRER!{^15}{%}"
 
 msgid "<20>{*}{#p/undyne}{#i/5}{#v/3}{@random=1.1/1.1}I WON'T DIE!{^15}{%}"
 msgstr ""
+"<20>{*}{#p/undyne}{#i/5}{#v/3}{@random=1.1/1.1}EU NÃO VOU MORRER!{^15}{%}"
 
 msgid "<20>{*}{#p/undyne}{#i/6}{#v/4}{@random=1.1/1.1}I{^10} WON'T{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#p/undyne}{#i/6}{#v/4}{@random=1.1/1.1}EU{^10} NÃO{^30}{%}"
 
 msgid "<32>{#p/story}* Undyne is smiling as if nothing is wrong."
 msgstr ""
