@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-23 15:12+0000\n"
-"PO-Revision-Date: 2025-02-24 01:19+0000\n"
+"PO-Revision-Date: 2025-02-25 12:12+0000\n"
 "Last-Translator: Chicken <isazacek08@gmail.com>\n"
 "Language-Team: Czech <https://ws3917.hbms.me/projects/ps-outertale/"
 "1-outlands/cs/>\n"
@@ -2004,7 +2004,7 @@ msgid ""
 msgstr ""
 
 msgid "{#n1!}* (What do you say?)"
-msgstr ""
+msgstr "{#n1!}* (Co říkáte?)"
 
 msgid "Hungry"
 msgstr ""
@@ -2016,7 +2016,7 @@ msgid "Home"
 msgstr ""
 
 msgid "<25>{#p/toriel}{#n1}* What is it, my child?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#n1}* Co je to, moje dítě?"
 
 msgid "<25>{#p/toriel}{#n1}* Well, let me know if you need anything."
 msgstr ""
@@ -2343,7 +2343,7 @@ msgid ""
 msgstr ""
 
 msgid "* (What do you say?)"
-msgstr ""
+msgstr "* (Co říkáte?)"
 
 msgid ""
 "Never\n"
@@ -2518,7 +2518,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/3}* What is it now..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/3}* Co je to teď..."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* What is the problem?\n"
@@ -3319,7 +3319,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#f/11}{#v/0}* What an idiot!"
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Jaký idiot!"
 
 msgid "<25>{#f/7}{#v/0}* What a shame for her."
 msgstr ""
