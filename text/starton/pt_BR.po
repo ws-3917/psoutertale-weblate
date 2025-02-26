@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:12+0000\n"
-"PO-Revision-Date: 2025-02-26 13:12+0000\n"
+"PO-Revision-Date: 2025-02-26 13:54+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -5400,168 +5398,191 @@ msgstr "<32>* (É, tipo, eu não gosto mais de você.)"
 
 msgid "<32>* (I'd take back the key I gave you, if only I could.)"
 msgstr ""
+"<32>* (Eu pegaria de volta a chave que te dei, se eu pelo menos pudesse.)"
 
 msgid "<32>* (You uh, got a problem with our, uh, police force, or...?)"
 msgstr ""
+"<32>* (Você uh, tem algum problema com nossa, uh, força policial, ou...?)"
 
 msgid "<32>* (Yeah, you know, uh, I don't really like you all that much.)"
-msgstr ""
+msgstr "<32>* (É, sabe, uh, eu não gosto tanto de você.)"
 
 msgid "<32>* (There's just, something off, particularly about you.)"
-msgstr ""
+msgstr "<32>* (Tem algo particularmente errado em relação a você.)"
 
 msgid ""
 "<32>* (No?)\n"
 "* (Hey, thanks for uh, not doing that.)"
 msgstr ""
+"<32>* (Não?)\n"
+"* (Ei, valeu por, não fazer isso.)"
 
 msgid "<32>* (Y'know, you seem like someone who likes to show respect.)"
 msgstr ""
+"<32>* (Você sabe, você parece ser alguém que gosta de demonstrar respeito.)"
 
 msgid "<32>* (So, thanks for, uh, doing that.)"
-msgstr ""
+msgstr "<32>* (Então, valeu por, uh, fazer isso.)"
 
 msgid "<32>* (In fact...)"
-msgstr ""
+msgstr "<32>* (De fato...)"
 
 msgid ""
 "<32>* (Here, kid.)\n"
 "* (Have a key, on us.)"
 msgstr ""
+"<32>* (Ei, carinha.)\n"
+"* (Toma essa chave, por nossa conta.)"
 
 msgid "<32>{#p/basic}{#npc/a}* (We've, uh, got an armory somewhere, I think.)"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* (Nós, uh, temos um arsenal em algum lugar, eu acho.)"
 
 msgid ""
 "<32>* (Psst...)\n"
 "* (Just between us, Kabakk and I built this station ourselves.)"
 msgstr ""
+"<32>* (Psst...)\n"
+"* (Só entre a gente, Kabakk e eu construímos essa estação por conta própria.)"
 
 msgid "<32>* (Pretty cool, huh?)"
-msgstr ""
+msgstr "<32>* (Bem legal, né?)"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* (Do better, my friend.)\n"
 "* (Do better.)"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* (Faça melhor, meu amigo.)\n"
+"* (Faça melhor.)"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* (Carry on, my friend.)\n"
 "* (Carry on.)"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* (Continue assim, meu amigo.)\n"
+"* (Continue assim.)"
 
 msgid "<32>{#p/basic}{#npc/a}* (Get outta here.)"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* (Some daqui.)"
 
 msgid "<32>{#p/basic}{#npc/a}* (Yeah, we're not real police.)"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* (É, não somos polícia de verdade.)"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* (We may not be real police, but people like you are "
 "worth protecting and serving.)"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* (Podemos não ser polícias de verdade, mas pessoas "
+"como você valem a pena proteger.)"
 
 msgid "<32>{#p/human}* (You activate the terminal.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você ativa o terminal.)"
 
 msgid ""
 "<32>{#p/human}* (The note describes reducing the total to zero by adding or "
 "subtracting powers of ten.)"
 msgstr ""
+"<32>{#p/human}* (A nota descreve a redução do total a zero adicionando ou "
+"subtraindo potências de dez.)"
 
 msgid "<32>{#p/basic}* There are written instructions tacked onto the side..."
-msgstr ""
+msgstr "<32>{#p/basic}* Tem instruções marcadas do lado..."
 
 msgid ""
 "<33>* It's illegible chicken-scratch.\n"
 "* The only word you can make out is \"zero.\""
 msgstr ""
+"<33>* É um arranhão de galinha ilegível.\n"
+"* A única palavra que você consegue distinguir é \"zero\"."
 
 msgid "<32>{#p/human}* (But you already completed this puzzle beforehand.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas você já completou este quebra cabeça.)"
 
 msgid "<32>{#p/basic}* The terminal is now in an unlocked state."
-msgstr ""
+msgstr "<32>{#p/basic}* O terminal agora está desbloqueado."
 
 msgid "<32>{#p/human}* (You look behind the microwave...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você olha atrás do micro-ondas...)"
 
 msgid "<32>{#p/basic}* Nothing useful here."
-msgstr ""
+msgstr "<32>{#p/basic}* Nada útil aqui."
 
 msgid "<32>{#s/equip}{#p/human}* (You pulled the switch.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Você aperta o interruptor.)"
 
 msgid "<32>{#p/basic}* There's a switch here..."
-msgstr ""
+msgstr "<32>{#p/basic}* Tem um interruptor aqui..."
 
 msgid "<32>{#p/human}* (But you already flipped the switch here.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas você já apertou...)"
 
 msgid ""
 "<32>{#p/human}* (But you didn't notice anything of note about this "
 "appliance.)"
 msgstr ""
+"<32>{#p/human}* (Mas você não notou nada digno de notar sobre este aparelho.)"
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL dielectric heater, circa 260X."
-msgstr ""
+msgstr "<32>{#p/basic}* Um aquecedor dielétrico padrão CIDADELA, circa de 260X."
 
 msgid ""
 "<32>* It's a microwave.\n"
 "* Can't be over a decade old."
 msgstr ""
+"<32>* É um micro-ondas.\n"
+"* Não tem mais do que uma década de idade."
 
 msgid "<32>{#p/basic}* It seems to be projecting some kind of gravity field."
-msgstr ""
+msgstr "<32>{#p/basic}* Parece estar projeta do um tipo de escudo de gravidade."
 
 msgid "<32>{#p/basic}* I wonder... if there's a switch somewhere..."
-msgstr ""
+msgstr "<32>{#p/basic}* Me pergunto... se tem um botão em algum lugar..."
 
 msgid "<32>{#p/human}* (But you didn't have any mail to send.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas você não tinha nada para enviar.)"
 
 msgid "<32>{#p/basic}* This mailbox is labelled \"PAPYRUS.\""
-msgstr ""
+msgstr "<32>{#p/basic}* Esta caixa de correio está rotulada como \"PAPYRUS.\""
 
 msgid "* (Look inside the mailbox?)"
-msgstr ""
+msgstr "* (Olhar na caixa?)"
 
 msgid "<32>{#p/human}* (You look inside...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você olha dentro...)"
 
 msgid "<32>{#p/basic}* It's even emptier than before."
-msgstr ""
+msgstr "<32>{#p/basic}* Está mais vazia do que antes."
 
 msgid "<32>{#p/basic}* It's not empty?"
-msgstr ""
+msgstr "<32>{#p/basic}* Não está vazia?"
 
 msgid "<32>{#p/basic}* It's empty."
-msgstr ""
+msgstr "<32>{#p/basic}* Está vazia."
 
 msgid "<18>{#p/papyrus}{#f/0}HOW NICE OF YOU TO CHECK MY MAIL!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}QUE GENTILEZA SUA VERIFICAR MEU E-MAIL!"
 
 msgid "<18>{#p/papyrus}{#f/4}THANKFULLY, I'VE ALREADY COLLECTED IT ALL."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}EU JÁ TINHA OLHADO ANTES, OBRIGADO."
 
 msgid "<32>{#p/human}* (You decide not to look.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você decide não olhar.)"
 
 msgid "<32>{#p/basic}* It's an unused plate."
-msgstr ""
+msgstr "<32>{#p/basic}* É um prato não usado."
 
 msgid "<32>{#p/human}* (You gaze upon the mouth- watering spaghetti.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você olha para o espaguete de dar água na boca.)"
 
 msgid "<32>{#p/human}* (It appears to be just beyond your reach.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Está acima do seu alcance.)"
 
 msgid "<32>{#p/human}* (You got the Spaghetti.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você pegou o espaguete.)"
 
 msgid "<32>{#p/human}* (You're carrying too much to take that.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você está carregando demais pra levar isso.)"
 
 msgid ""
 "<32>{#p/human}* (You feel appreciative towards this plate for the food it "
@@ -5826,7 +5847,6 @@ msgstr ""
 
 msgid "SAVE YOURSELVES..."
 msgstr ""
-
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
