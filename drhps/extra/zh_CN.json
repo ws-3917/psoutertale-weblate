@@ -16,13 +16,13 @@
     },
     "NewMainMenu_ConsoleMenu": {
         "CheckUpdateScreenText": "<b>>请选择一个条目</b>\n\n",
-        "array": ""
+        "array": "\"猜想集\",\"查看日志\",\"赌博\",\"设置\",\"制作人员\",\"Discord\",\"退出\""
     },
     "NewMainMenu_DiscordSubMenu": {
-        "CheckUpdateScreenText": ""
+        "CheckUpdateScreenText": "<b>在浏览器中\n打开链接？</b>"
     },
     "NewMainMenu_Hypothetical_ContextMenu": {
-        "HypotheticalDescription": ""
+        "HypotheticalDescription": "<color=grey>我们做如此\n猜想...\n\n</color>"
     },
     "NewMainMenu_QuitSubMenu": {
         "HypotheticalDescription": "<b>你确定你想要退出吗？</b>\n"
