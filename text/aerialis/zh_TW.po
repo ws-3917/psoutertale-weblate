@@ -24871,7 +24871,7 @@ msgid "<32>{#p/story}* DEFENSE up for this turn!"
 msgstr "<32>{#p/story}* 本回合，你的防禦力提升！"
 
 msgid "<32>{#p/human}* (You eat the Hold Yer Grane.)"
-msgstr "<32>{#p/human}* （你吃掉了猛男漢堡。）"
+msgstr "<32>{#p/human}* （你吃掉了星園爍寵。）"
 
 msgid "This high-octane hamburger harbors a certain spicy kick."
 msgstr "漢堡火辣辣，打人頂呱呱。"
