@@ -1,6 +1,22 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-26 23:30+0000\n"
+"PO-Revision-Date: 2025-02-26 23:30+0000\n"
+"Last-Translator: Бенедикт Капустин <blahblahblah@whatever.com>\n"
+"Language-Team: Russian <https://ws3917.hbms.me/projects/ps-outertale/"
+"1-outlands/ru/>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
@@ -1145,50 +1161,52 @@ msgid "<32>{#p/human}* (You feel the nearby monster presence dwindling.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You saw a piece of gum taped to the comic strip...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы увидели кусок жвачки на комиксе...)"
 
 msgid "* (Chew the gum?)"
-msgstr ""
+msgstr "* (Употребить?)"
 
 msgid "<32>{#p/basic}* There was a piece of gum taped to the comic strip."
-msgstr ""
+msgstr "<32>{#p/basic}* Раньше здесь была жвачка."
 
 msgid "<32>{#p/human}* (You decide not to chew.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы решаете не жевать.)"
 
 msgid "<32>{#p/human}* (You recovered $(x) HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы восстановили $(x) ОЗ.)"
 
 msgid "<32>{#p/human}* (HP fully restored.)"
-msgstr ""
+msgstr "<32>{#p/human}* (ОЗ полностью восстановлено.)"
 
 msgid "<32>{#p/human}* (You feel the inviting warmth of the fireplace...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы ощущаете живительную теплоту камина...)"
 
 msgid "* (Crawl inside?)"
-msgstr ""
+msgstr "* (Залезть внутрь?)"
 
 msgid "<32>{#p/basic}* An ordinary fireplace."
-msgstr ""
+msgstr "<32>{#p/basic}* Обыкновенный камин."
 
 msgid ""
 "<32>{#p/basic}* Toriel's fireplace.\n"
 "* It's not too hot, just pleasantly warm."
 msgstr ""
+"<32>{#p/basic}* Камин Ториэль.\n"
+"* Не слишком жаркий, просто тёплый."
 
 msgid "<32>* You could probably crawl in."
-msgstr ""
+msgstr "<32>* Возможно в него залезть."
 
 msgid "<32>{#p/human}* (You chose not to crawl in.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы не решаетесь залезть.)"
 
 msgid ""
 "<32>{#p/human}* (You crawl into the fireplace and let its warmth engulf "
 "you.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы залезаете, и тепло накрывает вас.)"
 
 msgid "<32>{#p/human}* (You are very comfortable.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вам очень уютно.)"
 
 msgid "<25>{#p/asriel1}{#f/13}* I'll just, uh, wait for you to get out."
 msgstr ""
@@ -1197,10 +1215,10 @@ msgid "<25>{#p/asriel2}{#f/15}* I'll just, uh, wait for you to get out..."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/1}{#npc/a}* Don't stay in there for too long..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}{#npc/a}* Не оставайся в нём надолго..."
 
 msgid "<32>{#p/basic}* ..."
-msgstr ""
+msgstr "<32>{#p/basic}* ..."
 
 msgid "<32>* This is fine."
 msgstr ""
@@ -1223,32 +1241,36 @@ msgid "<25>{#p/asriel2}{#f/10}* Wasn't there a dummy here before...?"
 msgstr ""
 
 msgid "<32>{#p/basic}{#n1}* Just between you and me..."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Скажу тебе по секрету..."
 
 msgid "<32>* I saw that goat lady come through here just a little while ago."
-msgstr ""
+msgstr "<32>* Я видел, что эта старая леди недавно проходила здесь."
 
 msgid "<32>* She had groceries, so I asked her what they were for, and..."
-msgstr ""
+msgstr "<32>* У неё были продукты, я спросил для чего, и..."
 
 msgid "<32>* Well, you're in for a treat."
-msgstr ""
+msgstr "<32>* ... тебя ждёт сюрприз."
 
 msgid "<32>* I saw that goat lady come through here earlier."
-msgstr ""
+msgstr "<32>* Я недавно видел эту леди здесь."
 
 msgid "<32>* She said it was time to \"confront her fears.\""
-msgstr ""
+msgstr "<32>* Говорила: \"Пришло время столкнуться со страхами.\""
 
 msgid ""
 "<32>* Well, whatever she did clearly led to something!\n"
 "* We're all free now!"
 msgstr ""
+"<32>* Не так важно, что она сделала, а каковы последствия!\n"
+"* Теперь мы все свободны!"
 
 msgid ""
 "<32>{#p/basic}{#n1}* Did you see her?\n"
 "* She just came through here right now!"
 msgstr ""
+"<32>{#p/basic}{#n1}* Видели её?\n"
+"* Она прошла здесь только что!"
 
 msgid ""
 "<32>* I wonder what she could have meant...?\n"
@@ -1783,33 +1805,35 @@ msgid "* (What will you make?)"
 msgstr ""
 
 msgid "Candy"
-msgstr ""
+msgstr "Конфета"
 
 msgid "Water"
-msgstr ""
+msgstr "Вода"
 
 msgid "Δ-9"
-msgstr ""
+msgstr "Δ-9"
 
 msgid "Nothing"
-msgstr ""
+msgstr "Ничего"
 
 msgid "<32>{#p/basic}* Synthesize something with the vending machine?"
-msgstr ""
+msgstr "<32>{#p/basic}* Что синтезировать в торговом автомате?"
 
 msgid ""
 "<32>{#p/human}* (You got the $(x).)\n"
 "* (Press [C] to open the menu.)"
 msgstr ""
+"<32>{#p/human}* (Вы получили $(x).)\n"
+"* (Нажмите [C], чтобы открыть меню.)"
 
 msgid "<32>{#p/human}* (You got the $(x).)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы получили $(x).)"
 
 msgid "<32>{#p/basic}* The machine is beginning to malfunction."
-msgstr ""
+msgstr "<32>{#p/basic}* Машина начинает барахлить."
 
 msgid "<32>{#p/basic}* The machine broke down."
-msgstr ""
+msgstr "<32>{#p/basic}* Автомат сломался."
 
 msgid "<25>{#p/asriel1}{#f/13}* Out of service again?"
 msgstr ""
@@ -1866,15 +1890,17 @@ msgid "<32>{#p/basic}* It's out of service."
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to make anything.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы решили ничего не делать.)"
 
 msgid "<32>{#p/human}* (You're carrying too much.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы не можете нести больше.)"
 
 msgid ""
 "<25>{#p/toriel}{#f/1}{#n1}* What is it, my child?\n"
 "* Are you hungry?"
 msgstr ""
+"<25>{#p/toriel}{#f/1}{#n1}* В чём дело, дитя моё?\n"
+"* Испытываешь голод?"
 
 msgid ""
 "<25>{#f/0}* Perhaps you would like to know more about the book I am reading."
