@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:58+0000\n"
-"PO-Revision-Date: 2025-03-01 16:15+0000\n"
-"Last-Translator: braing <3313576509@qq.com>\n"
+"PO-Revision-Date: 2025-03-02 10:31+0000\n"
+"Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/1-outlands/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -313,7 +313,7 @@ msgstr ""
 "  不太符合我的口味。"
 
 msgid "<25>{#f/5}* ..."
-msgstr "<25>{#f/5}* ..."
+msgstr "<25>{#f/5}* ...ゑ"
 
 msgid ""
 "<25>{#f/0}* Do not worry, my child.\n"
@@ -1134,7 +1134,7 @@ msgstr ""
 "  你都不会放弃我。"
 
 msgid "<25>{#f/22}* ..."
-msgstr "<25>{#f/22}* ..."
+msgstr "<25>{#f/22}* ...ゑ"
 
 msgid ""
 "<25>{#f/13}* Hey.\n"
@@ -1657,7 +1657,7 @@ msgid "<25>{#p/toriel}{#f/1}{#npc/a}* Don't stay in there for too long..."
 msgstr "<25>{#p/toriel}{#f/1}{#npc/a}* 别在里面待太久了..."
 
 msgid "<32>{#p/basic}* ..."
-msgstr "<32>{#p/basic}* ..."
+msgstr "<32>{#p/basic}* ...ゑ"
 
 msgid "<32>* This is fine."
 msgstr "<32>* 挺舒服的。"
@@ -5221,7 +5221,7 @@ msgstr ""
 "  我肯定会接的。"
 
 msgid "<25>{#f/10}* ..."
-msgstr "<25>{#f/10}* ..."
+msgstr "<25>{#f/10}* ...ゑ"
 
 msgid "<25>{#f/14}* Be good, alright?"
 msgstr "<25>{#f/14}* 要乖啊，好吗？"
@@ -10077,7 +10077,7 @@ msgid ""
 msgstr ""
 "<20>{#f/5}看见这颗心了吗？\n"
 "这是你的灵魂，\n"
-"是你生命的精华所在！"
+"是你生命的精华所在！ゑ"
 
 msgid ""
 "<20>{#f/5}Your SOUL is an important part of you, and needs LOVE to sustain "
@@ -11868,19 +11868,19 @@ msgstr ""
 "的名字呢？"
 
 msgid "<32>{#p/story}* Toriel now stands before you."
-msgstr "<32>{#p/story}* Toriel正站在你面前。"
+msgstr "<32>{#p/story}* Toriel正站在你面前。ゑ"
 
 msgid "<32>{#p/story}* Toriel prepares a magical attack."
-msgstr "<32>{#p/story}* Toriel准备发动一次魔法攻击。"
+msgstr "<32>{#p/story}* Toriel准备发动一次魔法攻击。ゑ"
 
 msgid "<32>{#p/story}* Toriel is acting aloof."
-msgstr "<32>{#p/story}* Toriel板着脸，冷冷地看着你。"
+msgstr "<32>{#p/story}* Toriel板着脸，冷冷地看着你。ゑ"
 
 msgid "<32>{#p/story}* Toriel is looking through you."
 msgstr "<32>{#p/story}* Toriel看穿了你。"
 
 msgid "<32>{#p/story}* ..."
-msgstr "<32>{#p/story}* ..."
+msgstr "<32>{#p/story}* ...ゑ"
 
 msgid "<32>{#p/basic}* There must be another way..."
 msgstr "<32>{#p/basic}* 肯定有其他办法的..."
@@ -12908,7 +12908,7 @@ msgstr ""
 "  好像再明显不过了..."
 
 msgid "<25>{#f/7}* ..."
-msgstr "<25>{#f/7}* ..."
+msgstr "<25>{#f/7}* ...ゑ"
 
 msgid ""
 "<25>{#f/8}* Hahaha!\n"
