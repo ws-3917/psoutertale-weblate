@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-02 10:31+0000\n"
+"PO-Revision-Date: 2025-03-02 10:31+0000\n"
+"Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/ps-outertale/5-citadel/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.1\n"
+
+#
 
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr "<32>{#p/human}* （一股暗流在你心中充盈。）"
@@ -299,7 +314,7 @@ msgid "<25>{#f/23}* ... begged... for help..."
 msgstr "<25>{#f/23}* 我竭力呼喊..."
 
 msgid "<25>{#f/7}* ..."
-msgstr "<25>{#f/7}* ..."
+msgstr "<25>{#f/7}* ...ゑ"
 
 msgid "<25>{#f/6}* ... nobody came."
 msgstr "<25>{#f/6}* ...但是谁也没有来。"
@@ -4130,7 +4145,7 @@ msgstr ""
 "  哈-哈啊？"
 
 msgid "<25>{#g/alphysNeutralSweat}* ..."
-msgstr "<25>{#g/alphysNeutralSweat}* ..."
+msgstr "<25>{#g/alphysNeutralSweat}* ...ゑ"
 
 msgid "<25>{#g/alphysIDK2}* I guess you'll be going to meet ASGORE."
 msgstr "<25>{#g/alphysIDK2}* 我猜你要去见ASGORE了。"
@@ -4907,7 +4922,7 @@ msgstr ""
 "  找到第三条路的。"
 
 msgid "<25>{#f/3}* ..."
-msgstr "<25>{#f/3}* ..."
+msgstr "<25>{#f/3}* ...ゑ"
 
 msgid "<25>{#f/0}* good luck, buddo."
 msgstr "<25>{#f/0}* 加油，孩子。"
@@ -5967,7 +5982,7 @@ msgid "<25>{#f/0}* i mean, i can't even see your face."
 msgstr "<25>{#f/0}* 更摸不透你的心思。"
 
 msgid "<25>* ..."
-msgstr "<25>* ..."
+msgstr "<25>* ...ゑ"
 
 msgid "<25>{#f/3}* maybe that's for the best."
 msgstr "<25>{#f/3}* 这样也好。"
@@ -6272,7 +6287,7 @@ msgstr ""
 "  把怪物们全杀了？"
 
 msgid "<25>{#f/5}* ..."
-msgstr "<25>{#f/5}* ..."
+msgstr "<25>{#f/5}* ...ゑ"
 
 msgid ""
 "<26>{#f/16}* Regardless.\n"
@@ -7279,7 +7294,7 @@ msgstr ""
 "  Frisk。"
 
 msgid "<25>{#f/22}* ..."
-msgstr "<25>{#f/22}* ..."
+msgstr "<25>{#f/22}* ...ゑ"
 
 msgid "<25>{#f/13}* It's strange..."
 msgstr "<25>{#f/13}* 很奇怪..."
@@ -9434,7 +9449,7 @@ msgstr ""
 "  我一句都没听懂..."
 
 msgid "<25>{#p/alphys}{#g/alphysWelp}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysWelp}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysWelp}* ...ゑ"
 
 msgid "<25>{#p/alphys}{#g/alphysWelp}* I get that a lot."
 msgstr ""
@@ -11183,7 +11198,7 @@ msgstr ""
 "  你做那种事。"
 
 msgid "<25>{#p/alphys}{#g/alphysFR}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysFR}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysFR}* ...ゑ"
 
 msgid ""
 "<32>{#p/basic}* {@mystify=Ribbit}Ribbit{@mystify=}, "
@@ -15119,7 +15134,7 @@ msgstr ""
 "* 我们一起上！"
 
 msgid "<32>{#p/story}* ..."
-msgstr "<32>{#p/story}* ..."
+msgstr "<32>{#p/story}* ...ゑ"
 
 msgid "<32>{#p/story}* A faint resonance echoes from within Asriel's body."
 msgstr ""
@@ -18249,8 +18264,6 @@ msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/10}{@random=1.1/1.1}..."
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/12}{@random=1.1/1.1}永别了..."
 
-msgid ""
-msgstr ""
 
 msgid "N/A"
 msgstr "无"
