@@ -1,9 +1,24 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-02 10:31+0000\n"
+"PO-Revision-Date: 2025-03-02 10:31+0000\n"
+"Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/ps-outertale/3-foundry/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.1\n"
+
+#
 
 msgid "<32>{#p/basic}* ..."
-msgstr "<32>{#p/basic}* ..."
+msgstr "<32>{#p/basic}* ...ゑ"
 
 msgid "<32>{#p/basic}* I'm going to pretend you didn't just sell that locket."
 msgstr "<32>{#p/basic}* 我什么都没看到。"
@@ -57,7 +72,7 @@ msgstr ""
 "  有多严重。"
 
 msgid "<25>{#f/10}* ..."
-msgstr "<25>{#f/10}* ..."
+msgstr "<25>{#f/10}* ...ゑ"
 
 msgid "<25>{#f/10}* I suppose it is nice to see you here."
 msgstr "<25>{#f/10}* 总之，很高兴见到你。"
@@ -95,7 +110,7 @@ msgstr ""
 "* 还是一会再去吧。"
 
 msgid "<25>{#f/5}* ..."
-msgstr "<25>{#f/5}* ..."
+msgstr "<25>{#f/5}* ...ゑ"
 
 msgid ""
 "<25>{#p/toriel}{#f/5}* ... huh?\n"
@@ -1399,7 +1414,7 @@ msgid "<32>{#p/napstablook}* i wish i had more to say..."
 msgstr "<32>{#p/napstablook}* 我没话讲了..."
 
 msgid "<32>{#p/napstablook}* ........."
-msgstr "<32>{#p/napstablook}* ........."
+msgstr "<32>{#p/napstablook}* .........ゑ"
 
 msgid "<32>{#p/napstablook}* congratulations, i guess"
 msgstr "<32>{#p/napstablook}* 那么，恭喜你"
@@ -1942,7 +1957,7 @@ msgid "<32>* You'll DIE for this, HUMAN!!!!"
 msgstr "<32>* 你会为此而死的，人类！！！！"
 
 msgid "<32>{#p/basic}* ...?"
-msgstr "<32>{#p/basic}* ...？"
+msgstr "<32>{#p/basic}* ...？ゑ"
 
 msgid ""
 "<32>* This...\n"
@@ -2117,7 +2132,7 @@ msgid "<25>{#p/kidd}{#f/4}* We've gotta find a way outta here..."
 msgstr "<25>{#p/kidd}{#f/4}* 我们得快点逃出去...ゑ"
 
 msgid "<25>{#p/kidd}{#f/4}* ..."
-msgstr "<25>{#p/kidd}{#f/4}* ..."
+msgstr "<25>{#p/kidd}{#f/4}* ...ゑ"
 
 msgid "<33>{#p/basic}* Electricity permeates the body."
 msgstr "<33>{#p/basic}* 电流击穿了她的身体。ゑ"
@@ -9222,7 +9237,7 @@ msgstr ""
 "  我出生之后建的..."
 
 msgid "<25>{#f/22}* ..."
-msgstr "<25>{#f/22}* ..."
+msgstr "<25>{#f/22}* ...ゑ"
 
 msgid "<32>{#p/basic}* It's an old, derelict statue."
 msgstr "<32>{#p/basic}* 这是座古老的、废弃的雕像。"
@@ -10449,7 +10464,7 @@ msgid "<25>{#p/undyne}{#f/15}* Then again..."
 msgstr "<25>{#p/undyne}{#f/15}* 再者说..."
 
 msgid "<25>{#f/17}* ..."
-msgstr "<25>{#f/17}* ..."
+msgstr "<25>{#f/17}* ...ゑ"
 
 msgid "<25>{#f/4}* WHAT ARE YOU LOOKING AT?"
 msgstr "<25>{#f/4}* 你看什么看？"
@@ -10960,7 +10975,7 @@ msgstr ""
 "  也没加糖什么的。"
 
 msgid "<25>{#f/11}* ..."
-msgstr "<25>{#f/11}* ..."
+msgstr "<25>{#f/11}* ...ゑ"
 
 msgid "<25>{#p/undyne}{#f/12}* That sugar's only there for the tea."
 msgstr ""
@@ -12353,7 +12368,7 @@ msgstr ""
 "  Undyne伤害你..."
 
 msgid "<25>* ..."
-msgstr "<25>* ..."
+msgstr "<25>* ...ゑ"
 
 msgid "<25>{#f/2}* Why don't we stick together for a while?"
 msgstr "<25>{#f/2}* 要不然我们一起行动？"
