@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-24 10:01+0000\n"
-"PO-Revision-Date: 2025-03-01 16:15+0000\n"
+"PO-Revision-Date: 2025-03-02 10:31+0000\n"
 "Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/4-aerialis/zh_Hans/>\n"
@@ -165,7 +165,7 @@ msgstr ""
 "  逃跑什么的..."
 
 msgid "<25>{#p/alphys}{#g/alphysIDK}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysIDK}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysIDK}* ...ゑ"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysNervousLaugh}* You'll be fine, right?\n"
@@ -182,7 +182,7 @@ msgstr ""
 "  对吧？"
 
 msgid "<25>{#p/alphys}{#g/alphysSideSad}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysSideSad}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysSideSad}* ...ゑ"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysHaveSomeCompassion}* Please...\n"
@@ -1642,7 +1642,7 @@ msgstr ""
 "  还没检查实验室..."
 
 msgid "<25>{#f/17}* ..."
-msgstr "<25>{#f/17}* ..."
+msgstr "<25>{#f/17}* ...ゑ"
 
 msgid "<25>{#g/alphysWhyOhWhy}* You know what, there's no problem here!"
 msgstr "<25>{#g/alphysWhyOhWhy}* 呃，没事没事，一切都好！"
@@ -1665,7 +1665,7 @@ msgid ""
 msgstr "<25>{#g/alphysCutscene2}* 没干过坏事的小天使，哈哈。"
 
 msgid "<25>{#f/20}* ..."
-msgstr "<25>{#f/20}* ..."
+msgstr "<25>{#f/20}* ...ゑ"
 
 msgid "<25>{#f/10}* A-anyway, you're, like, new to Aerialis, right!?"
 msgstr ""
@@ -1803,7 +1803,7 @@ msgstr ""
 "* 你的朋友们..."
 
 msgid "<25>{#f/11}* ..."
-msgstr "<25>{#f/11}* ..."
+msgstr "<25>{#f/11}* ...ゑ"
 
 msgid ""
 "<25>{#f/13}* Even...\n"
@@ -1880,7 +1880,7 @@ msgstr ""
 "  对吧？？？"
 
 msgid "<25>{#g/alphysIDK}* ..."
-msgstr "<25>{#g/alphysIDK}* ..."
+msgstr "<25>{#g/alphysIDK}* ...ゑ"
 
 msgid ""
 "<25>{#g/alphysIDK}* That being said, you're probably gonna need my help in "
@@ -2146,7 +2146,7 @@ msgstr ""
 "  都带了些什么..."
 
 msgid "<25>{#p/alphys}{#f/21}* ..."
-msgstr "<25>{#p/alphys}{#f/21}* ..."
+msgstr "<25>{#p/alphys}{#f/21}* ...ゑ"
 
 msgid "<25>{#f/21}* What is this."
 msgstr "<25>{#f/21}* 这是啥。"
@@ -2160,7 +2160,7 @@ msgstr ""
 "  老古董啊？？？"
 
 msgid "<25>{#f/22}* ..."
-msgstr "<25>{#f/22}* ..."
+msgstr "<25>{#f/22}* ...ゑ"
 
 msgid "<25>{#f/23}* I'll be right back."
 msgstr "<25>{#f/23}* 我马上回来。"
@@ -2392,7 +2392,7 @@ msgid "<32>{#z02}* I'LL BE WATCHING YOUR EVERY MOVE."
 msgstr "<32>{#z02}* 我会在暗中陪伴你。"
 
 msgid "<32>{#z21}* ..."
-msgstr "<32>{#z21}* ...ゑ"
+msgstr " <32>{#z21}* ...ゑ"
 
 msgid "<32>{#z11}* WELL, TOODLES!"
 msgstr "<32>{#z11}* 好吧，回见！"
@@ -2442,7 +2442,7 @@ msgstr ""
 "  不过..."
 
 msgid "<32>{#z00}* ..."
-msgstr "<32>{#z00}* ..."
+msgstr "<32>{#z00}* ...ゑ"
 
 msgid ""
 "<32>* LOOK.\n"
@@ -2663,7 +2663,7 @@ msgstr ""
 "* 那事情就好办多了！"
 
 msgid "<25>{#p/alphys}{#g/alphysFR}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysFR}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysFR}* ...ゑ"
 
 msgid "<25>{#g/alphysFR}* I do NOT have a crush on Mettaton."
 msgstr "<25>{#g/alphysFR}* 我喜欢Mettaton就怪了。"
@@ -2678,20 +2678,20 @@ msgid "<25>{#p/alphys}{#g/alphysNervousLaugh}* You sure?"
 msgstr "<25>{#p/alphys}{#g/alphysNervousLaugh}* 当真？"
 
 msgid "<25>{#p/alphys}{#x1}* ..."
-msgstr "<25>{#p/alphys}{#x1}* ..."
+msgstr "<25>{#p/alphys}{#x1}* ...ゑ"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysSideSad}* Oh, I guess that was the right answer."
 msgstr "<25>{#p/alphys}{#g/alphysSideSad}* 哦，你好像答对了。"
 
 msgid "<25>{#g/alphysHaveSomeCompassion}* ..."
-msgstr "<25>{#g/alphysHaveSomeCompassion}* ..."
+msgstr "<25>{#g/alphysHaveSomeCompassion}* ...ゑ"
 
 msgid "<25>{#p/alphys}{#g/alphysWelp}* Oh wow, that was the right answer."
 msgstr "<25>{#p/alphys}{#g/alphysWelp}* 哇哦，你答对了。"
 
 msgid "<25>{#g/alphysFR}* ..."
-msgstr "<25>{#g/alphysFR}* ..."
+msgstr "<25>{#g/alphysFR}* ...ゑ"
 
 msgid ""
 "<25>{#g/alphysFR}* That's an oddly specific thing to know about Papyrus."
@@ -2804,7 +2804,7 @@ msgstr ""
 "  都知道科研是我的活啊！"
 
 msgid "<25>{#g/alphysHellYeah}* ..."
-msgstr "<25>{#g/alphysHellYeah}* ..."
+msgstr "<25>{#g/alphysHellYeah}* ...ゑ"
 
 msgid "<25>{#g/alphysWelp}* How about... Mettaton's cooking products?"
 msgstr "<25>{#g/alphysWelp}* 要不试试... MTT厨具？"
@@ -2819,7 +2819,7 @@ msgstr ""
 "  最近不温不火的。"
 
 msgid "<25>{#g/alphysWTF}{#x1}* ..."
-msgstr "<25>{#g/alphysWTF}{#x1}* ..."
+msgstr "<25>{#g/alphysWTF}{#x1}* ...ゑ"
 
 msgid "<25>{#g/alphysWTF2}* That was RIGHT!?"
 msgstr "<25>{#g/alphysWTF2}* 答对了！？"
@@ -2839,7 +2839,7 @@ msgstr ""
 "   是什么？”"
 
 msgid "<25>{#g/alphysNeutralSweat}* ..."
-msgstr "<25>{#g/alphysNeutralSweat}* ..."
+msgstr "<25>{#g/alphysNeutralSweat}* ...ゑ"
 
 msgid "Model 42"
 msgstr "42型机器人ゑ"
@@ -2913,7 +2913,7 @@ msgstr ""
 "  其实就是Mettaton，嗯？"
 
 msgid "<25>{#x1}* ..."
-msgstr "<25>{#x1}* ..."
+msgstr "<25>{#x1}* ...ゑ"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysWelp}* Oh.\n"
@@ -2926,7 +2926,7 @@ msgid "<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* The more you know!"
 msgstr "<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* 你懂的真多！"
 
 msgid "<25>* ..."
-msgstr "<25>* ..."
+msgstr "<25>* ...ゑ"
 
 msgid "<25>{#p/alphys}{#g/alphysSide}* Hmm... I think I have an idea."
 msgstr "<25>{#p/alphys}{#g/alphysSide}* 嗯... 我有个主意。"
@@ -2935,7 +2935,7 @@ msgid "<32>{#p/human}* (The typing from earlier resumes.)"
 msgstr "<32>{#p/human}* （敲键盘的声音又响了起来。）"
 
 msgid "<25>{#p/alphys}{#g/alphysCutscene1}{#x1}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysCutscene1}{#x1}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysCutscene1}{#x1}* ...ゑ"
 
 msgid "<25>{#p/alphys}{#g/alphysSmileSweat}* There!!!"
 msgstr "<25>{#p/alphys}{#g/alphysSmileSweat}* 成啦！！！"
@@ -2950,7 +2950,7 @@ msgstr ""
 "  看来我得手动介入了。"
 
 msgid "<25>{#g/alphysWelp}* ..."
-msgstr "<25>{#g/alphysWelp}* ..."
+msgstr "<25>{#g/alphysWelp}* ...ゑ"
 
 msgid "<25>{#g/alphysWelp}* This could take a while."
 msgstr "<25>{#g/alphysWelp}* 可能得花些时间。"
@@ -2967,7 +2967,7 @@ msgstr ""
 "  终于改好了。"
 
 msgid "<25>{#p/alphys}{#g/alphysInquisitive}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysInquisitive}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysInquisitive}* ...ゑ"
 
 msgid "<25>{#g/alphysInquisitive}* Did you leave the room?"
 msgstr "<25>{#g/alphysInquisitive}* 你跑别的房间去了？"
@@ -2984,7 +2984,7 @@ msgid "<25>{#p/alphys}{#g/alphysSideSad}* Not this again..."
 msgstr "<25>{#p/alphys}{#g/alphysSideSad}* 咋又来..."
 
 msgid "<25>{#g/alphysSideSad}* ..."
-msgstr "<25>{#g/alphysSideSad}* ..."
+msgstr "<25>{#g/alphysSideSad}* ...ゑ"
 
 msgid "<25>{#g/alphysWelp}* Wait, I'm still logged into Mettaton's account."
 msgstr ""
@@ -3026,7 +3026,7 @@ msgstr ""
 "  给扔了吗？"
 
 msgid "<25>{#f/3}* ..."
-msgstr "<25>{#f/3}* ..."
+msgstr "<25>{#f/3}* ...ゑ"
 
 msgid "<25>{#g/alphysUhButHeresTheDeal}* Sure, okay!"
 msgstr "<25>{#g/alphysUhButHeresTheDeal}* 当然，没事的！"
@@ -3756,7 +3756,7 @@ msgid "<25>{#g/alphysCutscene2}* Eheh..."
 msgstr "<25>{#g/alphysCutscene2}* 诶嘿..."
 
 msgid "<25>{#f/10}* ..."
-msgstr "<25>{#f/10}* ..."
+msgstr "<25>{#f/10}* ...ゑ"
 
 msgid "<25>{#f/3}* Don't judge me, I just like rooting for you."
 msgstr ""
@@ -3902,10 +3902,10 @@ msgstr ""
 "  自我介绍吧，如何？ゑ"
 
 msgid "<32>{#p/mettaton}{#z0}* ..."
-msgstr "<32>{#p/mettaton}{#z0}* ..."
+msgstr "<32>{#p/mettaton}{#z0}* ...ゑ"
 
 msgid "<32>{#z1}* ..."
-msgstr "<32>{#z1}* ..."
+msgstr "<32>{#z1}* ...ゑ"
 
 msgid "<32>* MY CONTESTANT DOESN'T SEEM TO BE SHOWING UP."
 msgstr "<32>* 那位选手好像不来了。"
@@ -4079,7 +4079,7 @@ msgstr ""
 "  难道又回到我了？"
 
 msgid "<25>{#p/sans}{#g/sansBlink}* ..."
-msgstr "<25>{#p/sans}{#g/sansBlink}* ..."
+msgstr "<25>{#p/sans}{#g/sansBlink}* ...ゑ"
 
 msgid "<25>{#p/sans}{#g/sansBlink}* go on, don't be afraid."
 msgstr "<25>{#p/sans}{#g/sansBlink}* 放宽心，别害怕嘛。"
@@ -4255,7 +4255,7 @@ msgid "<32>{#p/tem}* tem... love to be on TV!!"
 msgstr "<32>{#p/tem}* tem... 喜欢上电视！！"
 
 msgid "<25>{#p/kidd}{#f/4}* ..."
-msgstr "<25>{#p/kidd}{#f/4}* ..."
+msgstr "<25>{#p/kidd}{#f/4}* ...ゑ"
 
 msgid "<25>{#p/kidd}{#f/1}* Why wouldn't it be?"
 msgstr "<25>{#p/kidd}{#f/1}* 不行吗？"
@@ -4512,7 +4512,7 @@ msgstr ""
 "* 我只是跟其他选手更熟罢了。"
 
 msgid "<25>{#p/sans}* ..."
-msgstr "<25>{#p/sans}* ..."
+msgstr "<25>{#p/sans}* ...ゑ"
 
 msgid "<25>{#p/sans}{#g/sansBlink}* eh, i'm not really in the mood."
 msgstr "<25>{#p/sans}{#g/sansBlink}* 呃，我现在没心情。"
@@ -4548,7 +4548,7 @@ msgid "<32>{#p/mettaton}* UGH... HOW ABOUT YOU, BLOOKY?"
 msgstr "<32>{#p/mettaton}* 呃... BLOOKY，你想票掉谁呢？"
 
 msgid "<32>{#p/napstablook}* ..............."
-msgstr "<32>{#p/napstablook}* ..............."
+msgstr "<32>{#p/napstablook}* ...............ゑ"
 
 msgid "<32>* i... don't really want to vote for any of these guys..."
 msgstr ""
@@ -4576,7 +4576,7 @@ msgstr ""
 "  抱歉......"
 
 msgid "<25>{#p/sans}{#g/sansNormal}* ..."
-msgstr "<25>{#p/sans}{#g/sansNormal}* ..."
+msgstr "<25>{#p/sans}{#g/sansNormal}* ...ゑ"
 
 msgid "<25>{#p/sans}{#g/sansBlink}* that's okay."
 msgstr "<25>{#p/sans}{#g/sansBlink}* 没事的。"
@@ -4623,7 +4623,7 @@ msgstr ""
 "  对我不是特别好......"
 
 msgid "<32>{#p/mettaton}* ..."
-msgstr "<32>{#p/mettaton}* ..."
+msgstr "<32>{#p/mettaton}* ...ゑ"
 
 msgid "<32>{#p/mettaton}* YOU VOTING FOR ANYONE, DEAR $(moniker2u)?"
 msgstr "<32>{#p/mettaton}* 你要投票吗，亲爱的$(moniker2u)？"
@@ -5137,7 +5137,7 @@ msgid "<25>{#f/7}* You just make up the rules as you go along!"
 msgstr "<25>{#f/7}* 随心所欲，规则说改就改！"
 
 msgid "<25>{#f/9}* ... guess I shouldn't have expected anything else, though."
-msgstr "<25>{#f/9}* ...对你真没啥好期待的。"
+msgstr "­<25>{#f/9}* ...对你真没啥好期待的。"
 
 msgid "<25>{#f/11}* You've got a reputation for this sort of thing."
 msgstr "<25>{#f/11}* 在这点，你可是出了名的。"
@@ -5194,7 +5194,7 @@ msgid "<32>{#p/kidd}{#f/14}* Woah..."
 msgstr "<32>{#p/kidd}{#f/14}* 哇哦..."
 
 msgid "<32>{#p/napstablook}* ........."
-msgstr "<32>{#p/napstablook}* ........."
+msgstr "<32>{#p/napstablook}* .........ゑ"
 
 msgid "<32>{#p/napstablook}* oh my............"
 msgstr "<32>{#p/napstablook}* 我的天............"
@@ -5345,7 +5345,7 @@ msgid "<25>{#p/kidd}{#f/4}* H... huh?"
 msgstr "<25>{#p/kidd}{#f/4}* 哈... 啊？"
 
 msgid "<25>{#f/7}* ..."
-msgstr "<25>{#f/7}* ..."
+msgstr "<25>{#f/7}* ...ゑ"
 
 msgid "<25>{#f/14}* YOOOOOOOOOOO!!!!"
 msgstr "<25>{#f/14}* 哟噢噢噢噢！！！！"
@@ -5841,7 +5841,7 @@ msgstr ""
 "  一模一样？{#x3}"
 
 msgid "<32>{#p/basic}* ..."
-msgstr "<32>{#p/basic}* ..."
+msgstr "<32>{#p/basic}* ...ゑ"
 
 msgid "<32>{#p/basic}{#x1}{#x2}* Oh, for sure.{#x3}"
 msgstr "<32>{#p/basic}{#x1}{#x2}* 哦，那是当然。{#x3}"
@@ -6158,7 +6158,7 @@ msgid "<32>{#p/basic}* Our cousin's a SELLOUT."
 msgstr "<32>{#p/basic}* 我们的表亲是个叛徒。"
 
 msgid "<32>{#p/finalghost}* ..."
-msgstr "<32>{#p/finalghost}* ..."
+msgstr "<32>{#p/finalghost}* ...ゑ"
 
 msgid "<32>* Our cousin is many things, but a \"sellout\" is not one of them."
 msgstr ""
@@ -6278,7 +6278,7 @@ msgid "<32>{#p/napstablook}* and $(namel)?"
 msgstr "<32>{#p/napstablook}* 还有$(namel)？"
 
 msgid "<32>{#p/basic}* ...?"
-msgstr "<32>{#p/basic}* ...？"
+msgstr "<32>{#p/basic}* ...？ゑ"
 
 msgid ""
 "<32>{#p/napstablook}* .........\n"
@@ -6333,7 +6333,7 @@ msgstr ""
 "  她就那么..."
 
 msgid "<25>{#f/31}* ..."
-msgstr "<25>{#f/31}* ..."
+msgstr "<25>{#f/31}* ...ゑ"
 
 msgid "<25>{#f/20}* Well, we should probably head up to the rec center now."
 msgstr ""
@@ -8409,7 +8409,7 @@ msgid "<25>{#p/alphys}{#g/alphysOhGodNo}* Oh my god, are you guys..."
 msgstr "<25>{#p/alphys}{#g/alphysOhGodNo}* 我的天，你们俩还..."
 
 msgid "<25>{#p/alphys}{#g/alphysWelp}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysWelp}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysWelp}* ...ゑ"
 
 msgid "<25>{#g/alphysInquisitive}* What are you looking at me for?"
 msgstr "<25>{#g/alphysInquisitive}* 你看我干嘛？"
@@ -8817,7 +8817,7 @@ msgid "<25>{#g/alphysFR}* ASGORE's got a {@fill=#003cff}secret{@fill=#fff}."
 msgstr "<25>{#g/alphysFR}* ASGORE有一个{@fill=#003cff}秘密{@fill=#fff}。"
 
 msgid "<25>{#p/alphys}{#g/alphysIDK3}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysIDK3}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysIDK3}* ...ゑ"
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysIDK3}* What hurts most of all, though, is... "
@@ -8887,10 +8887,10 @@ msgstr ""
 "  ...就是你。"
 
 msgid "<25>{#p/alphys}{#g/alphysIDK2}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysIDK2}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysIDK2}* ...ゑ"
 
 msgid "<25>{#p/alphys}{#g/alphysThatSucks}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysThatSucks}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysThatSucks}* ...ゑ"
 
 msgid "<25>* In any case, there's... nothing else I can do."
 msgstr ""
@@ -8930,7 +8930,7 @@ msgid ""
 "<25>{#g/alphysHaveSomeCompassion}* ...\n"
 "* We're just trying to do the right thing."
 msgstr ""
-"<25>{#g/alphysHaveSomeCompassion}* ...\n"
+"­<25>{#g/alphysHaveSomeCompassion}* ...\n"
 "* 我们只是想做正确的事。"
 
 msgid ""
@@ -24169,7 +24169,7 @@ msgid "<11>{#p/basic}{~}{@random=1.1/1.1}..."
 msgstr "<11>{#p/basic}{~}{@random=1.1/1.1}..."
 
 msgid "<32>{#p/story}* ..."
-msgstr "<32>{#p/story}* ..."
+msgstr "<32>{#p/story}* ...ゑ"
 
 msgid "<32>{#p/story}* 01's gaze pans downwards to the floor."
 msgstr "<32>{#p/story}* 一号守卫望向地面。"
