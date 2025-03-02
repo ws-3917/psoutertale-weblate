@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-02 10:31+0000\n"
+"PO-Revision-Date: 2025-03-02 10:31+0000\n"
+"Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/ps-outertale/2-starton/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.1\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -2324,7 +2339,7 @@ msgstr ""
 "那个人类。ゑ"
 
 msgid "<25>{#p/asriel2}{#f/8}* Well, if you've got so much faith in them..."
-msgstr "<25>{#p/asriel2}{#f/8}* 哼，你要真这么信任他...ゑ"
+msgstr "<25>{#p/asriel2}{#f/8}* 哼，你要真这么信任人类...ゑ"
 
 msgid "<25>{#f/7}* Then prove me wrong."
 msgstr "<25>{#f/7}* 那就证明给我看看。ゑ"
@@ -2336,12 +2351,12 @@ msgstr ""
 
 msgid "<25>{#f/3}* If they spare you, then I'll admit I was wrong."
 msgstr ""
-"<25>{#f/3}* 他要是饶恕你，\n"
+"<25>{#f/3}* 要是$(name)饶恕你，\n"
 "  那我就认栽。ゑ"
 
 msgid "<25>{#f/4}* But if they kill you, which they inevitably will..."
 msgstr ""
-"<25>{#f/4}* 否则，他要是\n"
+"<25>{#f/4}* 否则，$(name)要是\n"
 "  “不小心”杀了你...ゑ"
 
 msgid ""
@@ -3473,7 +3488,7 @@ msgid ""
 "* Get away!"
 msgstr ""
 "<32>{#p/basic}{#npc/a}* 你聋吗？\n"
-"* 走开！"
+"* 给我滚！"
 
 msgid "<32>{#p/basic}* You're gonna need it."
 msgstr "<32>{#p/basic}* 你肯定用得到的。"
@@ -6584,8 +6599,6 @@ msgstr "哈喽！"
 msgid "SAVE YOURSELVES..."
 msgstr "自求多福吧..."
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr "网络连接失败..."
@@ -11072,7 +11085,7 @@ msgstr ""
 "  遇到了我的兄弟..."
 
 msgid "<25>{#f/3}* ..."
-msgstr "<25>{#f/3}* ..."
+msgstr "<25>{#f/3}* ...ゑ"
 
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Don't even try it."
 msgstr "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* 敢动他一下试试。"
@@ -15395,7 +15408,7 @@ msgstr ""
 "吻！"
 
 msgid "<32>{#p/story}* ..."
-msgstr "<32>{#p/story}* ..."
+msgstr "<32>{#p/story}* ...ゑ"
 
 msgid "<32>{#p/basic}* The other monster can't bear to watch..."
 msgstr "<32>{#p/basic}* 其他怪物表示没眼看..."
