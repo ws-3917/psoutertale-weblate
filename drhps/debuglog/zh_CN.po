@@ -3,16 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-11 08:21+0000\n"
-"PO-Revision-Date: 2025-02-14 05:50+0000\n"
-"Last-Translator: Aryen阿莱恩 <itsme_1103@qq.com>\n"
+"PO-Revision-Date: 2025-03-02 10:31+0000\n"
+"Last-Translator: Wasneet Potato <wasneetpotato@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
-"translate.ws3917.site/projects/deltarune-hypothesis/1-cs-debuglog/zh_Hans/>\n"
+"translate.ws3917.space/projects/deltarune-hypothesis/1-cs-debuglog/zh_Hans/>"
+"\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.1\n"
 
 #
 msgid "prefab For CharacterIcon is Null"
@@ -101,22 +102,22 @@ msgid "Enemy's Turn: "
 msgstr "敌人回合："
 
 msgid "{targetEnemy} spared: {inflictor} | WasSpareable = {wasSpareable}"
-msgstr ""
+msgstr "{targetEnemy}饶恕了：{inflictor} | 是否黄名 = {wasSpareable}"
 
 msgid "{targetEnemy} damaged by {inflictor} for {Damage} damage"
-msgstr ""
+msgstr "{targetEnemy}被{inflictor}造成了{Damage}点伤害"
 
 msgid "{targetMember} damaged for {Damage} damage"
-msgstr ""
+msgstr "{targetMember}受到{Damage}点伤害"
 
 msgid "{targetEnemy} killed {inflictor} with {Damage} damage"
-msgstr ""
+msgstr "{targetEnemy}对{inflictor}造成了{Damage}点伤害，{inflictor}已被击杀"
 
 msgid "New Battle State: {newState} | Previous Battle State {oldState}"
-msgstr ""
+msgstr "新战斗状态：{newState} | 上一个战斗状态：{oldState}"
 
 msgid "Battle Begun: {battle}"
-msgstr ""
+msgstr "战斗开始：{battle}"
 
 msgid "finished!"
 msgstr "完成！"
@@ -139,7 +140,7 @@ msgid "No new targets available to spare?"
 msgstr "没有新的可饶恕目标？"
 
 msgid "FadeSpriteRenderer Failed | spriteRenderer is missing or null?"
-msgstr ""
+msgstr "FadeSpriteRenderer运行出错 | spriteRenderer缺失或为空？"
 
 msgid "Scene Loaded: "
 msgstr "加载场景："
@@ -148,7 +149,7 @@ msgid "PlayerPrefs saved!"
 msgstr "玩家数据已保存！"
 
 msgid "AttemptRunMultipleActions started."
-msgstr ""
+msgstr "AttemptRunMultipleActions（尝试运行多个操作）已开始。"
 
 msgid "storedchatboxtext is null"
 msgstr "存储的对话框文本为空"
@@ -166,16 +167,16 @@ msgid "Action is null, skipping"
 msgstr "动作为空，跳过"
 
 msgid "AttemptRunMultipleActions ended."
-msgstr ""
+msgstr "AttemptRunMultipleActions（尝试运行多个操作）已结束。"
 
 msgid "Recorded key {key} with time since last: {num}"
-msgstr ""
+msgstr "记录键{key}，距上次的时间：{num}"
 
 msgid "Starting playback..."
 msgstr "开始回放..."
 
 msgid "Key: {keyPress.Key}"
-msgstr ""
+msgstr "键：{keyPress.Key}"
 
 msgid "Playback finished."
 msgstr "回放完毕。"
@@ -205,32 +206,32 @@ msgid "FadeOutSprite failed! spriteRenderer is null"
 msgstr "FadeOutSprite失败！spriteRenderer为空！"
 
 msgid "Target Transform cannot be null."
-msgstr ""
+msgstr "目标变换不能为空。"
 
 msgid "Party member null?"
 msgstr "队伍成员为空？"
 
 msgid "Markiplier is missing???"
-msgstr ""
+msgstr "Markiplier缺失？？？"
 
 msgid "Discord initialized successfully."
-msgstr ""
+msgstr "Discord初始化成功。"
 
 msgid "Failed to initialize Discord: "
-msgstr ""
+msgstr "无法初始化Discord，错误信息如下："
 
 msgid ""
 "Common reasons are either, discord not being open or no internet connection."
-msgstr ""
+msgstr "常见原因是Discord未打开或没有互联网连接。"
 
 msgid "Discord disposed."
-msgstr ""
+msgstr "Discord已解决."
 
 msgid "Discord is not initialized, skipping ChangeActivity."
-msgstr ""
+msgstr "Discord未初始化，跳过ChangeActivity。"
 
 msgid "Activity Updated!"
-msgstr ""
+msgstr "Activity已更新！"
 
 msgid "Discord.RunCallbacks() failed: "
 msgstr "函数\"Discord.RunCallbacks()\"运行出错，报错信息为："
@@ -242,7 +243,7 @@ msgid "<color=green>DEBUG FREAKING MODE ENABLED!! WOAHH!!</color>"
 msgstr "<color=green>疯狂的调试模式已开启！！芜湖！！</color>"
 
 msgid "<color=green>Toggled output visibility</color>"
-msgstr ""
+msgstr "<color=green>切换输出可见性</color>"
 
 msgid "<color=green>Stack trace saved to "
 msgstr "<color=green>Stack trace（堆栈跟踪）保存至 "
@@ -256,7 +257,7 @@ msgstr "新的键码设置为："
 
 msgid ""
 "Goal: {goal.GoalPlayprefName}, Current: {@int}, Required: {requiredTasks}"
-msgstr ""
+msgstr "目标：{goal.GoalPlayprefName}，当前：{@int}，需要：{requiredTasks}"
 
 msgid "Goal already completed."
 msgstr "目标已被达成。"
@@ -265,34 +266,36 @@ msgid ""
 "Checking goal {hypothesisGoal.GoalPlayprefName}: "
 "{int2}/{hypothesisGoal.RequiredTasks}"
 msgstr ""
+"检查目标{hypothesisGoal.GoalPlayprefName}：{int2}/{hypothesisGoal.RequiredTas"
+"ks}"
 
 msgid "All goals completed!"
 msgstr "目标全部达成！"
 
 msgid "Not all goals completed."
-msgstr ""
+msgstr "并非全部目标皆已完成。"
 
 msgid "step size outside of bounds idiot"
-msgstr ""
+msgstr "步长超出界限了 白痴"
 
 msgid "No bool of that name! | "
-msgstr ""
+msgstr "没有叫那个的布尔值！| "
 
 msgid "Hypothesis or thisSection is null?"
-msgstr ""
+msgstr "Hypothesis或thisSection为空？"
 
 msgid "Gambling unlocked!"
-msgstr ""
+msgstr "Gambling（赌博）已解锁！"
 
 msgid "Susie is not in the party?????"
 msgstr "Susie不在队伍中？？？？？"
 
 msgid ""
 "Failed to set Party Member Walk Offset! ( No Susie_Follower in Prefab )"
-msgstr ""
+msgstr "无法设置小队成员行走偏移！（预制件中没有Susie_Follower）"
 
 msgid "Failed to create Party Member! ( No PartyMemberPrefab )"
-msgstr ""
+msgstr "无法创建小队成员！（无 PartyMemberPrefab）"
 
 msgid "Failed to create Party Member! ( No Member Provided )"
 msgstr "未能创建成员！（未指定成员编号）"
@@ -300,7 +303,7 @@ msgstr "未能创建成员！（未指定成员编号）"
 msgid ""
 "Failed to remove Party Member! ( SpecificedMemberIndex is greater than "
 "ActivePartyMembers list )"
-msgstr ""
+msgstr "无法创建小队成员！（SpecificedMemberIndex超出ActivePartyMembers列表）"
 
 msgid ""
 "Failed to remove Party Member! ( SpecificMember is not in ActivePartyMembers"
@@ -310,7 +313,7 @@ msgstr "未能移除成员！（指定成员已倒下或不在队伍中）"
 msgid ""
 "Failed to get Party Member Transform! ( Member not found in "
 "ActivePartyMembers )"
-msgstr ""
+msgstr "无法获取小队成员变换！（在ActivePartyMembers中未找到成员）"
 
 msgid "One"
 msgstr "一"
@@ -322,7 +325,7 @@ msgid "Three"
 msgstr "三"
 
 msgid "Attempted to play player animation sound outside of index"
-msgstr ""
+msgstr "尝试在索引之外播放播放器动画声音"
 
 msgid "Game data saved! | "
 msgstr "游戏档案已保存！ | "
@@ -336,16 +339,16 @@ msgstr "游戏档案已载入！"
 msgid ""
 "Unable to find SpriteRenderer in SPR_Parallax object, defaulting to "
 "length/height = 1"
-msgstr ""
+msgstr "无法在SPR_Parallax对象中找到SpriteRenderer（贴图渲染器），默认长度/高度 = 1"
 
 msgid "Submesh TextMeshPro Detected"
-msgstr ""
+msgstr "检测到Submesh TextMeshPro"
 
 msgid "Incorrect elipse detected"
-msgstr ""
+msgstr "检测到不正确的elipse"
 
 msgid "Incorrect apostrophe detected"
-msgstr ""
+msgstr "检测到错误的撇号（就是U+0027那个）"
 
 msgid "Text Prefab is not assigned."
 msgstr "未指定文本配置文件。"
