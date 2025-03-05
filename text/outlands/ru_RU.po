@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
 "PO-Revision-Date: 2025-03-05 16:00+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7487,22 +7487,22 @@ msgstr ""
 "<20>{*}{#f/5}Чтобы наставить тебя на верный путь, поделюсь-ка я своим УР."
 
 msgid "<20>{*}{#f/5}Try to get as many as you can!{^20}{*}{#x1}{%}"
-msgstr ""
+msgstr "<20>{*}{#f/5}Поймай сколько сможешь!{^20}{*}{#x1}{%}"
 
 msgid "<20>{*}{#f/8}Whoops, I think you might've missed them..."
-msgstr ""
+msgstr "<20>{*}{#f/8}Упс, похоже, твой промах..."
 
 msgid "<20>{*}{#f/5}But that's okay!"
-msgstr ""
+msgstr "<20>{*}{#f/5}Но это нормально!"
 
 msgid "<20>{*}{#x2}{#f/10}Here, have some more.{^20}{*}{#x1}{%}"
-msgstr ""
+msgstr "<20>{*}{#x2}{#f/10}Вот, лови ещё.{^20}{*}{#x1}{%}"
 
 msgid "<20>{*}{#f/12}What the-... are you braindead or something??"
 msgstr "<20>{*}{#f/12}Какого-... ты совсем безмозглый?!"
 
 msgid "<20>{*}{#x2}RUN. INTO. THE. BULLETS!!!{^20}{*}{#x1}{^999}"
-msgstr ""
+msgstr "<20>{*}{#x2}МЧИСЬ. НА. ПУЛИ!!!{^20}{*}{#x1}{^999}"
 
 msgid "RUN. INTO. THE. happiness shards~"
 msgstr "МЧИСЬ. НА. осколки счастья~"
@@ -7514,10 +7514,10 @@ msgid "<20>In this world, it's KILL or BE killed."
 msgstr "<20>В этом мире, УБЕЙ или БУДЕШЬ убит."
 
 msgid "<20>Imagine, a SOUL like yours crash-landing on my doorstep..."
-msgstr ""
+msgstr "<20>Представь, до ДУШИ, подобной твоей, мне как рукой подать..."
 
 msgid "<20>Did you really think I'd pass up such a golden opportunity?"
-msgstr ""
+msgstr "<20>Думаешь, я упущу аиста в небе?"
 
 msgid "<20>{#f/7}Nah, you know what's going on here, don'tcha?"
 msgstr "<20>{#f/7}Да не, ты ведь знаешь что тут происходит?"
