@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:12+0000\n"
-"PO-Revision-Date: 2025-03-05 12:50+0000\n"
+"PO-Revision-Date: 2025-03-05 13:04+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -14700,53 +14700,63 @@ msgid "<15>{#f/22}MYSELF!!!"
 msgstr "<15>{#f/22}DE MIM MESMO!!!"
 
 msgid "<15>{#f/10}YOU'RE MEETING ALL MY STANDARDS!!!"
-msgstr ""
+msgstr "<15>{#f/10}VOCÊ ESTÁ BATENDO COM TODOS OS MEUS PADRÕES!!!"
 
 msgid "<15>{#f/27}I GUESS THIS MEANS I HAVE TO GO ON A DATE WITH YOU...?"
 msgstr ""
+"<15>{#f/27}ACHO QUE ISSO SIGNIFIQUE QUE EU DEVA IR A UM ENCONTRO COM VOCÊ...?"
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}LET'S DATE L-LATER!!\n"
 "AFTER I CAPTURE YOU!"
 msgstr ""
+"<15>{#p/papyrus}{#f/20}VAMOS EM UM ENCONTRO, M-MAIS TARDE!!\n"
+"ANTES IREI TE CAPTURAR!"
 
 msgid ""
 "<32>{#p/human}* (No effect...)\n"
 "* (Seems acting won't escalate this battle any further.)"
 msgstr ""
+"<32>{#p/human}* (Sem efeito...)\n"
+"* (Parece que agir não vai escalar ainda mais essa batalha.)"
 
 msgid "<32>{#p/human}* (But Papyrus was too busy fighting to hear you.)"
 msgstr ""
+"<32>{#p/human}* (Mas Papyrus está muito ocupado lutando pra te escutar.)"
 
 msgid "<32>{#p/story}* Papyrus is thinking about what to wear for his date."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está pensando no que usar para seu encontro."
 
 msgid "<32>{#p/story}* Papyrus dabs some Bone Cologne behind his ear."
 msgstr ""
+"<32>{#p/story}* Papyrus passa um pouco de Colônia de Osso atrás da orelha."
 
 msgid "<32>{#p/story}* Papyrus is thinking about what to cook for his date."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está pensando no que cozinhar para o encontro."
 
 msgid "<32>{#p/story}* Papyrus dabs marinara sauce behind his ear."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus joga molho de marinara atrás de sua orelha."
 
 msgid "<32>{#p/story}* Papyrus is thinking about sexy rectangles."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está pensando sobre retângulos sexys."
 
 msgid "<32>{#p/story}* Papyrus dabs MTT-brand Bishie Cream behind his ear."
 msgstr ""
+"<32>{#p/story}* Papyrus passa Bishie Cream da marca MTT atrás da orelha."
 
 msgid "<32>{#p/story}* Papyrus dabs MTT-brand Anime Powder behind his ear."
 msgstr ""
+"<32>{#p/story}* Papyrus passa o Anime Powder da marca MTT atrás da orelha."
 
 msgid "<32>{#p/story}* Papyrus dabs MTT-brand Cute Juice behind his ear."
 msgstr ""
+"<32>{#p/story}* Papyrus passa o Cute Juice da marca MTT atrás da orelha."
 
 msgid "<32>{#p/story}* Papyrus realizes he doesn't have ears."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus percebe que não tem orelhas."
 
 msgid "<32>{#p/story}* Papyrus has random lumps of ointment on his head."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus tem pedaços aleatórios de pomada na cabeça."
 
 msgid "<32>{#p/story}* ... he's still thinking about sexy rectangles."
 msgstr ""
