@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
-"PO-Revision-Date: 2025-03-05 12:45+0000\n"
-"Last-Translator: Бенедикт Капустин <blahblahblah@whatever.com>\n"
-"Language-Team: Russian <https://ws3917.hbms.me/projects/ps-outertale/"
+"PO-Revision-Date: 2025-03-05 13:06+0000\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.1\n"
 
 #
 msgid ""
@@ -331,20 +331,23 @@ msgstr ""
 msgid "<32>{#p/human}* (You use the Secret Key.)"
 msgstr ""
 
+#, fuzzy
 msgid "* (Exit the Outlands?)"
-msgstr ""
+msgstr "* (Выйти из Запределья?)"
 
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
+#, fuzzy
 msgid "<32>{#p/human}* (Something seems to have interrupted your sleep.)"
-msgstr ""
+msgstr "<32>{#p/human}* (По-видимому, что-то прервало ваш сон.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You decide not to equip.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы решили не экипировать.)"
 
 msgid "<32>{#p/basic}* He's gotta be around here somewhere..."
 msgstr ""
