@@ -7340,7 +7340,7 @@ msgid "<25>{#f/8}* If you wanna keep resetting, then by all means..."
 msgstr "<25>{#f/8}* Если будешь сбрасывать... "
 
 msgid "<25>{#f/6}* Do as you wish."
-msgstr "<25>{#f/6}* То ради бога. "
+msgstr "<25>{#f/6}* То ради бога."
 
 msgid "<25>{#f/7}* Just don't expect to get past me so easily."
 msgstr "<25>{#f/7}* Просто не думай, что пройдёшь мимо меня так просто."
@@ -7371,7 +7371,7 @@ msgid ""
 msgstr "<25>{#f/11}* В любом случаи, так как ты знаешь что будет дальше...{%15}"
 
 msgid "<25>{#p/twinkly}{#f/6}* Howdy."
-msgstr "<25>{#p/twinkly}{#f/6}* Приветик. "
+msgstr "<25>{#p/twinkly}{#f/6}* Приветик."
 
 msgid "<25>* Seems I'll be fireballed if I stick around too long."
 msgstr "<25>* Походу меня сгорят заживо, если останусь на долго."
