@@ -14694,10 +14694,10 @@ msgid "<15>{#p/papyrus}{#f/24}THAT CONFIDENCE... IT REMINDS ME OF..."
 msgstr "<15>{#p/papyrus}{#f/24}QUE COINCIDÊNCIA... ISSO ME LEMBRA..."
 
 msgid "<15>{#p/papyrus}{#f/24}THAT HUMILITY... IT REMINDS ME OF..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}ESSA HUMILDADE... ISSO ME LEMBRA DE..."
 
 msgid "<15>{#f/22}MYSELF!!!"
-msgstr ""
+msgstr "<15>{#f/22}DE MIM MESMO!!!"
 
 msgid "<15>{#f/10}YOU'RE MEETING ALL MY STANDARDS!!!"
 msgstr ""
