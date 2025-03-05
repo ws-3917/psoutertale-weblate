@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:12+0000\n"
-"PO-Revision-Date: 2025-03-05 15:57+0000\n"
+"PO-Revision-Date: 2025-03-05 16:27+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -15536,259 +15536,291 @@ msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Asgore lets it pass right through him.)"
 msgstr ""
+"<32>{#p/human}* (Você joga a chave.)\n"
+"* (Asgore a deixa passar por ele.)"
 
 msgid "<11>{#p/asgore}{#f/2}..."
-msgstr ""
+msgstr "<11>{#p/asgore}{#f/2}..."
 
 msgid "<11>{#f/1}I am not really here, Asriel."
-msgstr ""
+msgstr "<11>{#f/1}Eu não estou aqui de verdade, Asriel."
 
 msgid "<11>{#f/2}It's just a projection."
-msgstr ""
+msgstr "<11>{#f/2}É só uma projeção."
 
 msgid "* Asgore"
-msgstr ""
+msgstr "* Asgore"
 
 msgid "<32>{#p/asriel2}* Kill him, $(name)."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Mate-o, $(name)."
 
 msgid "A small branch of semi-translucent berries."
-msgstr ""
+msgstr "Um pequeno ramo de bagas semi-translúcidas."
 
 msgid "Exoberries"
-msgstr ""
+msgstr "Exoberrys"
 
 msgid "<32>{#p/human}* (You throw away the Exoberries.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora as Exoberries.)"
 
 msgid "<32>{#p/human}* (7 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (7 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Exoberries\" Heals 7 HP\n"
 "* A small branch of semi-translucent berries."
 msgstr ""
+"<32>{#p/basic}* \"Exoberries\" Cura 7 HP\n"
+"* Um pequeno ramo de bagas semi-translúcidas."
 
 msgid "<32>{#p/human}* (You eat the Exoberries.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come as Exoberries.)"
 
 msgid "Fresh exoberries, bathed in a sea of moist Jell-O."
-msgstr ""
+msgstr "Exoberries frescas, banhadas em um mar de gelatina úmida."
 
 msgid "Berry Pie"
-msgstr ""
+msgstr "Torta de Frutas"
 
 msgid "<32>{#p/human}* (You throw away the Exoberry Pie.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora a Torta de Frutas.)"
 
 msgid "<32>{#p/napstablook}* ......... huh?"
-msgstr ""
+msgstr "<32>{#p/napstablook}* ......... huh?"
 
 msgid "<32>{#p/napstablook}* oh.................."
-msgstr ""
+msgstr "<32>{#p/napstablook}* oh.................."
 
 msgid "<32>{#p/human}* (99 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (99 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Exoberry Pie\" Heals 99 HP\n"
 "* Fresh exoberries, bathed in a sea of moist Jell-O."
 msgstr ""
+"<32>{#p/basic}* \"Torta de Frutas\" cura 99 HP\n"
+"* Exoberries frescas, banhadas em um mar de gelatina úmida."
 
 msgid "Exoberry Pie"
-msgstr ""
+msgstr "Torta de Frutas"
 
 msgid "<32>{#p/human}* (You eat the Exoberry Pie.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come a Torta de Frutas.)"
 
 msgid ""
 "<32>{#p/napstablook}* aw.........\n"
 "* i hope you like it........."
 msgstr ""
+"<32>{#p/napstablook}* aw.........\n"
+"* espero que você goste........."
 
 msgid "Please take this to the edge of the galaxy."
-msgstr ""
+msgstr "Por favor, leve isso para o outro lado da galáxia."
 
 msgid "Chip"
-msgstr ""
+msgstr "Chip"
 
 msgid "<32>{#p/human}* (You throw away the Computer Chip.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Chip de CPU.)"
 
 msgid "<25>{#p/asriel1}{#f/15}* Uh... weren't you going to protect that?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/15}* Uh... você não ia meio que proteger isso aí?"
 
 msgid ""
 "<32>{#p/human}* (45 HP. Rather than eating it, you feel you should keep this"
 " item safe.)"
 msgstr ""
+"<32>{#p/human}* (45 HP. Mais do que comer, você sente que precisa manter "
+"este ítem em segurança.)"
 
 msgid ""
 "<32>{#p/basic}* \"Computer Chip\" Heals 45 HP\n"
 "* Please take this to the edge of the galaxy."
 msgstr ""
+"<32>{#p/basic}* \"Chip de CPU\" Cura 45 HP\n"
+"* Por favor, leve isso para o outro lado da galáxia."
 
 msgid "Computer Chip"
-msgstr ""
+msgstr "Chip de CPU"
 
 msgid "<32>{#p/human}* (You bit into the Computer Chip.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come o Chip de CPU.)"
 
 msgid "<32>{#p/basic}* Seems your HP integer was increased."
-msgstr ""
+msgstr "<32>{#p/basic}* Parece que seu número inteiro de HP foi aumentado."
 
 msgid "<32>{#p/basic}* Seems your injuries have been overwritten."
-msgstr ""
+msgstr "<32>{#p/basic}* Parece que seus machucados foram curados."
 
 msgid "A portable force field."
-msgstr ""
+msgstr "Um escudo de força portátil."
 
 msgid "Emitter"
-msgstr ""
+msgstr "Emissor"
 
 msgid "<32>{#p/human}* (You throw away the Field Emitter.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você jogou fora o Emissor de Escudo.)"
 
 msgid "<32>{#p/human}* (7 DF.)"
-msgstr ""
+msgstr "<32>{#p/human}* (7 DF.)"
 
 msgid ""
 "<32>{#p/basic}* \"Field Emitter\" (7 DF)\n"
 "* A portable force field."
 msgstr ""
+"<32>{#p/basic}* \"Emissor de Escudo\" (7 DF)\n"
+"* Um escudo de força portátil."
 
 msgid "Field Emitter"
-msgstr ""
+msgstr "Emissor de Escudo"
 
 msgid "<32>{#p/human}* (You deployed the Field Emitter.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você implantou o Emissor de Escudo.)"
 
 msgid "A somewhat underpowered portable force field."
-msgstr ""
+msgstr "Um campo de força portátil um tanto fraco."
 
 msgid "Emitter?"
-msgstr ""
+msgstr "Emissor?"
 
 msgid "<32>{#p/human}* (5 DF.)"
-msgstr ""
+msgstr "<32>{#p/human}* (5 DF.)"
 
 msgid ""
 "<32>{#p/basic}* \"Field Emitter?\" (5 DF)\n"
 "* A somewhat underpowered portable force field."
 msgstr ""
+"<32>{#p/basic}* \"Emissor de Escudo?\" (5 DF)\n"
+"* Um campo de força portátil um pouco fraco."
 
 msgid "Field Emitter?"
-msgstr ""
+msgstr "Emissor de Escudo?"
 
 msgid "A non-euclidian fruit, bigger on the inside."
-msgstr ""
+msgstr "Uma fruta não euclidiana, maior por dentro."
 
 msgid "Ghost Fruit"
-msgstr ""
+msgstr "Fruta Fantasma"
 
 msgid "<32>{#p/human}* (You fold the Ghost Fruit in on itself.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você coloca a Fruta Fantasma dentro de si.)"
 
 msgid "<32>{#p/human}* (15 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (15 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Ghost Fruit\" Heals 15 HP\n"
 "* A non-euclidian fruit, bigger on the inside."
 msgstr ""
+"<32>{#p/basic}* \"Fruta Fantasma\" Cura 15 HP\n"
+"* Uma fruta não euclidiana, maior por dentro."
 
 msgid "<32>{#p/human}* (You unpacked the Ghost Fruit's many dimensions.)"
 msgstr ""
+"<32>{#p/human}* (Você descompactou as muitas dimensões da Fruta Fantasma.)"
 
 msgid ""
 "A state-of-the-art bionic glove.\n"
 "It's so bad."
 msgstr ""
+"Uma luva biônica de última geração.\n"
+"É tão ruim."
 
 msgid "Power Glove"
-msgstr ""
+msgstr "Luva Forte"
 
 msgid "<32>{#p/human}* (You throw away the Power Glove.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você jogou fora a Luva Forte.)"
 
 msgid "<32>{#p/human}* (5 AT.)"
-msgstr ""
+msgstr "<32>{#p/human}* (5 AT.)"
 
 msgid ""
 "<32>{#p/basic}* \"Power Glove\" (5 AT)\n"
 "* A state-of-the-art bionic glove. It's so bad."
 msgstr ""
+"<32>{#p/basic}* \"Luva Forte\" (5 AT)\n"
+"* Uma luva biônica de última geração. É tão ruim."
 
 msgid "<32>{#p/human}* (You wear the Power Glove.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você põe a Luva Forte.)"
 
 msgid "It's not the original, but it still packs a punch."
-msgstr ""
+msgstr "Não é a original, mas ainda sabe dar socos."
 
 msgid "Glove?"
-msgstr ""
+msgstr "Luva?"
 
 msgid "<32>{#p/human}* (3 AT.)"
-msgstr ""
+msgstr "<32>{#p/human}* (3 AT.)"
 
 msgid ""
 "<32>{#p/basic}* \"Power Glove?\" (3 AT)\n"
 "* It's not the original, but it still packs a punch."
 msgstr ""
+"<32>{#p/basic}* \"Luva Forte?\" (3 AT)\n"
+"* Não é a original, mas ainda sabe dar socos."
 
 msgid "Power Glove?"
-msgstr ""
+msgstr "Luva Forte?"
 
 msgid "Made of an unknown, pearly-white substance."
-msgstr ""
+msgstr "Feito de uma substância branca misteriosa."
 
 msgid "Milkshake"
-msgstr ""
+msgstr "Milkshake"
 
 msgid "<32>{#p/human}* (You rid yourself of the Milkshake.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você se livra do Milkshake.)"
 
 msgid "<32>{#p/human}* (18 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (18 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Milkshake\" Heals 18 HP\n"
 "* Made of an unknown, pearly-white substance."
 msgstr ""
+"<32>{#p/basic}* \"Milkshake\" Cura 18 HP\n"
+"* Feita de uma substância branca misteriosa."
 
 msgid "<32>{#p/human}* (You swallowed every last drop of the Milkshake.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você engole até o último suspiro do Milkshake.)"
 
 msgid "<32>{#p/basic}* ... salty."
-msgstr ""
+msgstr "<32>{#p/basic}* ... salgado."
 
 msgid "Instead of a joke, the wrapper says something fantastical."
-msgstr ""
+msgstr "Em vez de uma piada, o invólucro diz algo fantástico."
 
 msgid "Ice Dream"
-msgstr ""
+msgstr "Sorvete Sonho"
 
 msgid "<32>{#p/human}* (You throw away the Ice Dream.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Sorvete Sonho.)"
 
 msgid ""
 "<32>{#p/basic}* \"Ice Dream\" Heals 15 HP\n"
 "* Instead of a joke, the wrapper says something fantastical."
 msgstr ""
+"<32>{#p/basic}* \"Sorvete Sonho\" Cura 15 HP\n"
+"* Ao invés de uma piada, o invólucro diz algo fantástico."
 
 msgid "<32>{#p/human}* (You unwrapped the Ice Dream.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você desembrulhou o Sorvete Sonho.)"
 
 msgid "<32>* (The wrapper spoke of a world- saving adventure.)"
-msgstr ""
+msgstr "<32>* (O embrulho diz sobre um aventura que salvará o mundo.)"
 
 msgid ""
 "<32>{#p/basic}* \"You're a grand adventurer, on a mission to save the "
 "world!\""
 msgstr ""
+"<32>{#p/basic}* "
+"\"Você é um grande aventureiro, em uma missão para salvar o mundo!\""
 
 msgid "<32>* (The wrapper mentioned your role as a starship captain.)"
 msgstr ""
+"<32>* (O embrulho menciona você como sendo um capitão de uma nave espacial.)"
 
 msgid ""
 "<32>{#p/basic}* \"You're the captain of a starship, moving deeper into "
