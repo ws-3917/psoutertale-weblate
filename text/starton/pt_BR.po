@@ -14759,7 +14759,7 @@ msgid "<32>{#p/story}* Papyrus has random lumps of ointment on his head."
 msgstr "<32>{#p/story}* Papyrus tem pedaços aleatórios de pomada na cabeça."
 
 msgid "<32>{#p/story}* ... he's still thinking about sexy rectangles."
-msgstr ""
+msgstr "<32>{#p/story}* ... ele ainda está pensando em retângulos sexys."
 
 msgid "<32>{#p/story}* Papyrus is at the edge of defeat."
 msgstr ""
