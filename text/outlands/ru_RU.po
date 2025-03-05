@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
 "PO-Revision-Date: 2025-03-06 07:17+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7361,7 +7361,7 @@ msgid ""
 msgstr "<25>{#p/twinkly}{#f/11}* Как будто я бы забыл твои действия..."
 
 msgid "<25>{#f/7}* Filthy shard dodger."
-msgstr "<25>{#f/7}* Мерзкая вертлявка. "
+msgstr "<25>{#f/7}* Мерзкая вертлявка."
 
 msgid "<25>{#p/twinkly}{#f/7}* I can play this game all day, idiot."
 msgstr "<25>{#p/twinkly}{#f/7}* Я могу играться с тобой хоть весь день, тупица."
@@ -7374,13 +7374,13 @@ msgid "<25>{#p/twinkly}{#f/6}* Howdy."
 msgstr "<25>{#p/twinkly}{#f/6}* Приветик."
 
 msgid "<25>* Seems I'll be fireballed if I stick around too long."
-msgstr "<25>* Походу меня сгорят заживо, если останусь на долго."
+msgstr "<25>* Походу меня спалят заживо, если останусь надолго."
 
 msgid "<25>{#f/8}* A shame, really..."
-msgstr "<25>{#f/8}* Какой позор, серьёзно..."
+msgstr "<25>{#f/8}* Какой позор, правда..."
 
 msgid "<25>{#f/7}* I was gonna have SO much fun with you."
-msgstr "<25>{#f/7}* Я ведь ТАК соибрался с тобой повеселиться."
+msgstr "<25>{#f/7}* Я ведь собрался ТАК повеселиться с тобой."
 
 msgid "<25>{#f/5}* Well, see ya!"
 msgstr "<25>{#f/5}* Ну что ж, увидимся!"
@@ -7440,7 +7440,7 @@ msgid "<25>{#f/6}* I..."
 msgstr "<25>{#f/6}* Мне..."
 
 msgid "<25>{#f/8}* I have to go..."
-msgstr "<25>{#f/8}* Мне нужео пойти..."
+msgstr "<25>{#f/8}* Мне нужно пойти..."
 
 msgid "<25>{#p/twinkly}{#f/7}* So, we're back at the beginning, are we?"
 msgstr "<25>{#p/twinkly}{#f/7}* Итак, мы вернулись к чистому листу?"
