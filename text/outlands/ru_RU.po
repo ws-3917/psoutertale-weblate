@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
-"PO-Revision-Date: 2025-03-05 16:30+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-03-05 16:56+0000\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7358,89 +7358,89 @@ msgstr "<25>{#f/7}* Какая жалость."
 
 msgid ""
 "<25>{#p/twinkly}{#f/11}* As if you think I'd forget about what you did..."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/11}* Как будто я бы забыл твои действия..."
 
 msgid "<25>{#f/7}* Filthy shard dodger."
-msgstr ""
+msgstr "<25>{#f/7}* Мерзкая вертлявка. "
 
 msgid "<25>{#p/twinkly}{#f/7}* I can play this game all day, idiot."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/7}* Я могу играться с тобой хоть весь день, тупица."
 
 msgid ""
 "<25>{#f/11}* Either way, since you already know what's coming next...{%15}"
-msgstr ""
+msgstr "<25>{#f/11}* В любом случаи, так как ты знаешь что будет дальше...{%15}"
 
 msgid "<25>{#p/twinkly}{#f/6}* Howdy."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/6}* Приветик. "
 
 msgid "<25>* Seems I'll be fireballed if I stick around too long."
-msgstr ""
+msgstr "<25>* Походу меня сгорят заживо, если останусь на долго."
 
 msgid "<25>{#f/8}* A shame, really..."
-msgstr ""
+msgstr "<25>{#f/8}* Какой позор, серьёзно..."
 
 msgid "<25>{#f/7}* I was gonna have SO much fun with you."
-msgstr ""
+msgstr "<25>{#f/7}* Я ведь ТАК соибрался с тобой повеселиться."
 
 msgid "<25>{#f/5}* Well, see ya!"
-msgstr ""
+msgstr "<25>{#f/5}* Ну что ж, увидимся!"
 
 msgid "<25>{#p/twinkly}{#f/12}{#v/0}* What the HELL are you doing, $(name)?"
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/12}{#v/0}* Какого ЧЕРТА ты делаешь, $(name)?"
 
 msgid "<25>{#f/12}{#v/0}* We had the outpost at our mercy!"
-msgstr ""
+msgstr "<25>{#f/12}{#v/0}* У нас весь аванпост был на коленях!"
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was follow the plan."
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Нам нужно было лишь следовать плану."
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was get through the Foundry..."
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Нам нужно было лишь пройти через Литейную..."
 
 msgid "<25>* Finish off the guards..."
-msgstr ""
+msgstr "<25>* Прикончить стражей..."
 
 msgid "<25>* And make it to the Citadel!"
-msgstr ""
+msgstr "<25>* И добраться до Цитадели!"
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was finish off the guards..."
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Нам нужно было лишь прикончить стражей..."
 
 msgid "<25>* And get through the Citadel!"
-msgstr ""
+msgstr "<25>* И пробраться через Цитадель!"
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was KILL that stupid robot..."
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Нам нужно было лишь УБИТЬ того тупого робота..."
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was get through the Citadel!"
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Нам нужно было лишь пробраться через Цитадель!"
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was KILL that nerdy trashbag!"
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Нам нужно было лишь УБИТЬ ту задротскую мусорку!"
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was walk to the end!"
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Нам нужно было лишь дойти до конца!"
 
 msgid "<25>* We were so close!"
-msgstr ""
+msgstr "<25>* Мы были так близки!"
 
 msgid "<25>{#f/8}{#v/0}* Coward..."
-msgstr ""
+msgstr "<25>{#f/8}{#v/0}* Трус..."
 
 msgid "<25>{#p/twinkly}{#f/5}* $(name)...?"
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/5}* $(name)...?"
 
 msgid "<25>{#f/6}* I'm not really sure what just happened."
-msgstr ""
+msgstr "<25>{#f/6}* Я не уверен, что только что произошло."
 
 msgid "<25>{#f/8}* We were on the shuttle, and then..."
-msgstr ""
+msgstr "<25>{#f/8}* Мы были на корабле, а затем..."
 
 msgid "<25>{#f/6}* I..."
-msgstr ""
+msgstr "<25>{#f/6}* Мне..."
 
 msgid "<25>{#f/8}* I have to go..."
-msgstr ""
+msgstr "<25>{#f/8}* Мне нужео пойти..."
 
 msgid "<25>{#p/twinkly}{#f/7}* So, we're back at the beginning, are we?"
 msgstr "<25>{#p/twinkly}{#f/7}* Итак, мы вернулись к чистому листу?"
