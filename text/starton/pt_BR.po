@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:12+0000\n"
-"PO-Revision-Date: 2025-03-05 13:04+0000\n"
+"PO-Revision-Date: 2025-03-05 13:11+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -14762,92 +14762,103 @@ msgid "<32>{#p/story}* ... he's still thinking about sexy rectangles."
 msgstr "<32>{#p/story}* ... ele ainda está pensando em retângulos sexys."
 
 msgid "<32>{#p/story}* Papyrus is at the edge of defeat."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está a beira da derrota."
 
 msgid "<15>{#p/papyrus}{#f/20}HOW SELFLESS!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}QUE CHEIO DE SI MESMO!!!"
 
 msgid "<15>{#f/21}YOU WANT ME TO FEEL BETTER ABOUT FIGHTING YOU..."
-msgstr ""
+msgstr "<15>{#f/21}VOCÊ QUER QUE EU ME SINTA BEM EM RELAÇÃO A LUTAR CONTIGO..."
 
 msgid "<15>{#p/papyrus}{#f/15}THERE'S NO NEED TO LIE TO YOURSELF!!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/15}NÃO TEM NECESSIDADE DE MENTIR PARA VOCÊ MESMO!!!"
 
 msgid "* Papyrus"
-msgstr ""
+msgstr "* Papyrus"
 
 msgid "<32>{#p/story}* Papyrus readies a bone attack."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus prepara um ataque ossal."
 
 msgid ""
 "<32>{#p/story}* Papyrus prepares a non-bone attack then spends a minute "
 "fixing his mistake."
 msgstr ""
+"<32>{#p/story}* Papyrus prepara um ataque sem ossos e passa um minuto "
+"revertendo o erro."
 
 msgid "<32>{#p/story}* Papyrus is cooking."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está cozinhando."
 
 msgid "<32>{#p/story}* Papyrus whispers \"Nyeh heh heh!\""
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus diz \"Nyeh heh heh!\""
 
 msgid "<32>{#p/story}* Papyrus is rattling his bones."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está chacoalhando seus ossos."
 
 msgid "<32>{#p/story}* Papyrus is trying hard to play it cool."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está tentando manter seu pique descolado."
 
 msgid "<32>{#p/story}* Papyrus is considering his options."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está considerando suas opções."
 
 msgid "<32>{#p/story}* Smells like bones."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a ossos."
 
 msgid ""
 "<32>{#p/story}* Papyrus remembered a good joke Sans told and is smiling."
 msgstr ""
+"<32>{#p/story}* Papyrus lembra de uma piada que Sand o contou e começa a "
+"sorrir."
 
 msgid "<15>{#p/papyrus}{#f/12}MY SPAGHETTI!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/12}MEU ESPAGUETE!"
 
 msgid "<15>{#p/papyrus}{#f/13}AND YOU LOOK LIKE YOU'RE ENJOYING IT..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/13}E VOCÊ PARECE ESTAR GOSTANDO..."
 
 msgid "<15>{#p/papyrus}{#f/27}WELL, I'M GLAD I COULD MAKE YOU HAPPY!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}BEM, ESTOU FELIZ POR TER TE FEITO FELIZ!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/27}WELL THEN!\n"
 "I LOOK FORWARD TO OUR MEAL TOGETHER!"
 msgstr ""
+"<15>{#p/papyrus}{#f/27}BEM ENTÃO!\n"
+"EU IREI PREPARAR MAIS COMIDA PARA NÓS DOIS!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/27}WELL THEN!\n"
 "I LOOK FORWARD TO MAKING SOME MORE FOR YOU!"
 msgstr ""
+"<15>{#p/papyrus}{#f/27}POIS BEM!\n"
+"ESTOU ANSIOSO PARA FAZER MAIS ALGUNS PARA VOCÊ!"
 
 msgid ""
 "<32>{#p/basic}* If Papyrus wasn't so busy fighting, he might've noticed "
 "that."
 msgstr ""
+"<32>{#p/basic}* Se Papyrus não estivesse tão ocupado lutando, ele poderia "
+"ter notado aquilo."
 
 msgid "<32>{#p/story}* Papyrus's aura is rising."
-msgstr ""
+msgstr "<32>{#p/story}* A aura de Papyrus está crescendo."
 
 msgid "<32>{#p/story}* Special attack."
-msgstr ""
+msgstr "<32>{#p/story}* Ataque especial."
 
 msgid "<32>{#p/story}* Papyrus is going all out."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está dando tudo de si."
 
 msgid "<32>{#p/story}* Papyrus has thrown all logic out the window."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus jogou toda a lógica pela janela."
 
 msgid ""
 "<32>{#p/story}* Papyrus notices the lack of logic and brings it back inside."
 msgstr ""
+"<32>{#p/story}* Papyrus percebeu a perda da lógica e trouxe ela de volta."
 
 msgid "<32>{#p/story}* Papyrus is sweating."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está suando."
 
 msgid "<32>{#p/story}* Papyrus is at his wit's end."
 msgstr ""
