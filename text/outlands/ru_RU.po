@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
-"PO-Revision-Date: 2025-03-03 12:10+0000\n"
+"PO-Revision-Date: 2025-03-05 12:45+0000\n"
 "Last-Translator: Бенедикт Капустин <blahblahblah@whatever.com>\n"
 "Language-Team: Russian <https://ws3917.hbms.me/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -2028,104 +2028,107 @@ msgid "<25>{#p/toriel}{#g/torielCompassionSmile}* ..."
 msgstr "<25>{#p/toriel}{#g/torielCompassionSmile}* ..."
 
 msgid "<25>{#f/1}{#n1}* \"Once, there was a monster...\""
-msgstr ""
+msgstr "<25>{#f/1}{#n1}* \"Жила-была монстр...\""
 
 msgid "<25>{#f/0}* \"And she loved a little human.\""
-msgstr ""
+msgstr "<25>{#f/0}* \"И она дружила с человеком.\""
 
 msgid "<25>{#f/1}* \"And every day, the human would come visit...\""
-msgstr ""
+msgstr "<25>{#f/1}* \"Каждый день человек приходил бы к ней...\""
 
 msgid "<25>{#f/0}* \"And they would run and play together in the fields.\""
-msgstr ""
+msgstr "<25>{#f/0}* \"...чтобы вместе они играли на полях.\""
 
 msgid "<25>{#f/1}* \"They'd sing songs together, tell stories to each other...\""
-msgstr ""
+msgstr "<25>{#f/1}* \"Они пели песни, рассказывали истории друг другу...\""
 
 msgid "<25>{#f/0}* \"And they would play hide-and-go seek.\""
-msgstr ""
+msgstr "<25>{#f/0}* \"А также играли в прятки.\""
 
 msgid ""
 "<25>{#f/1}* \"And when the human was tired, she would tuck them into "
 "bed...\""
-msgstr ""
+msgstr "<25>{#f/1}* \"А когда человек уставал, она укладывала его спать...\""
 
 msgid "<25>{#f/0}* \"And the human loved the monster very much.\""
-msgstr ""
+msgstr "<25>{#f/0}* \"Человек очень любил монстра.\""
 
 msgid "<25>{#f/0}* \"And the monster was happy.\""
-msgstr ""
+msgstr "<25>{#f/0}* \"И монстр была счастлива.\""
 
 msgid "<25>{#f/1}* \"But as time went by, and the human grew older...\""
-msgstr ""
+msgstr "<25>{#f/1}* \"Но годы шли, и человек старел...\""
 
 msgid "<25>{#f/0}* \"The monster was often left alone.\""
-msgstr ""
+msgstr "<25>{#f/0}* \"Монстр часто была одинокой.\""
 
 msgid "<25>{#f/1}* \"Then one day, the human came back...\""
-msgstr ""
+msgstr "<25>{#f/1}* \"Но однажды человек вернулся...\""
 
 msgid "<25>{#f/0}* \"And the monster said 'Come, human, come and play!'\""
-msgstr ""
+msgstr "<25>{#f/0}* «И монстр воскликнула „Иди, человек, иди и играй“!»"
 
 msgid "<25>{#f/5}* \"'I am too big to play,' said the human.\""
-msgstr ""
+msgstr "<25>{#f/5}* «„Слишком стар я, чтобы играть“, возразил человек.»"
 
 msgid "<25>{#f/1}* \"'I want to drive, to find a new home...'\""
-msgstr ""
+msgstr "<25>{#f/1}* \"'Я хочу уехать, чтобы найти новый дом...'\""
 
 msgid ""
 "<25>{#f/5}* \"'Sorry,' said the monster, 'but I am too poor to own a car.'\""
 msgstr ""
+"<25>{#f/5}* «„Прости,“ ответила монстр, „но я слишком бедна, чтобы владеть "
+"машиной.“»"
 
 msgid "<25>{#f/5}* \"'All I have is my own two feet.'\""
-msgstr ""
+msgstr "<25>{#f/5}* \"'Всё, что имею — лишь пара ног.'\""
 
 msgid "<25>{#f/0}* \"'Climb on my back, and I can run you to where you need.'\""
-msgstr ""
+msgstr "<25>{#f/0}* \"'Залазь на спину, и я отнесу тебя, куда нужно.'\""
 
 msgid "<25>{#f/0}* \"'Then you can see the town and be happy.'\""
-msgstr ""
+msgstr "<25>{#f/0}* \"'Тогда ты увидишь город и будешь счастлив.'\""
 
 msgid "<25>{#f/1}* \"And so the human climbed onto the monster's back...\""
-msgstr ""
+msgstr "<25>{#f/1}* \"И человек полез на спину монстра...\""
 
 msgid "<25>{#f/0}* \"And the monster took them to a new home.\""
-msgstr ""
+msgstr "<25>{#f/0}* \"И монстр отвела его куда он хотел.\""
 
 msgid "<25>{#f/1}* \"But the human stayed away for a long time...\""
-msgstr ""
+msgstr "<25>{#f/1}* \"Человек не появлялся уже давно...\""
 
 msgid "<25>{#f/5}* \"And the monster was sad.\""
-msgstr ""
+msgstr "<25>{#f/5}* \"И монстру было грустно.\""
 
 msgid "<25>{#f/0}* \"Then one day, the human came back.\""
-msgstr ""
+msgstr "<25>{#f/0}* \"Но потом, человек вернулся вновь.\""
 
 msgid "<25>{#f/1}* \"And the monster smiled from ear to ear and said...\""
-msgstr ""
+msgstr "<25>{#f/1}* \"Монстр улыбнулась до ушей и сказала:...\""
 
 msgid "<25>{#f/1}* \"'Come, human, come and ride on my back!'\""
-msgstr ""
+msgstr "<25>{#f/1}* \"'Иди, человек, иди и садись на мою спину!'\""
 
 msgid "<25>{#f/5}* \"'I am too sad to ride around,' said the human.\""
-msgstr ""
+msgstr "<25>{#f/5}* «„Слишком печален я, чтобы кататься“, сказал человек.»"
 
 msgid "<25>{#f/1}* \"'I wish I had a family, and children of my own...'\""
-msgstr ""
+msgstr "<25>{#f/1}* \"'Желал бы я иметь семью и собственных детей...'\""
 
 msgid ""
 "<25>{#f/5}* \"'Sorry,' said the monster, 'but I cannot give that to you.'\""
 msgstr ""
+"<25>{#f/5}* «„Прости,“ — сказала монстр, „но я не могу тебе этого дать.“»"
 
 msgid "<25>{#f/5}* \"'I am only one person.'\""
-msgstr ""
+msgstr "<25>{#f/5}* \"'Я всего лишь монстр.'\""
 
 msgid "<25>{#f/0}* \"'Visit for a while, and we can find you a date.'\""
-msgstr ""
+msgstr "<25>{#f/0}* \"'Приди позже, и я найду тебе пару.'\""
 
 msgid "<25>{#f/0}* \"'Then you can find love and be happy.'\""
-msgstr ""
+msgstr "<25>{#f/0}* \"'Тогда ты сможешь любить и быть счастливым.'\""
 
 msgid "<25>{#f/1}* \"And so the human visited their old friend for a while...\""
 msgstr ""
