@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
-"PO-Revision-Date: 2025-03-05 16:01+0000\n"
+"PO-Revision-Date: 2025-03-05 16:30+0000\n"
 "Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -7294,7 +7294,6 @@ msgstr ""
 msgid "<25>{#p/toriel}{#f/1}* Go on..."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<25>{#p/twinkly}{#f/5}* Howdy!\n"
 "* I'm {@fill=#ff0}TWINKLY{@fill=#fff}.\n"
@@ -7326,25 +7325,25 @@ msgid "<25>{#f/5}* Let's get started, shall we?"
 msgstr "<25>{#f/5}* Ну что, начинаем?"
 
 msgid "<25>{#f/7}* But you already KNEW that, didn'tcha?"
-msgstr ""
+msgstr "<25>{#f/7}* Но ты уже ЗНАЛ это?"
 
 msgid "<25>{#f/5}* Still, it's up to me to show you the ropes."
-msgstr ""
+msgstr "<25>{#f/5}* Тем не менее, мой долг - показать тебе основы."
 
 msgid "<25>* Let's get started, shall we?"
-msgstr ""
+msgstr "<25>* Ну что, начинаем?"
 
 msgid "<25>{#p/twinkly}{#f/6}* Okay, that's enough."
 msgstr ""
 
 msgid "<25>{#f/8}* If you wanna keep resetting, then by all means..."
-msgstr ""
+msgstr "<25>{#f/8}* Если будешь сбрасывать... "
 
 msgid "<25>{#f/6}* Do as you wish."
-msgstr ""
+msgstr "<25>{#f/6}* То ради бога. "
 
 msgid "<25>{#f/7}* Just don't expect to get past me so easily."
-msgstr ""
+msgstr "<25>{#f/7}* Просто не думай, что пройдёшь мимо меня так просто."
 
 msgid "<25>{#p/twinkly}{#f/6}* Don't you have anything better to do?"
 msgstr ""
@@ -7352,7 +7351,7 @@ msgstr ""
 msgid ""
 "<25>{#p/twinkly}{#f/6}* Resetting right after you've taken your first hit, "
 "huh?"
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/6}* Сбрасываешь сразу после первой раны?"
 
 msgid "<25>{#f/7}* How pathetic."
 msgstr ""
@@ -7444,23 +7443,27 @@ msgid "<25>{#f/8}* I have to go..."
 msgstr ""
 
 msgid "<25>{#p/twinkly}{#f/7}* So, we're back at the beginning, are we?"
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/7}* Итак, мы вернулись к чистому листу?"
 
 msgid ""
 "<26>{#f/5}* I've been expecting you.\n"
 "* I wonder how you'll do this time around."
 msgstr ""
+"<26>{#f/5}* Я ожидал тебя.\n"
+"* Диву даюсь, что ты сделаешь в этот раз."
 
 msgid ""
 "<25>{#f/11}* Who knows?\n"
 "* Maybe it'll be easier for you now."
 msgstr ""
+"<25>{#f/11}* Кто знает?\n"
+"* Может быть, теперь будет проще."
 
 msgid "<25>{#f/7}* It certainly was when I had your powers."
-msgstr ""
+msgstr "<25>{#f/7}* Мне точно было, когда имел твои силы."
 
 msgid "<25>{#f/5}* Well, good luck!"
-msgstr ""
+msgstr "<25>{#f/5}* Ну что, удачи!"
 
 msgid ""
 "<20>{#f/5}See that heart? That's your SOUL, the very culmination of your "
@@ -7523,19 +7526,19 @@ msgid "<20>{#f/7}Nah, you know what's going on here, don'tcha?"
 msgstr "<20>{#f/7}Да не, ты ведь знаешь что тут происходит?"
 
 msgid "<20>You just wanted to torment little old Twinkly, didn'tcha?"
-msgstr ""
+msgstr "<20>Хотелось поиздеваться над бедным Светиком?"
 
 msgid "<20>Golly... you must have no idea who you're messing with."
-msgstr ""
+msgstr "<20>Божечки... ты не понимаешь, с кем имеешь дело."
 
 msgid "<20>{#f/11}Hee hee hee..."
-msgstr ""
+msgstr "<20>{#f/11}Хи-хи-хи..."
 
 msgid "<20>{#v/1}We'll just have to cut straight to the point, won't we?"
-msgstr ""
+msgstr "<20>{#v/1}Почему бы не сразу перейти к делу?"
 
 msgid "<20>Hee hee hee..."
-msgstr ""
+msgstr "<20>Хи-хи-хи..."
 
 msgid "<20>{*}{#f/2}{#v/1}{@random=1.1/1.1}DIE.{^20}{%}"
 msgstr "<20>{*}{#f/2}{#v/1}{@random=1.1/1.1}СДОХНИ.{^20}{%}"
