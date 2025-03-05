@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
 "PO-Revision-Date: 2025-03-05 16:56+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7368,7 +7368,7 @@ msgstr "<25>{#p/twinkly}{#f/7}* Я могу играться с тобой хо�
 
 msgid ""
 "<25>{#f/11}* Either way, since you already know what's coming next...{%15}"
-msgstr "<25>{#f/11}* В любом случаи, так как ты знаешь что будет дальше...{%15}"
+msgstr "<25>{#f/11}* В любом случае, ты и так знаешь, что будет дальше...{%15}"
 
 msgid "<25>{#p/twinkly}{#f/6}* Howdy."
 msgstr "<25>{#p/twinkly}{#f/6}* Приветик."
