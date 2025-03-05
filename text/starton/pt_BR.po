@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:12+0000\n"
-"PO-Revision-Date: 2025-03-05 13:12+0000\n"
+"PO-Revision-Date: 2025-03-05 13:37+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -14864,212 +14864,246 @@ msgid "<32>{#p/story}* Papyrus is at his wit's end."
 msgstr "<32>{#p/story}* Papyrus está quase no fim de seus ataques."
 
 msgid "<32>{#p/story}* Papyrus is sparing you."
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus está te poupando."
 
 msgid "<32>{#p/story}* Papyrus blocks the way!"
-msgstr ""
+msgstr "<32>{#p/story}* Papyrus bloqueia o caminho!"
 
 msgid "<15>{#p/papyrus}{#f/24}SO, YOU'RE SERIOUS..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}ENTÃO, VOCÊ ESTÁ FALANDO SÉRIO..."
 
 msgid "<15>{#p/papyrus}{#f/24}SO, YOU WON'T FIGHT..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}ENTÃO, VOCÊ NÃO VAI LUTAR..."
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}THEN LET'S SEE HOW YOU HANDLE MY FABLED 'BLUE "
 "ATTACK!'"
 msgstr ""
+"<15>{#p/papyrus}{#f/20}ENTÃO VAMOS VER COMO VOCÊ LIDA COM MEU "
+"\"ATAQUE AZUL!\""
 
 msgid "<15>{#p/papyrus}{#f/10}YOU'RE BLUE NOW."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/10}VOCÊ ESTÁ AZUL AGORA!"
 
 msgid "<15>{#f/10}THAT'S MY ATTACK!"
-msgstr ""
+msgstr "<15>{#f/10}ESTE É MEU ATAQUE!"
 
 msgid "<15>{#f/20}NYEH HEH HEH HEH HEH HEH HEH HEH HEH!!!"
-msgstr ""
+msgstr "<15>{#f/20}NYEH HEH HEH HEH HEH HEH HEH HEH HEH!!!"
 
 msgid "<15>{#p/papyrus}{#f/20}BEHOLD!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}VEJA!"
 
 msgid "<15>{#p/papyrus}{#f/20}HMMM... I WONDER WHAT I SHOULD WEAR..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}HMMM... ME PERGUNTO O QUE EU DEVERIA USAR..."
 
 msgid "<15>{#p/papyrus}{#f/20}HOW HIGH CAN YOU JUMP?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}O QUÃO ALTO VOCÊ PULA?"
 
 msgid ""
 "<15>{#p/papyrus}{#f/22}WHAT!?\n"
 "I'M NOT THINKING ABOUT THE DATE!!"
 msgstr ""
+"<15>{#p/papyrus}{#f/22}QUÊ!?\n"
+"EU NÃO ESTOU PENSANDO NO ENCONTRO!!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/21}... IS IT JUST ME, OR DOES THE AIR SEEM A LITTLE "
 "WEIRD?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}... SOU SÓ EU, OU O AR PARECE MEIO ESTRANHO?"
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}YEAH!\n"
 "DON'T MAKE ME USE MY {@fill=#f00}SPECIAL ATTACK{@fill=#000}!"
 msgstr ""
+"<15>{#p/papiro}{#f/20}SIM!\n"
+"NÃO ME OBRIGUE A USAR MEU {@fill=#f00}ATAQUE ESPECIAL{@fill=#000}!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}OH WELL.\n"
 "I'M SURE IT'S NOTHING."
 msgstr ""
+"<15>{#p/papyrus}{#f/20}OH BEM.\n"
+"CERTEZA QUE NÃO É NADA!"
 
 msgid "<15>{#p/papyrus}{#f/20}I CAN ALMOST TASTE MY FUTURE POPULARITY!!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}EU POSSO SENTIR MINHA FUTURA POPULARIDADE!"
 
 msgid "<15>{#p/papyrus}{#f/20}BESIDES, I SEE MARINARA SAUCE IN MY FUTURE!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}ALÉM DISSO, EU VEJO BOLONHESA NO MEU FUTURO!"
 
 msgid "<15>{#p/papyrus}{#f/20}PAPYRUS: UNPARALLELED SPAGHETTORE!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}PAPYRUS: FAZEDOR DE ESPAGUETE IMPARÁVEL!"
 
 msgid "<15>{#p/papyrus}{#f/20}AND A POSITION IN THE ELITE SQUAD!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}E UMA POSIÇÃO NO ESQUADRÃO DE ELITE!"
 
 msgid "<15>{#p/papyrus}{#f/20}PAPYRUS: ELITE SQUAD MEMBER!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}PAPYRUS: MEMBRO DO ESQUADRÃO DE ELITE!"
 
 msgid "<15>{#p/papyrus}{#f/10}UNDYNE WILL BE REALLY PROUD OF ME!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/10}UNDYNE FICARÁ ORGULHOSA DE MIM!!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}THE KING WILL BUILD A STATUE OF ME IN THE CITADEL!!!"
 msgstr ""
+"<15>{#p/papyrus}{#f/20}O REI CONSTRUIRÁ UMA ESTÁTUA MINHA NA CIDADELA!!!"
 
 msgid "<15>{#p/papyrus}{#f/10}... AND I'LL MAKE SURE MY BROTHER GETS ONE TOO."
 msgstr ""
+"<15>{#p/papyrus}{#f/10}... E EU VOU GARANTIR QUE MEU IRMÃO GANHE UMA TAMBÉM."
 
 msgid ""
 "<15>{#p/papyrus}{#f/27}WE'LL HAVE LOTS OF ADMIRERS!!\n"
 "BUT..."
 msgstr ""
+"<15>{#p/papyrus}{#f/27}TEREMOS MUITOS ADMIRADOS!!\n"
+"MAS..."
 
 msgid "<15>{#p/papyrus}{#f/20}HOW WILL I KNOW IF PEOPLE SINCERELY LIKE ME???"
 msgstr ""
+"<15>{#p/papyrus}{#f/20}COMO EU VOU SABER SE AS PESSOAS REALMENTE GOSTAM DE "
+"MIM??"
 
 msgid "<15>{#p/papyrus}{#f/20}WILL ANYONE LIKE ME LIKE YOU DO?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}ALGUÉM VAI GOSTAR DE MIM IGUAL VOCÊ GOSTA?"
 
 msgid "<15>{#p/papyrus}{#f/21}SOMEONE LIKE YOU IS REALLY RARE..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}ALGUÉM COMO VOCÊ É MUITO RARO..."
 
 msgid "<15>{#p/papyrus}{#f/21}I DON'T THINK THEY'LL LET YOU GO..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}EU NÃO ACHO QUE ELES VÃO TE DEIXAR IR..."
 
 msgid "<15>{#p/papyrus}{#f/21}AND DATING MIGHT BE KIND OF HARD..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}E UM ENCONTRO PODE SER DIFÍCIL..."
 
 msgid "<15>{#p/papyrus}{#f/26}AFTER YOU'RE CAPTURED AND SENT AWAY."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/26}APÓS TE CAPTURAR E LEVAR PARA A CIDADELA."
 
 msgid ""
 "<15>{#p/papyrus}{#f/17}URGH... WHO CARES!\n"
 "GIVE UP!!"
 msgstr ""
+"<15>{#p/papyrus}{#f/17}URGH... QUEM LIGA!\n"
+"DESISTA!!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/15}GIVE UP OR FACE MY... {@fill=#f00}SPECIAL "
 "ATTACK{@fill=#000}!"
 msgstr ""
+"<15>{#p/papyrus}{#f/15}DESISTA OU ENFRENTE MEU... {@fill=#f00}ATAQUE "
+"ESPECIAL{@fill=#000}!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}YEAH!!!\n"
 "VERY SOON I WILL USE MY {@fill=#f00}SPECIAL ATTACK{@fill=#000}!"
 msgstr ""
+"<15>{#p/papyrus}{#f/20}SIM!!!\n"
+"EU IREI USAR MEU {@fill=#f00}ATAQUE ESPECIAL{@fill=#000} LOGO, LOGO!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}THIS IS YOUR LAST CHANCE... BEFORE MY "
 "{@fill=#f00}SPECIAL ATTACK{@fill=#000}!"
 msgstr ""
+"<15>{#p/papyrus}{#f/20}ESTA É SUA ÚLTIMA CHANCE... ANTES DO MEU {@fill=#f00}"
+"ATAQUE ESPECIAL{@fill=#000}!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}BEHOLD...!\n"
 "MY {@fill=#f00}SPECIAL ATTACK{@fill=#000}!"
 msgstr ""
+"<15>{#p/papyrus}{#f/20}ENCARE...!\n"
+"MEU {@fill=#f00}ATAQUE ESPECIAL{@fill=#000}!"
 
 msgid "<15>{#p/papyrus}{#f/15}NYEH HEH HEH!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/15}NYEH HEH HEH!"
 
 msgid ""
 "<15>{#f/20}NO HUMAN HAS EVER BESTED MY {@fill=#f00}SPECIAL "
 "ATTACK{@fill=#000} BEFORE!"
 msgstr ""
+"<15>{#f/20}NENHUM HUMANO JAMAIS PASSOU DO MEU {@fill=#f00}ATAQUE "
+"ESPECIAL{@fill=#000}!"
 
 msgid "<15>{#f/20}PREPARE TO BE CAPTURED, ONCE AND FOR ALL!"
-msgstr ""
+msgstr "<15>{#f/20}PREPARE PARA SER CAPTURADO, AGORA!"
 
 msgid "<15>{#p/papyrus}{#f/20}SPECIAL ATTACK, FORMATION ALPHA!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}ATAQUE ESPECIAL, FORMAÇÃO ALPHA!"
 
 msgid "<15>{#p/papyrus}{#f/20}SPECIAL ATTACK, FORMATION BETA!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}ATAQUE ESPECIAL, FORMAÇÃO BETA!"
 
 msgid "<15>{#p/papyrus}{#f/20}SPECIAL ATTACK, FORMATION GAMMA!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}ATAQUE ESPECIAL, FORMAÇÃO GAMMA!"
 
 msgid "<15>{#p/papyrus}{#f/20}SPECIAL ATTACK, FORMATION DELTA!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}ATAQUE ESPECIAL, FORMAÇÃO DELTA!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/27}WOWIE!\n"
 "ARE YOU STRONG!"
 msgstr ""
+"<15>{#p/papyrus}{#f/27}WOWIE!\n"
+"VOCÊ É FORTÃO!"
 
 msgid ""
 "<15>{#f/20}BUT NO FEAR!\n"
 "I WILL NOT BE DETERRED BY YOUR STRENGTH!"
-msgstr ""
+msgstr "<15>{#f/20}MAS SEM MEDO, EU NÃO SEREI DERROTADO POR SUA FORÇA!"
 
 msgid "<15>{#f/14}... SPECIAL ATTACK..."
-msgstr ""
+msgstr "<15>{#f/14}... ATAQUE ESPECIAL..."
 
 msgid "<15>{#f/17}FORMATION {@fill=#f00}SIGMA{@fill=#000}!!!"
-msgstr ""
+msgstr "<15>{#f/17}FORMAÇÃO {@fill=#f00}SIGMA{@fill=#000}!!!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/27}WELL...! *HUFF* IT'S CLEAR... YOU CAN'T! *HUFF* BEAT "
 "ME!"
 msgstr ""
+"<15>{#p/papyrus}{#f/27}BEM...! *OFEGANTE* ESTÁ CLARO... VOCÊ NÃO PODE! *HUFF*"
+" ME DERROTAR!"
 
 msgid "<15>{#f/15}YEAH!!! I CAN SEE YOU SHAKING IN YOUR BOOTS!!"
-msgstr ""
+msgstr "<15>{#f/15}SIM!!! POSSO VER SUAS PERNAS TREMENDO!!"
 
 msgid "<15>{#f/20}I, THE GREAT PAPYRUS, ELECT TO GRANT YOU PITY!!"
-msgstr ""
+msgstr "<15>{#f/20}EU, O GRANDE PAPYRUS TE PONHO COMO UM GRANDE GUERREIRO!"
 
 msgid "<15>{#f/20}I WILL {@fill=#f00}SPARE YOU{@fill=#000}, HUMAN!!!"
-msgstr ""
+msgstr "<15>{#f/20}EU IREI {@fill=#f00}TE POUPAR{@fill=#000}, HUMANO!!!"
 
 msgid ""
 "<15>{#f/10}NOW'S YOUR CHANCE TO ACCEPT MY {@fill=#f00}MERCY{@fill=#000}."
 msgstr ""
+"<15>{#f/10}AGORA É SUA CHANCE DE ACEITAR MINHA "
+"{@fill=#f00}PIEDADE{@fill=#000}."
 
 msgid "<18>{#p/papyrus}{#f/27}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/27}..."
 
 msgid "<15>{#p/papyrus}{#f/27}YOU WISH TO REMAIN WITH ME... FOREVER?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}VOCÊ DESEJA ESTAR COMIGO... PRA SEMPRE?"
 
 msgid "<15>{#p/papyrus}{#f/21}HMM..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}HMM..."
 
 msgid "<15>{#p/papyrus}{#f/27}SOMETHING IS TRYING TO TEAR OUR LOVE APART?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}ALGO ESTÁ TENTANDO SEPARAR NOSSO AMOR?"
 
 msgid "<15>{#p/papyrus}{#f/21}I WONDER..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}EU ME PERGUNTO..."
 
 msgid "<15>{#p/papyrus}{#f/27}SO YOU -DON'T- WISH TO REMAIN WITH ME?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}ENTÃO VOCÊ -NÃO- QUER FICAR COMIGO?"
 
 msgid ""
 "<15>{#p/papyrus}{#f/14}BUT THEN... WHY WON'T YOU ACCEPT MY MERCY AND LEAVE "
 "ME?"
 msgstr ""
+"<15>{#p/papyrus}{#f/14}MAS ENTÃO... PORQUE VOCÊ NÃO ACEITA MINHA PIEDADE E "
+"ME DEIXA IR?"
 
 msgid ""
 "<15>{#p/papyrus}{#f/25}UH, I DON'T THINK WE'VE GOTTEN -THAT- FAR YET..."
