@@ -1,15 +1,15 @@
 {
     "Discord_Controller": {
-        "State": "",
-        "Details": "",
+        "State": "[Hypoaster埋头工作中]",
+        "Details": "* 多来点猜想吧！！",
         "LargeText": "",
         "SmallText": ""
     },
     "GonerMenu_Settings_RevertKeybindings": {
-        "SettingText.text": ""
+        "SettingText.text": "-- 恢复为默认 --"
     },
     "GonerMenu": {
-        "TipText.text": ""
+        "TipText.text": "小提示！ "
     },
     "HypotheticalEndScreen": {
         "LogTitleText.text": "解锁新日志"
