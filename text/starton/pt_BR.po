@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:12+0000\n"
-"PO-Revision-Date: 2025-03-05 16:53+0000\n"
+"PO-Revision-Date: 2025-03-06 07:14+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -16011,415 +16011,462 @@ msgid "<18>{#f/6}WILL ENCOURAGE ME TO MAKE A EVEN -BETTER- DISH!"
 msgstr "<18>{#f/6}VAI ME ENCORAJAR A FAZER COMIDAS AINDA MELHORES!"
 
 msgid "<18>{#f/9}YEAH! LOOK AT HOW ENCOURAGED I AM RIGHT NOW!"
-msgstr ""
+msgstr "<18>{#f/9}EI! OLHA COMO ENCORAJADO EU ME SINTO AGORA!"
 
 msgid ""
 "<25>{#p/undyne}{#f/17}* YEAH!!\n"
 "* Look at how encouraged he is right now!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}*É! Olha o tanto que ele tá encorajado!!"
 
 msgid "<18>{#p/papyrus}{#f/9}I'LL MAKE THE BEST DISH THE GALAXY'S EVER SEEN!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}EU FAREI A MELHOR REFEIÇÃO QUE A GALÁXIA JÁ VIU!"
 
 msgid "<25>{#p/undyne}{#f/7}* And you're GOING to enjoy it this time!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/7}* E você VAI gostar dessa vez!"
 
 msgid "<18>{#p/papyrus}{#f/6}BUT IT'S OKAY IF YOU DON'T!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MAS ESTÁ TUDO BEM SE VOCÊ NÃO!!!"
 
 msgid "<25>{#p/undyne}{#f/17}* OKAY!!!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* OKAY!!!!"
 
 msgid "<18>{#p/papyrus}{#f/9}OKAY!!!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}OKAY!!!!!"
 
 msgid "<25>{#p/undyne}{#f/8}* OKAY!!!!!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/8}* OKAY!!!!!!"
 
 msgid "<18>{#p/papyrus}{#f/4}... OKAY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}... OKAY."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* huh?\n"
 "* you don't like my bro's signature spaghetti?"
 msgstr ""
+"<25>{#p/sans}{#f/0}* huh?\n"
+"* você não gosta do espaguete do meu irmão?"
 
 msgid "<25>{#f/2}* more for me, i guess."
-msgstr ""
+msgstr "<25>{#f/2}* mais pra mim, eu acho."
 
 msgid "<32>{#p/human}* (16 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (16 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Spaghetti\" Heals 16 HP\n"
 "* Silken spaghetti, finely aged in a time dilation unit."
 msgstr ""
+"<32>{#p/basic}* \"Espaguete\" Cura 16 HP\n"
+"* Espaguete de Seda, envelhecido na máquina de destilação."
 
 msgid "<32>{#p/human}* (You eat the Spaghetti.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come o Espaguete.)"
 
 msgid "<25>{#p/undyne}{#f/1}* Spaghetti, huh?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* Espaguete, huh?"
 
 msgid "<25>{#p/undyne}{#f/14}* Spaghetti, huh?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* Espaguete, huh?"
 
 msgid "<25>{#p/undyne}{#f/8}* You better like it, 'cause it's MY recipe!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/8}* É melhor você gostar, é MINHA receita!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/1}WHAT?\n"
 "DID YOU JUST EAT THAT SPAGHETTI?"
 msgstr ""
+"<18>{#p/papyrus}{#f/1}O QUE?\n"
+"VOCÊ ACABOU DE COMER O ESPAGUETE?"
 
 msgid "<18>{#f/5}IT SURE HAS BEEN A WHILE SINCE I MADE IT..."
-msgstr ""
+msgstr "<18>{#f/5}FAZ TEMPO QUE EU O FIZ."
 
 msgid "<25>{#p/sans}{#f/2}* a few hours, at least."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* algumas horas, pelo menos."
 
 msgid "<18>{#p/papyrus}{#f/6}WELL, I'D WAGER THAT IT'S OUT OF DATE BY NOW."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}BEM, EU DIRIA QUE ELE ESTÁ FORA DE DATA."
 
 msgid "<18>{#f/6}AND BY THAT, I MEAN IT'S AN OLDER VERSION."
-msgstr ""
+msgstr "<18>{#f/6}E POR ISSO, EU DIGO QUE É UMA VERSÃO ANTIGA."
 
 msgid ""
 "<18>{#f/4}BUT DON'T WORRY.\n"
 "THIS NEW SPAGHETTI DISH HERE..."
 msgstr ""
+"<18>{#f/4}MAS NÃO SE PREOCUPE.\n"
+"ESTE NOVO ESPAGUETE AQUI..."
 
 msgid "<18>{#f/9}... IS WAY BETTER THAN THE OLD STUFF!"
-msgstr ""
+msgstr "<18>{#f/9}... É BEM MELHOR QUE O ANTIGO!"
 
 msgid "<18>{#f/5}I WAS GOING TO ASK YOU WHAT YOU'D DO WITH IT..."
-msgstr ""
+msgstr "<18>{#f/5}EU IRIA PERGUNTAR O QUE VOCÊ VAI FAZER COM ELE..."
 
 msgid "<18>{#f/6}BUT IT SEEMS I HAVE MY ANSWER NOW!"
-msgstr ""
+msgstr "<18>{#f/6}MAS PARECE QUE EU JÁ TENHO A RESPOSTA!"
 
 msgid "<18>{#f/0}THANK YOU, HUMAN, FOR EATING SO INFORMATIVELY."
-msgstr ""
+msgstr "<18>{#f/0}OBRIGADO, HUMANO, POR COMER NA MINHA FRENTE."
 
 msgid "<18>{#f/7}I THOUGHT YOU WERE GOING TO SHARE IT!"
-msgstr ""
+msgstr "<18>{#f/7}EU PENSEI QUE VOCÊ IRIA QUERER COMPARTILHAR!"
 
 msgid "<25>{#p/undyne}{#f/7}* Well, maybe they didn't WANT to share it!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/7}* Bem, essa não foi o caso!"
 
 msgid "<18>{#p/papyrus}{#f/6}BUT THEY PROMISED!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MAS ELE PROMETEU!"
 
 msgid "<18>{#f/5}... PERHAPS MY COOKING IS AT FAULT HERE..."
-msgstr ""
+msgstr "<18>{#f/5}... TALVEZ MINHA FORMA DE COZINHAR TENHA CULPA AQUI..."
 
 msgid "<18>{#f/6}IT WAS SO TASTY, YOU COULDN'T HELP BUT TAKE A BITE!"
-msgstr ""
+msgstr "<18>{#f/6}ESTAVA TÃO GOSTOSO, QUE VOCÊ NÃO CONSEGUIU NÃO COMER!"
 
 msgid "<18>{#f/5}AND ANOTHER, AND ANOTHER..."
-msgstr ""
+msgstr "<18>{#f/5}E COMER, E COMER..."
 
 msgid "<18>{#f/6}BEFORE YOU KNEW IT, YOU'D EATEN THE ENTIRE PLATE!"
-msgstr ""
+msgstr "<18>{#f/6}ANTES DE PERCEBER, VOCÊ JÁ TINHA COMIDO O PRATO TODO!"
 
 msgid ""
 "<25>{#p/undyne}{#f/14}* Wow.\n"
 "* What a crime."
 msgstr ""
+"<25>{#p/undyne}{#f/14}* Wow.\n"
+"* Que crime."
 
 msgid "<18>{#p/papyrus}{#f/5}TO THINK MY COOKING MADE YOU BETRAY ME..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}E PENSAR QUE MINHA COMIDA TE FEZ ME TRAIR..."
 
 msgid ""
 "<18>{#f/9}N-NO...!\n"
 "I'LL FIX THIS!"
 msgstr ""
+"<18>{#f/9}N-NÃO...!\n"
+"EU VOU ARRUMAR ISSO!"
 
 msgid "<18>{#f/4}... \"AHEM.\""
-msgstr ""
+msgstr "<18>{#f/4}... \"AHEM.\""
 
 msgid "<18>{#f/0}I, PAPYRUS, HEREBY DECLARE YOUR PROMISE VOID."
-msgstr ""
+msgstr "<18>{#f/0}EU, PAPYRUS, DECLARO NULA SUA PROMESSA."
 
 msgid ""
 "<18>{#f/0}THERE!\n"
 "NOW, YOU MAY EAT GUILT-FREE."
 msgstr ""
+"<18>{#f/0}PRONTO!\n"
+"AGORA VOCÊ PODE COMER SEM CULPA ALGUMA!"
 
 msgid "<25>{#p/undyne}{#f/11}* ..."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/11}* ..."
 
 msgid "<18>{#p/papyrus}{#f/4}(IT WOULD HELP IF YOU PLAYED ALONG.)"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}(AJUDARIA SE VOCÊ COOPERASSE.)"
 
 msgid ""
 "<25>{#p/undyne}{#f/12}* Right!\n"
 "* Guilt-free!\n"
 "* That's how you'll eat!"
 msgstr ""
+"<25>{#p/undyne}{#f/12}* Exato!\n"
+"* Sem culpa!\n"
+"* É assim que se come!"
 
 msgid "<18>{#p/papyrus}{#f/0}(THANK YOU.)"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}(OBRIGADO.)"
 
 msgid "<18>{#f/4}WELL, YOU DIDN'T SAY YOU WERE GOING TO SHARE IT..."
-msgstr ""
+msgstr "<18>{#f/4}BEM, VOCÊ NÃO DISSE QUE IRIA DIVIDIR..."
 
 msgid "<25>{#p/undyne}{#f/11}* So what's the problem?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/11}* Então, qual o problema?"
 
 msgid "<18>{#p/papyrus}{#f/0}OH, UH, I GUESS THERE ISN'T ONE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}OH, HMM, ACHO QUE NÃO TEM UM."
 
 msgid "<18>{#f/0}HMM, I SUPPOSE THAT'S FOR THE BEST."
-msgstr ""
+msgstr "<18>{#f/0}HMM, EU SUPONHO QUE SEJA PARA O MELHOR."
 
 msgid "<18>{#f/5}AFTER ALL, IF YOU -HAD- MADE SUCH A STATEMENT..."
-msgstr ""
+msgstr "<18>{#f/5}ATÉ PORQUE, SE VOCÊ -TIVESSE- FEITO TAL PROMESSA..."
 
 msgid "<18>{#f/6}WE WOULD HAVE BEEN IN QUITE THE PERDICAMENT."
-msgstr ""
+msgstr "<18>{#f/6}ESTARÍAMOS EM UMA SITUAÇÃO BASTANTE DIFÍCIL."
 
 msgid ""
 "<18>{#f/0}BUT YOU DIDN'T!\n"
 "SO WE'RE GOOD!"
-msgstr ""
+msgstr "<18>{#f/0}MAS VOCÊ NÃO FEZ! ENTÃO ESTAMOS BEM!"
 
 msgid "<25>{#p/undyne}{#f/12}* And all is right with the world, huh?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/12}* E está tudo certo no mundo, huh?"
 
 msgid "<18>{#p/papyrus}{#f/7}HEY, THAT'S WHAT I WAS GOING TO SAY!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}EI, É ISSO QUE EU IRIA FALAR!"
 
 msgid ""
 "<18>{#f/0}BUT YES.\n"
 "YES IT IS."
 msgstr ""
+"<18>{#f/0}MAS SIM.\n"
+"É SÓ ISSO."
 
 msgid "<18>{#f/0}AND ALL IS RIGHT WITH THE WORLD."
-msgstr ""
+msgstr "<18>{#f/0}E ESTÁ TUDO CERTO COM O MUNDO."
 
 msgid "<25>{#p/sans}{#f/3}* it's pretty good, huh?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* Está bom, huh?"
 
 msgid ""
 "<25>{#f/2}* i should know.\n"
 "* i'm the one who got to taste test it."
 msgstr ""
+"<25>{#f/2}* Eu deveria saber.\n"
+"* Foi eu quem experimentou."
 
 msgid "A glowing, colorful sugar roll."
-msgstr ""
+msgstr "Um pãozinho de açúcar brilhante e colorido."
 
 msgid "Swirl"
-msgstr ""
+msgstr "Rolinho"
 
 msgid "<32>{#p/human}* (You throw away the Radiant Swirl.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Rolinho Radiante.)"
 
 msgid "<32>{#p/human}* (22 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (22 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Radiant Swirl\" Heals 22 HP\n"
 "* A glowing, colorful sugar roll."
 msgstr ""
+"<32>{#p/basic}* \"Rolinho Radiante\" Cura 22 HP\n"
+"* Um pãozinho de açúcar brilhante e colorido."
 
 msgid "Radiant Swirl"
-msgstr ""
+msgstr "Rolinho Radiante"
 
 msgid "<32>{#p/human}* (You eat the Radiant Swirl.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come o Rolinho Radiante.)"
 
 msgid ""
 "Leads to a mysterious place.\n"
 "Not viable in battle."
-msgstr ""
+msgstr "Leva a um lugar misterioso. Não usável em batalha."
 
 msgid "Sanctuary"
-msgstr ""
+msgstr "Santuário"
 
 msgid "<32>{#p/human}* (You throw away the Sanctuary.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você jogou fora o Santuário.)"
 
 msgid ""
 "<32>{#p/human}* (A device whose origin is beyond the boundaries of "
 "existence.)"
 msgstr ""
+"<32>{#p/human}* (Um dispositivo cuja origem está além dos limites da "
+"existência.)"
 
 msgid ""
 "<32>{#p/basic}* Leads to a mysterious place.\n"
 "* Accessible on-the-go."
 msgstr ""
+"<32>{#p/basic}* Leva a um lugar misterioso.\n"
+"* Acessível andando."
 
 msgid "<32>{#p/human}* (You use the Sanctuary.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você usa o Santuário.)"
 
 msgid "<32>{#p/human}* (No effect in battle.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Sem efeito em batalha.)"
 
 msgid "A truly one-of-a-kind weapon."
-msgstr ""
+msgstr "Uma arma única."
 
 msgid "Dog Sword"
-msgstr ""
+msgstr "Espada de Cão"
 
 msgid "<32>{#p/human}* (You try to throw away the Corn Dog Sword...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta jogar fora a Espada de Cão...)"
 
 msgid "<32>{#p/human}* (... but it refuses.)"
-msgstr ""
+msgstr "<32>{#p/human}* (... mas se recusa.)"
 
 msgid "<32>{#p/human}* (You decide not to question the logic of this weapon.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você decide não questionar a lógica da arma.)"
 
 msgid "<32>{#p/basic}* A truly one-of-a-kind weapon."
-msgstr ""
+msgstr "<32>{#p/basic}* Uma arma única."
 
 msgid "Corn Dog Sword"
-msgstr ""
+msgstr "Espada de Cão"
 
 msgid "<32>{#p/human}* (You equip the Corn Dog Sword.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você coloca a Espada de Cão.)"
 
 msgid "<32>{#p/human}* (You can't resist the urge to take a bite.)"
 msgstr ""
+"<32>{#p/human}* (Você não consegue resistir a vontade de dar uma mordida.)"
 
 msgid "<32>{#p/human}* (You consume the outer layer of breading...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você consome a camada externa de empanamento...)"
 
 msgid "<32>{#p/human}* (You consume the tip...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você consome a gorjeta...)"
 
 msgid "<32>{#p/human}* (You consume the blade...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você consome a lâmina...)"
 
 msgid "<32>{#p/human}* (You consume the hilt...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você consome o punho...)"
 
 msgid "<32>{#p/human}* (You consume the handle...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você consome o que resta...)"
 
 msgid "<32>{#p/human}* (You try to equip the Corn Dog Sword...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você tenta comer a Espada de Cão...)"
 
 msgid "<32>{#p/human}* (... but it didn't detect a high enough threat level!)"
 msgstr ""
+"<32>{#p/human}* (... mas não detectou um nível de ameaça alto o suficiente!)"
 
 msgid "For once, it's not just \"pleasantly warm.\""
-msgstr ""
+msgstr "Ao menos uma vez, não está só \"agradavelmente quente.\""
 
 msgid "Grillby"
-msgstr ""
+msgstr "Grillby"
 
 msgid "<32>{#p/human}* (You tossed the Flamin' Grillby like a molotov.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você jogou o Flamin Grillby como um molotov.)"
 
 msgid "<32>{#p/human}* (30 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (30 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Flamin' Grillby\" Heals 30 HP\n"
 "* For once, it's not just \"pleasantly warm.\""
 msgstr ""
+"<32>{#p/basic}* \"Flamin Grillby\" Cura 30 HP\n"
+"* Pelo menos uma vez não está \"agradavelmente quente.\""
 
 msgid "Flamin' Grillby"
-msgstr ""
+msgstr "Flamin Grillby"
 
 msgid "<32>{#p/human}* (You consume the Flamin' Grillby.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você consome o Flamin'm Grillby.)"
 
 msgid ""
 "Like burgers, but smaller.\n"
 "Three left."
 msgstr ""
+"Como hambúrguers,\n"
+"mas menores.\n"
+"Três sobrando."
 
 msgid "Slider Trio"
-msgstr ""
+msgstr "Slider Trio"
 
 msgid "<32>{#p/human}* (You throw away the Sliders.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora os Sliders.)"
 
 msgid "<32>{#p/human}* (15 HP. Three uses left.)"
-msgstr ""
+msgstr "<32>{#p/human}* (15 HP. Três usos restantes.)"
 
 msgid ""
 "<32>{#p/basic}* \"Sliders\" Heals 15 HP\n"
 "* Like burgers, but smaller.\n"
 "* Three left."
 msgstr ""
+"<32>{#p/basic}* \"Sliders\" Cura 15 HP\n"
+"* Como hambúrguer, mas menor.\n"
+"* Três restando."
 
 msgid "<32>{#p/human}* (You eat one of the Sliders.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come um dos Sliders.)"
 
 msgid ""
 "Like burgers, but smaller.\n"
 "Two left."
 msgstr ""
+"Como hambúrguers,\n"
+"mas menores.\n"
+"Dois restando."
 
 msgid "Slider Duo"
-msgstr ""
+msgstr "Slider Duo"
 
 msgid "<32>{#p/human}* (15 HP. Two uses left.)"
-msgstr ""
+msgstr "<32>{#p/human}* (15 HP. Dois usos restantes.)"
 
 msgid ""
 "<32>{#p/basic}* \"Sliders\" Heals 15 HP\n"
 "* Like burgers, but smaller.\n"
 "* Two left."
 msgstr ""
+"<32>{#p/basic}* \"Sliders\" Cura 15 HP\n"
+"* Como burguers, mas menores.\n"
+"* Dois restando."
 
 msgid "Like a burger, but smaller."
-msgstr ""
+msgstr "Como hambúrguers, mas menores."
 
 msgid "Slider"
-msgstr ""
+msgstr "Slider"
 
 msgid "<32>{#p/human}* (15 HP. One use left.)"
-msgstr ""
+msgstr "<32>{#p/human}* (15 HP. Um uso restante.)"
 
 msgid ""
 "<32>{#p/basic}* \"Sliders\" Heals 15 HP\n"
 "* Like burgers, but smaller.\n"
 "* One left."
 msgstr ""
+"<32>{#p/basic}* \"Sliders\" Cura 15 HP\n"
+"* Como burguers, mas menor.\n"
+"* Um restando."
 
 msgid "Premium Membership Voucher"
-msgstr ""
+msgstr "Voucher de Assinatura Premium"
 
 msgid "Used in tandem with your nonexistent premium telescope subscription."
-msgstr ""
+msgstr "Usado em conjunto com sua assinatura de telescópio premium inexistente."
 
 msgid "Given to you by Monster Kid after using the telescope in Starton."
-msgstr ""
+msgstr "Dado a você por Criança Monstro após usar um telescópio em Starton."
 
 msgid "Gravometric Inverter Remote"
-msgstr ""
+msgstr "Controle de Inversor de Gravidade"
 
 msgid "Used to operate the eponymous Gravometric Inverter."
-msgstr ""
+msgstr "Usado para operar o inversor gravométrico."
 
 msgid "Acquired from the unsealed envelope in Sans's room."
-msgstr ""
+msgstr "Adquirido de um envelope no quarto do Sans."
 
 msgid "Rusty Key"
-msgstr ""
+msgstr "Chave Velha"
 
 msgid "Used to unlock the armory in the rec center."
-msgstr ""
+msgstr "Usada para abrir o cofre no Rec Center."
 
 msgid "Acquired at the \"police station\" on the north side of Starton town."
 msgstr ""
+"Adquirida na \"estação de polícia\" na parte norte da cidade de Starton."
 
 msgid "<32>{#p/napstablook}{#k/0}* oh... you're leaving..."
-msgstr ""
+msgstr "<32>{#p/napstablook}{#k/0}* oh... você está indo embora..."
 
 msgid "<32>{#k/1}* well, cya next time i guess..."
-msgstr ""
+msgstr "<32>{#k/1}* bem, te vejo depois eu acho..."
 
 msgid "§fill=#808080§--- UNAVAILABLE ---"
-msgstr ""
+msgstr "§fill=#808080§--- INDISPONÍVEL ---"
 
 msgid "0G - Exoberry Jell-O Pie"
-msgstr ""
+msgstr "0G - Torta de Gelatina Exoberry"
 
 msgid "0G - Ghost Fruit"
 msgstr ""
