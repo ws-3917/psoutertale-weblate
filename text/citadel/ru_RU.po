@@ -1,23 +1,21 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-05 13:07+0000\n"
-"PO-Revision-Date: 2025-03-05 13:07+0000\n"
+"PO-Revision-Date: 2025-03-08 16:48+0000\n"
 "Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.10.1\n"
 
 #
-
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr ""
 
@@ -7621,10 +7619,10 @@ msgid "<32>{#p/human}* (You are very comfortable.)"
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/13}* I'll just, uh, wait for you to get out."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Я, ну, подожду пока ты вылезешь."
 
 msgid "<25>{#p/asriel2}{#f/15}* I'll just, uh, wait for you to get out..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* Я, ну, подожду пока ты вылезешь."
 
 msgid "<32>{#p/basic}* Be careful in there, munchkin!"
 msgstr ""
@@ -13535,7 +13533,6 @@ msgstr ""
 
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr ""
-
 
 msgid "N/A"
 msgstr ""
