@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:12+0000\n"
-"PO-Revision-Date: 2025-03-08 16:45+0000\n"
+"PO-Revision-Date: 2025-03-08 23:21+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -21263,93 +21263,101 @@ msgid "<18>{#p/papyrus}{#f/0}PERSONALLY, -I- THINK THEY'RE ALL CONNECTED."
 msgstr "<18>{#p/papyrus}{#f/0}PESSOALMENTE. -EU- ACHO QUE É TUDO CONECTADO."
 
 msgid "<18>{#p/papyrus}{#f/5}AS IN, THE FLOWERS GOT HERE VIA THE WORMHOLES..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}JÁ QUE, AS FLORES CHEGARAM AQUI ATRÁVES DE..."
 
 msgid "<18>{#p/papyrus}{#f/5}AS FORETOLD BY THAT SCI-FI ANIME SERIES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UM BURACO DE MINHOCA DESSE TAL ANIME SCI-FI."
 
 msgid "<18>{#p/papyrus}{#f/6}IT'S THE ONLY WAY TO EXPLAIN IT ALL AT ONCE!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}É A ÚNICA FORMA DE EXPLICAR TUDO DE UMA VEZ!"
 
 msgid "<25>{#p/undyne}{#f/14}* So that's your theory."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* Então essa é sua teoria."
 
 msgid ""
 "<25>{#p/undyne}{#f/14}* That all of those tablets are connected in this way."
 msgstr ""
+"<25>{#p/undyne}{#f/14}* Que todos esses tablets estão conectados dessa forma."
 
 msgid "<18>{#p/papyrus}{#f/0}YES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}SIM."
 
 msgid ""
 "<25>{#p/undyne}{#f/1}* Okay.\n"
 "* Just one question..."
 msgstr ""
+"<25>{#p/undyne}{#f/1}* Okay.\n"
+"* Só uma pergunta."
 
 msgid "<25>{#p/undyne}{#f/7}* WHERE's the PROOF!?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/7}* ONDE ESTÃO AS PROVAS?"
 
 msgid "<18>{#p/papyrus}{#f/6}IN THE ANIME!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}DO ANIME!!"
 
 msgid "<18>{#p/papyrus}{#f/4}THE SCI-FI ANIME."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}SCI-FI ANIME."
 
 msgid "<18>{#p/papyrus}{#f/4}WHICH I HAVE YET TO WATCH, BECAUSE I'M TOO BUSY."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}QUE EU AINDA PRECISO ASSISTIR, PORQUE EU SOU MUITO "
+"OCUPADO."
 
 msgid "<25>{#p/undyne}{#f/17}* Too busy for sci-fi!?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* Muito ocupado pra anime!?"
 
 msgid "<25>{#p/undyne}{#f/8}* You're kidding!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/8}* Tá de brincadeira!!"
 
 msgid "<18>{#p/papyrus}{#f/5}ONE DAY, HUMAN..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UM DIA, HUMANO..."
 
 msgid "<18>{#p/papyrus}{#f/5}ONE DAY, I SHALL PROVE MY THEORIES RIGHT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UM DIA, PROVAREI QUE MINHAS TEORIAS ESTÃO CERTAS."
 
 msgid "<18>{#p/papyrus}{#f/0}DON'T LOOK PAST THE HIDDEN PATH..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}NÃO OLHE ALÉM DO CAMINHO OCULTO..."
 
 msgid "<18>{#p/papyrus}{#f/5}CLOSE YOUR EYES, WALK STRAIGHT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}FECHE OS OLHOS E ANDE..."
 
 msgid "<18>{#p/papyrus}{#f/5}AND FACE THE TEMMIES' WRATH."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}E ENFRENTE A IRA DAS TEMMIES."
 
 msgid "<18>{#p/papyrus}{#f/4}... IT'S A RIDDLE I'VE HEARD ABOUT THIS PLACE."
-msgstr ""
+msgstr "<18>{#p/papiro}{#f/4}... É UM ENIGMA QUE OUVI SOBRE ESTE LUGAR."
 
 msgid "<25>{#p/undyne}{#f/1}* Hmm... \"don't look past the hidden path...\""
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* Hmm... \"não olhe no caminho oculto...\""
 
 msgid "<25>{#p/undyne}{#f/11}* What hidden path?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/11}* O que seria o caminho oculto?"
 
 msgid "<25>{#p/undyne}{#f/13}* And then... \"close your eyes...\""
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/13}* E então... \"feche seus olhos...\""
 
 msgid "<25>{#p/undyne}{#f/12}* Okay, no no no, hold it right there."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/12}* Tá, não não não, espera bem aí."
 
 msgid ""
 "<26>{#p/undyne}{#f/8}* If I can't SEE anything, how am I supposed to FIND "
 "anything!"
 msgstr ""
+"<26>{#p/undyne}{#f/8}* Se eu não posso ver nada, como eu vou achar alguma "
+"coisa!"
 
 msgid "<18>{#p/papyrus}{#f/4}SADLY, RIDDLES DO TEND TO BE THIS WAY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}INFELIZMENTE, ENIGMAS SÃO ASSIM."
 
 msgid "<18>{#p/papyrus}{#f/7}A BUNCH OF MOSTLY USELESS ADVICE!"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}UM MONTE DE CONSELHOS QUE NÃO LEVAM A LUGAR ALGUM!"
 
 msgid "<18>{#p/papyrus}{#f/4}DO -YOU- KNOW HOW TO SOLVE THIS RIDDLE?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}VOCÊ SABE COMO RESOLVER -ESTE- ENIGMA?"
 
 msgid "<18>{#p/papyrus}IF YOU SEE A SHOP, YOU SHOULD STOP..."
-msgstr ""
+msgstr "<18>{#p/papyrus}SE VOCÊ VER UMA LOJA, DEVERIA DAR UMA PARADOCA..."
 
 msgid "<18>{#p/papyrus}{#f/4}DROP, AND ROLL..."
 msgstr ""
