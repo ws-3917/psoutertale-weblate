@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-05 13:07+0000\n"
 "PO-Revision-Date: 2025-03-08 23:24+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
 "Language: ru_RU\n"
@@ -256,7 +256,6 @@ msgstr ""
 msgid "FILE 6 LOADED"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/human}* (You decide not to equip.)"
 msgstr "<32>{#p/human}* (Вы решили не экипировать.)"
 
