@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
 "PO-Revision-Date: 2025-03-08 23:24+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -2018,284 +2018,296 @@ msgid "<25>{#p/toriel}{#g/torielCompassionSmile}* ..."
 msgstr "<25>{#p/toriel}{#g/torielCompassionSmile}* ..."
 
 msgid "<25>{#f/1}{#n1}* \"Once, there was a monster...\""
-msgstr "<25>{#f/1}{#n1}* \"Жила-была монстр...\""
+msgstr "»<25>{#f/1}{#n1}* «Жила-была монстр...»"
 
 msgid "<25>{#f/0}* \"And she loved a little human.\""
-msgstr "<25>{#f/0}* \"И она дружила с человеком.\""
+msgstr "<25>{#f/0}* «И она дружила с человеком»."
 
 msgid "<25>{#f/1}* \"And every day, the human would come visit...\""
-msgstr "<25>{#f/1}* \"Каждый день человек приходил бы к ней...\""
+msgstr "<25>{#f/1}* «Каждый день человек приходил бы к ней...»"
 
 msgid "<25>{#f/0}* \"And they would run and play together in the fields.\""
-msgstr "<25>{#f/0}* \"...чтобы вместе они играли на полях.\""
+msgstr "<25>{#f/0}* «...чтобы вместе они играли на полях.»"
 
 msgid ""
 "<25>{#f/1}* \"They'd sing songs together, tell stories to each other...\""
-msgstr "<25>{#f/1}* \"Они пели песни, рассказывали истории друг другу...\""
+msgstr "<25>{#f/1}* «Они пели песни, рассказывали истории друг другу...»"
 
 msgid "<25>{#f/0}* \"And they would play hide-and-go seek.\""
-msgstr "<25>{#f/0}* \"А также играли в прятки.\""
+msgstr "<25>{#f/0}* «А также играли в прятки»."
 
 msgid ""
 "<25>{#f/1}* \"And when the human was tired, she would tuck them into bed...\""
-msgstr "<25>{#f/1}* \"А когда человек уставал, она укладывала его спать...\""
+msgstr "<25>{#f/1}* «А когда человек уставал, она укладывала его спать...»"
 
 msgid "<25>{#f/0}* \"And the human loved the monster very much.\""
-msgstr "<25>{#f/0}* \"Человек очень любил монстра.\""
+msgstr "<25>{#f/0}* «Человек очень любил монстра»."
 
 msgid "<25>{#f/0}* \"And the monster was happy.\""
-msgstr "<25>{#f/0}* \"И монстр была счастлива.\""
+msgstr "<25>{#f/0}* «И монстр была счастлива»."
 
 msgid "<25>{#f/1}* \"But as time went by, and the human grew older...\""
-msgstr "<25>{#f/1}* \"Но годы шли, и человек старел...\""
+msgstr "<25>{#f/1}* «Но годы шли, а человек старел...»"
 
 msgid "<25>{#f/0}* \"The monster was often left alone.\""
-msgstr "<25>{#f/0}* \"Монстр часто была одинокой.\""
+msgstr "<25>{#f/0}* «Монстр часто была одинокой»."
 
 msgid "<25>{#f/1}* \"Then one day, the human came back...\""
-msgstr "<25>{#f/1}* \"Но однажды человек вернулся...\""
+msgstr "<25>{#f/1}* «Но однажды человек вернулся...»."
 
 msgid "<25>{#f/0}* \"And the monster said 'Come, human, come and play!'\""
-msgstr "<25>{#f/0}* «И монстр воскликнула „Иди, человек, иди и играй“!»"
+msgstr "<25>{#f/0}* «И монстр воскликнула: „Иди, человек, иди и играй“!»"
 
 msgid "<25>{#f/5}* \"'I am too big to play,' said the human.\""
-msgstr "<25>{#f/5}* «„Слишком стар я, чтобы играть“, возразил человек.»"
+msgstr "<25>{#f/5}* «„Слишком стар я, чтобы играть“, — возразил человек»."
 
 msgid "<25>{#f/1}* \"'I want to drive, to find a new home...'\""
-msgstr "<25>{#f/1}* \"'Я хочу уехать, чтобы найти новый дом...'\""
+msgstr "<25>{#f/1}* «„Я хочу уехать, чтобы найти новый дом...“»"
 
 msgid ""
 "<25>{#f/5}* \"'Sorry,' said the monster, 'but I am too poor to own a car.'\""
 msgstr ""
-"<25>{#f/5}* «„Прости,“ ответила монстр, „но я слишком бедна, чтобы владеть "
-"машиной.“»"
+"<25>{#f/5}* «„Прости,“ — ответила монстр, „но я слишком бедна, чтобы владеть "
+"машиной“»."
 
 msgid "<25>{#f/5}* \"'All I have is my own two feet.'\""
-msgstr "<25>{#f/5}* \"'Всё, что имею — лишь пара ног.'\""
+msgstr "<25>{#f/5}* «„Всё, что я имею — лишь пара ног“»."
 
 msgid ""
 "<25>{#f/0}* \"'Climb on my back, and I can run you to where you need.'\""
-msgstr "<25>{#f/0}* \"'Залазь на спину, и я отнесу тебя, куда нужно.'\""
+msgstr "<25>{#f/0}* «„Залазь на спину, и я отнесу тебя, куда нужно“»."
 
 msgid "<25>{#f/0}* \"'Then you can see the town and be happy.'\""
-msgstr "<25>{#f/0}* \"'Тогда ты увидишь город и будешь счастлив.'\""
+msgstr "<25>{#f/0}* «„Тогда ты увидишь город и будешь счастлив“»."
 
 msgid "<25>{#f/1}* \"And so the human climbed onto the monster's back...\""
-msgstr "<25>{#f/1}* \"И человек полез на спину монстра...\""
+msgstr "<25>{#f/1}* «И человек полез на спину монстра...»"
 
 msgid "<25>{#f/0}* \"And the monster took them to a new home.\""
-msgstr "<25>{#f/0}* \"И монстр отвела его куда он хотел.\""
+msgstr "<25>{#f/0}* «И монстр отвела его куда он хотел»."
 
 msgid "<25>{#f/1}* \"But the human stayed away for a long time...\""
-msgstr "<25>{#f/1}* \"Человек не появлялся уже давно...\""
+msgstr "<25>{#f/1}* «Человек не появлялся уже давно...»"
 
 msgid "<25>{#f/5}* \"And the monster was sad.\""
-msgstr "<25>{#f/5}* \"И монстру было грустно.\""
+msgstr "<25>{#f/5}* «И монстру было грустно»."
 
 msgid "<25>{#f/0}* \"Then one day, the human came back.\""
-msgstr "<25>{#f/0}* \"Но потом, человек вернулся вновь.\""
+msgstr "<25>{#f/0}* «Но потом, человек вернулся вновь»."
 
 msgid "<25>{#f/1}* \"And the monster smiled from ear to ear and said...\""
-msgstr "<25>{#f/1}* \"Монстр улыбнулась до ушей и сказала:...\""
+msgstr "<25>{#f/1}* «Монстр улыбнулась до ушей и сказала: ...»"
 
 msgid "<25>{#f/1}* \"'Come, human, come and ride on my back!'\""
-msgstr "<25>{#f/1}* \"'Иди, человек, иди и садись на мою спину!'\""
+msgstr "<25>{#f/1}* «„Иди, человек, иди и садись на мою спину!“»"
 
 msgid "<25>{#f/5}* \"'I am too sad to ride around,' said the human.\""
-msgstr "<25>{#f/5}* «„Слишком печален я, чтобы кататься“, сказал человек.»"
+msgstr "<25>{#f/5}* «„Слишком печален я, чтобы кататься“, — сказал человек»."
 
 msgid "<25>{#f/1}* \"'I wish I had a family, and children of my own...'\""
-msgstr "<25>{#f/1}* \"'Желал бы я иметь семью и собственных детей...'\""
+msgstr "<25>{#f/1}* «„Желал бы я иметь семью и собственных детей...“»"
 
 msgid ""
 "<25>{#f/5}* \"'Sorry,' said the monster, 'but I cannot give that to you.'\""
 msgstr ""
-"<25>{#f/5}* «„Прости,“ — сказала монстр, „но я не могу тебе этого дать.“»"
+"<25>{#f/5}* «„Прости“, — сказала монстр, „но я не могу тебе этого дать“»."
 
 msgid "<25>{#f/5}* \"'I am only one person.'\""
-msgstr "<25>{#f/5}* \"'Я всего лишь монстр.'\""
+msgstr "<25>{#f/5}* «„Я всего лишь монстр“»."
 
 msgid "<25>{#f/0}* \"'Visit for a while, and we can find you a date.'\""
-msgstr "<25>{#f/0}* \"'Приди позже, и я найду тебе пару.'\""
+msgstr "<25>{#f/0}* «„Приди позже, и я найду тебе пару“»."
 
 msgid "<25>{#f/0}* \"'Then you can find love and be happy.'\""
-msgstr "<25>{#f/0}* \"'Тогда ты сможешь любить и быть счастливым.'\""
+msgstr "<25>{#f/0}* «„Тогда ты сможешь любить и быть счастливым“»."
 
 msgid ""
 "<25>{#f/1}* \"And so the human visited their old friend for a while...\""
-msgstr ""
+msgstr "<25>{#f/1}* «А затем человек посетил свою старую подругу...»"
 
 msgid "<25>{#f/0}* \"And the monster found them someone they might like.\""
-msgstr ""
+msgstr "<25>{#f/0}* «И монстр нашла ему того, кого он может полюбить»."
 
 msgid "<25>{#f/5}* \"But the human stayed away for a long time.\""
-msgstr ""
+msgstr "<25>{#f/0}* «Но человек долго не посещал её»."
 
 msgid "<25>{#f/1}* \"When they finally returned, the monster was so happy...\""
-msgstr ""
+msgstr "<25>{#f/1}* «Когда он вернулся, монстр была так счастлива...»"
 
 msgid "<25>{#f/9}* \"She could hardly speak.\""
-msgstr ""
+msgstr "<25>{#f/9}* «...что она еле могла говорить»."
 
 msgid "<25>{#f/1}* \"'Come, human,' she whispered...\""
-msgstr ""
+msgstr "<25>{#f/1}* «„Иди, человек“ — прошептала она...»"
 
 msgid "<25>{#f/1}* \"'Come and visit.'\""
-msgstr ""
+msgstr "<25>{#f/1}* «„Иди и будь как дома“»."
 
 msgid "<25>{#f/5}* \"'I am too old and busy to visit,' said the human.\""
-msgstr ""
+msgstr "<25>{#f/5}* «„Слишком стар я и занят для этого“ — сказал человек»."
 
 msgid "<25>{#f/1}* \"'I want a place to rest for the night...'\""
-msgstr ""
+msgstr "<25>{#f/1}* «„Желал бы я иметь ночлег...“»"
 
 msgid ""
 "<25>{#f/5}* \"'Sorry,' said the monster, 'but I do not have a bed your "
 "size.'\""
 msgstr ""
+"<25>{#f/5}* «„Прости“, — сказала монстр, „но нет у меня кровати для тебя“»."
 
 msgid "<25>{#f/5}* \"'I am still too poor to afford one.'\""
-msgstr ""
+msgstr "<25>{#f/5}* «„Я всё ещё бедна, чтобы позволить её“»."
 
 msgid "<25>{#f/0}* \"'Sleep with me for the night.'\""
-msgstr ""
+msgstr "<25>{#f/0}* «„Согрейся моей шерстью“»."
 
 msgid "<25>{#f/0}* \"'Then you can get some rest and be happy.'\""
-msgstr ""
+msgstr "<25>{#f/0}* «„Тогда ты отдохнёшь и будешь счастлив“»."
 
 msgid "<25>{#f/1}* \"And so the human and the monster cuddled together...\""
-msgstr ""
+msgstr "<25>{#f/1}* «Тогда человек и монстр свернулись клубком вместе...»"
 
 msgid "<25>{#f/0}* \"And the monster was able to put the human to sleep.\""
-msgstr ""
+msgstr "<25>{#f/0}* «И монстр помогла человеку уснуть»."
 
 msgid "<25>{#f/5}* \"... but not really.\""
-msgstr ""
+msgstr "<25>{#f/5}* «... но не совсем»."
 
 msgid "<25>{#f/9}* \"And after a long time, the human came back again.\""
-msgstr ""
+msgstr "<25>{#f/9}* «Прошло много времени, и человек вернулся вновь»."
 
 msgid ""
 "<25>{#f/5}* \"'I am sorry, human,' said the monster, 'but I have fallen "
 "down.'\""
-msgstr ""
+msgstr "<25>{#f/5}* «„Прости, человек“, — сказала монстр, „но я умираю“»."
 
 msgid "<25>{#f/5}* \"'My legs are giving out, I cannot take you anywhere.'\""
-msgstr ""
+msgstr "<25>{#f/5}* «„Мои ноги сдают, я не смогу тебя отвести куда хочешь“»."
 
 msgid "<25>{#f/10}* \"'There is nowhere else I want to be,' said the human.\""
-msgstr ""
+msgstr "<25>{#f/10}* «„Я нигде не желаю быть“ - возразил человек»."
 
 msgid ""
 "<26>{#f/5}* \"'I cannot find you a date, I know no one else' said the "
 "monster.\""
 msgstr ""
+"<26>{#f/5}* «„Я не могу найти тебе новую пару, ведь я никого не знаю“ — "
+"сказала монстр»."
 
 msgid ""
 "<25>{#f/10}* \"'There is no one else I want to be with,' said the human.\""
-msgstr ""
+msgstr "<25>{#f/10}* «„Не то что бы я этого желал“ — возразил человек»."
 
 msgid ""
 "<25>{#f/5}* \"'I am too weak for you to sleep on me', said the monster.\""
 msgstr ""
+"<25>{#f/5}* «„Я слишком слаба, чтобы ты лежал на мне“ — сказала монстр»."
 
 msgid "<25>{#f/10}* \"'I do not need sleep any longer,' said the human.\""
-msgstr ""
+msgstr "<25>{#f/10}* «„Я не нуждаюсь во сне“ — возразил человек»."
 
 msgid "<25>{#f/5}* \"'I am sorry,' sighed the monster."
-msgstr ""
+msgstr "<25>{#f/5}* «„Мне жаль“ — вздохнула монстр»."
 
 msgid ""
 "<25>{#f/5}* \"'I wish I had something to offer, but I have nothing left.'\""
-msgstr ""
+msgstr "<25>{#f/5}* «„Я хотела бы хоть что-то дать, но ничего не имею“»."
 
 msgid "<25>{#f/9}* \"'I am just an old monster approaching her death.'\""
-msgstr ""
+msgstr "<25>{#f/9}* «„Я лишь монстр, что ждёт своей участи“»."
 
 msgid "<25>{#f/5}* \"'I am sorry...'\""
-msgstr ""
+msgstr "<25>{#f/5}* «„Мне жаль...“»"
 
 msgid "<25>{#f/10}* \"'I do not need very much now,' said the human.\""
-msgstr ""
+msgstr "<25>{#f/10}* «„Мне многого и не нужно“ — сказал человек»."
 
 msgid "<25>{#f/10}* \"'Just a hug from my best friend before I die.'\""
-msgstr ""
+msgstr "<25>{#f/10}* «„Лишь объятья от старой подруги перед тем как умру“»."
 
 msgid "<25>{#f/1}* \"'Well,' said the monster, straightening her posture...\""
-msgstr ""
+msgstr "<25>{#f/1}* «„Хорошо“ — сказала монстр, выпрямляя осанку...»"
 
 msgid "<25>{#f/0}* \"'Well, an old monster is always here for that.'\""
-msgstr ""
+msgstr "<25>{#f/0}* «„Я всегда готова это сделать“»."
 
 msgid "<25>{#f/0}* \"'Come, human, come to me. Be with me one last time.'\""
-msgstr ""
+msgstr "<25>{#f/0}* «„Иди, человек, иди ко мне. Будь со мной в последний раз“»."
 
 msgid "<25>{#f/9}* \"And so the human did.\""
-msgstr ""
+msgstr "<25>{#f/9}* «И человек подошёл»."
 
 msgid "<25>{#f/10}* \"And the monster was happy.\""
-msgstr ""
+msgstr "<25>{#f/10}* «И монстр была счастлива»."
 
 msgid "<25>{#f/0}{#n1}* Well, that was the story."
-msgstr ""
+msgstr "<25>{#f/0}{#n1}* Конец."
 
 msgid "<25>{#f/1}* I hope you liked it..."
-msgstr ""
+msgstr "<25>{#f/1}* Надеюсь, тебе понравилось..."
 
 msgid "<25>{#f/0}{#n1}* Well, that is all."
-msgstr ""
+msgstr "<25>{#f/0}{#n1}* Вот и всё."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}{#n1}* Home...?\n"
 "* Could you be a little more specific?"
 msgstr ""
+"<25>{#p/toriel}{#f/1}{#n1}* Дом...?\n"
+"* Можешь сказать поточнее?"
 
 msgid "* (What do you say?)"
-msgstr ""
+msgstr "* (Что вы скажете?)"
 
 msgid ""
 "Never\n"
 "mind"
-msgstr ""
+msgstr "Неважно"
 
 msgid ""
 "When can I\n"
 "go home?"
 msgstr ""
+"Когда я могу\n"
+"пойти домой?"
 
 msgid "<25>{#p/toriel}{#f/1}{#n1}* But... this is your home now, is it not?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}{#n1}* Но... это уже твой дом, разве не так?"
 
 msgid ""
 "\n"
 "Sorry"
 msgstr ""
+"\n"
+"Прости"
 
 msgid ""
 "How to exit\n"
 "the Outlands"
 msgstr ""
+"Как уйти из\n"
+"Запределья"
 
 msgid "<25>{#p/toriel}{#f/5}{#n1}* Please, try to understand..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}{#n1}* Прошу, пойми меня..."
 
 msgid "<25>{#p/toriel}{#f/9}* I only want the best for you."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/9}* Я желаю тебе лишь лучшего."
 
 msgid "<25>{#p/toriel}{#f/5}{#n1}* My child..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}{#n1}* Моё дитя..."
 
 msgid "<25>{#p/toriel}{#f/5}{#n1}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}{#n1}* ..."
 
 msgid "<25>{#p/toriel}{#f/9}{#n1}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/9}{#n1}* ..."
 
 msgid "<25>{#p/toriel}{#f/9}* Please, wait here."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/9}* Пожалуйста, подожди здесь."
 
 msgid "<25>{#p/toriel}{#f/5}* There is something I have to do."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* Я должна кое-что сделать."
 
 msgid ""
 "<25>{#p/asriel1}{#f/20}* I still can't believe she moved this all the way "
@@ -2432,85 +2444,103 @@ msgid ""
 "<25>{#p/toriel}{#f/1}* What is the problem?\n"
 "* Do you need assistance?"
 msgstr ""
+"<25>{#p/toriel}{#f/1}* В чём проблема?\n"
+"* Тебе нужна помощь?"
 
 msgid "<25>{#p/toriel}{#f/5}* Ah... I see."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* А... Понятно."
 
 msgid "<25>{#f/5}* The terminal is too high for you to reach it."
-msgstr ""
+msgstr "<25>{#f/5}* Терминал слишком высокий."
 
 msgid "<25>{#p/toriel}{#f/7}* ... oh my."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/7}* ... о боже."
 
 msgid "<25>{#f/6}* It seems there is a bit of a design fault here."
-msgstr ""
+msgstr "<25>{#f/6}* Похоже, что ошибка на этапе проектирования."
 
 msgid "<25>{#f/1}* So the terminal is too high for you to reach it...?"
-msgstr ""
+msgstr "<25>{#f/1}* Так что терминал слишком высокий для тебя...?"
 
 msgid ""
 "<25>{#f/0}* No matter.\n"
 "* I will operate it for you."
 msgstr ""
+"<25>{#f/0}* Неважно.\n"
+"* Я воспользуюсь им."
 
 msgid "<25>{#f/0}* ..."
-msgstr ""
+msgstr "<25>{#f/0}* ..."
 
 msgid ""
 "<25>{#f/0}* There is a riddle to be solved here.\n"
 "* Would you like to try?"
 msgstr ""
+"<25>{#f/0}* Требуется решить загадку.\n"
+"* Не желаешь попробовать?"
 
 msgid "* (Solve the riddle?)"
-msgstr ""
+msgstr "* (Решить загадку?)"
 
 msgid ""
 "<25>{#p/toriel}* Excellent!\n"
 "* The eagerness to learn and grow is important."
 msgstr ""
+"<25>{#p/toriel}* Превосходно!\n"
+"* Стремление учиться и развиваться важно."
 
 msgid "<25>{#f/0}* Especially for a youngster such as yourself."
-msgstr ""
+msgstr "<25>{#f/0}* Особенно для детей вроде тебя."
 
 msgid "<25>{#p/toriel}{#f/0}* The riddle takes the form of a question."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/0}* Загадка будет в форме вопроса."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* \"What's baked like a cake and rhymes with 'lie?'\""
 msgstr ""
 "<25>{#p/toriel}{#f/1}* Сладок, будто ложь, вкусен, словно торт, из печи "
-"достали, звать его - ...?"
+"достали, звать его — ...?"
 
 msgid ""
 "<32>{#p/human}* (...)\n"
 "* (You tell Toriel the answer.)"
 msgstr ""
+"<32>{#p/human}* (...)\n"
+"* (Вы говорите Ториэль ответ.)"
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* ... ah, very good.\n"
 "* And with such a positive attitude!"
 msgstr ""
+"<25>{#p/toriel}{#f/0}* ... ах, как хорошо.\n"
+"* И с таким позитивным настроем!"
 
 msgid ""
 "<32>{#p/human}* (...)\n"
 "* (You tell Toriel you do not know the answer.)"
 msgstr ""
+"<32>{#p/human}* (...)\n"
+"* (Вы признаётесь, что не знаете ответа.)"
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* ... is something wrong?\n"
 "* You seem to have something on your mind."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* ... что-то не так?\n"
+"* Похоже, у тебя что-то на уме."
 
 msgid "<25>{#f/5}* ... hmm..."
-msgstr ""
+msgstr "<25>{#f/5}* ... хм..."
 
 msgid ""
 "<25>{#f/0}* Well, alright.\n"
 "* I will solve the riddle for you this time."
 msgstr ""
+"<25>{#f/0}* Ладно.\n"
+"* Я решу загадку за тебя."
 
 msgid "<25>{#p/toriel}{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* ..."
 
 msgid "<25>{#f/5}* I see."
 msgstr ""
@@ -2551,13 +2581,13 @@ msgstr ""
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* Pies are for eating, not for splattering on the floor."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Пироги едят, а не бросают на пол."
 
 msgid "<25>{#p/toriel}{#f/1}* Please do not spill food on the floor."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Прошу, не бросай еду на пол."
 
 msgid "<25>{#p/toriel}{#f/1}* What did those poor fried snails ever do to you."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Что тебе сделали эти бедные жареные улитки?"
 
 msgid "<32>{#p/basic}{#n1}* Aww c'mon! ;)"
 msgstr ""
@@ -2582,22 +2612,23 @@ msgid ""
 "<25>{#f/1}* As a human roaming the outpost, it is likely you will be "
 "attacked..."
 msgstr ""
+"<25>{#f/1}* Человек, блуждающий по аванпосту, вероятно, будет атакован..."
 
 msgid "<25>{#f/0}* If that happens, you will enter what is known as a FIGHT."
-msgstr ""
+msgstr "<25>{#f/0}* И тогда начнётся то, что мы называем БИТВА."
 
 msgid "<25>{#f/0}* Thankfully, there are several ways to resolve one."
-msgstr ""
+msgstr "<25>{#f/0}* К счастью, есть способы её разрешить."
 
 msgid "<25>{#f/1}* For now, I suggest striking up a friendly conversation..."
-msgstr ""
+msgstr "<25>{#f/1}* А сейчас я предлагаю начать дружескую беседу..."
 
 msgid ""
 "<25>{#f/0}* ... thereby giving me a chance to sort out the conflict for you."
-msgstr ""
+msgstr "<25>{#f/0}* ... тем самым давая мне шанс разрешить конфликт за тебя."
 
 msgid "<25>{#p/toriel}* To start, you may practice talking with the dummy."
-msgstr ""
+msgstr "<25>{#p/toriel}* Для начала попрактикуйся на манекене."
 
 msgid "<25>{#p/toriel}{#f/7}* ... you think that I am the dummy?"
 msgstr "<25>{#p/toriel}{#f/7}* ... ты думаешь, что я манекен?"
@@ -2606,15 +2637,17 @@ msgid ""
 "<25>{#f/6}* Hahaha!\n"
 "* How adorable!"
 msgstr ""
+"<25>{#f/6}* Ха!\n"
+"* Как мило!"
 
 msgid "<25>{#f/0}* Unfortunately, I am but a worrisome old lady."
-msgstr ""
+msgstr "<25>{#f/0}* К сожалению, я всего лишь старая беспокойная леди."
 
 msgid "<25>{#p/toriel}* There is nothing to be afraid of, my child."
-msgstr ""
+msgstr "<25>{#p/toriel}* Здесь нечего страшиться, дитя моё."
 
 msgid "<25>* A simple training dummy cannot harm you."
-msgstr ""
+msgstr "<25>* Простой манекен не может навредить тебе."
 
 msgid "<25>{#p/toriel}{#f/1}* Go on, little one..."
 msgstr ""
