@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 13:12+0000\n"
-"PO-Revision-Date: 2025-03-08 23:21+0000\n"
+"PO-Revision-Date: 2025-03-09 13:25+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -21360,312 +21360,349 @@ msgid "<18>{#p/papyrus}IF YOU SEE A SHOP, YOU SHOULD STOP..."
 msgstr "<18>{#p/papyrus}SE VOCÊ VER UMA LOJA, DEVERIA DAR UMA PARADOCA..."
 
 msgid "<18>{#p/papyrus}{#f/4}DROP, AND ROLL..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}DROPE, E ROLE..."
 
 msgid "<18>{#p/papyrus}{#f/0}INTO SOME GREAT DEALS!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}EM BONS NEGÓCIOS!!"
 
 msgid "<18>{#p/papyrus}{#f/9}BECAUSE WE'RE HAVING A FIRE SALE!!"
 msgstr ""
+"<18>{#p/papyrus}{#f/9}PORQUE ESTAMOS TENDO UMA ÓTIMA VENDA, PEGANDO FOGO!!"
 
 msgid "<18>{#p/papyrus}{#f/5}AT MY IMAGINARY STORE, WHICH SELLS FLAMES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}NA MINHA LOJA IMAGINARIA, QUE VENDE CHAMAS."
 
 msgid "<25>{#p/undyne}{#f/1}* Like the ones at Gerson's shop?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* Tipo aquela no mercado do Gerson?"
 
 msgid "<25>{#p/undyne}{#f/8}* I buy stuff from him ALL the time!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/8}* Eu compro as paradas dele o tempo todo!"
 
 msgid "<18>{#p/papyrus}{#f/6}WHAT'S SO SPECIAL ABOUT HIS DEALS?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}O QUE TORNA AS OFERTAS DELE TÃO ESPECIAIS?"
 
 msgid ""
 "<25>{#p/undyne}{#f/17}* Are you kidding?\n"
 "* Gerson survived the human- monster war!"
 msgstr ""
+"<25>{#p/undyne}{#f/17}* Tá de brincadeira?\n"
+"* Gerson sobreviveu a guerra monstro-humana!"
 
 msgid "<25>{#p/undyne}{#f/14}* He's a REAL hero."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* Ele é um herói de verdade."
 
 msgid "<18>{#p/papyrus}{#f/4}I WAS GOING TO SAY SOMETHING ELSE, BUT OKAY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}EU ÍA DIZER UMA COISA, MAS TUDO BEM."
 
 msgid "<18>{#p/papyrus}{#f/0}HOORAY FOR GERSON!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}HONRA AO GERSON!"
 
 msgid "<18>{#p/papyrus}{#f/5}IT'S YET ANOTHER DREAM OF MINE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}É AINDA OUTRO SONHO MEU..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}IT'S IMPORTANT TO ACKNOWLEDGE THE HEROES AMONGST US."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}É IMPORTANTE TER CONHECIMENTO DOS HERÓIS QUE NOS "
+"CERCAM."
 
 msgid "<18>{#p/papyrus}{#f/5}WITHOUT THEM, WE MIGHT NOT EVEN BE HERE TODAY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}SEM ELES, PODERIAMOS NEM MESMO ESTAR AQUI HOJE..."
 
 msgid "<18>{#p/papyrus}{#f/0}THAT'S UNDYNE'S HOUSE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}ESSA É A CASA DA UNDYNE."
 
 msgid "<18>{#p/papyrus}{#f/9}THE IDEAL PLACE TO LEARN HOW TO COOK!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}O LUGAR IDEAL PARA APRENDER A COZINHAR!"
 
 msgid "<18>{#p/papyrus}{#f/4}YOU KNOW, THE ONE WITH THE SKELETON IN FRONT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}SABE, AQUELA COM UM ESQUELETO NA FRENTE."
 
 msgid "<18>{#p/papyrus}{#f/9}DON'T HESITATE TO COME IN!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}NÃO HESITE EM SE APROXIMAR!"
 
 msgid "<18>{#p/papyrus}{#f/6}... YOU'RE STILL AT UNDYNE'S HOUSE??"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}... VOCÊ AINDA TÁ NA CASA DA UNDYNE??"
 
 msgid "<18>{#p/papyrus}{#f/5}SHE, UH, HASN'T EVEN MET UP WITH ME YET."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ELA, UH, AINDA NÃO CHEGOU A ME ENCONTRAR."
 
 msgid "<18>{#p/papyrus}{#f/4}MAYBE LEAVE THE ROOM AND..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}TALVEZ SAIR DAÍ E..."
 
 msgid "<18>{|}{#f/1}... {%}"
-msgstr ""
+msgstr "<18>{|}{#f/1}... {%}"
 
 msgid "<25>{#p/undyne}{#f/12}* Huff... puff...!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/12}* Huff... puff...!"
 
 msgid ""
 "<25>{#p/undyne}{#f/8}* YEAH!!!\n"
 "* That's MY HOUSE!!!"
 msgstr ""
+"<25>{#p/undyne}{#f/8}* É!!!\n"
+"* ESSA É MINHA CASA!!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}UH, HI UNDYNE!\n"
 "HOW'D YOU GET HERE SO FAST?"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}UH, OI UNDYNE!\n"
+"COMO VOCÊ CHEGOU AÍ TÃO RÁPIDO?"
 
 msgid "<25>{#p/undyne}{#f/17}* I ran."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* Eu corri."
 
 msgid ""
 "<18>{#p/papyrus}{#f/1}WHAT??\n"
 "THEN YOU MUST HAVE SOMETHING..."
 msgstr ""
+"<18>{#p/papyrus}{#f/1}O QUE??\n"
+"ENTÃO VOCÊ DEVE TER ALGO..."
 
 msgid "<18>{#p/papyrus}{#f/9}EXTREMELY COOL TO SAY ABOUT YOUR HOUSE!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}EXTREMAMENTE LEGAL PARA DIZER SOBRE SUA CASA!!!"
 
 msgid "<25>{#p/undyne}{#f/14}* Nope!!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* Nah!!!"
 
 msgid "<18>{#p/papyrus}{#f/4}AT LEAST IT WAS, UNTIL..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}PELO MENOS ISSO FOI, ATÉ..."
 
 msgid "<25>{#p/undyne}{#f/12}* ... we set it on fire."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/12}* ... Nós colocarmos ela em chamas."
 
 msgid "<25>{#p/undyne}{#f/8}* BUT WHO CARES??"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/8}* MAS QUEM LIGA??"
 
 msgid "<25>{#p/undyne}{#f/14}* Hanging out with Papyrus is the BEST!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* Dar uma volta com o Papyrus é muito bom!"
 
 msgid "<18>{#p/papyrus}{#f/0}PRO TIP: WHEN COOKING WITH UNDYNE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}DICA AMIGA: QUANDO COZINHAR COM A UNDYNE..."
 
 msgid "<18>{#p/papyrus}{#f/4}IF SHE STARTS ASSAULTING THE VEGGIES..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}SE ELA COMEÇAR A ATACAR OS VEGETAIS..."
 
 msgid "<18>{#p/papyrus}{#f/5}... IT'S TIME TO BAIL."
-msgstr ""
+msgstr "<18>{#p/papiro}{#f/5}... É HORA DE FUGIR."
 
 msgid "<18>{#p/papyrus}{#f/0}NICE TO SEE YOU, TOO!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}MUITO BOM TE VER, TAMBÉM!"
 
 msgid "<18>{#p/papyrus}{#f/4}WE'RE STILL WAITING HERE, YOU KNOW..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}NÓS AINDA ESTAMOS AQUI TE ESPERANDO, SABE..."
 
 msgid "<18>{#p/papyrus}{#f/0}I'M SURE SHE'LL COME UP WITH SOMETHING SOON."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}EU TENHO CERTEZA QUE ELA APARECER COM ALGUMA COISA."
 
 msgid "<25>{#p/undyne}{#f/14}* Don't bet on it!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* Não aposte nisso!"
 
 msgid "<18>{#p/papyrus}{#f/0}JUST CALL ME THE \"HANGOUT HANDYMAN.\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}APENAS ME CHAME DE \"FAZ-TUDO DO ROLÊ.\""
 
 msgid "<18>{#p/papyrus}{#f/4}I MAY NOT BE ABLE TO REPAIR YOUR HOUSE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}EU TALVEZ NÃO CONSIGA RECONSTRUIR SUA CASA..."
 
 msgid "<18>{#p/papyrus}{#f/9}BUT I CAN STILL \"FIX YOU UP\" A REALLY GREAT DAY!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}MAS EU AINDA POSSO TE \"ARRUMAR\" UM ÓTIMO DIA!"
 
 msgid "<18>{#p/papyrus}{#f/0}PERHAPS ONE DAY, I'LL LIVE THE QUIET LIFE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}TALVEZ ALGUM DIA EU VIVA A VIDA QUIETA."
 
 msgid "<18>{#p/papyrus}{#f/5}RAISING SNAILS, PRODUCING MUSIC..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}CUIDANDO DE CARACÓIS, PRODUZINDO MÚSICAS..."
 
 msgid "<18>{#p/papyrus}{#f/6}BEING SAD AND NOT LETTING ANYONE CHEER ME UP..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}SENDO TRISTE E NÃO DEIXANDO NINGUÉM ME ANIMAR..."
 
 msgid "<18>{#p/papyrus}{#f/5}ON SECOND THOUGHT, MAYBE THAT ISN'T FOR ME."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}PENSANDO BEM, TALVEZ ISSO NÃO SEJA PRA MIM."
 
 msgid "<25>{#p/undyne}{#f/17}* They don't even let ME help them feel better!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* Ele não me deixa fazê-lo se sentir melhor!"
 
 msgid ""
 "<25>{#p/undyne}{#f/16}* ... guess not everyone can be made happier by "
 "hanging out with them."
 msgstr ""
+"<25>{#p/undyne}{#f/16}* ... acho que nem todo mundo pode ser feliz só por "
+"sair com eles."
 
 msgid "<18>{#p/papyrus}{#f/5}YEAH... SANS CAN BE THE SAME WAY AT TIMES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}É... O SANS PODE SER ASSIM AS VEZES."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}I MEAN, DON'T GET ME WRONG.\n"
 "HE'S USUALLY OKAY!"
 msgstr ""
+"<18>{#p/papyrus}{#f/0}QUER DIZER, NÃO ME ENTENDA ERRADO.\n"
+"ELE NORMALMENTE ESTÁ BEM!"
 
 msgid "<18>{#p/papyrus}{#f/6}BUT, LIKE EVERYONE, HE HAS HIS BAD DAYS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MAS, IGUAL TODO MUNDO, ELE TEM SEUS DIAS RUINS."
 
 msgid ""
 "<25>{#p/undyne}{#f/14}* Like \"everyone,\" huh?\n"
 "* Does this \"everyone\" include Papyrus?"
 msgstr ""
+"<25>{#p/undyne}{#f/14}* Igual \"todo mundo?\"\n"
+"* Esse \"todo mundo\" inclui o Papyrus?"
 
 msgid "<18>{#p/papyrus}{#f/4}OKAY, OKAY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}TÁ BOM, TÁ BOM..."
 
 msgid "<18>{#p/papyrus}{#f/0}ALMOST EVERYONE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}QUASE TODO MUNDO."
 
 msgid "<18>{#p/papyrus}{#f/0}ALAS, I'M MUCH MORE SUITED AS A CHEERER-UPPER."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}INFELIZMENTE, SOU MUITO MAIS ADEQUADO COMO UM TORCEDOR."
 
 msgid "<18>{#p/papyrus}{#f/5}... RATHER THAN SOMEONE WHO NEEDS CHEERING UP."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}... MAIS DO QUE ALGUÉM QUE PRECISA DE ANIMAÇÃO."
 
 msgid "<18>{#p/papyrus}{#f/4}I'VE HEARD THERE'S A WAY TO BEAT THIS GAME..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}EU OUVI DIZER QUE TEM UM JEITO DE VENCER ESSE JOGO..."
 
 msgid "<18>{#p/papyrus}{#f/0}SOMETHING ABOUT OFFERING \"TIMELY ENCOURAGEMENT.\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}ALGO SOBRE OFERECER \"ENCORAJAMENTO OPORTUNO\"."
 
 msgid "<18>{#p/papyrus}{#f/5}TIMELY ENCOURAGEMENT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ENCORAJAMENTO OPORTUNO..."
 
 msgid "<18>{#p/papyrus}{#f/4}AS IF THERE'S ENCOURAGEMENT THAT -ISN'T- TIMELY."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}COMO SE EXISTISSE UM ENCORAJAMENTO -NÃO- OPORTUNO."
 
 msgid "<25>{#p/undyne}{#f/12}* Yeah, sometimes it can be a little awkward..."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/12}* É, as vezes pode ser um pouco estranho..."
 
 msgid "<25>{#p/undyne}{#f/1}* But for the most part, you're right."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* Mas na maior parte, você está certo."
 
 msgid "<18>{#p/papyrus}{#f/0}WHAT DO YOU MEAN?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}O QUE VOCÊ QUER DIZER?"
 
 msgid "<25>{#p/undyne}{#f/1}* Well... if you encourage again and again..."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* Bem... se você encorajar de novo e de novo..."
 
 msgid "<25>{#p/undyne}{#f/1}* They might think you're just buttering them up."
 msgstr ""
+"<25>{#p/undyne}{#f/1}* Podem acabar pensando que você só tá sendo enjoado."
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}WHAT!?\n"
 "I ONLY USE BUTTER FOR COOKING!"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}O QUE!?\n"
+"EU SÓ USO MANTEIGA PARA COZINHAR!"
 
 msgid ""
 "<25>{#p/undyne}{#f/16}* All I'm saying is, if you constantly encourage "
 "someone..."
 msgstr ""
+"<25>{#p/undyne}{#f/16}* O que eu estou dizendo é que se você encorajar "
+"alguém demais..."
 
 msgid "<25>{#p/undyne}{#f/16}* They won't even get a chance to process it."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/16}* A pessoa não terá a chance de processar nada."
 
 msgid "<25>{#p/undyne}{#f/17}* So take it at a steady pace!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* Então tome isso como um aviso amigo!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}... I'LL START PROCESSING THIS ADVICE RIGHT AWAY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}... EU VOU PROCESSAR ESSE CONSELHO AGORA MESMO."
 
 msgid "<18>{#p/papyrus}{#f/5}I SUPPOSE TOO MUCH COULD BE OVERWHELMING..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}I SUPONHO QUE MUITO DISSO SERIA CANSATIVO..."
 
 msgid "<18>{#p/papyrus}{#f/6}I'LL GET BACK TO YOU WHEN I'M DONE PROCESSING!!!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}EU TE LIGO DE VOLTA ASSIM QUE TERMINAR DE PENSAR!!!"
 
 msgid "<18>{#p/papyrus}{#f/5}HAVE YOU EVER NOTICED ANYTHING STRANGE HERE?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}VOCÊ JÁ NOTOU QUE TEM ALGUMA COISA ESTRANHA AQUI?"
 
 msgid "<18>{#p/papyrus}{#f/4}I COULD SWEAR A MYSTERIOUS SONG WAS PLAYING..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}EU PODERIA JURAR QUE TEM UM SOM TOCANDO..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}AND SOMETHING IN THE DISTANCE WAS VISIBLE, TOO..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}E ALGO NA DISNTÂNCIA ERA VISÍVEL TAMBÉM..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}OH WELL.\n"
 "I'M SURE IT'S JUST MY IMAGINATION."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}BEM.\n"
+"CERTEZA QUE ERA SÓ MINHA IMAGINAÇÃO."
 
 msgid ""
 "<25>{#p/undyne}{#f/14}* Actually...\n"
 "* You're not the only one who's heard something."
 msgstr ""
+"<25>{#p/undyne}{#f/14}* Olha...\n"
+"* Você não é o único que escutou alguma coisa."
 
 msgid ""
 "<25>{#p/undyne}{#f/17}* I could have sworn there was something there, too."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* Eu poderia jurar que tinha algo lá, também."
 
 msgid "<18>{#p/papyrus}{#f/5}LIKE A SOUND YOU KNOW IS IN THE ROOM WITH YOU..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UM SOM QUE VOCÊ SABE QUE ESTÁ LÁ COM VOCÊ..."
 
 msgid "<18>{#p/papyrus}{#f/4}... BUT CAN'T BE CONFIRMED WITH YOUR SENSES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}... MAS NÃO PODE SER CONFIRMADO COM SENTIDOS."
 
 msgid ""
 "<25>{#p/undyne}{#f/1}* Yeah!!\n"
 "* That's the one!!"
 msgstr ""
+"<25>{#p/undyne}{#f/1}* Isso!!\n"
+"* É isso mesmo!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}MAYBE IT'S A SOUND FROM THE ORIGINS OF THE COSMOS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}TALVEZ SEJA UM SOM COM ORIGEM NO COSMO."
 
 msgid "<18>{#p/papyrus}{#f/5}A LOST CALL FROM ACROSS THE STARS..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UM CHAMADO PERDIDO VINDO DAS ESTRELAS..."
 
 msgid "<18>{#p/papyrus}{#f/5}TRACING BACK TO WHEN THE UNIVERSE BEGAN."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}VINDO DO INICÍO DO UNIVERSO."
 
 msgid "<25>{#p/undyne}{#f/17}* And if the universe HAS no beginning??"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* E se o universo não tiver começo??"
 
 msgid ""
 "<18>{#p/papyrus}{#f/1}N-NO...!!\n"
 "A CHALLENGE TO MY IMPECCABLE THEORY!"
 msgstr ""
+"<18>{#p/papyrus}{#f/1}N-NÃO...!!\n"
+"UM DESAFIO A MINHA TEORIA!"
 
 msgid "<18>{#p/papyrus}{#f/5}HOW WILL I EVER RECOVER MY LOST REPUTATION..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}COMO PODEREI RECUPERAR MINHA REPUTAÇÃO PERDIDA..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}I OFTEN WONDER WHY THE HUMANS HAD TO TRAP US HERE."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}ME PERGUNTO O PORQUE DOS HUMANOS TEREM NOS PRENDIDO "
+"AQUI."
 
 msgid "<18>{#p/papyrus}{#f/5}I GET THAT THEY WERE AFRAID OF US, BUT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EU SEI QUE ELES ESTAVAM COM MEDO DE NÓS, MAS..."
 
 msgid "<18>{#p/papyrus}{#f/6}COULDN'T THEY HAVE JUST RUN AWAY!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ELES NÃO PODERIAM TER SÓ FUGIDO!?"
 
 msgid "<18>{#p/papyrus}{#f/6}OR, EVEN BETTER, TALK TO US ABOUT IT!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}OU MELHOR, TER FEITO UM ACORDO!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}IT'S UNFORTUNATE THEY NEVER THOUGHT OF THOSE THINGS."
