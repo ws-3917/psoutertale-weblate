@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-26 23:30+0000\n"
-"PO-Revision-Date: 2025-03-09 17:32+0000\n"
+"PO-Revision-Date: 2025-03-10 13:14+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -7738,6 +7738,7 @@ msgstr "<32>{#p/human}* (Вы заигрываете с Квакушёнком.)
 
 msgid "<32>{#p/human}* (But you haven't said anything to translate yet.)"
 msgstr ""
+"<32>{#p/human}* (Но вы ничего не сказали, чтобы это можно было перевести.)"
 
 msgid ""
 "<32>{#p/human}* (You translate what you said.)\n"
@@ -7781,7 +7782,7 @@ msgid "<08>{#p/basic}{~}Hop, hop."
 msgstr "<08>{#p/basic}{~}Прыг, скок."
 
 msgid "<08>{#p/basic}{~}Meow."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Мяу."
 
 msgid "<32>{#p/story}* Froggit seems reluctant to fight you."
 msgstr ""
@@ -7811,7 +7812,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/story}* Froggit doesn't seem to know why it's here."
-msgstr ""
+msgstr "<32>{#p/story}* Квакушёнок не знает как сюда заплутал."
 
 msgid "<32>{#p/story}* Froggit hops to and fro."
 msgstr ""
@@ -7820,17 +7821,21 @@ msgid ""
 "<32>{#p/story}* FLUTTERLYTE - ATK 5 DEF 0\n"
 "* This monster has only just learned how to fly..."
 msgstr ""
+"<32>{#p/story}* ЛЕТЯГА - АТК 5 ЗЩТ 0\n"
+"* Сей монстр только научился летать..."
 
 msgid ""
 "<32>{#p/story}* FLUTTERLYTE - ATK 5 DEF 0\n"
 "* This monster wishes it had stayed on the ground."
 msgstr ""
+"<32>{#p/story}* ЛЕТЯГА - АТК 5 ЗЩТ 0\n"
+"* Сей монстр хотел бы остаться на земле."
 
 msgid "<32>{#p/human}* (You help Flutterlyte fly higher into the air.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы помогаете летяге высоко взлететь.)"
 
 msgid "<32>{#p/basic}* Flutterlyte thanks you, and flies away..."
-msgstr ""
+msgstr "<32>{#p/basic}* Летяга благодарит вас и улетает прочь..."
 
 msgid "<32>{#p/human}* (You flirt with Flutterlyte.)"
 msgstr ""
@@ -7839,80 +7844,91 @@ msgid ""
 "<32>{#p/basic}* Unable to handle your compliment, Flutterlyte bursts into "
 "tears and flies away..."
 msgstr ""
+"<32>{#p/basic}* Неспособный выдержать комплимент, летяга расплакался и "
+"улетел прочь..."
 
 msgid "<32>{#p/human}* (You weep and wail and gnash your teeth.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* Flutterlyte panicks and flies away..."
-msgstr ""
+msgstr "<32>{#p/basic}* Летяга паникует и улетает прочь..."
 
 msgid "<08>{#p/basic}{~}Why is this so hard.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Почему это так сложно..."
 
 msgid "<08>{#p/basic}{~}Please help me.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Прошу, помоги мне..."
 
 msgid "<08>{#p/basic}{~}I'm scared.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Я напуган..."
 
 msgid "<08>{#p/basic}{~}I can't do this.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Я не могу это сделать..."
 
 msgid "<08>{#p/basic}{~}\\x00*sniff sniff*"
 msgstr ""
 
 msgid "* Flutterlyte"
-msgstr ""
+msgstr "* Летяга"
 
 msgid "<32>{#p/story}* Flutterlyte is barely keeping itself in the air."
-msgstr ""
+msgstr "<32>{#p/story}* Летяга еле держит себя в воздухе."
 
 msgid "<32>{#p/story}* Flutterlyte comes forth!"
 msgstr ""
 
 msgid "<32>{#p/story}* Flutterlyte continues to mutter apologies."
-msgstr ""
+msgstr "<32>{#p/story}* Извиняясь, летяга мямлит."
 
 msgid "<32>{#p/story}* Flutterlyte hovers meekly."
-msgstr ""
+msgstr "<32>{#p/story}* Летяга смирно взлетает."
 
 msgid "<32>{#p/story}* The smell of fresh peaches permeates the air."
-msgstr ""
+msgstr "<32>{#p/story}* Запах свежих персиков наполняет воздух."
 
 msgid "<32>{#p/story}* Flutterlyte is hyperventilating."
-msgstr ""
+msgstr "<32>{#p/story}* Летяга чрезмерно дышит."
 
 msgid "<32>{#p/story}* Flutterlyte avoids eye contact."
-msgstr ""
+msgstr "<32>{#p/story}* Летяга избегает встречи взглядов."
 
 msgid ""
 "<32>{#p/story}* OCULOUX - ATK 6 DEF 6\n"
 "* Staring contest master.\n"
 "* Family name: Eyewalker"
 msgstr ""
+"<32>{#p/story}* ЗЕНИЦИЙ - АТК 6 ЗЩТ 6\n"
+"* Мастер игры в гляделки.\n"
+"* Фамилия: Айуокер."
 
 msgid ""
 "<32>{#p/story}* OCULOUX - ATK 6 DEF 6\n"
 "* This bully is trying very hard to pretend it's not flattered."
 msgstr ""
+"<32>{#p/story}* ЗЕНИЦИЙ - АТК 6 ЗЩТ 6\n"
+"* Сей задира пытается скрыть, что он польщён."
 
 msgid ""
 "<32>{#p/story}* OCULOUX - ATK 6 DEF 6\n"
 "* This monster is honored to be in your line of sight."
 msgstr ""
+"<32>{#p/story}* ЗЕНИЦИЙ - АТК 6 ЗЩТ 6\n"
+"* Сей монстр чтит быть в вашем зрительном поле."
 
 msgid ""
 "<32>{#p/human}* (You stare at Oculoux.)\n"
 "* (Oculoux stares back harder.)"
 msgstr ""
+"<32>{#p/human}* (Вы смотрите на зениция.)\n"
+"* (Зениций глядит с напряжением.)"
 
 msgid ""
 "<32>{#p/human}* (Oculoux's eye becomes increasingly strained, and "
 "eventually...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Око зениция чрезмерно напряжено, а поэтому...)"
 
 msgid "<32>{#p/human}* (... Oculoux bows.)"
-msgstr ""
+msgstr "<32>{#p/human}* (... зениций моргает.)"
 
 msgid "<32>{#p/human}* (You flirt with Oculoux.)"
 msgstr ""
@@ -7921,7 +7937,7 @@ msgid "<32>{#p/human}* (You rudely lecture Oculoux about staring at people.)"
 msgstr ""
 
 msgid "<08>{#p/basic}{~}Do you dare to stare?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Как ты смеешь глазеть?"
 
 msgid "<08>{#p/basic}{~}Look who changed their mind."
 msgstr ""
@@ -7944,25 +7960,25 @@ msgid "<32>{#p/story}* Oculoux is watering."
 msgstr ""
 
 msgid "<08>{#p/basic}{~}I've got my eye on you."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Я не свожу с тебя глаз."
 
 msgid "<08>{#p/basic}{~}Don't tell me what to do."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Не учи меня как жить."
 
 msgid "<08>{#p/basic}{~}Staring is caring."
 msgstr ""
 
 msgid "<08>{#p/basic}{~}What an eyesore."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Что за песчинка в глазу."
 
 msgid "<08>{#p/basic}{~}How about a staring contest?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Что насчёт гляделок?"
 
 msgid "* Oculoux"
-msgstr ""
+msgstr "* Зениций"
 
 msgid "<08>{#p/basic}{~}How dare you question our way of life!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Как ты смеешь усомниться в наших взглядах на жизнь!"
 
 msgid "<32>{#p/story}* Oculoux doesn't care about fighting anymore."
 msgstr ""
@@ -7980,7 +7996,7 @@ msgid "<32>{#p/story}* Smells like eyedrops."
 msgstr ""
 
 msgid "<32>{#p/story}* Oculoux has gone bloodshot."
-msgstr ""
+msgstr "<32>{#p/story}* Зениций налился кровью."
 
 msgid "<32>{#p/story}* Oculoux is gazing at you."
 msgstr ""
