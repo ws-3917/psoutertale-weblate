@@ -299,7 +299,7 @@ msgid "<25>{#f/23}* ... begged... for help..."
 msgstr "<25>{#f/23}* 我竭力呼喊..."
 
 msgid "<25>{#f/7}* ..."
-msgstr "<25>{#f/7}* ..."
+msgstr "<25>{#f/7}* ...ゑ"
 
 msgid "<25>{#f/6}* ... nobody came."
 msgstr "<25>{#f/6}* ...但是誰也沒有來。"
@@ -4130,7 +4130,7 @@ msgstr ""
 "  哈-哈啊？"
 
 msgid "<25>{#g/alphysNeutralSweat}* ..."
-msgstr "<25>{#g/alphysNeutralSweat}* ..."
+msgstr "<25>{#g/alphysNeutralSweat}* ...ゑ"
 
 msgid "<25>{#g/alphysIDK2}* I guess you'll be going to meet ASGORE."
 msgstr "<25>{#g/alphysIDK2}* 我猜你要去見ASGORE了。"
@@ -4907,7 +4907,7 @@ msgstr ""
 "  找到第三條路的。"
 
 msgid "<25>{#f/3}* ..."
-msgstr "<25>{#f/3}* ..."
+msgstr "<25>{#f/3}* ...ゑ"
 
 msgid "<25>{#f/0}* good luck, buddo."
 msgstr "<25>{#f/0}* 加油，孩子。"
@@ -5967,7 +5967,7 @@ msgid "<25>{#f/0}* i mean, i can't even see your face."
 msgstr "<25>{#f/0}* 更摸不透你的心思。"
 
 msgid "<25>* ..."
-msgstr "<25>* ..."
+msgstr "<25>* ...ゑ"
 
 msgid "<25>{#f/3}* maybe that's for the best."
 msgstr "<25>{#f/3}* 這樣也好。"
@@ -6272,7 +6272,7 @@ msgstr ""
 "  把怪物們全殺了？"
 
 msgid "<25>{#f/5}* ..."
-msgstr "<25>{#f/5}* ..."
+msgstr "<25>{#f/5}* ...ゑ"
 
 msgid ""
 "<26>{#f/16}* Regardless.\n"
@@ -7279,7 +7279,7 @@ msgstr ""
 "  Frisk。"
 
 msgid "<25>{#f/22}* ..."
-msgstr "<25>{#f/22}* ..."
+msgstr "<25>{#f/22}* ...ゑ"
 
 msgid "<25>{#f/13}* It's strange..."
 msgstr "<25>{#f/13}* 很奇怪..."
@@ -9434,7 +9434,7 @@ msgstr ""
 "  我一句都沒聽懂..."
 
 msgid "<25>{#p/alphys}{#g/alphysWelp}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysWelp}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysWelp}* ...ゑ"
 
 msgid "<25>{#p/alphys}{#g/alphysWelp}* I get that a lot."
 msgstr ""
@@ -10150,7 +10150,7 @@ msgid ""
 "<25>{#p/asriel1}{#f/13}* That was after they'd begged for it for two years."
 msgstr ""
 "<25>{#p/asriel1}{#f/13}* 為了這玩意，\n"
-"  那傢伙苦苦哀求了\n"
+"  那夥計苦苦哀求了\n"
 "  兩年之久。"
 
 msgid "<32>{#p/basic}* You really wouldn't like what's in the fridge."
@@ -11183,7 +11183,7 @@ msgstr ""
 "  你做那種事。"
 
 msgid "<25>{#p/alphys}{#g/alphysFR}* ..."
-msgstr "<25>{#p/alphys}{#g/alphysFR}* ..."
+msgstr "<25>{#p/alphys}{#g/alphysFR}* ...ゑ"
 
 msgid ""
 "<32>{#p/basic}* {@mystify=Ribbit}Ribbit{@mystify=}, "
@@ -15116,7 +15116,7 @@ msgstr ""
 "* 我們一起上！"
 
 msgid "<32>{#p/story}* ..."
-msgstr "<32>{#p/story}* ..."
+msgstr "<32>{#p/story}* ...ゑ"
 
 msgid "<32>{#p/story}* A faint resonance echoes from within Asriel's body."
 msgstr ""

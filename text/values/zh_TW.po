@@ -249,7 +249,7 @@ msgstr ""
 "我的孩子。"
 
 msgid "Really..."
-msgstr "真的嗎..."
+msgstr "認真的嗎..."
 
 msgid "Nice try, idiot."
 msgstr "想得美，蠢貨。"

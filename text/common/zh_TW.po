@@ -4395,7 +4395,7 @@ msgstr ""
 "  誰啊？"
 
 msgid "<25>{#p/alphys}{#f/21}* ..."
-msgstr "<25>{#p/alphys}{#f/21}* ..."
+msgstr "<25>{#p/alphys}{#f/21}* ...ゑ"
 
 msgid "<25>{#p/alphys}{#f/21}* So it's you."
 msgstr "<25>{#p/alphys}{#f/21}* 原來是你。"
@@ -4519,7 +4519,7 @@ msgstr ""
 "  死去............"
 
 msgid "<32>{#p/napstablook}* ..............."
-msgstr "<32>{#p/napstablook}* ..............."
+msgstr "<32>{#p/napstablook}* ...............ゑ"
 
 msgid ""
 "<32>{#p/napstablook}* as it turns out, though, a lot of people felt the same"
@@ -4744,7 +4744,7 @@ msgstr ""
 "  逃出前哨站......"
 
 msgid "<32>{#p/napstablook}* ........."
-msgstr "<32>{#p/napstablook}* ........."
+msgstr "<32>{#p/napstablook}* .........ゑ"
 
 msgid ""
 "<32>{#p/napstablook}* our group vows to hunt you down and make sure you pay "
@@ -5236,7 +5236,7 @@ msgstr ""
 "  也蠻合適的。"
 
 msgid "<32>{#p/mettaton}* ..."
-msgstr "<32>{#p/mettaton}* ..."
+msgstr "<32>{#p/mettaton}* ...ゑ"
 
 msgid "<32>{#p/mettaton}* WHAT A SHAME..."
 msgstr "<32>{#p/mettaton}* 可悲..."
@@ -8445,7 +8445,7 @@ msgid "<32>{#p/basic}* Oh, it's just you."
 msgstr "<32>{#p/basic}* 喔，原來是你。"
 
 msgid "<32>{#p/basic}* ..."
-msgstr "<32>{#p/basic}* ..."
+msgstr "<32>{#p/basic}* ...ゑ"
 
 msgid "<32>{#p/basic}* Wait, who are you talking to!?"
 msgstr ""
@@ -17427,7 +17427,7 @@ msgid "<25>{#p/kidd}{#f/4}* And they're gone..."
 msgstr "<25>{#p/kidd}{#f/4}* 消失了..."
 
 msgid "<25>{#p/kidd}{#f/4}* ..."
-msgstr "<25>{#p/kidd}{#f/4}* ..."
+msgstr "<25>{#p/kidd}{#f/4}* ...ゑ"
 
 msgid "<32>* They seemed really scared..."
 msgstr "<32>* 對手好像嚇壞了..."
