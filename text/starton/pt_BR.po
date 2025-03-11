@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-11 14:27+0000\n"
+"PO-Revision-Date: 2025-03-11 14:27+0000\n"
+"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
+"ps-outertale/2-starton/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -5909,8 +5924,6 @@ msgstr "OPA!"
 msgid "SAVE YOURSELVES..."
 msgstr "SALVEM-SE..."
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr "FALHA AO CONECTAR..."
@@ -24108,9 +24121,10 @@ msgstr ""
 msgid ""
 "<18>{#p/papyrus}{#f/5}I LIKE THE MUSIC, BUT HAVING TO USE THEM IS A PAIN."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}EU GOSTO DA MÚSICA, MAS TER QUE USA-LOS É UMA TORTURA."
 
 msgid "<18>{#p/papyrus}{#f/4}I DO ACKNOWLEDGE THEIR NECESSITY, THOUGH."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}MAS EU ENTENDO NA NECESSIDADE DELES."
 
 msgid ""
 "<25>{#p/undyne}{#f/1}* Well, just be glad you don't live in a spire house, "
