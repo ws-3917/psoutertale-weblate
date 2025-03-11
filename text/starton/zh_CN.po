@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-11 15:45+0000\n"
-"PO-Revision-Date: 2025-03-11 15:45+0000\n"
+"PO-Revision-Date: 2025-03-11 15:54+0000\n"
 "Last-Translator: braing <3313576509@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/2-starton/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.10.1\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -84,7 +82,9 @@ msgstr "<25>{#f/1}* 我猜他真的很喜欢我，哈哈。"
 
 msgid ""
 "<25>{#p/kidd}{#f/3}* Anyway, I kinda just wanted to give you the voucher."
-msgstr "<25>{#p/kidd}{#f/3}* 总之，我刚才给了你一张券。"
+msgstr ""
+"<25>{#p/kidd}{#f/3}* 总之，希望你\n"
+"  能用我给你的那张券。"
 
 msgid "<25>{#f/1}* I hope you see something cool with it, though!"
 msgstr "<25>{#f/1}* 希望你能看到更酷的东西！"
@@ -1026,7 +1026,7 @@ msgid ""
 "<32>* \"A powerful force field was erected, and the monsters were sealed "
 "in.\""
 msgstr ""
-"<32>* “一个强大的力场被建立了起来，\n"
+"<32>* “一个强大的力场被建立起来，\n"
 "   怪物们被困在其中。”"
 
 msgid "<32>* Well, that's the story."
@@ -6598,7 +6598,6 @@ msgstr "哈喽！"
 
 msgid "SAVE YOURSELVES..."
 msgstr "自求多福吧..."
-
 
 msgid "FAILED TO CONNECT..."
 msgstr "网络连接失败..."
