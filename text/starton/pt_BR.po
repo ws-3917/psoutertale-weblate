@@ -24205,6 +24205,8 @@ msgid ""
 "<25>{#p/undyne}{#f/14}* Could it be summed up as \"I had no idea what I was "
 "doing?\""
 msgstr ""
+"<25>{#p/undyne}{#f/14}* O título seria "
+"\"Eu não fazia ideia do que tava fazendo?\""
 
 msgid "<18>{#p/papyrus}{#f/7}HEY, I -ALWAYS- KNOW WHAT I'M DOING!"
 msgstr ""
