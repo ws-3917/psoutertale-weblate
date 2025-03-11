@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-11 14:27+0000\n"
-"PO-Revision-Date: 2025-03-11 14:27+0000\n"
+"PO-Revision-Date: 2025-03-11 14:29+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -5923,7 +5921,6 @@ msgstr "OPA!"
 
 msgid "SAVE YOURSELVES..."
 msgstr "SALVEM-SE..."
-
 
 msgid "FAILED TO CONNECT..."
 msgstr "FALHA AO CONECTAR..."
@@ -24130,21 +24127,24 @@ msgid ""
 "<25>{#p/undyne}{#f/1}* Well, just be glad you don't live in a spire house, "
 "then."
 msgstr ""
+"<25>{#p/undyne}{#f/1}* Olha, estou feliz que você não vive em uma casa "
+"espiral."
 
 msgid "<18>{#p/papyrus}{#f/5}HOW COME?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}PORQUÊ?"
 
 msgid "<25>{#p/undyne}{#f/17}* Elevators EVERYWHERE."
 msgstr ""
+"<25>{#p/undyne}{#f/17}* Lá só da pra andar em elevadores, são muito grandes."
 
 msgid "<18>{#p/papyrus}{#f/6}N-NO...!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}N-NÃO...!"
 
 msgid "<25>{#p/undyne}{#f/7}* And they're not even NECESSARY."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/7}* Olha, nem acho tão necessários."
 
 msgid "<18>{#p/papyrus}{#f/8}IT CAN'T BE...!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/8}NÃO PODEM SER...!"
 
 msgid "<25>{#p/undyne}{#f/8}* AND THEY DON'T EVEN HAVE MUSIC!!!"
 msgstr ""
