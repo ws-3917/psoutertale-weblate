@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 5.10.1\n"
 
 #
-
 msgid "<32>{#p/basic}* ..."
 msgstr "<32>{#p/basic}* ...ゑ"
 
@@ -2709,8 +2708,9 @@ msgstr ""
 msgid ""
 "<25>{#f/15}* From what I can see, though, it's our best way forward for now."
 msgstr ""
-"<25>{#f/15}* 依我来看，我们早已\n"
-"  无处可退，只能继续前进。"
+"<25>{#f/15}* 不过依我看，\n"
+"  我们无路可退，\n"
+"  只能继续前进了。"
 
 msgid "<25>{#f/16}* Let's just stick to the script, okay?"
 msgstr "<25>{#f/16}* 让我们坚持下去，好吗？"
