@@ -2513,13 +2513,13 @@ msgid "AERIALIS (ARCHIVE)"
 msgstr "空境（檔案內）"
 
 msgid "CORE (IN BATTLE)"
-msgstr ""
+msgstr "核心（戰鬥內）"
 
 msgid "ASRIEL BATTLE"
 msgstr "ASRIEL戰"
 
 msgid "BRIGHT GALAXY"
-msgstr ""
+msgstr "璀璨星空"
 
 msgid "NEW WORLD"
 msgstr "新家園"
