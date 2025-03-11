@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-11 14:27+0000\n"
-"PO-Revision-Date: 2025-03-11 14:29+0000\n"
+"PO-Revision-Date: 2025-03-11 14:45+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/2-starton/pt_BR/>\n"
@@ -24110,10 +24110,10 @@ msgstr ""
 "<18>{#p/papiro}{#f/4}... QUANDO VI A FALTA DE UM OUTDOOR BREGA POR PERTO."
 
 msgid "<25>{#p/undyne}{#f/17}* So do you LIKE using elevators or NOT?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* Então você GOSTA de usar elevadores ou NÃO?"
 
 msgid "<18>{#p/papyrus}{#f/6}WELL..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}BEM..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}I LIKE THE MUSIC, BUT HAVING TO USE THEM IS A PAIN."
@@ -24147,53 +24147,59 @@ msgid "<18>{#p/papyrus}{#f/8}IT CAN'T BE...!"
 msgstr "<18>{#p/papyrus}{#f/8}NÃO PODEM SER...!"
 
 msgid "<25>{#p/undyne}{#f/8}* AND THEY DON'T EVEN HAVE MUSIC!!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/8}* E ELES NEM TEM MÚSICA!!!"
 
 msgid "<18>{#p/papyrus}{#f/1}IT'S UNFATHOMABLE!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}É INSONDÁVEL!"
 
 msgid "<18>{#p/papyrus}{#f/4}IF ONLY THERE WAS A BETTER WAY TO GET AROUND."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}SE PELO MENOS HOUVESSE OUTRA FORMA DE ANDAR POR AÍ."
 
 msgid "<18>{#p/papyrus}{#f/0}... OH WAIT, THERE TOTALLY IS!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}... EI, ESPERA, PIOR QUE TEM!"
 
 msgid "<18>{#p/papyrus}{#f/9}LIFTGATES!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}OS PORTAIS LEVITADORES!!!"
 
 msgid "<18>{#p/papyrus}{#f/5}AN ELEVATOR WITHOUT MUSIC IS LIKE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UM ELEVADOR SEM MÚSICA É TIPO..."
 
 msgid "<18>{#p/papyrus}{#f/5}A PLATE OF SPAGHETTI WITHOUT MARINARA SAUCE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UM PRATO DE ESPAGUETE SEM MOLHO MARINARA."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}OR ALFREDO SAUCE, IF YOU HAPPEN TO BE MY BROTHER."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}OU MOLHO VERDE, SE VOCÊ FOR O MEU IRMÃO."
 
 msgid "<18>{#p/papyrus}{#f/4}... AND PEOPLE SAY I'M THE WEIRD ONE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}... E AS PESSOAS DIZEM QUE EU SOU O ESQUISITO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}WHAT HAPPENS TO A SKELETON WHO WALKS THROUGH SECURITY?"
 msgstr ""
+"<18>{#p/papyrus}{#f/0}O QUE ACONTECE COM O ESQUELETO QUE PASSA PELA "
+"SEGURANÇA?"
 
 msgid ""
 "<19>{#p/papyrus}{#f/4}... OH YEAH.\n"
 "HE GETS ELECTROCUTED."
 msgstr ""
+"<19>{#p/papyrus}{#f/4}... OH CERTO.\n"
+"ELE É ELETROCUTADO."
 
 msgid "<18>{#p/papyrus}{#f/6}JUST LIKE I WAS, THE FIRST TIME I CAME HERE!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}FOI ISSO QUE ACONTECEU COMIGO, QUANDO EU VIM AQUI!"
 
 msgid "<25>{#p/undyne}{#f/1}* Sounds like quite the story you've got there."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/1}* Parece ser uma historia e tanto que você tem."
 
 msgid "<18>{#p/papyrus}{#f/4}OH, IT WAS QUITE A STORY, ALRIGHT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}OH, É UMA HISTORIA MESMO, CLARO..."
 
 msgid "<18>{#p/papyrus}{#f/5}JUST NOT A VERY GOOD ONE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}POREM NÃO UM MUITO BOA."
 
 msgid ""
 "<25>{#p/undyne}{#f/14}* Could it be summed up as \"I had no idea what I was "
