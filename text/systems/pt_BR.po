@@ -771,9 +771,6 @@ msgstr "Alden"
 msgid "Aspey"
 msgstr "Aspey"
 
-msgid "blue"
-msgstr "blue"
-
 msgid "Brad"
 msgstr "Brad"
 
@@ -2530,8 +2527,14 @@ msgstr "FOUNDRY (ARQUIVO)"
 msgid "AERIALIS (ARCHIVE)"
 msgstr "AERIALIS (ARQUIVO)"
 
+msgid "CORE (IN BATTLE)"
+msgstr ""
+
 msgid "ASRIEL BATTLE"
 msgstr "BATALHA DE ASRIEL"
+
+msgid "BRIGHT GALAXY"
+msgstr ""
 
 msgid "NEW WORLD"
 msgstr "NOVO MUNDO"

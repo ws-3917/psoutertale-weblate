@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-23 15:12+0000\n"
-"PO-Revision-Date: 2025-02-26 13:12+0000\n"
-"Last-Translator: Chicken <isazacek08@gmail.com>\n"
-"Language-Team: Czech <https://ws3917.hbms.me/projects/ps-outertale/"
-"1-outlands/cs/>\n"
-"Language: cs_CZ\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9.2\n"
 
-#
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -101,7 +88,8 @@ msgstr "<25>{#f/1}* A... nejsou to zvláštní jídla pro takové nové rekruty?
 
 msgid "<25>{#p/toriel}{#f/0}* I hear you have appeared on TV, little one."
 msgstr ""
-"<25>{#p/toriel}{#f/0}* Slyšela jsem, že jste se objevili v televizi, maličká."
+"<25>{#p/toriel}{#f/0}* Slyšela jsem, že jste se objevili v televizi, "
+"maličká."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* I hear you have appeared on TV again, little one."
@@ -223,7 +211,8 @@ msgstr ""
 
 msgid "<25>{#f/1}* They say their cousin tried to ask for your help, but..."
 msgstr ""
-"<25>{#f/1}* Říkají, že jejich bratranec se tě snažili požádat o pomoc, ale..."
+"<25>{#f/1}* Říkají, že jejich bratranec se tě snažili požádat o pomoc, "
+"ale..."
 
 msgid "<25>{#f/5}* You were unavailable at the time."
 msgstr "<25>{#f/5}* V té době jste nebyli k dispozici."
@@ -3094,11 +3083,13 @@ msgid ""
 "<25>{#p/twinkly}{#f/11}{#v/0}* But what about the one you DID get in the way"
 " of, huh?"
 msgstr ""
-"<25>{#p/twinkly}{#f/11}{#v/0}* Ale co ten, kterému jste TY stáli v cestě, co?"
+"<25>{#p/twinkly}{#f/11}{#v/0}* Ale co ten, kterému jste TY stáli v cestě, "
+"co?"
 
 msgid ""
 "<25>{#p/twinkly}{#f/11}{#v/0}* But what about the one you DIDN'T spare, huh?"
-msgstr "<25>{#p/twinkly}{#f/11}{#v/0}* Ale co ten, kterého jste NEŠETŘILI, co?"
+msgstr ""
+"<25>{#p/twinkly}{#f/11}{#v/0}* Ale co ten, kterého jste NEŠETŘILI, co?"
 
 msgid ""
 "<25>{#f/5}{#v/0}* The one you killed could've been someone else's Toriel."
@@ -7533,7 +7524,8 @@ msgid "<25>* And make it to the Citadel!"
 msgstr "<25>* A dostaňme se do Citadely!"
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was finish off the guards..."
-msgstr "<25>{#f/6}{#v/0}* Jediné, co jsme museli udělat, bylo dorazit stráže..."
+msgstr ""
+"<25>{#f/6}{#v/0}* Jediné, co jsme museli udělat, bylo dorazit stráže..."
 
 msgid "<25>* And get through the Citadel!"
 msgstr "<25>* A projděme Citadelou!"
@@ -7544,7 +7536,8 @@ msgstr ""
 "robota..."
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was get through the Citadel!"
-msgstr "<25>{#f/6}{#v/0}* Jediné, co jsme museli udělat, bylo projít Citadelou!"
+msgstr ""
+"<25>{#f/6}{#v/0}* Jediné, co jsme museli udělat, bylo projít Citadelou!"
 
 msgid "<25>{#f/6}{#v/0}* All we had to do was KILL that nerdy trashbag!"
 msgstr ""

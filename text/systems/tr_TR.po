@@ -754,9 +754,6 @@ msgstr ""
 msgid "Aspey"
 msgstr ""
 
-msgid "blue"
-msgstr ""
-
 msgid "Brad"
 msgstr ""
 
@@ -2509,8 +2506,14 @@ msgstr "DÖKÜMHANE (ARŞİV)"
 msgid "AERIALIS (ARCHIVE)"
 msgstr "AERİALİS (ARŞİV)"
 
+msgid "CORE (IN BATTLE)"
+msgstr ""
+
 msgid "ASRIEL BATTLE"
 msgstr "ASRİEL SAVAŞI"
+
+msgid "BRIGHT GALAXY"
+msgstr ""
 
 msgid "NEW WORLD"
 msgstr "YENİ GEZEGEN"

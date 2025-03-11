@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-23 15:12+0000\n"
-"PO-Revision-Date: 2025-02-24 01:19+0000\n"
-"Last-Translator: Chicken <isazacek08@gmail.com>\n"
-"Language-Team: Czech <https://ws3917.hbms.me/projects/ps-outertale/0-systems/"
-"cs/>\n"
-"Language: cs_CZ\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9.2\n"
 
-#
 msgid "(You take a deep breath.)"
 msgstr "(Zhluboka se nadechnete.)"
 
@@ -628,6 +615,9 @@ msgstr "§fill=#ff0§< VÝVOJÁŘ >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
+msgid ""
+msgstr ""
+
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< SPISOVATEL >§fill=#fff§"
 
@@ -762,9 +752,6 @@ msgstr "Alden"
 
 msgid "Aspey"
 msgstr "Aspey"
-
-msgid "blue"
-msgstr "blue"
 
 msgid "Brad"
 msgstr "Brad"
@@ -2518,8 +2505,14 @@ msgstr "FOUNDRY (ARCHIV)"
 msgid "AERIALIS (ARCHIVE)"
 msgstr "AERIALIS (ARCHIV)"
 
+msgid "CORE (IN BATTLE)"
+msgstr ""
+
 msgid "ASRIEL BATTLE"
 msgstr "ASRIEL BITVA"
+
+msgid "BRIGHT GALAXY"
+msgstr ""
 
 msgid "NEW WORLD"
 msgstr "NOVÝ SVĚT"
@@ -2639,8 +2632,8 @@ msgid ""
 "§fill=#ffd700§>> §fill=#fff§EDITING: §fill=#00ffff§$(x) §fill=#808080§(Press"
 " [R] to reset)"
 msgstr ""
-"§fill=#ffd700§>> §fill=#fff§EDITING: §fill=#00ffff§$(x) §fill=#808080§("
-"Stiskni [R] pro reset)"
+"§fill=#ffd700§>> §fill=#fff§EDITING: §fill=#00ffff§$(x) "
+"§fill=#808080§(Stiskni [R] pro reset)"
 
 msgid "§fill=#fff§PROGRESS: §fill=#00ffff§($(x)§fill=#fff§/§fill=#00ffff§3)"
 msgstr "§fill=#fff§PROGRESS: §fill=#00ffff§($(x)§fill=#fff§/§fill=#00ffff§3)"

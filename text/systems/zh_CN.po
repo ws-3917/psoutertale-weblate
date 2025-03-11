@@ -757,9 +757,6 @@ msgstr "Alden"
 msgid "Aspey"
 msgstr "Aspey"
 
-msgid "blue"
-msgstr "blue"
-
 msgid "Brad"
 msgstr "Brad"
 
@@ -2515,8 +2512,14 @@ msgstr "铸厂（档案内）"
 msgid "AERIALIS (ARCHIVE)"
 msgstr "空境（档案内）"
 
+msgid "CORE (IN BATTLE)"
+msgstr ""
+
 msgid "ASRIEL BATTLE"
 msgstr "ASRIEL战"
+
+msgid "BRIGHT GALAXY"
+msgstr ""
 
 msgid "NEW WORLD"
 msgstr "新家园"
