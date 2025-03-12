@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-12 16:16+0000\n"
-"PO-Revision-Date: 2025-03-12 16:16+0000\n"
+"PO-Revision-Date: 2025-03-12 16:20+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
 msgstr "<32>{#p/human}* (O terminal está acima do seu nível de acesso.)"
 
@@ -8790,7 +8788,6 @@ msgstr ""
 msgid "<32>{#p/human}* (Where would you like to go?)"
 msgstr "<32>{#p/human}* (Onde você gostaria de ir?)"
 
-
 msgid "Floor L1"
 msgstr "Piso L1"
 
@@ -14052,38 +14049,42 @@ msgstr ""
 "<32>{#p/basic}* Eu teria dito mais pra ela lá atrás, mas ao mesmo tempo..."
 
 msgid "<32>{#p/basic}* ... would it really have made any difference?"
-msgstr ""
+msgstr "<32>{#p/basic}* ... isso teria realmente feito alguma diferença?"
 
 msgid "<25>{#p/sans}* look at that, you even brought a drink."
-msgstr ""
+msgstr "<25>{#p/sans}* olha só, você até trouxe uma bebida."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* don't worry.\n"
 "* i already had mine at the counter."
 msgstr ""
+"<25>{#p/sans}{#f/2}* não se preocupa.\n"
+"* eu já comi a minha no balcão."
 
 msgid "<25>{#p/sans}* now we're talking."
-msgstr ""
+msgstr "<25>{#p/sans}* agora estamos conversando direito."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* don't worry.\n"
 "* i already had my food at the counter."
 msgstr ""
+"<25>{#p/sans}{#f/2}* não se preocupa.\n"
+"* eu já comi a minha no balcão."
 
 msgid "<25>{#f/0}* anyway, like i was saying..."
-msgstr ""
+msgstr "<25>{#f/0}* de toda forma, como eu estava dizendo..."
 
 msgid "<25>{#f/3}* this woman was under a lot of stress."
-msgstr ""
+msgstr "<25>{#f/3}* está mulher estava sobre muito estresse."
 
 msgid "<25>{#f/0}* so i asked her..."
-msgstr ""
+msgstr "<25>{#f/0}* então eu a perguntei..."
 
 msgid "<25>{#f/2}* \"wanna know what a skeleton does to pass the time?\""
-msgstr ""
+msgstr "<25>{#f/2}* \"quer saber o que um esqueleto faz para passar o tempo?\""
 
 msgid "<32>{#p/soriel}* \"What do they do?\""
-msgstr ""
+msgstr "<32>{#p/soriel}* \"O ele faz?\""
 
 msgid "<25>{#p/sans}{#f/2}* i then proceeded to play a tune on my trombone."
 msgstr ""
