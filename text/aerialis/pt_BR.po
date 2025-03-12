@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-12 16:16+0000\n"
-"PO-Revision-Date: 2025-03-12 16:22+0000\n"
+"PO-Revision-Date: 2025-03-12 22:57+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
@@ -14097,23 +14097,23 @@ msgstr ""
 "<25>{#f/0}* ... aquela noite acabou sendo uma das melhores que já tivemos."
 
 msgid "<25>{#f/0}* fast-forward to today, and well..."
-msgstr ""
+msgstr "<25>{#f/0}* em bom tempo se passou e bem..."
 
 msgid "<25>{#f/2}* i've mostly just been watching over you."
-msgstr ""
+msgstr "<25>{#f/2}* eu basicamente estive te vigiando."
 
 msgid ""
 "<25>{#f/0}* but hey, i'd say i'm doing a pretty good job, wouldn't you?"
-msgstr ""
+msgstr "<25>{#f/0}* mas ei, eu tenho feito um ótimo trabalho. não é mesmo?"
 
 msgid "<25>{#f/3}* i mean, look at yourself..."
-msgstr ""
+msgstr "<25>{#f/3}* quer dizer, olha só pra você..."
 
 msgid "<25>{#f/0}* you haven't died a single time."
-msgstr ""
+msgstr "<25>{#f/0}* você não morreu uma única vez."
 
 msgid "<25>{#f/0}* hey, what's that look supposed to mean?"
-msgstr ""
+msgstr "<25>{#f/0}* ei, que olhada é essa?"
 
 msgid "<25>{#f/2}* am i wrong...?"
 msgstr ""
