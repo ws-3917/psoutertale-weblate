@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-12 10:02+0000\n"
-"PO-Revision-Date: 2025-03-12 10:02+0000\n"
+"PO-Revision-Date: 2025-03-12 10:12+0000\n"
 "Last-Translator: braing <3313576509@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/2-starton/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.10.1\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -942,8 +940,8 @@ msgid ""
 "<32>* \"At first, the monsters were only visitors, soon to return to their "
 "own star system.\""
 msgstr ""
-"<32>* “起初，怪物们只是造访了一下，\n"
-"   不久就回到了他们自己的星系。”"
+"<32>* “起初，怪物们只是想要\n"
+"   造访一下人类的星系。”"
 
 msgid ""
 "<32>* \"But the monsters became fascinated by humanity, and wanted to co-"
@@ -6600,7 +6598,6 @@ msgstr "哈喽！"
 
 msgid "SAVE YOURSELVES..."
 msgstr "自求多福吧..."
-
 
 msgid "FAILED TO CONNECT..."
 msgstr "网络连接失败..."
