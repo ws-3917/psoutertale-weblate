@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-12 10:02+0000\n"
+"PO-Revision-Date: 2025-03-12 10:02+0000\n"
+"Last-Translator: braing <3313576509@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/ps-outertale/2-starton/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.1\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -74,9 +89,7 @@ msgstr ""
 "  我留着也没用，就送你一张。"
 
 msgid "<25>{#f/1}* I hope you see something cool with it, though!"
-msgstr ""
-"<25>{#f/1}* 希望你能用这卡\n"
-"  看到更酷的东西！"
+msgstr "<25>{#f/1}* 来看到更酷的东西！"
 
 msgid "<25>{#p/kidd}{#f/1}* I'll be in town!"
 msgstr "<25>{#p/kidd}{#f/1}* 我要回镇上了！"
@@ -6588,8 +6601,6 @@ msgstr "哈喽！"
 msgid "SAVE YOURSELVES..."
 msgstr "自求多福吧..."
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr "网络连接失败..."
