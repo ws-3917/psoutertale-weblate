@@ -2,8 +2,8 @@
     "Discord_Controller": {
         "State": "[Hypoaster埋头工作中]",
         "Details": "* 多来点猜想吧！！",
-        "LargeText": "",
-        "SmallText": ""
+        "LargeText": "三角符文 - 猜想",
+        "SmallText": "在unity编辑器中，没有泄漏！嘻嘻！"
     },
     "GonerMenu_Settings_RevertKeybindings": {
         "SettingText.text": "-- 恢复为默认 --"
