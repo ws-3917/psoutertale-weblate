@@ -2466,23 +2466,41 @@ msgstr ""
 msgid "OUTLANDS"
 msgstr "OUTLANDS"
 
+msgid "OUTLANDS (BATTLE)"
+msgstr ""
+
 msgid "TORIEL HOME"
 msgstr ""
 
 msgid "STARTON"
 msgstr "STARTON"
 
+msgid "STARTON (BATTLE)"
+msgstr ""
+
 msgid "FOUNDRY"
 msgstr "FOUNDRY"
+
+msgid "FOUNDRY (BATTLE)"
+msgstr ""
 
 msgid "AERIALIS"
 msgstr "AERIALIS"
 
+msgid "AERIALIS (BATTLE)"
+msgstr ""
+
 msgid "REC CENTER"
 msgstr "REC CENTRUM"
 
+msgid "REC CENTER (BATTLE)"
+msgstr ""
+
 msgid "CORE"
 msgstr "JÁDRO"
+
+msgid "CORE (BATTLE)"
+msgstr ""
 
 msgid "CITADEL"
 msgstr "CITADEL"
@@ -2493,21 +2511,6 @@ msgstr ""
 msgid "ARCHIVE SIX"
 msgstr "ARCHIV ŠEST"
 
-msgid "OUTLANDS (ARCHIVE)"
-msgstr "OUTLANDS (ARCHIV)"
-
-msgid "STARTON (ARCHIVE)"
-msgstr "STARTON (ARCHIV)"
-
-msgid "FOUNDRY (ARCHIVE)"
-msgstr "FOUNDRY (ARCHIV)"
-
-msgid "AERIALIS (ARCHIVE)"
-msgstr "AERIALIS (ARCHIV)"
-
-msgid "CORE (IN BATTLE)"
-msgstr ""
-
 msgid "ASRIEL BATTLE"
 msgstr "ASRIEL BITVA"
 
@@ -2516,6 +2519,9 @@ msgstr ""
 
 msgid "NEW WORLD"
 msgstr "NOVÝ SVĚT"
+
+msgid "NEW WORLD (WITH CUP)"
+msgstr ""
 
 msgid "§fill=#808080§(LOCKED)"
 msgstr "§fill=#808080§(ZAMČENO)"

@@ -2467,23 +2467,41 @@ msgstr "YILDIZLI"
 msgid "OUTLANDS"
 msgstr ""
 
+msgid "OUTLANDS (BATTLE)"
+msgstr ""
+
 msgid "TORIEL HOME"
 msgstr "TORİEL'İN EVİ"
 
 msgid "STARTON"
 msgstr ""
 
+msgid "STARTON (BATTLE)"
+msgstr ""
+
 msgid "FOUNDRY"
 msgstr "DÖKÜMHANE"
 
+msgid "FOUNDRY (BATTLE)"
+msgstr ""
+
 msgid "AERIALIS"
+msgstr ""
+
+msgid "AERIALIS (BATTLE)"
 msgstr ""
 
 msgid "REC CENTER"
 msgstr "EĞ MERKEZİ"
 
+msgid "REC CENTER (BATTLE)"
+msgstr ""
+
 msgid "CORE"
 msgstr "ÇEKİRDEK"
+
+msgid "CORE (BATTLE)"
+msgstr ""
 
 msgid "CITADEL"
 msgstr "HİSAR"
@@ -2494,21 +2512,6 @@ msgstr "ASGORE'UN EVİ"
 msgid "ARCHIVE SIX"
 msgstr "ARŞİV ALTI"
 
-msgid "OUTLANDS (ARCHIVE)"
-msgstr "OUTLANDS (ARŞİV)"
-
-msgid "STARTON (ARCHIVE)"
-msgstr "STARTON (ARŞİV)"
-
-msgid "FOUNDRY (ARCHIVE)"
-msgstr "DÖKÜMHANE (ARŞİV)"
-
-msgid "AERIALIS (ARCHIVE)"
-msgstr "AERİALİS (ARŞİV)"
-
-msgid "CORE (IN BATTLE)"
-msgstr ""
-
 msgid "ASRIEL BATTLE"
 msgstr "ASRİEL SAVAŞI"
 
@@ -2517,6 +2520,9 @@ msgstr ""
 
 msgid "NEW WORLD"
 msgstr "YENİ GEZEGEN"
+
+msgid "NEW WORLD (WITH CUP)"
+msgstr ""
 
 msgid "§fill=#808080§(LOCKED)"
 msgstr "§fill=#808080§(KİLİTLİ)"

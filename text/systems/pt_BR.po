@@ -1,21 +1,6 @@
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 14:45+0000\n"
-"PO-Revision-Date: 2025-03-11 14:45+0000\n"
-"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
-"ps-outertale/0-systems/pt_BR/>\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2\n"
-
-#
 
 msgid "(You take a deep breath.)"
 msgstr "(Você preenche seus pulmões.)"
@@ -648,6 +633,8 @@ msgstr "§fill=#ff0§< DESENVOLVEDOR >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
+msgid ""
+msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< ESCRITOR >§fill=#fff§"
@@ -2501,23 +2488,41 @@ msgstr "ESTRELA"
 msgid "OUTLANDS"
 msgstr "OUTLANDS"
 
+msgid "OUTLANDS (BATTLE)"
+msgstr ""
+
 msgid "TORIEL HOME"
 msgstr "CASA DA TORIEL"
 
 msgid "STARTON"
 msgstr "STARTON"
 
+msgid "STARTON (BATTLE)"
+msgstr ""
+
 msgid "FOUNDRY"
 msgstr "FOUNDRY"
+
+msgid "FOUNDRY (BATTLE)"
+msgstr ""
 
 msgid "AERIALIS"
 msgstr "AERIALIS"
 
+msgid "AERIALIS (BATTLE)"
+msgstr ""
+
 msgid "REC CENTER"
 msgstr "CENTRO DE GRAVAÇÃO"
 
+msgid "REC CENTER (BATTLE)"
+msgstr ""
+
 msgid "CORE"
 msgstr "CORE"
+
+msgid "CORE (BATTLE)"
+msgstr ""
 
 msgid "CITADEL"
 msgstr "CIDADELA"
@@ -2528,21 +2533,6 @@ msgstr "CASA DO ASGORE"
 msgid "ARCHIVE SIX"
 msgstr "ARQUIVO SEIS"
 
-msgid "OUTLANDS (ARCHIVE)"
-msgstr "OUTLANDS (ARQUIVO)"
-
-msgid "STARTON (ARCHIVE)"
-msgstr "STARTON (ARQUIVO)"
-
-msgid "FOUNDRY (ARCHIVE)"
-msgstr "FOUNDRY (ARQUIVO)"
-
-msgid "AERIALIS (ARCHIVE)"
-msgstr "AERIALIS (ARQUIVO)"
-
-msgid "CORE (IN BATTLE)"
-msgstr "CORE (EM BATALHA)"
-
 msgid "ASRIEL BATTLE"
 msgstr "BATALHA DE ASRIEL"
 
@@ -2551,6 +2541,9 @@ msgstr "GALÁXIA BRILHANTE"
 
 msgid "NEW WORLD"
 msgstr "NOVO MUNDO"
+
+msgid "NEW WORLD (WITH CUP)"
+msgstr ""
 
 msgid "§fill=#808080§(LOCKED)"
 msgstr "§fill=#808080§(FECHADO)"

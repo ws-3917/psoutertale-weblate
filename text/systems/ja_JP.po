@@ -2476,23 +2476,41 @@ msgstr ""
 msgid "OUTLANDS"
 msgstr "アウトランド"
 
+msgid "OUTLANDS (BATTLE)"
+msgstr ""
+
 msgid "TORIEL HOME"
 msgstr ""
 
 msgid "STARTON"
 msgstr "スタートン"
 
+msgid "STARTON (BATTLE)"
+msgstr ""
+
 msgid "FOUNDRY"
 msgstr "ファウンドリー"
+
+msgid "FOUNDRY (BATTLE)"
+msgstr ""
 
 msgid "AERIALIS"
 msgstr "エアリアル"
 
+msgid "AERIALIS (BATTLE)"
+msgstr ""
+
 msgid "REC CENTER"
+msgstr ""
+
+msgid "REC CENTER (BATTLE)"
 msgstr ""
 
 msgid "CORE"
 msgstr "コア"
+
+msgid "CORE (BATTLE)"
+msgstr ""
 
 msgid "CITADEL"
 msgstr "シタデル"
@@ -2503,21 +2521,6 @@ msgstr ""
 msgid "ARCHIVE SIX"
 msgstr ""
 
-msgid "OUTLANDS (ARCHIVE)"
-msgstr "アウトランド（アーカイブ）"
-
-msgid "STARTON (ARCHIVE)"
-msgstr "スタートン（アーカイブ）"
-
-msgid "FOUNDRY (ARCHIVE)"
-msgstr "ファウンドリー（アーカイブ）"
-
-msgid "AERIALIS (ARCHIVE)"
-msgstr "エアリアル（アーカイブ）"
-
-msgid "CORE (IN BATTLE)"
-msgstr ""
-
 msgid "ASRIEL BATTLE"
 msgstr ""
 
@@ -2525,6 +2528,9 @@ msgid "BRIGHT GALAXY"
 msgstr ""
 
 msgid "NEW WORLD"
+msgstr ""
+
+msgid "NEW WORLD (WITH CUP)"
 msgstr ""
 
 msgid "§fill=#808080§(LOCKED)"

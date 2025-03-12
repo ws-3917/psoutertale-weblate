@@ -2468,23 +2468,41 @@ msgstr "ESTRELLA"
 msgid "OUTLANDS"
 msgstr "LAS AFUERAS"
 
+msgid "OUTLANDS (BATTLE)"
+msgstr ""
+
 msgid "TORIEL HOME"
 msgstr "CASA DE TORIEL"
 
 msgid "STARTON"
 msgstr "STARTON"
 
+msgid "STARTON (BATTLE)"
+msgstr ""
+
 msgid "FOUNDRY"
 msgstr "FÁBRICA"
+
+msgid "FOUNDRY (BATTLE)"
+msgstr ""
 
 msgid "AERIALIS"
 msgstr "AERIALIS"
 
+msgid "AERIALIS (BATTLE)"
+msgstr ""
+
 msgid "REC CENTER"
 msgstr "CENTRO DE GRABACIÓN"
 
+msgid "REC CENTER (BATTLE)"
+msgstr ""
+
 msgid "CORE"
 msgstr "NÚCLEO"
+
+msgid "CORE (BATTLE)"
+msgstr ""
 
 msgid "CITADEL"
 msgstr "CAPITAL"
@@ -2495,21 +2513,6 @@ msgstr "CASA DE ASGORE"
 msgid "ARCHIVE SIX"
 msgstr "ARCHIVO SEIS"
 
-msgid "OUTLANDS (ARCHIVE)"
-msgstr "LAS AFUERAS (ARCHIVO)"
-
-msgid "STARTON (ARCHIVE)"
-msgstr "STARTON (ARCHIVO)"
-
-msgid "FOUNDRY (ARCHIVE)"
-msgstr "FÁBRICA (ARCHIVO)"
-
-msgid "AERIALIS (ARCHIVE)"
-msgstr "AERIALIS (ARCHIVO)"
-
-msgid "CORE (IN BATTLE)"
-msgstr ""
-
 msgid "ASRIEL BATTLE"
 msgstr "BATALLA DE ASRIEL"
 
@@ -2518,6 +2521,9 @@ msgstr ""
 
 msgid "NEW WORLD"
 msgstr "NUEVO MUNDO"
+
+msgid "NEW WORLD (WITH CUP)"
+msgstr ""
 
 msgid "§fill=#808080§(LOCKED)"
 msgstr "§fill=#808080§(BLOQUEADO)"

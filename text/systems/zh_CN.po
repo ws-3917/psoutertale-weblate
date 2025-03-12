@@ -2473,23 +2473,41 @@ msgstr "星空"
 msgid "OUTLANDS"
 msgstr "外域"
 
+msgid "OUTLANDS (BATTLE)"
+msgstr ""
+
 msgid "TORIEL HOME"
 msgstr "TORIEL的家"
 
 msgid "STARTON"
 msgstr "星港"
 
+msgid "STARTON (BATTLE)"
+msgstr ""
+
 msgid "FOUNDRY"
 msgstr "铸厂"
+
+msgid "FOUNDRY (BATTLE)"
+msgstr ""
 
 msgid "AERIALIS"
 msgstr "空境"
 
+msgid "AERIALIS (BATTLE)"
+msgstr ""
+
 msgid "REC CENTER"
 msgstr "休闲回廊"
 
+msgid "REC CENTER (BATTLE)"
+msgstr ""
+
 msgid "CORE"
 msgstr "核心"
+
+msgid "CORE (BATTLE)"
+msgstr ""
 
 msgid "CITADEL"
 msgstr "首塔"
@@ -2500,21 +2518,6 @@ msgstr "ASGORE的家"
 msgid "ARCHIVE SIX"
 msgstr "六号档案"
 
-msgid "OUTLANDS (ARCHIVE)"
-msgstr "外域（档案内）"
-
-msgid "STARTON (ARCHIVE)"
-msgstr "星港（档案内）"
-
-msgid "FOUNDRY (ARCHIVE)"
-msgstr "铸厂（档案内）"
-
-msgid "AERIALIS (ARCHIVE)"
-msgstr "空境（档案内）"
-
-msgid "CORE (IN BATTLE)"
-msgstr "核心（战斗内）"
-
 msgid "ASRIEL BATTLE"
 msgstr "ASRIEL战"
 
@@ -2523,6 +2526,9 @@ msgstr "璀璨星空"
 
 msgid "NEW WORLD"
 msgstr "新家园"
+
+msgid "NEW WORLD (WITH CUP)"
+msgstr ""
 
 msgid "§fill=#808080§(LOCKED)"
 msgstr "§fill=#808080§(待解锁)"
