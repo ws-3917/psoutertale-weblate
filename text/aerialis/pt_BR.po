@@ -14094,6 +14094,7 @@ msgstr "<25>{#f/4}* ela sendo ela, INSTANTANEAMENTE entendeu a piada."
 
 msgid "<25>{#f/0}* ... that night ended up being the best we'd ever have."
 msgstr ""
+"<25>{#f/0}* ... aquela noite acabou sendo uma das melhores que já tivemos."
 
 msgid "<25>{#f/0}* fast-forward to today, and well..."
 msgstr ""
