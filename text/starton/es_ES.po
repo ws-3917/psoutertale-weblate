@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-13 02:37+0000\n"
+"PO-Revision-Date: 2025-03-13 02:37+0000\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
+"Language-Team: Spanish <https://ws3917.hbms.me/projects/ps-outertale/"
+"2-starton/es/>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -1792,7 +1807,7 @@ msgid "<18>{#f/7}AND FOR WHAT!?"
 msgstr "<18>{#f/7}¿¡Y PARA QUÉ!?"
 
 msgid "<18>{#f/7}A PETTY ATTEMPT AT SELF-AMUSEMENT?"
-msgstr ""
+msgstr "<18>{#f/7}¿UN MEZQUINO INTENTO PARA DIVERTIRSE?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/16}* Yes, Papyrus.\n"
@@ -5158,8 +5173,6 @@ msgstr "¡HOLA!"
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
