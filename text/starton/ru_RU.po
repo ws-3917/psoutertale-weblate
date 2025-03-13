@@ -1,6 +1,22 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-13 15:07+0000\n"
+"PO-Revision-Date: 2025-03-13 15:07+0000\n"
+"Last-Translator: Zenry <poolkol34@gmail.com>\n"
+"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
+"2-starton/ru/>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -343,16 +359,16 @@ msgid "* (What should Asriel do?)"
 msgstr ""
 
 msgid "Mercy"
-msgstr ""
+msgstr "Пощада"
 
 msgid "Act"
-msgstr ""
+msgstr "Действие"
 
 msgid "Magic"
-msgstr ""
+msgstr "Магия"
 
 msgid "Fight"
-msgstr ""
+msgstr "Битва"
 
 msgid "<32>{#p/asriel2}* Let's just get this over with."
 msgstr ""
@@ -1863,7 +1879,7 @@ msgid "<32>{#p/basic}* ... but everybody ran."
 msgstr ""
 
 msgid "<32>{#p/basic}* ... but nobody came."
-msgstr ""
+msgstr "<32>{#p/basic}* ... но никто не пришёл."
 
 msgid "<32>{#p/human}* (But there was nobody around to occupy the seat.)"
 msgstr ""
@@ -4894,8 +4910,6 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
@@ -9528,7 +9542,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Dialing..."
-msgstr ""
+msgstr "<32>{#s/phone}{#p/event}* Набор номера..."
 
 msgid "<32>{#p/human}* (No connection.)"
 msgstr ""
@@ -14242,7 +14256,7 @@ msgid "<30>{#k/0}* they live with undyne, i think"
 msgstr ""
 
 msgid "Say Hello"
-msgstr ""
+msgstr "Сказать «Привет»"
 
 msgid "What Happened"
 msgstr ""
