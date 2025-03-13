@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 02:37+0000\n"
-"PO-Revision-Date: 2025-03-13 02:37+0000\n"
+"PO-Revision-Date: 2025-03-13 16:21+0000\n"
 "Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://ws3917.hbms.me/projects/ps-outertale/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -1813,21 +1811,25 @@ msgid ""
 "<25>{#p/asriel2}{#f/16}* Yes, Papyrus.\n"
 "* That's exactly what this is for."
 msgstr ""
+"<25>{#p/asriel2}{#f/16}* Sí, Papyrus.\n"
+"* Eso es exactamente para lo que es esto."
 
 msgid "<18>{#p/papyrus}{#f/7}... UGH!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}... ¡¡AGH!!"
 
 msgid "<18>{#p/papyrus}{#f/4}AS FOR YOU, HUMAN..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}EN CUANTO \n"
+"A TI , HUMANO..."
 
 msgid "<18>{#f/7}DON'T THINK I CAN'T SEE WHAT'S GOING ON."
-msgstr ""
+msgstr "<18>{#f/7}NO CREAS QUE NO VEO LO QUE ESTA PASANDO."
 
 msgid "<18>{#f/7}IT'S OBVIOUS YOU'RE THE ONE CALLING THE SHOTS!"
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/8}* How observant."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* Que observador."
 
 msgid ""
 "<25>{#f/7}* Guess we should just admit defeat to you here and now, huh?"
@@ -1837,6 +1839,8 @@ msgid ""
 "<25>{#p/asriel2}{#f/4}* Let me be clear.\n"
 "* I do admire the effort."
 msgstr ""
+"<25>{#p/asriel2}{#f/4}* Dejame ser claro en esto.\n"
+"* Yo admiro el esfuerzo."
 
 msgid "<25>{#f/3}* But we've got our own plans to see to."
 msgstr ""
@@ -1860,10 +1864,10 @@ msgid "<18>{#p/papyrus}{#f/7}WHATEVER!!!"
 msgstr "<18>{#p/papyrus}{#f/7}¡¡¡LO QUE SEA!!!"
 
 msgid "<25>{#p/asriel2}{#f/3}* Howdy."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Hola."
 
 msgid "<18>{#p/papyrus}{#f/31}YOU KNOW..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}SABES..."
 
 msgid "<18>{#f/31}I OVERHEARD DR. ALPHYS TALKING..."
 msgstr ""
@@ -1872,10 +1876,10 @@ msgid "<18>{#f/5}AND SHE MENTIONED SOMETHING LIKE \"TURN BACK TIME?\""
 msgstr ""
 
 msgid "<18>{|}{#f/32}{#x1}I CAN'T BE SURE, BUT IT SOUNDS LIKE- {%}"
-msgstr ""
+msgstr "<18>{|}{#f/32}{#x1}NO PUEDO ESTAR SEGURO, PERO ESO SONABA COMO- {%}"
 
 msgid "<25>{#p/asriel2}{#f/6}* No."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* No."
 
 msgid "<18>{|}{#p/papyrus}{#f/6}BUT SHE SAID YOU MIGHT BE ABLE TO- {%}"
 msgstr ""
@@ -1889,12 +1893,14 @@ msgid ""
 "<25>{#p/asriel2}{#f/6}* No.\n"
 "* And she'll be dead in the end, anyway."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* No.\n"
+"* Y de cualquier forma ella estaría muerta en el final."
 
 msgid "<18>{#p/papyrus}{#f/31}BUT, IF YOU REALLY CAN ERASE WHAT HAPPENED..."
 msgstr ""
 
 msgid "<18>{#f/5}THEN WHY NOT?"
-msgstr ""
+msgstr "<18>{#f/5}¿ENTONCES POR QUÉ NO?"
 
 msgid "<18>{#f/31}A-AND, IN THE NEXT TIMELINE... I'LL TAKE HIS PLACE."
 msgstr ""
@@ -5172,7 +5178,6 @@ msgstr "¡HOLA!"
 
 msgid "SAVE YOURSELVES..."
 msgstr ""
-
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
