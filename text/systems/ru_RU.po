@@ -1,6 +1,22 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-13 10:13+0000\n"
+"PO-Revision-Date: 2025-03-13 10:13+0000\n"
+"Last-Translator: David <geniusssss2008@gmail.com>\n"
+"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
+"0-systems/ru/>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Вы делаете глубокий вдох.)"
@@ -46,15 +62,17 @@ msgid ""
 "    * Ran away with $(x) EXP\n"
 "      and $(y)G."
 msgstr ""
+"    * Убежали с $(x) ОП\n"
+"      и $(y)М."
 
 msgid "* Assist"
-msgstr ""
+msgstr "* Помочь"
 
 msgid "* Flee"
-msgstr ""
+msgstr "* Сбежать"
 
 msgid "* Spare"
-msgstr ""
+msgstr "* Пощадить"
 
 msgid ""
 "<32>{#p/story}* YOU WON!\n"
@@ -73,7 +91,7 @@ msgstr ""
 "* Ваш УР повышен."
 
 msgid "ERROR"
-msgstr ""
+msgstr "ОШИБКА"
 
 msgid "DISMISS"
 msgstr ""
@@ -605,8 +623,6 @@ msgstr ""
 msgid "spacey_432"
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr ""
