@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-13 10:13+0000\n"
+"PO-Revision-Date: 2025-03-13 12:03+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -16,7 +16,6 @@ msgstr ""
 "X-Generator: Weblate 5.10.2\n"
 
 #
-
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -7958,7 +7957,7 @@ msgid ""
 "* This monster is honored to be in your line of sight."
 msgstr ""
 "<32>{#p/story}* ЗЕНИЦИЙ - АТК 6 ЗЩТ 6\n"
-"* Сей монстр чтит быть в вашем зрительном поле."
+"* Сей монстр чтит быть в вашем поле зрения."
 
 msgid ""
 "<32>{#p/human}* (You stare at Oculoux.)\n"
@@ -7985,7 +7984,7 @@ msgid "<08>{#p/basic}{~}Do you dare to stare?"
 msgstr "<08>{#p/basic}{~}Как ты смеешь глазеть?"
 
 msgid "<08>{#p/basic}{~}Look who changed their mind."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Смотри кто передумал."
 
 msgid ""
 "<99>{#p/basic}{~}The gaze\n"
@@ -7999,10 +7998,10 @@ msgid "<08>{#p/basic}{~}How tsundere of you."
 msgstr ""
 
 msgid "<08>{#p/basic}{~}What? N-no way!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Что? Не-неправда!"
 
 msgid "<32>{#p/story}* Oculoux is watering."
-msgstr ""
+msgstr "<32>{#p/story}* Зениций намокает."
 
 msgid "<08>{#p/basic}{~}I've got my eye on you."
 msgstr "<08>{#p/basic}{~}Я не свожу с тебя глаз."
@@ -8011,7 +8010,7 @@ msgid "<08>{#p/basic}{~}Don't tell me what to do."
 msgstr "<08>{#p/basic}{~}Не учи меня как жить."
 
 msgid "<08>{#p/basic}{~}Staring is caring."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Взор призору подобен."
 
 msgid "<08>{#p/basic}{~}What an eyesore."
 msgstr "<08>{#p/basic}{~}Что за песчинка в глазу."
@@ -8029,16 +8028,16 @@ msgid "<32>{#p/story}* Oculoux doesn't care about fighting anymore."
 msgstr ""
 
 msgid "<32>{#p/story}* A pair of Oculoux walked in!"
-msgstr ""
+msgstr "<32>{#p/story}* Пара глаз встречает вас!"
 
 msgid "<32>{#p/story}* Oculoux is staring right through you."
-msgstr ""
+msgstr "<32>{#p/story}* Зениций взирает сквозь вас."
 
 msgid "<32>{#p/story}* Oculoux gnashes its teeth."
-msgstr ""
+msgstr "<32>{#p/story}* Зениций скрежечет зубами."
 
 msgid "<32>{#p/story}* Smells like eyedrops."
-msgstr ""
+msgstr "<32>{#p/story}* Пахнет слёзами."
 
 msgid "<32>{#p/story}* Oculoux has gone bloodshot."
 msgstr "<32>{#p/story}* Зениций налился кровью."
@@ -8047,7 +8046,7 @@ msgid "<32>{#p/story}* Oculoux is gazing at you."
 msgstr ""
 
 msgid "<32>{#p/story}* Oculoux is now alone."
-msgstr ""
+msgstr "<32>{#p/story}* Око одиноко."
 
 msgid ""
 "<32>{#p/story}* SILENTE - ATK 7 DEF 5\n"
@@ -8091,14 +8090,18 @@ msgid ""
 "<08>{#p/basic}FILTHY SINGLE MINDER\n"
 ".."
 msgstr ""
+"<08>{#p/basic}МЕРЗКИЙ ВОЛЬНОДУМЕЦ\n"
+".."
 
 msgid ""
 "<08>{#p/basic}OBEY THE OVERMIND\n"
 ".."
 msgstr ""
+"<08>{#p/basic}ПОДЧИНИСЬ СВЕРХРАЗУМУ\n"
+".."
 
 msgid "<08>{#p/basic}LEGION! WE ARE LEGION!"
-msgstr ""
+msgstr "<08>{#p/basic}ЛЕГИОН! ИМЯ НАМ — ЛЕГИОН!"
 
 msgid ""
 "<08>{#p/basic}HEED THE SWARM\n"
