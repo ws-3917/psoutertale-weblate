@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-14 11:48+0000\n"
-"Last-Translator: David <geniusssss2008@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -1841,10 +1841,10 @@ msgid "<32>{#p/basic}* The machine broke down."
 msgstr "<32>{#p/basic}* Автомат сломался."
 
 msgid "<25>{#p/asriel1}{#f/13}* Out of service again?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Опять сломан?"
 
 msgid "<25>{#f/17}* Yeah, that's... by design, actually."
-msgstr ""
+msgstr "<25>{#f/17}* Если что... так и задумано, правда."
 
 msgid ""
 "<25>{#f/13}* This machine runs on the Outlands' own power supply, so..."
@@ -1854,25 +1854,28 @@ msgid ""
 "<25>{#f/15}* To avoid using too much power, Toriel just made it break "
 "itself."
 msgstr ""
+"<25>{#f/15}* Чтобы избежать перерасхода энергии, Ториэль сделала их ломкими."
 
 msgid "<26>{#f/20}* Not that she'd tell you."
-msgstr ""
+msgstr "<26>{#f/20}* Не то, что б она тебе говорила."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* The reason that power supply is so small, though..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* Причина малой мощности генератора в том, что..."
 
 msgid ""
 "<25>{#f/17}* It's because, unlike the CORE, it only uses background "
 "radiation."
 msgstr ""
+"<25>{#f/17}* ...в отличии от ЯДРА, использует он лишь фоновое излучение."
 
 msgid "<25>{#f/13}* To put it into numbers, I'd say..."
-msgstr ""
+msgstr "<25>{#f/13}* Если прикинуть, я б сказал..."
 
 msgid ""
 "<25>{#f/15}* It generates about ten- thousandths of the power the CORE does."
-msgstr ""
+msgstr "<25>{#f/15}* ... примерно десятитысячную долю от ЯДРА."
 
 msgid "<25>{#p/asriel1}{#f/13}* Hmm..."
 msgstr ""
@@ -1978,7 +1981,7 @@ msgstr ""
 
 msgid ""
 "<25>{#p/toriel}{#f/1}{#n1}* Have you changed your mind about breakfast?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}{#n1}* Не захотелось позавтракать?"
 
 msgid ""
 "<25>{#p/toriel}{#f/3}{#n1}* You expect me to make another after you dropped "
@@ -2046,7 +2049,7 @@ msgid "<25>{#f/1}* \"And every day, the human would come visit...\""
 msgstr "<25>{#f/1}* «Каждый день человек приходил бы к ней...»"
 
 msgid "<25>{#f/0}* \"And they would run and play together in the fields.\""
-msgstr "<25>{#f/0}* «...чтобы вместе они играли на полях.»"
+msgstr "<25>{#f/0}* «...чтобы вместе они играли на полях»."
 
 msgid "<25>{#f/1}* \"They'd sing songs together, tell stories to each other...\""
 msgstr "<25>{#f/1}* «Они пели песни, рассказывали истории друг другу...»"
@@ -2078,7 +2081,7 @@ msgid "<25>{#f/0}* \"And the monster said 'Come, human, come and play!'\""
 msgstr "<25>{#f/0}* «И монстр воскликнула: „Иди, человек, иди и играй“!»"
 
 msgid "<25>{#f/5}* \"'I am too big to play,' said the human.\""
-msgstr "<25>{#f/5}* «„Слишком стар я, чтобы играть“, — возразил человек»."
+msgstr "<25>{#f/5}* «„Слишком стар я, чтобы играть“, — сказал человек»."
 
 msgid "<25>{#f/1}* \"'I want to drive, to find a new home...'\""
 msgstr "<25>{#f/1}* «„Я хочу уехать, чтобы найти новый дом...“»"
@@ -2407,54 +2410,56 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}* (You got the Super Starwalker 3.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Вы получили комикс „Супер Старуокер 3“.)"
 
 msgid "<32>{#p/human}* I've seen the effect you've had on this world..."
-msgstr ""
+msgstr "<32>{#p/human}* Я лицезрел твоё влияние на сей мир..."
 
 msgid "<32>* A perfect ending, where everyone gets to be happy..."
-msgstr ""
+msgstr "<32>* Идеальная концовка, где все счастливы..."
 
 msgid "<32>* There's something special about that."
-msgstr ""
+msgstr "<32>* Что-то есть в этом особенное."
 
 msgid "<32>{#p/human}* A world not bound by association..."
-msgstr ""
+msgstr "<32>{#p/human}* Мир, не ограниченный связями..."
 
 msgid "<32>* Existing purely for the sake of its own beauty..."
-msgstr ""
+msgstr "<32>* Существующий лишь для красоты в себе самом..."
 
 msgid "<32>* That being said..."
-msgstr ""
+msgstr "<32>* Говоря об этом..."
 
 msgid "<32>* It seems it wasn't enough to satisfy your... curiosity."
-msgstr ""
+msgstr "<32>* Похоже, этого недостаточно для твоего любопытства."
 
 msgid "<32>* Tell me..."
-msgstr ""
+msgstr "<32>* Скажи мне..."
 
 msgid "<32>* Does that not pique your... curiosity?"
-msgstr ""
+msgstr "<32>* Это само по себе не любопытно?"
 
 msgid "<25>{#p/toriel}* In this room lies a new kind of puzzle."
-msgstr ""
+msgstr "<25>{#p/toriel}* В этой комнате новый вид головоломок."
 
 msgid "<25>{#f/3}* Perhaps you will do better here than with the dummy."
-msgstr ""
+msgstr "<25>{#f/3}* Возможно, ты справишься лучше, чем с манекеном."
 
 msgid "<25>{#f/1}* Do you think you can solve it?"
-msgstr ""
+msgstr "<25>{#f/1}* Думаешь, сможешь решить?"
 
 msgid "<32>{#p/basic}* It's too tall for you to reach."
-msgstr ""
+msgstr "<32>{#p/basic}* Слишком высоко."
 
 msgid ""
 "<32>{#p/basic}* This terminal's staggering height towers over you, blocking "
 "your eager approach."
 msgstr ""
+"<32>{#p/basic}* Терминал, высокий как башня, не даёт вам шансов что-либо "
+"сделать."
 
 msgid "<25>{#p/toriel}{#f/3}* What is it now..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/3}* Что же такое..."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* What is the problem?\n"
@@ -8056,11 +8061,15 @@ msgid ""
 "<32>{#p/story}* SILENTE - ATK 7 DEF 5\n"
 "* It seems evil, but it's just with the wrong crowd..."
 msgstr ""
+"<32>{#p/story}* ТИХОНЯ - АТК 7 ЗЩТ 5\n"
+"* Выглядит злым, но на деле просто в дурной компании..."
 
 msgid ""
 "<33>{#p/story}* SILENTE - ATK 7 DEF 5\n"
 "* Now alone, it joyfully expresses itself through dance."
 msgstr ""
+"<33>{#p/story}* ТИХОНЯ - АТК 7 ЗЩТ 5\n"
+"* Ныне один, он самовыражается через танец."
 
 msgid ""
 "<32>{#p/story}* SILENTE - ATK 7 DEF 5\n"
@@ -8085,10 +8094,10 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/story}* Silente is whispering to the others."
-msgstr ""
+msgstr "<32>{#p/story}* Тихоня шепчет что-то собратьям."
 
 msgid "<32>{#p/story}* It's starting to smell like a roach motel."
-msgstr ""
+msgstr "<32>{#p/story}* Пахнет как ловушка для тараканов."
 
 msgid ""
 "<08>{#p/basic}FILTHY SINGLE MINDER\n"
