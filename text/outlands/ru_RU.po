@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-13 12:03+0000\n"
-"Last-Translator: David <geniusssss2008@gmail.com>\n"
+"PO-Revision-Date: 2025-03-13 15:07+0000\n"
+"Last-Translator: Zenry <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -8927,16 +8927,16 @@ msgid "<20>{*}{#p/twinkly}Mine.{^15}{%}"
 msgstr ""
 
 msgid "Say Hello"
-msgstr ""
+msgstr "Сказать «Привет»"
 
 msgid "About Yourself"
-msgstr ""
+msgstr "О себе"
 
 msgid "Call Her \"Mom\""
 msgstr ""
 
 msgid "Flirt"
-msgstr ""
+msgstr "Флирт"
 
 msgid "Toriel's Phone"
 msgstr ""
@@ -8945,7 +8945,7 @@ msgid "Puzzle Help"
 msgstr ""
 
 msgid "Insult"
-msgstr ""
+msgstr "Оскорбить"
 
 msgid "<25>{#p/toriel}{#f/1}* You want to know more about me...?"
 msgstr ""
@@ -10119,7 +10119,7 @@ msgid "<25>{#f/5}* Regardless of whether or not I deserve it..."
 msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Dialing..."
-msgstr ""
+msgstr "<32>{#s/phone}{#p/event}* Набор номера..."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* Although that room may not evoke the best of feelings"
