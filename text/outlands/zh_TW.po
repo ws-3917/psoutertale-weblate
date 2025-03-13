@@ -104,7 +104,7 @@ msgid "<25>{#f/1}* And... are those not strange foods for such new recruits?"
 msgstr ""
 "<25>{#f/1}* 話說...\n"
 "  那些新兵喜歡吃這些，\n"
-"  是不是有點怪啊？"
+"  是不是有點奇怪啊？"
 
 msgid "<25>{#p/toriel}{#f/0}* I hear you have appeared on TV, little one."
 msgstr ""

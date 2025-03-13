@@ -22384,7 +22384,7 @@ msgid ""
 "* The dirty elder cousin of a mushroom far away..."
 msgstr ""
 "<32>{#p/asriel2}* Mushketeer，火槍手。\n"
-"* 遠方蘑菇的髒表親..."
+"* 某隻蘑菇的遠房親戚，不像好人。ゑ"
 
 msgid ""
 "<32>{#p/alphys}* Mushketeer.\n"
