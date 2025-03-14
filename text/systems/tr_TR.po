@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-14 15:05+0000\n"
+"PO-Revision-Date: 2025-03-14 15:05+0000\n"
+"Last-Translator: Bilge <mnwary@protonmail.com>\n"
+"Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
+"0-systems/tr/>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Derin bir nefes aldın.)"
@@ -616,8 +631,6 @@ msgstr "§fill=#ff0§< GELİŞTİRİCİ >§fill=#fff§"
 msgid "spacey_432"
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< YAZARLAR >§fill=#fff§"
@@ -2826,7 +2839,7 @@ msgid ""
 "<24>{#p/storyteller}Long ago, two species ruled the solar system: HUMANS and"
 " MONSTERS.{^35}{}"
 msgstr ""
-"<24>{#p/storyteller}Uzun zaman önce, Güneş Sistemi'ne iki ırk hükmediyordu: "
+"<24>{#p/storyteller}Uzun zaman önce, Güneş Sistemine iki ırk hükmediyordu: "
 "İNSANLAR VE CANAVARLAR.{^35}{}"
 
 msgid "<24>As time passed, a war broke out between the two species.{^35}{}"

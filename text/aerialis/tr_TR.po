@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-14 15:05+0000\n"
+"PO-Revision-Date: 2025-03-14 15:05+0000\n"
+"Last-Translator: Bilge <mnwary@protonmail.com>\n"
+"Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
+"4-aerialis/tr/>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
 msgstr "<32>{#p/human}* (Terminal, erişim levelinin üstünde görünüyor.)"
@@ -75,7 +90,7 @@ msgid "<25>{#p/alphys}{#g/alphysFR}* How strange."
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/event}* Click..."
-msgstr ""
+msgstr "<32>{#s/equip}{#p/event}* Klik..."
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysWelp}* And this one.\n"
@@ -91,7 +106,7 @@ msgid "<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* We'll take it!!"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to equip.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Kuşanmamaya karar verdin.)"
 
 msgid "<32>{#p/human}* (You feel the nearby monster presence dwindling.)"
 msgstr ""
@@ -752,7 +767,7 @@ msgid "<25>{#p/sans}{#f/2}* here you go."
 msgstr ""
 
 msgid "<32>{#p/human}* (You don't have enough G.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Yeterince A'n yok.)"
 
 msgid "<25>{#p/sans}{#f/0}* you don't even have 5G?"
 msgstr ""
@@ -763,7 +778,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}* (You got 100G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (100A aldın.)"
 
 msgid "<25>{#p/sans}{#f/2}* hope that helps."
 msgstr ""
@@ -971,7 +986,7 @@ msgid "<32>{#p/basic}{#npc/a}* As compensation, here's its full value in G."
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}{#npc}* (You got 999G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}{#npc}* (999A aldın.)"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* The rest of your winnings are still available for "
@@ -7349,8 +7364,6 @@ msgstr ""
 msgid "<32>{#p/human}* (Where would you like to go?)"
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "Floor L1"
 msgstr ""

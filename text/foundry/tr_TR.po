@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-14 15:05+0000\n"
+"PO-Revision-Date: 2025-03-14 15:05+0000\n"
+"Last-Translator: Bilge <mnwary@protonmail.com>\n"
+"Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
+"3-foundry/tr/>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "<32>{#p/basic}* ..."
 msgstr ""
@@ -9,7 +24,7 @@ msgid "<32>{#p/basic}* I'm going to pretend you didn't just sell that locket."
 msgstr "<32>{#p/basic}* O madalyonu öylece satmamışsın gibi davranacağım."
 
 msgid "<32>{#p/human}* (You decide not to equip.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Kuşanmamaya karar verdin.)"
 
 msgid "<32>{#p/human}* (You grab Toriel's hand.)"
 msgstr ""
@@ -210,7 +225,7 @@ msgid "No"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to enter.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Girmemeye karar verdin.)"
 
 msgid "<32>{#p/basic}* Well, that's a mercy."
 msgstr ""
@@ -268,7 +283,7 @@ msgid "<32>* I'll... let you go now."
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/event}* Click..."
-msgstr ""
+msgstr "<32>{#s/equip}{#p/event}* Klik..."
 
 msgid "<32>{#p/human}* (You got the Legendary Artifact.)"
 msgstr ""
@@ -395,7 +410,7 @@ msgid "<32>{#p/human}* (You're carrying too much.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to take anything.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Hiçbir şey almamaya karar verdin.)"
 
 msgid "<32>{#p/human}* (But you couldn't find anything inside.)"
 msgstr ""
@@ -690,7 +705,7 @@ msgid "<32>* i hope the prize is enough..."
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}* (You got 20G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (20A aldın.)"
 
 msgid "<32>{#p/napstablook}* your snail lost by a thin margin."
 msgstr ""
@@ -709,7 +724,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}* (You got 40G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (40A aldın.)"
 
 msgid ""
 "<32>{#p/napstablook}* oh...........\n"
@@ -1170,10 +1185,10 @@ msgid "* (Buy the $(x) for $(y)G?)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You don't have enough G.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Yeterince A'n yok.)"
 
 msgid "<32>{#p/human}* (You decide not to buy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Satın almamaya karar verdin.)"
 
 msgid "<32>{#p/human}* (You decide not to make anything.)"
 msgstr ""
@@ -1647,7 +1662,7 @@ msgid "* (Hug the dummy?)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to do anything.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Hiçbir şey yapmamaya karar verdin.)"
 
 msgid "<32>{#p/human}* (You punched the dummy as hard as you could.)"
 msgstr ""
@@ -2800,7 +2815,7 @@ msgid "* (View the opened application?)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to look.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Bakmamaya karar verdin.)"
 
 msgid "MTT Tunes - Solarwave.kwac"
 msgstr ""
