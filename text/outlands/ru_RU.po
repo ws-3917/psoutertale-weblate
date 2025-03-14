@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-13 15:07+0000\n"
-"Last-Translator: Zenry <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-14 11:48+0000\n"
+"Last-Translator: David <geniusssss2008@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -36,59 +36,63 @@ msgid "<25>{#f/1}* Or would you simply dispose of it in a recycle bin?"
 msgstr "<25>{#f/1}* Или она осталась бы лежать где-нибудь в мусорной корзине?"
 
 msgid "<25>{#f/0}* How disappointing that would be."
-msgstr ""
+msgstr "<25>{#f/0}* Это было бы очень разочаровывающе."
 
 msgid "<25>{#p/toriel}{#f/1}* Perhaps, if I ever become a teacher..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Может,если я когда-нибудь стану учителем..."
 
 msgid "<25>{#f/0}* I could host a field trip to the Royal Lab."
-msgstr ""
+msgstr "<25>{#f/0}* Я устрою поход в Королевскую лабораторию."
 
 msgid "<25>{#f/0}* With Dr. Alphys's permission, of course."
-msgstr ""
+msgstr "<25>{#f/0}* С позволения доктора Альфис, конечно же."
 
 msgid ""
 "<25>{#f/1}* All those interesting experiments they must conduct there..."
-msgstr ""
+msgstr "<25>{#f/1}* Все те интересные эксперименты, которыми она руководит..."
 
 msgid "<25>{#f/0}* It'd be a great learning experience for the children."
-msgstr ""
+msgstr "<25>{#f/0}* Наверняка будут полезным опытом для детей."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* Word of your TV premier has spread quickly, little "
 "one!"
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Твой телевизионный дебют быстро предали огласке, дитя!"
 
 msgid "<25>{#f/0}* Though, I have not seen it, due to my lack of a TV."
 msgstr ""
+"<25>{#f/0}* Мне не удалось его увидеть, потому что у меня нет телевизора."
 
 msgid ""
 "<25>{#f/1}* When I heard about it, however, I must admit I was surprised..."
-msgstr ""
+msgstr "<25>{#f/1}* Но буду честна, когда я об этом узнала,то была удивлена..."
 
 msgid "<25>{#f/2}* How did you not miss even a SINGLE time?"
-msgstr ""
+msgstr "<25>{#f/2}* Ни ЕДИНОГО промаха?"
 
 msgid "<25>{#f/6}* I did not know you had such \"fabulous\" moves."
-msgstr ""
+msgstr "<25>{#f/6}* Я и не знала, что ты умеешь так «изящно» двигаться."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* Hmm...\n"
 "* The royal guards in Aerialis..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Хмм...\n"
+"* Королевские стражи в Стратополисе..."
 
 msgid "<25>{#f/0}* Apparently, their favorite food is... salmon."
-msgstr ""
+msgstr "<25>{#f/0}* Оказывается, их любимая еда...лосось."
 
 msgid "<25>{#f/1}* Or... was it ice cream?"
-msgstr ""
+msgstr "<25>{#f/1}* Или... мороженное?"
 
 msgid "<25>{#f/2}* Wait, no, I think it was pizza!"
-msgstr ""
+msgstr "<25>{#f/2}* Стой, нет, наверняка пицца!"
 
 msgid ""
 "<25>{#f/0}* All of which would be impossible without the humble replicator."
-msgstr ""
+msgstr "<25>{#f/0}* Ничего бы не вышло без скромного репликатора."
 
 msgid "<25>{#f/1}* And... are those not strange foods for such new recruits?"
 msgstr ""
