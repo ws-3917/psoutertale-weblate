@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-14 11:45+0000\n"
-"PO-Revision-Date: 2025-03-14 11:45+0000\n"
+"PO-Revision-Date: 2025-03-14 15:05+0000\n"
 "Last-Translator: Bilge <mnwary@protonmail.com>\n"
 "Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
 "2-starton/tr/>\n"
 "Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -455,52 +453,52 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/sans}papyrus, didn't i tell you to stay at home?"
-msgstr ""
+msgstr "<20>{#p/sans}papyrus, sana evde kalmanı söylememiş miydim?"
 
 msgid "{*}{#e/papyrus/21}{%}"
-msgstr ""
+msgstr "{*}{#e/papyrus/21}{%}"
 
 msgid "<20>{#p/sans}... don't worry bro, it's just yamok sauce."
 msgstr ""
 
 msgid "{*}{#e/papyrus/26}{%}"
-msgstr ""
+msgstr "{*}{#e/papyrus/26}{%}"
 
 msgid "<15>{#p/papyrus}{#e/papyrus/21}BUT YOU'RE HURT..."
 msgstr ""
 
 msgid "<20>{#p/sans}yeah, that's what happens when you act on instinct."
-msgstr ""
+msgstr "<20>{#p/sans}evet, içgüdülerinle hareket edersen böyle olur."
 
 msgid "<20>{#p/sans}... not much i can do about it now."
-msgstr ""
+msgstr "<20>{#p/sans}... artık yapabileceğim pek bir şey yok."
 
 msgid "<20>{#p/sans}so..."
-msgstr ""
+msgstr "<20>{#p/sans}yani..."
 
 msgid "<20>guess that's it, huh?"
-msgstr ""
+msgstr "<20>sanırım buraya kadar, ha?"
 
 msgid "<20>..."
-msgstr ""
+msgstr "<20>..."
 
 msgid "<20>just..."
-msgstr ""
+msgstr "<20>sadece..."
 
 msgid "<20>promise me you'll be fine without me, bro."
-msgstr ""
+msgstr "<20>bensiz iyi olacağına söz ver, kardo."
 
 msgid "<20>promise me you'll be g-{^5}great."
-msgstr ""
+msgstr "<20>söz ver, h-{^5}harika olacaksın."
 
 msgid "<20>after all..."
-msgstr ""
+msgstr "<20>ne de olsa..."
 
 msgid "<20>{|}{#p/sans}you're the... great p-{^5}papyrus.{^20}{%}"
-msgstr ""
+msgstr "<20>{|}{#p/sans}sen... harika p-{^5}papyrus'sun.{^20}{%}"
 
 msgid "<15>{#p/papyrus}{#e/papyrus/33}N-NO...{^40}{%}"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#e/papyrus/33}H-HAYIR...{^40}{%}"
 
 msgid "<32>{#p/human}{#npc}* (You got the Flamin' Grillby.)"
 msgstr ""
@@ -509,7 +507,7 @@ msgid "<32>{#p/human}{#npc}* (You got the Sliders.)"
 msgstr ""
 
 msgid "<32>{#p/human}{#npc}* (You're carrying too much.)"
-msgstr ""
+msgstr "<32>{#p/human}{#npc}* (Çok fazla şey taşıyorsun.)"
 
 msgid "<25>{#p/sans}{#f/0}* finally."
 msgstr "<25>{#p/sans}{#f/0}* sonunda."
@@ -560,31 +558,35 @@ msgid "<25>{#p/sans}{#f/2}* thanks for the help."
 msgstr "<25>{#p/sans}{#f/2}* yardım için teşekkürler."
 
 msgid "<25>{#p/sans}{#f/0}* sooo... whaddya think?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* peeekii... ne düşünüyorsun bakalım?"
 
 msgid "<25>{#f/3}* i call it the \"trash planet.\""
-msgstr ""
+msgstr "<25>{#f/3}* ben ona \"çöp gezegeni\" diyorum."
 
 msgid ""
 "<25>{#f/0}* ... actually, this thing's been growing in size for quite a "
 "while."
-msgstr ""
+msgstr "<25>{#f/0}* ... aslında, bu şeyin boyutu epey bir süredir büyüyordu."
 
 msgid "<25>{#f/0}* if it gets any larger, well..."
-msgstr ""
+msgstr "<25>{#f/0}* eğer daha fazla genişlerse, hmm..."
 
 msgid ""
 "<25>{#f/2}* let's just say we'd be in a {@fill=#ff0}world{@fill=#fff} of "
 "trouble."
 msgstr ""
+"<25>{#f/2}* şimdilik başımıza {@fill=#ff0}dünya{@fill=#fff} kadar bela "
+"açardı diyelim."
 
 msgid ""
 "<25>{#f/0}* don't worry, though.\n"
 "* with your help, it'll be gone in no time."
 msgstr ""
+"<25>{#f/0}* buna rağmen endişelenme, tabii.\n"
+"* senin yardımınla hemen yok olur."
 
 msgid "<25>{#f/2}* i even found you some music to keep you motivated."
-msgstr ""
+msgstr "<25>{#f/2}* seni motive etmek için müzik bile buldum."
 
 msgid ""
 "* Press [Z] repeatedly to shake\n"
@@ -595,74 +597,85 @@ msgid ""
 "<25>{#p/sans}{#f/3}* wow.\n"
 "* all in one go, huh?"
 msgstr ""
+"<25>{#p/sans}{#f/3}* wow.\n"
+"* hepsi tek seferde, ha?"
 
 msgid "<25>{#f/2}* ... well i'll be turned upside down."
 msgstr ""
 
 msgid "<25>{#f/0}* guess i gotta give you some kinda reward."
-msgstr ""
+msgstr "<25>{#f/0}* sanırım sana bir ödül falan vermeliyim."
 
 msgid ""
 "<25>{#f/0}* ...\n"
 "* here.\n"
 "* have this on me."
 msgstr ""
+"<25>{#f/0}* ...\n"
+"* işte.\n"
+"* üzerimde bu var."
 
 msgid "<32>{#p/human}* (Sans tossed you something.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Sans sana bir şey fırlattı.)"
 
 msgid "<32>{#s/equip}{#p/human}* (You got the Corn Dog Sword.)"
 msgstr ""
 
 msgid "<25>{#p/sans}{#f/2}* use it wisely."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* akıllıca kullan."
 
 msgid "<32>{#p/human}* (You're carrying too much.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Çok fazla şey taşıyorsun.)"
 
 msgid "<25>{#p/sans}{#f/3}* no room, huh?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* yer yok, ha?"
 
 msgid ""
 "<25>{#p/sans}{#f/2}* don't worry.\n"
 "* i'll leave it in my room for you."
 msgstr ""
+"<25>{#p/sans}{#f/2}* endişelenme.\n"
+"* senin için kendi odama bırakacağım."
 
 msgid "<32>{#p/human}* (You look curiously at the seemingly useless device.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Görünüşte işe yaramaz olan cihaza merakla bakıyorsun.)"
 
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Too bad we don't have the remote for this thing, "
 "huh?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/17}* Bu şey için kumandamızın olmaması ne kötü, ha?"
 
 msgid "<32>{#p/basic}* It's a \"gravometric inverter.\""
-msgstr ""
+msgstr "<32>{#p/basic}* Bu bir \"kütleçekimsel invertör.\""
 
 msgid "<32>* Whatever that means."
-msgstr ""
+msgstr "<32>* Her ne anlama geliyorsa."
 
 msgid ""
 "<32>{#p/human}* (You use the Gravometric Inverter Remote.)\n"
 "* (Nothing happens.)"
 msgstr ""
+"<32>{#p/human}* (Kütleçekimsel İnvertör Kumandasını kullandın.)\n"
+"* (Hiçbir şey olmadı.)"
 
 msgid ""
 "<25>{#p/asriel1}{#f/21}* They're probably shutting off power for non-"
 "essential devices."
 msgstr ""
+"<25>{#p/asriel1}{#f/21}* Muhtemelen gerekli olmayan cihazların gücünü "
+"kesiyorlardır."
 
 msgid "<32>{#p/basic}* It must be offline..."
-msgstr ""
+msgstr "<32>{#p/basic}* Çevrimdışı olmalı..."
 
 msgid "<32>{#p/human}* (You use the Gravometric Inverter Remote.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Kütleçekimsel İnvertör Kumandasını kullandın.)"
 
 msgid "<32>{#p/human}* (It looks to have been closed with a deadlock seal.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Kilitlenerek kapatılmış gibi görünüyor.)"
 
 msgid "<32>{#p/basic}* It's locked."
-msgstr ""
+msgstr "<32>{#p/basic}* Kilitli."
 
 msgid "<32>{#p/human}* (You use the Skeleton Key.)"
 msgstr ""
@@ -674,6 +687,8 @@ msgid ""
 "<32>{#s/equip}{#p/human}* (The Gravometric Inverter Remote was added to your"
 " keyring.)"
 msgstr ""
+"<32>{#s/equip}{#p/human}* (Kütleçekimsel İnvertör Kumandası anahtarlığına "
+"eklendi.)"
 
 msgid ""
 "<32>{#p/human}* (But you already emptied the envelope of its contents.)"
@@ -689,7 +704,7 @@ msgid "<32>{#p/human}* (You got the Ice Dream.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* Nothing left."
-msgstr ""
+msgstr "<32>{#p/basic}* Hiçbir şey kalmadı."
 
 msgid "<32>{#p/human}* (You reach into the cart.)"
 msgstr ""
@@ -698,30 +713,33 @@ msgid "<32>{#p/human}{#s/equip}* (You got the Ice Dream.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (...)"
-msgstr ""
+msgstr "<32>{#p/human}* (...)"
 
 msgid "<32>{#p/human}* (You're carrying too much to reach inside.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* Mom says that we're going to a new homeworld soon."
 msgstr ""
+"<32>{#p/basic}* Annem yakında yeni bir ana gezegene gideceğimizi söylüyor."
 
 msgid "<32>* ... what's a homeworld?"
-msgstr ""
+msgstr "<32>* ... ana gezegen nedir?"
 
 msgid ""
 "<32>{#p/basic}* Mom says that sleeping could recover your health "
 "{@fill=#ff0}above your maximum HP{@fill=#fff}."
 msgstr ""
+"<32>{#p/basic}* Annem uyumanın sağlığını {@fill=#ff0}maksimum CANININ "
+"üstünde{@fill=#fff} iyileştirebildiğini söylüyor."
 
 msgid "<32>* ... what's maximum HP?"
-msgstr ""
+msgstr "<32>* ... maksimum CAN nedir?"
 
 msgid "<32>{#p/basic}* Do humans have a homeworld?"
-msgstr ""
+msgstr "<32>{#p/basic}* İnsanların ana gezegeni var mı?"
 
 msgid "<32>{#p/basic}* Is it something monsters have?"
-msgstr ""
+msgstr "<32>{#p/basic}* Bu canavarların sahip olduğu bir şey mi?"
 
 msgid "<32>{#p/human}* (The table strikes you as being rather lonesome.)"
 msgstr ""
@@ -740,7 +758,7 @@ msgid "<18>{#p/papyrus}ENJOYING THE VIEW?"
 msgstr ""
 
 msgid "* (What do you say?)"
-msgstr ""
+msgstr "* (Ne diyorsun?)"
 
 msgid ""
 "<18>{#p/papyrus}{#f/9}GOOD!\n"
@@ -766,115 +784,142 @@ msgstr ""
 msgid ""
 "<32>{#p/human}* (You can't seem to understand the contents of this book.)"
 msgstr ""
+"<32>{#p/human}* (Bu kitabın içeriklerini anlayamıyor gibi görünüyorsun.)"
 
 msgid "<32>{#p/basic}* It's a book, written in an ancient language."
-msgstr ""
+msgstr "<32>{#p/basic}* Bu bir kitap, antik bir dilde yazılmış."
 
 msgid "<32>{#p/basic}* Would you like me to read it?"
-msgstr ""
+msgstr "<32>{#p/basic}* Benim okumamı ister misin?"
 
 msgid "<32>{#p/basic}* Read it again?"
-msgstr ""
+msgstr "<32>{#p/basic}* Tekrar oku?"
 
 msgid "* (Have $(name) read the book?)"
-msgstr ""
+msgstr "* ($(name) kitabı okusun mu?)"
 
 msgid "<32>{#p/basic}* Okay, here goes..."
-msgstr ""
+msgstr "<32>{#p/basic}* Tamam, işte başlıyorum..."
 
 msgid ""
 "<32>* \"Long ago, two species ruled the solar system: humans and monsters.\""
 msgstr ""
+"<32>* \"Uzun zaman önce, Güneş Sistemine iki ırk hükmediyordu: insanlar ve "
+"canavarlar.\""
 
 msgid ""
 "<32>* \"At first, the monsters were only visitors, soon to return to their "
 "own star system.\""
 msgstr ""
+"<32>* \"İlk başta, canavarlar yalnızca ziyaretçilerdi, ve yakında kendi "
+"yıldız sistemlerine döneceklerdi.\""
 
 msgid ""
 "<32>* \"But the monsters became fascinated by humanity, and wanted to co-"
 "exist with them.\""
 msgstr ""
+"<32>* \"Ancak canavarlar insanlıktan büyülenmişti, ve onlarla birlikte "
+"yaşamak istemişlerdi.\""
 
 msgid ""
 "<32>* \"As such, they shared their technology with the humans, and forged an"
 " alliance.\""
 msgstr ""
+"<32>* \"Bu nedenle, teknolojilerini insanlarla paylaştılar, ve bir ittifak "
+"kurdular.\""
 
 msgid ""
 "<32>* \"Over the next few hundred years, monsters and humans lived in peace "
 "and harmony.\""
 msgstr ""
+"<32>* \"Sonraki birkaç yüzyıl boyunca, canavarlar ve insanlar barış ve uyum "
+"içerisinde yaşadılar.\""
 
 msgid ""
 "<32>* \"One day, the humans began to fear something about the monsters...\""
 msgstr ""
+"<32>* "
+"\"Bir gün, insanlar canavarlar hakkında bir şeyden korkmaya başladılar...\""
 
 msgid ""
 "<32>* \"A fear that, without skilled leadership, was allowed to spiral out "
 "of control.\""
 msgstr ""
+"<32>* \"Öyle bir korkunun, yetenekli bir lider olmadan, kontrolden çıkmasına "
+"izin verilirdi.\""
 
 msgid "<32>* \"As time passed, a war broke out between the two species.\""
-msgstr ""
+msgstr "<32>* \"Zaman geçtikçe, iki türün arasında bir savaş çıktı.\""
 
 msgid "<32>* \"Many battles and skirmishes would occur all across the stars...\""
 msgstr ""
+"<32>* \"Yıldızlar boyunca birçok savaş ve çatışmalar meydana gelecekti...\""
 
 msgid ""
 "<32>* \"But the humans, filled with fear and determination, easily took "
 "control.\""
 msgstr ""
+"<32>* \"Ancak insanlar, korku ve azimle dolu bir şekilde, kolayca kontrolü "
+"ele geçirdiler.\""
 
 msgid ""
 "<32>* \"Then, on one fateful day, a massive weapon was fired at the "
 "monsters' homeworld.\""
 msgstr ""
+"<32>* \"Sonra, kaderi belirleyen bir günde, canavarların ana gezegenine "
+"devasa bir silah ateşlendi.\""
 
 msgid ""
 "<32>* \"After the monsters' home planet was destroyed, humans declared "
 "victory.\""
 msgstr ""
+"<32>* \"Canavarların ana gezegeni yok edilince insanlar zafer ilan etti.\""
 
 msgid "<32>* \"A settlement between the two species was signed, and...\""
-msgstr ""
+msgstr "<32>* \"İki tür arasında bir anlaşma imzalandı, ve...\""
 
 msgid "<32>* \"The remaining monsters were banished to an abandoned outpost.\""
-msgstr ""
+msgstr "<32>* \"Geriye kalan canavarlar terk edilmiş bir karakola sürülmüştü.\""
 
 msgid "<32>* \"Then, the humans gathered seven of their brightest minds.\""
-msgstr ""
+msgstr "<32>* \"Sonra, insanlar en parlak zihinlerinden yedisini topladılar.\""
 
 msgid "<32>* \"Together, they formulated a plan, and eventually...\""
-msgstr ""
+msgstr "<32>* \"Birlikte, bir plan hazırladılar, ve zamanla...\""
 
 msgid ""
 "<32>* \"A powerful force field was erected, and the monsters were sealed "
 "in.\""
 msgstr ""
+"<32>* \"Kuvvetli bir güç kalkanı oluşturuldu, canavarlar içine hapsedildi.\""
 
 msgid "<32>* Well, that's the story."
-msgstr ""
+msgstr "<32>* İşte, hikaye bu kadar."
 
 msgid "<32>{#p/basic}* Well, if you ever want me to read it, let me know."
-msgstr ""
+msgstr "<32>{#p/basic}* Eğer tekrar okumamı istersen, haber ver."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* If you want a room, you'll need to ask me first."
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Eğer bir oda istiyorsan, önce bana sorman gerekecek."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* If you want a room again, you'll need to ask me "
 "first."
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Eğer tekrar bir oda istiyorsan, önce bana sorman "
+"gerekecek."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Sorry, munchkin!\n"
 "* No more vacancies left here!"
 msgstr ""
+"<32>{#p/basic}{#npc/a}* Üzügünüm, tatlış!\n"
+"* Daha fazla boş yer kalmadı!"
 
 msgid "<32>{#p/human}* (You approach the vending machine.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Otomata yaklaşıyorsun.)"
 
 msgid "<32>{#p/basic}* It's an exoberry-exclusive vending machine."
 msgstr ""
@@ -883,22 +928,22 @@ msgid "* (Buy the Exoberries for 8G?)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You don't have enough G.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Yeterince A'n yok.)"
 
 msgid "<32>{#p/human}* (You got the Exoberries.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to buy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Satın almamaya karar verdin.)"
 
 msgid "<32>{#p/human}* (You look behind the station and find a key.)"
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}* (The Rusty Key was added to your keyring.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Paslı Anahtar anahtarlığına eklendi.)"
 
 msgid "<32>* (Check your CELL to see all acquired keys.)"
-msgstr ""
+msgstr "<32>* (Elde edilen tüm anahtarları görmek için CEP'i kontrol edin.)"
 
 msgid "<32>{#p/human}* (You look behind the station.)"
 msgstr ""
@@ -4951,7 +4996,6 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-
 msgid "FAILED TO CONNECT..."
 msgstr ""
 
@@ -7684,7 +7728,7 @@ msgid "<25>{#f/0}* for now, i'll just hang around here."
 msgstr "<25>{#f/0}* şimdilik, sadece buralarda takılacağım."
 
 msgid "<25>{#p/sans}* quick, to the gravometric inverter."
-msgstr ""
+msgstr "<25>{#p/sans}* çabuk, kütleçekimsel invertöre."
 
 msgid "<25>{#p/sans}* 'sup, bro?"
 msgstr "<25>{#p/sans}* naber, kardo?"
@@ -7708,7 +7752,7 @@ msgid "<18>NOTHING!"
 msgstr ""
 
 msgid "<25>{#p/sans}* actually, i'm playing with this gravometric thingy."
-msgstr ""
+msgstr "<25>{#p/sans}* aslında, bu kütleçekimsel invertör şeyiyle oynuyorum."
 
 msgid "<25>* it's really cool."
 msgstr "<25>* kendisi oldukça havalı."
@@ -9710,7 +9754,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/event}* Click..."
-msgstr ""
+msgstr "<32>{#s/equip}{#p/event}* Klik..."
 
 msgid ""
 "<32>{#p/basic}* \"Hello, lonely caller!\"\n"
@@ -10635,7 +10679,7 @@ msgid "<32>* You're truly disgusting..."
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}* (You lost all of your G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Tüm A'nı kaybettin.)"
 
 msgid "<25>{#p/asriel2}{#f/10}* Daring today, aren't we?"
 msgstr ""
@@ -10673,7 +10717,7 @@ msgid "<25>{#f/2}* instead, i'll just send ya some pocket change."
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}* (You got 10000G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (10000A aldın.)"
 
 msgid "<25>{#p/asriel1}{#f/13}* ... you actually beat the high score?"
 msgstr ""
@@ -14195,16 +14239,17 @@ msgid "Given to you by Monster Kid after using the telescope in Starton."
 msgstr ""
 
 msgid "Gravometric Inverter Remote"
-msgstr ""
+msgstr "Kütleçekimsel İnvertör Kumandası"
 
 msgid "Used to operate the eponymous Gravometric Inverter."
 msgstr ""
+"Kendi adını taşıyan Kütleçekimsel İnvertörü çalıştırmak için kullanılır."
 
 msgid "Acquired from the unsealed envelope in Sans's room."
 msgstr ""
 
 msgid "Rusty Key"
-msgstr ""
+msgstr "Paslı Anahtar"
 
 msgid "Used to unlock the armory in the rec center."
 msgstr ""
@@ -14213,13 +14258,13 @@ msgid "Acquired at the \"police station\" on the north side of Starton town."
 msgstr ""
 
 msgid "<32>{#p/napstablook}{#k/0}* oh... you're leaving..."
-msgstr ""
+msgstr "<32>{#p/napstablook}{#k/0}* ah... gidiyorsun..."
 
 msgid "<32>{#k/1}* well, cya next time i guess..."
-msgstr ""
+msgstr "<32>{#k/1}* peki, bir dahaki sefere görüşürüz sanırım..."
 
 msgid "§fill=#808080§--- UNAVAILABLE ---"
-msgstr ""
+msgstr "§fill=#808080§--- MEVCUT DEĞİL ---"
 
 msgid "0G - Exoberry Jell-O Pie"
 msgstr ""
@@ -14231,7 +14276,7 @@ msgid "0G - Milkshake"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Çık"
 
 msgid "432G - Sanctuary"
 msgstr ""
@@ -14260,42 +14305,54 @@ msgid ""
 "mysterious\n"
 "place."
 msgstr ""
+"Özel:\n"
+"Gizemli bir\n"
+"yere götürür."
 
 msgid ""
 "Heals 99HP\n"
 "Glows in\n"
 "the dark."
 msgstr ""
+"99CAN iyileştirir\n"
+"Karanlıkta\n"
+"parlar."
 
 msgid ""
 "Heals 15HP\n"
 "It's non-\n"
 "euclidian."
 msgstr ""
+"15CAN iyileştirir\n"
+"Öklit-\n"
+"dışı."
 
 msgid ""
 "Heals 18HP\n"
 "May contain\n"
 "ectoplasm."
 msgstr ""
+"18CAN iyileştirir\n"
+"Ektoplazma\n"
+"içerebilir."
 
 msgid "<09>{#p/napstablook}{#k/3}see anything you like?"
-msgstr ""
+msgstr "<09>{#p/napstablook}{#k/3}beğendiğin bir şey var mı?"
 
 msgid "<09>{#p/napstablook}{#k/3}heh... thank you..."
-msgstr ""
+msgstr "<09>{#p/napstablook}{#k/3}heh... teşekkür ederim..."
 
 msgid "<09>{#p/napstablook}{#k/0}you don't have to buy it..."
-msgstr ""
+msgstr "<09>{#p/napstablook}{#k/0}satın almak zorunda değilsin..."
 
 msgid "<09>{#p/napstablook}{#k/0}sorry... not enough g..."
-msgstr ""
+msgstr "<09>{#p/napstablook}{#k/0}üzgünüm... yeterli a değil..."
 
 msgid "<10>{#p/human}(You're carrying too much.)"
-msgstr ""
+msgstr "<10>{#p/human}(Çok fazla şey taşıyorsun.)"
 
 msgid "Take it?"
-msgstr ""
+msgstr "Al?"
 
 msgid ""
 "Buy it for\n"
@@ -14303,90 +14360,91 @@ msgid ""
 msgstr ""
 
 msgid "<09>{#p/basic}Nothing left."
-msgstr ""
+msgstr "<09>{#p/basic}Hiçbir şey kalmadı."
 
 msgid "<09>{#p/napstablook}{#k/0}oh... i don't have any more..."
 msgstr ""
 
 msgid "Take"
-msgstr ""
+msgstr "Al"
 
 msgid "Steal"
-msgstr ""
+msgstr "Çal"
 
 msgid "Read"
-msgstr ""
+msgstr "Oku"
 
 msgid "Buy"
-msgstr ""
+msgstr "Satın al"
 
 msgid "Sell"
-msgstr ""
+msgstr "Sat"
 
 msgid "Talk"
-msgstr ""
+msgstr "Konuş"
 
 msgid "<23>{#p/napstablook}{#k/3}* have a look around..."
-msgstr ""
+msgstr "<23>{#p/napstablook}{#k/3}* etrafa bir göz at..."
 
 msgid "<23>{#p/napstablook}{#k/3}* i hope you find what you're looking for..."
-msgstr ""
+msgstr "<23>{#p/napstablook}{#k/3}* umarım aradığın şeyi bulursun..."
 
 msgid ""
 "<23>{#p/napstablook}{#k/3}* have a look around... or not... it's your "
 "choice..."
 msgstr ""
+"<23>{#p/napstablook}{#k/3}* etrafa bir bak... ya da bakma... senin kararın..."
 
 msgid "<23>{#p/napstablook}{#k/3}* have a look around, i guess..."
-msgstr ""
+msgstr "<23>{#p/napstablook}{#k/3}* etrafa bir bak, sanırım..."
 
 msgid "<23>{#p/napstablook}{#k/0}* feel free to leave at any time..."
-msgstr ""
+msgstr "<23>{#p/napstablook}{#k/0}* istediğin zaman ayrılabilirsin..."
 
 msgid "<23>{#p/basic}* ... but everybody ran."
-msgstr ""
+msgstr "<23>{#p/basic}* ... ama herkes kaçtı."
 
 msgid "<23>{#p/basic}* ... but nobody came."
-msgstr ""
+msgstr "<23>{#p/basic}* ... ama kimse gelmedi."
 
 msgid "<32>{#p/basic}* There's no note here."
-msgstr ""
+msgstr "<32>{#p/basic}* Burada not yok."
 
 msgid "<32>{#p/basic}* There's a note here."
-msgstr ""
+msgstr "<32>{#p/basic}* Burada bir not var."
 
 msgid "<32>{#p/napstablook}* \"it's all your fault...\""
-msgstr ""
+msgstr "<32>{#p/napstablook}* \"hepsi senin suçun...\""
 
 msgid "<32>{#p/napstablook}* \"we had no choice...\""
-msgstr ""
+msgstr "<32>{#p/napstablook}* \"hiçbir seçeneğimiz yoktu...\""
 
 msgid "<32>{#p/napstablook}* \"sorry, i had to go...\""
-msgstr ""
+msgstr "<32>{#p/napstablook}* \"üzgünüm, gitmek zorundaydım...\""
 
 msgid "<30>{#p/human}* (You took 42G from behind the counter.)"
-msgstr ""
+msgstr "<30>{#p/human}* (Tezgahın arkasından 42A aldın.)"
 
 msgid "<30>{#p/napstablook}{#k/2}* oh... you're trying to steal from me..."
-msgstr ""
+msgstr "<30>{#p/napstablook}{#k/2}* ah... benden çalmaya çalışıyorsun..."
 
 msgid "<30>{#p/napstablook}{#k/5}* you must really need it..."
-msgstr ""
+msgstr "<30>{#p/napstablook}{#k/5}* gerçekten ihtiyaç duyuyor olmalısın..."
 
 msgid "<30>{#k/0}* i'm so sorry... the only money i have came from you..."
-msgstr ""
+msgstr "<30>{#k/0}* çok üzgünüm... sahip olduğum tek para senden geldi..."
 
 msgid "<30>{#k/0}* i'm so sorry... i don't have much to give..."
-msgstr ""
+msgstr "<30>{#k/0}* çok üzgünüm... verebilecek pek bir şeyim yok..."
 
 msgid "<30>{#p/napstablook}{#k/2}* oh... you wanted to sell something"
-msgstr ""
+msgstr "<30>{#p/napstablook}{#k/2}* ah... bir şey satmak istemiştin"
 
 msgid "<30>{#k/0}* i don't know if i can afford to buy anything... sorry..."
-msgstr ""
+msgstr "<30>{#k/0}* bir şey almaya gücüm yeter mi bilmiyorum... üzgünüm..."
 
 msgid "<30>{#p/basic}* Nothing left."
-msgstr ""
+msgstr "<30>{#p/basic}* Hiçbir şey kalmadı."
 
 msgid ""
 "<30>{#p/napstablook}{#k/5}* um...\n"
