@@ -1,23 +1,21 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-13 15:07+0000\n"
+"PO-Revision-Date: 2025-03-14 11:48+0000\n"
 "Last-Translator: Zenry <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "6-common/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.10.2\n"
 
 #
-
 msgid "The player did everything they could..."
 msgstr ""
 
@@ -378,7 +376,6 @@ msgstr ""
 
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr ""
-
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr ""
@@ -12610,17 +12607,21 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/story}* Nothing happened."
-msgstr ""
+msgstr "<32>{#p/story}* Ничего не произошло"
 
 msgid ""
 "<32>{#p/story}* Skrubbington was grossed out!\n"
 "* Skrubbington's DEFENSE down!"
 msgstr ""
+"<32>{#p/story}* Чистинсону стало неприятно.\n"
+"* Защита Чистинсона понижена!"
 
 msgid ""
 "<32>{#p/story}* Shyren felt uncomfortable!\n"
 "* Shyren's DEFENSE down!"
 msgstr ""
+"<32>{#p/story}* Смурене стало неприятно.\n"
+"* Защита Смурены понижена!"
 
 msgid ""
 "<32>{#p/story}* Radtile felt uncomfortable!\n"
@@ -12631,6 +12632,8 @@ msgid ""
 "<32>{#p/story}* $(x) felt uncomfortable!\n"
 "* $(x)'s DEFENSE down!"
 msgstr ""
+"<32>{#p/story}* $(x) стало неприятно.\n"
+"* Защита $(x) понижена!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington felt flattered!\n"
@@ -12656,41 +12659,47 @@ msgid ""
 "<32>{#p/story}* Skrubbington and the others were distracted by Monster Kid "
 "and forgot their turn!"
 msgstr ""
+"<32>{#p/story}* Чистинсон и другие монстры отвлеклись на монстрёнка и "
+"пропустили свой ход!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington was distracted by Monster Kid and forgot their "
 "turn!"
-msgstr ""
+msgstr "<32>{#p/story}* Чистинсон отвлёкся на Монстрёнка и пропустил свой ход!"
 
 msgid "<32>{#p/story}* Distracted by Monster Kid, Shyren forgot her turn!"
-msgstr ""
+msgstr "<32>{#p/story}* Шайрен отвлеклась на Монстрёнка и пропустила свой ход!"
 
 msgid ""
 "<32>{#p/story}* Entranced by Monster Kid, $(x) and the others forgot their "
 "turn!"
 msgstr ""
+"<32>{#p/story}* Очаровавшись Монстрёнком, $(x) и другие монстры пропустили "
+"свой ход!"
 
 msgid "<32>{#p/story}* Entranced by Monster Kid, Radtile forgot his turn!"
 msgstr ""
 
 msgid "<32>{#p/story}* Entranced by Monster Kid, $(x) forgot their turn!"
-msgstr ""
+msgstr "<32>{#p/story}* Очаровавшись Монстёнком, $(x) пропускает свой ход!"
 
 msgid ""
 "<32>{#p/story}* Fearful for its life, Skrubbington panicked and left the "
 "battle!"
-msgstr ""
+msgstr "<32>{#p/story}* Чистинсон в панике убегает из битвы!"
 
 msgid "<32>{#p/story}* The other monsters continue to fight you."
-msgstr ""
+msgstr "<32>{#p/story}* Остальные монстры продолжают сражаться с вами."
 
 msgid ""
 "<32>{#p/story}* Fearful for her life, Shyren panicked and left the battle!"
-msgstr ""
+msgstr "<32>{#p/story}* Смурена в панике убежала из битвы!"
 
 msgid ""
 "<32>{#p/story}* Encouraged by her own performance, Shyren braved the threat!"
 msgstr ""
+"<32>{#p/story}* Смурена, воодушевлённая своим выступлением, отважно приняла "
+"вызов!"
 
 msgid ""
 "<32>{#p/story}* Fearful for his life, Radtile panicked and left the battle!"
@@ -12698,18 +12707,20 @@ msgstr ""
 
 msgid ""
 "<32>{#p/story}* Fearful for its life, $(x) panicked and left the battle!"
-msgstr ""
+msgstr "<32>{#p/story}* $(x) в панике убегает из битвы!"
 
 msgid ""
 "<32>{#p/kidding}* Y... y-you want me to fight?\n"
 "* Are you sure?"
 msgstr ""
+"<32>{#p/kidding}* Ты...т-ты хочешь, чтобы я сразился?\n"
+"* Ты правда этого хочешь?"
 
 msgid "* (Do you confirm?)"
-msgstr ""
+msgstr "* (Вы уверены?)"
 
 msgid "<32>{#p/kidding}* Okay... here goes nothing..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Хорошо...ничего страшного..."
 
 msgid "<32>{#p/kidding}* Oh, okay..."
 msgstr ""
@@ -12776,21 +12787,25 @@ msgid "<32>{#p/human}* (Too much interference.)"
 msgstr "<32>{#p/human}* (Слишком сильные помехи.)"
 
 msgid "<32>{#p/basic}* ... but nobody came."
-msgstr "<32>{#p/basic}* ... но никто не пришёл."
+msgstr "<32>{#p/basic}* ...но никто не пришёл."
 
 msgid "<32>{#p/human}* (No connection.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Нет связи.)"
 
 msgid ""
 "<32>{#p/human}* (It sounds like a small, white dog is sleeping on the cell "
 "phone.)"
 msgstr ""
+"<32>{#p/human}* (Из телефона исходит звук, как будто на нём лежит маленькая "
+"белая собачка.)"
 
 msgid "<32>{#p/basic}* (Snore... snore...)"
-msgstr ""
+msgstr "<32>{#p/basic}* (Храп... храп...)"
 
 msgid "<32>* (Snore... snore...)"
 msgstr ""
+"<32>* (Храп...\n"
+"храп...)"
 
 msgid "<32>{#p/basic}* (Snore... snore... snore...)"
 msgstr ""
@@ -12817,7 +12832,7 @@ msgid "<32>* (Whine.)"
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/5}* About me?"
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* Про себя?"
 
 msgid "<25>{#f/7}* ... oh, but where would I begin?"
 msgstr ""
