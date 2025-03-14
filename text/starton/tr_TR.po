@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-14 11:45+0000\n"
-"PO-Revision-Date: 2025-03-14 15:05+0000\n"
+"PO-Revision-Date: 2025-03-15 01:33+0000\n"
 "Last-Translator: Bilge <mnwary@protonmail.com>\n"
 "Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
 "2-starton/tr/>\n"
@@ -14450,37 +14450,40 @@ msgid ""
 "<30>{#p/napstablook}{#k/5}* um...\n"
 "* i can't give you anything of real value..."
 msgstr ""
+"<30>{#p/napstablook}{#k/5}* um...\n"
+"* sana gerçekten değeri olan bir şey veremem..."
 
 msgid "<30>{#p/napstablook}{#k/0}* i know... it's pretty sad"
-msgstr ""
+msgstr "<30>{#p/napstablook}{#k/0}* biliyorum... bu oldukça üzücü"
 
 msgid ""
 "<30>{#p/napstablook}{#k/5}* um... you could ask my cousin about selling..."
 msgstr ""
+"<30>{#p/napstablook}{#k/5}* um... satış konusunda kuzenime sorabilirsin..."
 
 msgid "<30>{#k/0}* they live with undyne, i think"
-msgstr ""
+msgstr "<30>{#k/0}* undyne ile yaşıyor, sanırım"
 
 msgid "Say Hello"
-msgstr ""
+msgstr "Merhaba De"
 
 msgid "What Happened"
-msgstr ""
+msgstr "Ne Oldu"
 
 msgid "The Future"
-msgstr ""
+msgstr "Gelecek"
 
 msgid "Ghosts"
-msgstr ""
+msgstr "Hayaletler"
 
 msgid "Family"
-msgstr ""
+msgstr "Aile"
 
 msgid "Your Life"
-msgstr ""
+msgstr "Senin Hayatın"
 
 msgid "Mettaton"
-msgstr ""
+msgstr "Mettaton"
 
 msgid "Mew Mew Doll"
 msgstr ""
@@ -14495,94 +14498,108 @@ msgid "Dapper Blook?"
 msgstr ""
 
 msgid "<09>{#p/napstablook}{#k/1}oh, you wanna chat?"
-msgstr ""
+msgstr "<09>{#p/napstablook}{#k/1}ah, sohbet mi etmek istiyorsun?"
 
 msgid "<32>{#p/napstablook}{#k/3}* oh, hey..."
-msgstr ""
+msgstr "<32>{#p/napstablook}{#k/3}* ah, hey..."
 
 msgid "<32>{#k/0}* i think everybody dissappeared for a while..."
-msgstr ""
+msgstr "<32>{#k/0}* sanırım herkes bir süreliğine ortadan kayboldu..."
 
 msgid "<32>{#k/1}* but when they woke up, they all knew your name..."
-msgstr ""
+msgstr "<32>{#k/1}* ama uyandıklarında, hepsi senin ismini biliyordu..."
 
 msgid "<32>{#k/3}* so... you're frisk, huh?"
-msgstr ""
+msgstr "<32>{#k/3}* demek... senin adın frisk, ha?"
 
 msgid "<32>{#k/4}* well, nice to see you, frisk"
-msgstr ""
+msgstr "<32>{#k/4}* peki, seni görmek güzel, frisk"
 
 msgid "<32>{#p/napstablook}{#k/2}* uh..."
-msgstr ""
+msgstr "<32>{#p/napstablook}{#k/2}* uh..."
 
 msgid "<32>{#p/napstablook}{#k/2}* hey there..."
-msgstr ""
+msgstr "<32>{#p/napstablook}{#k/2}* hey..."
 
 msgid "<32>{#p/napstablook}{#k/3}* oh, nice to see you again..."
-msgstr ""
+msgstr "<32>{#p/napstablook}{#k/3}* ah, seni yeniden görmek güzel..."
 
 msgid ""
 "<32>{#k/0}* what's that look for?\n"
 "* have i done something wrong..."
 msgstr ""
+"<32>{#k/0}* o bakış ne için?\n"
+"* kötü bir şey mi yaptım..."
 
 msgid "<32>{#k/4}* what have you been up to?"
-msgstr ""
+msgstr "<32>{#k/4}* neler yaptın?"
 
 msgid ""
 "<32>{#p/napstablook}{#k/0}* oh...\n"
 "* i'm not sure what to say, really..."
 msgstr ""
+"<32>{#p/napstablook}{#k/0}* ah...\n"
+"* ne söyleyebileceğimden emin değilim, gerçekten..."
 
 msgid "<32>{#k/3}* uhh... hello, i guess?"
-msgstr ""
+msgstr "<32>{#k/3}* uhh... merhaba, sanırım?"
 
 msgid ""
 "<32>{#p/napstablook}{#k/4}* heh...\n"
 "* hey..."
 msgstr ""
+"<32>{#p/napstablook}{#k/4}* heh...\n"
+"* hey..."
 
 msgid "<32>{#k/3}* say, are you new around here?"
-msgstr ""
+msgstr "<32>{#k/3}* söylesene, buralarda yeni misin?"
 
 msgid "<32>{#k/5}* you don't look familiar..."
-msgstr ""
+msgstr "<32>{#k/5}* tanıdık görünmüyorsun..."
 
 msgid ""
 "<32>{#p/napstablook}{#k/2}* honestly, i don't really know what happened..."
 msgstr ""
+"<32>{#p/napstablook}{#k/2}* dürüst olmak gerekirse, ne olduğunu pek "
+"bilmiyorum..."
 
 msgid ""
 "<32>{#k/2}* same goes for everyone in my family.\n"
 "* we didn't get pulled in like everyone else."
 msgstr ""
+"<32>{#k/2}* ailemdeki herkes için geçerli bu.\n"
+"* diğer herkesin aksine biz çekilmedik."
 
 msgid ""
 "<32>{#k/1}* we did see a bright light, but when it came by... we just sort "
 "of rejected it"
 msgstr ""
+"<32>{#k/1}* bir parlak ışık gördük, ama yakınımıza geldiğinde... biz bir "
+"bakıma onu reddettik"
 
 msgid "<32>{#k/0}* still, even though we didn't see it ourselves..."
-msgstr ""
+msgstr "<32>{#k/0}* yine de, her ne kadar kendimiz şahit olmasak da..."
 
 msgid "<32>{#k/3}* we've heard all about what you did for us."
-msgstr ""
+msgstr "<32>{#k/3}* bizim için yaptıkların hakkında her şeyi duyduk."
 
 msgid "<32>{#k/3}* so... thanks."
-msgstr ""
+msgstr "<32>{#k/3}* yani... teşekkürler."
 
 msgid "<32>{#p/napstablook}{#k/2}* you wanna know about ghosts?"
-msgstr ""
+msgstr "<32>{#p/napstablook}{#k/2}* hayaletler hakkında öğrenmek mi istiyorsun?"
 
 msgid ""
 "<32>{#k/0}* well, the only ghosts i know are myself, my three cousins..."
 msgstr ""
+"<32>{#k/0}* yani, bildiğim tek hayaletler kendim, ve benim üç diğer "
+"kuzenlerim..."
 
 msgid "<32>{#k/3}* and the one behind you, of course"
-msgstr ""
+msgstr "<32>{#k/3}* ve arkandaki, elbette"
 
 msgid "<32>{#k/1}* aside from that, there's not much to say"
-msgstr ""
+msgstr "<32>{#k/1}* bunun dışında, söyleyecek çok bir şey yok"
 
 msgid "<32>{#k/0}* without a fused host body, we just sorta... exist"
 msgstr ""
