@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-14 15:07+0000\n"
-"Last-Translator: David <geniusssss2008@gmail.com>\n"
+"PO-Revision-Date: 2025-03-15 01:37+0000\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7829,7 +7829,7 @@ msgid "<08>{#p/basic}{~}Ribbit, ribbit."
 msgstr "<08>{#p/basic}{~}Квак-квак."
 
 msgid "<08>{#p/basic}{~}Croak, croak."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ква-ква."
 
 msgid "<08>{#p/basic}{~}Hop, hop."
 msgstr "<08>{#p/basic}{~}Прыг, скок."
@@ -7838,26 +7838,30 @@ msgid "<08>{#p/basic}{~}Meow."
 msgstr "<08>{#p/basic}{~}Мяу."
 
 msgid "<32>{#p/story}* Froggit seems reluctant to fight you."
-msgstr ""
+msgstr "<32>{#p/story}* Квакушёнок неохотно сражается с вами."
 
 msgid "* Froggit"
-msgstr ""
+msgstr "* Квакушёнок."
 
 msgid ""
 "<08>{#p/basic}{~}(Shiver, shake.)\n"
 "Ribbit.."
 msgstr ""
+"<08>{#p/basic}{~}(Дрожь, тряска.)\n"
+"Квак..."
 
 msgid ""
 "<08>{#p/basic}{~}(Blushes softly.)\n"
 "Ribbit.."
 msgstr ""
+"<08>{#p/basic}{~}(Нежно краснеет.)\n"
+"Квак..."
 
 msgid "<32>{#p/story}* Froggit is trying to run away."
-msgstr ""
+msgstr "<32>{#p/story}* Квакушёнок пытается убежать."
 
 msgid "<32>{#p/story}* Froggit hops near!"
-msgstr ""
+msgstr "<32>{#p/story}* Квакушёнок подпрыгнул ближе!"
 
 msgid ""
 "<32>{#p/story}* The battlefield is filled with the smell of crystherium "
@@ -7868,7 +7872,7 @@ msgid "<32>{#p/story}* Froggit doesn't seem to know why it's here."
 msgstr "<32>{#p/story}* Квакушёнок не знает как сюда заплутал."
 
 msgid "<32>{#p/story}* Froggit hops to and fro."
-msgstr ""
+msgstr "<32>{#p/story}* Квакушёнок скачет туда-сюда."
 
 msgid ""
 "<32>{#p/story}* FLUTTERLYTE - ATK 5 DEF 0\n"
@@ -7891,7 +7895,7 @@ msgid "<32>{#p/basic}* Flutterlyte thanks you, and flies away..."
 msgstr "<32>{#p/basic}* Летяга благодарит вас и улетает прочь..."
 
 msgid "<32>{#p/human}* (You flirt with Flutterlyte.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с летягой.)"
 
 msgid ""
 "<32>{#p/basic}* Unable to handle your compliment, Flutterlyte bursts into "
@@ -7901,7 +7905,7 @@ msgstr ""
 "улетел прочь..."
 
 msgid "<32>{#p/human}* (You weep and wail and gnash your teeth.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы плачете, вопите и скрипите зубами.)"
 
 msgid "<32>{#p/basic}* Flutterlyte panicks and flies away..."
 msgstr "<32>{#p/basic}* Летяга паникует и улетает прочь..."
@@ -7919,7 +7923,7 @@ msgid "<08>{#p/basic}{~}I can't do this.."
 msgstr "<08>{#p/basic}{~}Я не могу это сделать..."
 
 msgid "<08>{#p/basic}{~}\\x00*sniff sniff*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*шмыг, шмыг*"
 
 msgid "* Flutterlyte"
 msgstr "* Летяга"
@@ -7928,7 +7932,7 @@ msgid "<32>{#p/story}* Flutterlyte is barely keeping itself in the air."
 msgstr "<32>{#p/story}* Летяга еле держит себя в воздухе."
 
 msgid "<32>{#p/story}* Flutterlyte comes forth!"
-msgstr ""
+msgstr "<32>{#p/story}* Летяга выходит вперёд!"
 
 msgid "<32>{#p/story}* Flutterlyte continues to mutter apologies."
 msgstr "<32>{#p/story}* Извиняясь, летяга мямлит."
@@ -7984,10 +7988,12 @@ msgid "<32>{#p/human}* (... Oculoux bows.)"
 msgstr "<32>{#p/human}* (... зениций моргает.)"
 
 msgid "<32>{#p/human}* (You flirt with Oculoux.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с зеницием.)"
 
 msgid "<32>{#p/human}* (You rudely lecture Oculoux about staring at people.)"
 msgstr ""
+"<32>{#p/human}* (Вы грубо отчитываете зениция за то, что он пялится на "
+"других.)"
 
 msgid "<08>{#p/basic}{~}Do you dare to stare?"
 msgstr "<08>{#p/basic}{~}Как ты смеешь глазеть?"
@@ -8002,15 +8008,18 @@ msgid ""
 "with\n"
 "this one."
 msgstr ""
+"<99>{#p/basic}{~}Этот\n"
+"взгляд\n"
+"силён."
 
 msgid "<08>{#p/basic}{~}How tsundere of you."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Как смело с твоей стороны."
 
 msgid "<08>{#p/basic}{~}What? N-no way!"
 msgstr "<08>{#p/basic}{~}Что? Не-неправда!"
 
 msgid "<32>{#p/story}* Oculoux is watering."
-msgstr "<32>{#p/story}* Зениций намокает."
+msgstr "<32>{#p/story}* Зениций слезится."
 
 msgid "<08>{#p/basic}{~}I've got my eye on you."
 msgstr "<08>{#p/basic}{~}Я не свожу с тебя глаз."
@@ -8034,7 +8043,7 @@ msgid "<08>{#p/basic}{~}How dare you question our way of life!"
 msgstr "<08>{#p/basic}{~}Как ты смеешь усомниться в наших взглядах на жизнь!"
 
 msgid "<32>{#p/story}* Oculoux doesn't care about fighting anymore."
-msgstr ""
+msgstr "<32>{#p/story}* Зениция больше не волнует битва."
 
 msgid "<32>{#p/story}* A pair of Oculoux walked in!"
 msgstr "<32>{#p/story}* Пара глаз встречает вас!"
@@ -8052,7 +8061,7 @@ msgid "<32>{#p/story}* Oculoux has gone bloodshot."
 msgstr "<32>{#p/story}* Зениций налился кровью."
 
 msgid "<32>{#p/story}* Oculoux is gazing at you."
-msgstr ""
+msgstr "<32>{#p/story}* Зениций пристально смотрит на вас."
 
 msgid "<32>{#p/story}* Oculoux is now alone."
 msgstr "<32>{#p/story}* Око одиноко."
@@ -8249,193 +8258,208 @@ msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
 "* It's Napstablook."
 msgstr ""
+"<32>{#p/story}* НАПСТАБЛУК - АТК 10 ЗЩТ 255\n"
+"* Это Напстаблук."
 
 msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
 "* It doesn't seem like they want to be here anymore."
 msgstr ""
+"<32>{#p/story}* НАПСТАБЛУК - АТК 10 ЗЩТ 255\n"
+"* Кажется, он больше не хочет здесь находиться."
 
 msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
 "* Hopeful, for the first time in a while..."
 msgstr ""
+"<32>{#p/story}* НАПСТАБЛУК - АТК 10 ЗЩТ 255\n"
+"* Впервые за долгое время появилась надежда..."
 
 msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
 "* The romantic tension is at an all-time high."
 msgstr ""
+"<32>{#p/story}* НАПСТАБЛУК - АТК 10 ЗЩТ 255\n"
+"* Романтическое напряжение достигло наивысшего уровня."
 
 msgid "<11>{#p/napstablook}{~}uh..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}эм-м..."
 
 msgid "<11>{#p/napstablook}{~}okay, i guess...?"
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}хорошо, я полагаю?.."
 
 msgid "<11>{#p/napstablook}{~}that's me..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}это я..."
 
 msgid "<32>{#p/human}* (You try to console Napstablook.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы попытались утешить Напстаблука.)"
 
 msgid "<32>{#p/human}* (You give Napstablook a patient smile.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы терпеливо улыбнулись Напстаблуку.)"
 
 msgid "<32>{#p/human}* (You tell Napstablook a little joke.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы рассказываете Напстаблуку небольшую шутку.)"
 
 msgid "<32>{#p/human}* (You show adoration for Napstablook's top hat.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы восхищаетесь шляпой Напстаблука.)"
 
 msgid "<11>{#p/napstablook}{~}...?"
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}?.."
 
 msgid "<11>{#p/napstablook}{~}heh heh..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}ха-ха..."
 
 msgid "<11>{*}{#p/napstablook}{~}let me {#x1}try...{^20}{#x2}{^20}{%}"
-msgstr ""
+msgstr "<11>{*}{#p/napstablook}{~}дай {#x1}попробую...{^20}{#x2}{^20}{%}"
 
 msgid "<11>{*}{#p/napstablook}{~}i call it {#x3}'dapper blook'{^40}{%}"
 msgstr ""
 
 msgid "<11>{*}{#p/napstablook}{~}do you like it?{^40}{%}"
-msgstr ""
+msgstr "<11>{*}{#p/napstablook}{~}тебе нравится?{^40}{%}"
 
 msgid "<11>{#p/napstablook}{~}oh gee....."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}о боже....."
 
 msgid "<11>{#p/napstablook}{~}yeah, yeah..."
-msgstr ""
+msgstr "Угу... да..."
 
 msgid "<11>{#p/napstablook}{~}not buying it..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}я на это не куплюсь..."
 
 msgid "<11>{#p/napstablook}{~}you're not sorry..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}ты не сожалеешь..."
 
 msgid ""
 "<11>{#p/napstablook}{~}umm... you do know you can't kill ghosts, right..."
 msgstr ""
+"<11>{#p/napstablook}{~}эм-м... ты ведь знаешь, что не можешь убить "
+"призраков, верно..."
 
 msgid "<11>{~}we're sorta incorporeal and all"
-msgstr ""
+msgstr "<11>{~}мы вроде как бестелесны и всё такое"
 
 msgid "<11>{~}i was just lowering my hp because i didn't want to be rude"
-msgstr ""
+msgstr "<11>{~}я просто понижал мои оз, потому что не хотел быть грубым"
 
 msgid "<11>{~}sorry... i just made this more awkward..."
-msgstr ""
+msgstr "<11>{~}извини... я сделал ситуацию более неловкой..."
 
 msgid "<11>{~}pretend you beat me..."
-msgstr ""
+msgstr "<11>{~}притворись, что одолел меня..."
 
 msgid "<11>{~}ooooooooo"
-msgstr ""
+msgstr "<11>{~}ууууууууу"
 
 msgid "<32>{#p/human}* (You flirt with Napstablook.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с Напстаблуком.)"
 
 msgid "<32>{#p/human}* (You try your best pickup line on Napstablook.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы пробуете свою лучшую подкат-фразу на Напстаблуке.)"
 
 msgid "<32>{#p/human}* (You give Napstablook a heartfelt compliment.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы делаете Напстаблуку искренний комплимент.)"
 
 msgid ""
 "<32>{#p/human}* (You reassure Napstablook of your feelings towards them.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы уверяете Напстаблуку о своих чувствах к нему.)"
 
 msgid "<11>{#p/napstablook}{~}i'd just weigh you down"
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}я буду лишь отягощать тебя"
 
 msgid ""
 "<11>{#p/napstablook}{~}oh.....\n"
 "i've heard that one....."
 msgstr ""
+"<11>{#p/napstablook}{~}о.....\n"
+"я это уже слышал....."
 
 msgid "<11>{#p/napstablook}{~}uh... you really think so?"
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}эм-м... ты действительно так думаешь?"
 
 msgid "<11>{#p/napstablook}{~}oh, you're serious..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}о, ты серьёзно..."
 
 msgid "<11>{~}oh no....."
-msgstr ""
+msgstr "<11>{~}о нет...."
 
 msgid "<11>{#p/napstablook}{~}i'm fine, thanks"
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}я в порядке, спасибо"
 
 msgid "<11>{#p/napstablook}{~}just pluggin along..."
 msgstr "<11>{#p/napstablook}{~}просто врубаюсь..."
 
 msgid "<11>{#p/napstablook}{~}just doing my thing..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}просто занимаюсь своим делом..."
 
 msgid "<11>{#p/napstablook}{~}i knew it..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}я знал это..."
 
 msgid "<11>{#p/napstablook}{~}whatever..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}неважно..."
 
 msgid "<11>{#p/napstablook}{~}say what you will..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}говори что хочешь..."
 
 msgid "<11>{#p/napstablook}{~}let it all out..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}выплесни всё это наружу..."
 
 msgid "* Napstablook"
-msgstr ""
+msgstr "* Напстаблук"
 
 msgid "<11>{#p/napstablook}{~}..."
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}..."
 
 msgid "<32>{#p/human}* (You flirtatiously comment on Napstablook's top hat.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы кокетливо комментируете шляпу Напстаблука.)"
 
 msgid "<11>{#p/napstablook}{~}heh... thanks"
-msgstr ""
+msgstr "<11>{#p/napstablook}{~}хах... спасибо"
 
 msgid "<32>{#p/story}* Here comes Napstablook."
-msgstr ""
+msgstr "<32>{#p/story}* А вот и Напстаблук."
 
 msgid "<32>{#p/story}* Napstablook looks just a little better."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук выглядит чуть лучше."
 
 msgid "<32>{#p/story}* Napstablook wants to show you something."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук хочет вам кое-что показать."
 
 msgid "<32>{#p/story}* Napstablook awaits your reply."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук ожидает вашего ответа."
 
 msgid "<32>{#p/story}* Napstablook's eyes are glistening."
-msgstr ""
+msgstr "<32>{#p/story}* Глаза Напстаблука блестят."
 
 msgid "<32>{#p/story}* Napstablook is clearly not sure how to handle this."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук явно не уверен, как с этим справиться."
 
 msgid "<32>{#p/story}* Napstablook is questioning their very being."
 msgstr ""
+"<32>{#p/story}* Напстаблук ставит под сомнение своё собственное "
+"существование."
 
 msgid "<32>{#p/story}* Napstablook is biding their time."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук выжидает своего часа."
 
 msgid "<32>{#p/story}* Napstablook is waiting for your next move."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук ожидает вашего следующего шага."
 
 msgid "<32>{#p/story}* Napstablook is staring off into the distance."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук смотрит куда-то вдаль."
 
 msgid "<32>{#p/story}* Napstablook is wishing they weren't here."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук желает, чтобы его здесь не было."
 
 msgid "<32>{#p/story}* Napstablook is trying their best to ignore you."
-msgstr ""
+msgstr "<32>{#p/story}* Напстаблук изо всех сил старается игнорировать вас."
 
 msgid "<32>{#p/human}* (You tell Napstablook their hat sucks bad.)"
 msgstr ""
+"<32>{#p/human}* (Вы говорите Напстаблуку, что его шляпа - полный отстой.)"
 
 msgid "<32>{#p/human}* (You threaten Napstablook.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы угрожаете Напстаблуку.)"
 
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
