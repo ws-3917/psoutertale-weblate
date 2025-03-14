@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-14 15:05+0000\n"
+"PO-Revision-Date: 2025-03-14 15:05+0000\n"
+"Last-Translator: Bilge <mnwary@protonmail.com>\n"
+"Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
+"1-outlands/tr/>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
@@ -612,7 +627,7 @@ msgid ""
 "<32>* When we arrived at the ruins of the old homeworld, and got found out "
 "by those humans?"
 msgstr ""
-"<32>* Eski dünyanın harabelerine vardığımız, ve o insanlar tarafından "
+"<32>* Eski ana gezegenin harabelerine vardığımız, ve o insanlar tarafından "
 "bulunduğumuz zaman?\n"
 
 msgid ""
@@ -7701,6 +7716,7 @@ msgstr "<32>{#p/basic}* Toriel'in özel kitaplığı."
 
 msgid "<32>{#p/basic}* \"Our homeworld gone... our people dead... but why?\""
 msgstr ""
+"<32>{#p/basic}* \"Ana gezegenimiz gitti... halkımız öldü... ama neden?\""
 
 msgid "<32>* \"Surely, the humans must've had a reason for their attacks.\""
 msgstr ""
