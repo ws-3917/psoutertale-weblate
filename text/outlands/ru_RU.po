@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-15 14:14+0000\n"
-"Last-Translator: David <geniusssss2008@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -8098,22 +8098,29 @@ msgid ""
 "* It seems comfortable with you.\n"
 "* VERY comfortable."
 msgstr ""
+"<32>{#p/story}* ТИХОНЯ - АТК 7 ЗЩТ 5\n"
+"* Кажется, ему комфортно с вами.\n"
+"* ОЧЕНЬ комфортно."
 
 msgid ""
 "<32>{#p/story}* SILENTE - ATK 7 DEF 5\n"
 "* Despite its tough act, it's clearly in pain..."
 msgstr ""
+"<32>{#p/story}* ТИХОНЯ - АТК 7 ЗЩТ 5\n"
+"* Несмотря на свою жёсткость, ему явно больно..."
 
 msgid "<32>{#p/human}* (You flirt with Silente.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы флиртуете с тихоней.)"
 
 msgid "<08>{#p/basic}{~}Hiya~"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Приветик~"
 
 msgid ""
 "<32>{#p/human}* (You try insulting Silente, but it's too focused on the "
 "others.)"
 msgstr ""
+"<32>{#p/human}* (Вы попытались оскорбить тихоню, но он слишком сосредаточен "
+"на других.)"
 
 msgid "<32>{#p/story}* Silente is whispering to the others."
 msgstr "<32>{#p/story}* Тихоня шепчет что-то собратьям."
@@ -8142,6 +8149,8 @@ msgid ""
 "<08>{#p/basic}HEED THE SWARM\n"
 ".."
 msgstr ""
+"<08>{#p/basic}ПРИСЛУШАЙСЯ К РОЮ\n"
+".."
 
 msgid ""
 "<08>{#p/basic}IN UNISON, NOW\n"
@@ -8151,121 +8160,134 @@ msgstr ""
 ".."
 
 msgid "<08>{#p/basic}I DON'T CARE."
-msgstr ""
+msgstr "<08>{#p/basic}МНЕ ВСЁ РАВНО."
 
 msgid "* Silente"
-msgstr ""
+msgstr "* Тихоня"
 
 msgid "<32>{#p/story}* Silente refuses to give up."
-msgstr ""
+msgstr "<32>{#p/story}* Тихоня отказывается сдаваться."
 
 msgid ""
 "<32>{#p/human}* (You try insulting Silente, but it's too happy to care.)"
 msgstr ""
+"<32>{#p/human}* (Вы попытались оскорбить тихоню, но он слишком счастлив, что "
+"бы беспокоиться об этом.)"
 
 msgid "<32>{#p/story}* Silente doesn't have a care in the cosmos."
-msgstr ""
+msgstr "<32>{#p/story}* Тихоне нет дела ни до чего во вселенной."
 
 msgid "<08>{#p/basic}{~}Bein' me is the best!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Быть мной - это самое лучшее!"
 
 msgid "<08>{#p/basic}{~}La la~ Just be your- self~"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ля-ля~ Просто будь собой~"
 
 msgid "<08>{#p/basic}{~}Nothin' like alone time!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Нет ничего лучше, чем побыть наедине!"
 
 msgid "<08>{#p/basic}{~}Mmm, cha cha cha!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ммм, ча-ча-ча!"
 
 msgid "<08>{#p/basic}{~}Swing your arms, baby~"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Маши своими ручками, детка~"
 
 msgid "<32>{#p/human}* (You challenge Mushy to a duel.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы вызываете Кольтовичка на дуэль.)"
 
 msgid "<33>{#p/story}* Mushy's SPEED up for this turn!"
-msgstr ""
+msgstr "<33>{#p/story}* Кольтовичок повышает СКОРОСТЬ на этот ход!"
 
 msgid ""
 "<32>{#p/story}* MUSHY - ATK 6 DEF 6\n"
 "* Huge fan of space cowboys.\n"
 "* Gunslinger."
 msgstr ""
+"<32>{#p/story}* КОЛЬТОВИЧОК - АТК 6 ЗЩТ 6\n"
+"* Большой фанат космических ковбоев.\n"
+"* Стрелок."
 
 msgid ""
 "<32>{#p/story}* MUSHY - ATK 6 DEF 6\n"
 "* Huge fan of space cowboys.\n"
 "* Even the sexy ones."
 msgstr ""
+"<32>{#p/story}* КОЛЬТОВИЧОК - АТК 6 ЗЩТ 6\n"
+"* Большой фанат космических ковбоев.\n"
+"* Даже сексуальных."
 
 msgid ""
 "<32>{#p/story}* MUSHY - ATK 6 DEF 6\n"
 "* After giving it your all, this gunslinger is impressed."
 msgstr ""
+"32>{#p/story}* КОЛЬТОВИЧОК - АТК 6 ЗЩТ 6\n"
+"* После всех своих приёмов, этот стрелок впечатлился."
 
 msgid "<32>{#p/human}* (You flirt with Mushy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с Кольтовичком.)"
 
 msgid "<32>{#p/human}* (You taunt Mushy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы насмехаетесь над Кольтовичком.)"
 
 msgid "<32>{#p/story}* Mushy awaits your next challenge."
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок в ожидании вашего следующего вызова."
 
 msgid "<08>{#p/basic}{~}Let's see what you got."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Посмотрим, из чего ты сделан."
 
 msgid "<08>{#p/basic}{~}Think you can take me?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Думаешь, что можешь потягаться со мной?"
 
 msgid "<32>{#p/story}* Mushy, the confused and the aroused."
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок смущён и озадачен."
 
 msgid "<08>{#p/basic}{~}H-hey, knock it off!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Э-эй, прекрати это!"
 
 msgid "<32>{#p/story}* Mushy makes a last stand."
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок даёт последний бой."
 
 msgid ""
 "<08>{#p/basic}{~}Bang!\n"
 "Bang!\n"
 "Bang!"
 msgstr ""
+"<08>{#p/basic}{~}Тыщ!\n"
+"Тыщ!\n"
+"Тыщ!"
 
 msgid "<08>{#p/basic}{~}Saddle up!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}По коням!"
 
 msgid "<08>{#p/basic}{~}All in a day's."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Обыденное дело."
 
 msgid "* Mushy"
-msgstr ""
+msgstr "* Кольтовичок"
 
 msgid "<32>{#p/story}* Mushy bows out of respect."
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок кланяется в знак уважения."
 
 msgid "<32>{#p/story}* Mushy stormed in!"
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок ворвался!"
 
 msgid "<32>{#p/story}* Mushy adjusts their stance."
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок меняет позицию."
 
 msgid "<32>{#p/story}* Mushy is preparing for a grand standoff."
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок готовится к грандиозному противостоянию."
 
 msgid "<32>{#p/story}* Mushy reaches for their holster."
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок тянется к своей кобуре."
 
 msgid "<32>{#p/story}* Smells like petrichor."
-msgstr ""
+msgstr "<32>{#p/story}* Пахнет петрикором."
 
 msgid "<32>{#p/story}* Mushy pretends they aren't bothered by your taunts."
-msgstr ""
+msgstr "<32>{#p/story}* Кольтовичок притворяется, что его не задело."
 
 msgid "<08>{#p/basic}{~}As if that'll work on me."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Как будто на меня это действует."
 
 msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
@@ -8478,169 +8500,195 @@ msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Toriel picks it up and returns it to you.)"
 msgstr ""
+"<32>{#p/human}* (Вы выкинули гаечный ключ.)\n"
+"* (Ториэль подняла его и вернула вам.)"
 
 msgid "<11>{#p/toriel}{#f/22}That will accomplish nothing, my child."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/22}Этим ты ничего не добьёшься, моё дитя."
 
 msgid "<11>{#p/toriel}{#f/22}..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/22}..."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Knows best for you."
 msgstr ""
+"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"* Знает, что лучше для вас."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Seems to be holding back."
 msgstr ""
+"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"* Кажется, она сдерживается."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Looks pre-occupied."
 msgstr ""
+"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"* Выглядит озадаченной."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Just wants the best for you."
 msgstr ""
+"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"* Просто хочет лучшего для вас."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Thinks you are \"adorable.\""
 msgstr ""
+"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"* Считает вас «очаровательным»."
 
 msgid "<20>{#p/asriel2}..."
-msgstr ""
+msgstr "<20>{#p/asriel2}..."
 
 msgid "<20>{#p/asriel2}{#f/3}Howdy, $(name)."
-msgstr ""
+msgstr "<20>{#p/asriel2}{#f/3}Приветик, $(name)."
 
 msgid "<20>{#f/1}It's good to be back."
-msgstr ""
+msgstr "<20>{#f/1}Как хорошо вернуться назад."
 
 msgid ""
 "<20>{#f/2}What's that?\n"
 "You didn't expect to see me again?"
 msgstr ""
+"<20>{#f/2}Что такое?\n"
+"У тебя не было ожиданий увидеть меня снова?"
 
 msgid ""
 "<20>{#f/13}...\n"
 "Oh, $(name)..."
 msgstr ""
+"- <20>{#f/13}...\n"
+"О, $(name)..."
 
 msgid "<20>{#f/1}I've been waiting for this for a long time."
-msgstr ""
+msgstr "<20>{#f/1}Я ждал этого так долго."
 
 msgid "<20>{#f/15}I've been trapped inside a star for so long, I..."
-msgstr ""
+msgstr "<20>{#f/15}Я так долго был в заточении внутри звезды, я..."
 
 msgid "<20>{#f/15}..."
-msgstr ""
+msgstr "<20>{#f/15}..."
 
 msgid "<20>{#f/16}Well, that's not important now."
-msgstr ""
+msgstr "<20>{#f/16}Ну, сейчас это не важно."
 
 msgid "<20>{#f/1}What matters is that things are back to how they should be."
-msgstr ""
+msgstr "<20>{#f/1}Важно то, что всё вернулось на круги своя."
 
 msgid "<20>{#f/1}Hee hee hee..."
-msgstr ""
+msgstr "<20>{#f/1}Хе-хе-хе..."
 
 msgid "<20>{#f/2}I know you're empty inside, just like me."
-msgstr ""
+msgstr "<20>{#f/2}Я знаю что внутри мы оба пусты."
 
 msgid "<20>{#f/5}We're still inseparable after all these years..."
-msgstr ""
+msgstr "<20>{#f/5}Мы всё ещё неразлучны после стольких лет..."
 
 msgid ""
 "<20>{#f/1}Listen.\n"
 "I have a plan that'll bring us closer than ever."
 msgstr ""
+"<20>{#f/1}Слушай.\n"
+"У меня есть план, который сблизит нас больше, чем когда-либо."
 
 msgid "<20>{#f/1}With me, you, and our stolen SOULs..."
-msgstr ""
+msgstr "<20>{#f/1}Вместе со мной, тобой и нашими украденными ДУШАми..."
 
 msgid "<20>{#f/1}Let's destroy everything on this wretched outpost."
-msgstr ""
+msgstr "<20>{#f/1}Давай уничтожим всё на этом убогом аванпосте."
 
 msgid ""
 "<21>{#f/2}Anyone who dares to stand in the way of our perfect future..."
-msgstr ""
+msgstr "<21>{#f/2}Любой кто посмеет встать на пути в наше идеальное будущее..."
 
 msgid "<20>{#f/1}Let's turn 'em all to dust."
-msgstr ""
+msgstr "<20>{#f/1}Будет стёрт в пыль."
 
 msgid "<20>{#p/asriel2}{#f/3}Welcome back, $(name)."
-msgstr ""
+msgstr "<20>{#p/asriel2}{#f/3}Добро пожаловать, $(name)."
 
 msgid "<20>{#f/1}Ready to pick up where we last left off?"
 msgstr ""
+"<20>{#f/1}Продолжим с того места, на котором мы остановились в прошлый раз?"
 
 msgid "<20>{#p/asriel2}{#f/3}Well then."
-msgstr ""
+msgstr "<20>{#p/asriel2}{#f/3}Ну что ж."
 
 msgid "<20>{#f/3}..."
-msgstr ""
+msgstr "<20>{#f/3}..."
 
 msgid "<20>{#f/4}Let's just get going."
-msgstr ""
+msgstr "<20>{#f/4}Давай просто продолжим."
 
 msgid "<32>{#p/basic}* Maybe because I'm the only one you'll listen to."
 msgstr ""
+"<32>{#p/basic}* Может быть, потому, что только меня среди всех ты будешь "
+"слушать."
 
 msgid "<25>{#p/toriel}{#f/16}* ...!?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/16}* ?!.."
 
 msgid ""
 "<32>{#p/basic}* But what do I know, huh?\n"
 "* I'm just a sweet, innocent little child."
 msgstr ""
+"<32>{#p/basic}* Но что я знаю?\n"
+"* Я всего лишь милый, невинный маленький ребёнок."
 
 msgid "<25>{#p/toriel}{#f/4}* This is impossible..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/4}* Это невозможно..."
 
 msgid ""
 "<25>{#f/0}* I must be dreaming.\n"
 "* Or hallucinating.\n"
 "* Or maybe..."
 msgstr ""
+"<25>{#f/0}* Я должно быть сплю.\n"
+"* Или у меня галлюцинация.\n"
+"* Или же..."
 
 msgid "<32>{#p/basic}* No."
-msgstr ""
+msgstr "<32>{#p/basic}* Нет."
 
 msgid "<32>{#p/basic}* This is real."
-msgstr ""
+msgstr "<32>{#p/basic}* Это реально."
 
 msgid "<25>{#p/toriel}{#f/5}* But you died, $(name)."
 msgstr ""
 
 msgid "<25>{#f/5}* You cannot possibly be speaking to me."
-msgstr ""
+msgstr "<25>{#f/5}* Ты никак не можешь со мной разговаривать."
 
 msgid "<32>{#p/basic}* Pretend it's a dream, then."
-msgstr ""
+msgstr "<25>{#f/5}* Значит притворись, что это сон."
 
 msgid "<32>{#p/basic}* If that works for you."
-msgstr ""
+msgstr "<32>{#p/basic}* Если тебя это устраивает."
 
 msgid "<25>{#p/toriel}{#f/9}* What do you want?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/9}* Чего ты хочешь?"
 
 msgid "<32>{#p/basic}* Toriel..."
-msgstr ""
+msgstr "<32>{#p/basic}* Ториэль..."
 
 msgid "<32>{#p/basic}* You know how I feel about humanity, don't you?"
-msgstr ""
+msgstr "<32>{#p/basic}* Ты ведь знаешь моё отношение к человечеству, верно?"
 
 msgid "<25>{#p/toriel}{#f/13}* Right."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/13}* Верно."
 
 msgid "<32>{#p/basic}* Wrong."
-msgstr ""
+msgstr "<32>{#p/basic}* Неверно."
 
 msgid "<32>{#p/basic}* ... not about this human."
-msgstr ""
+msgstr "<32>{#p/basic}* ... не к этому человеку."
 
 msgid "<32>* Ever since they got here, I've been following them..."
 msgstr ""
