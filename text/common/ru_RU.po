@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-15 05:16+0000\n"
+"PO-Revision-Date: 2025-03-15 14:14+0000\n"
 "Last-Translator: Zenry <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "6-common/ru/>\n"
@@ -12431,97 +12431,105 @@ msgid "<32>{#p/kidding}* Oh! Oh!"
 msgstr ""
 
 msgid "<32>* I know how ACTing works!"
-msgstr ""
+msgstr "<32>* О, я знаю как ДЕЙСТВОВАТЬ!"
 
 msgid "<32>* Watch this...!"
-msgstr ""
+msgstr "<32>* Смотри!.."
 
 msgid ""
 "<32>{#p/kidding}* Are you sure...?\n"
 "* They don't seem to be happy about all this..."
 msgstr ""
+"<32>{#p/kidding}* Ты серьёзно?..\n"
+"* Кажется, он не в восторге от этого..."
 
 msgid "<32>{#p/kidding}* Is this really a good idea...?"
-msgstr ""
+msgstr "<32>{#p/kidding}* Это точно хорошая идея?.."
 
 msgid "<32>{#p/kidding}* Um..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Э-э-э..."
 
 msgid "<32>{#p/kidding}* Er..."
-msgstr ""
+msgstr "<32>{#p/kidding}* Ну..."
 
 msgid ""
 "<32>{#p/story}* Monster Kid struggled in the web and made a scary face."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок борется с паутиной и корчит жуткое лицо."
 
 msgid "<32>{#p/story}* Monster Kid struggled in the web and yelled."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок отчаянно пытается выбраться из паутины."
 
 msgid "<32>{#p/story}* Monster Kid gave out a menacing laugh."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок запел грустную мелодию."
 
 msgid "<32>{#p/story}* Monster Kid sang a scary tune."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок начал петь страшную мелодию."
 
 msgid "<32>{#p/story}* Monster Kid yelled overly edgy lyrics."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок выкрикивает ругательства."
 
 msgid "<32>{#p/story}* Monster Kid drummed loudly with their feet."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок громко топчет ногами."
 
 msgid "<32>{#p/story}* Monster Kid pointed out the dirty floors."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок указал на грязные полы."
 
 msgid "<32>{#p/story}* Monster Kid pointed out the leaky pipes."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок уронил железную трубу."
 
 msgid "<32>{#p/story}* Monster Kid made a gross face."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок скорчил мерзкую рожицу."
 
 msgid "<32>{#p/story}* Monster Kid stared $(x) directly in the face."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок уставился на лицо $(x)."
 
 msgid "<32>{#p/story}* Monster Kid pointed at $(x) accusingly."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок с упрёком тычет в $(x) пальцем."
 
 msgid "<32>{#p/story}* Monster Kid circled around $(x) like a predator."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок хищно бегает вокруг $(x)."
 
 msgid ""
 "<32>{#p/story}* Monster Kid complimented Muffet on her eloquent taste in "
 "clothing."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок похвалил стиль одежды Маффет."
 
 msgid ""
 "<32>{#p/story}* Monster Kid told Muffet her pastries are the best known to "
 "monsterkind."
 msgstr ""
+"<32>{#p/story}* Монстрёнок заявил, что пирожные Маффет — самые вкусные во "
+"всём Королевстве."
 
 msgid "<32>{#p/story}* Monster Kid said no webs are as strong as Muffet's."
 msgstr ""
+"<32>{#p/story}* Монстрёнок сказал Маффет, что её паутина самая прочная из "
+"всех, что он знает."
 
 msgid "<32>{#p/story}* Monster Kid hummed a pretty melody."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок напевает красивую мелодию."
 
 msgid "<32>{#p/story}* Monster Kid complimented Shyren's hair."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок похвалил волосы Смурены."
 
 msgid "<32>{#p/story}* Monster Kid complimented Shyren's voice."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок похвалил голос Смурены."
 
 msgid ""
 "<32>{#p/story}* Monster Kid called Skrubbington the cleanest monster on the "
 "block."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок назвал чистинсона самым чистым монстром."
 
 msgid ""
 "<32>{#p/story}* Monster Kid appreciated Skrubbington's efforts to freshen up"
 " the factory."
 msgstr ""
+"<32>{#p/story}* Монстрёнок хвалит чистинсона за то, как хорошо он убирает "
+"фабрику."
 
 msgid ""
 "<32>{#p/story}* Monster Kid noted Skrubbington's committment to perfection."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок похвалил чистинсона за чистолюбие."
 
 msgid "<32>{#p/story}* Monster Kid complimented Radtile's mirror."
 msgstr ""
@@ -12534,40 +12542,47 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/story}* Monster Kid offered to keep $(x) company."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок предложил $(x) составить компанию."
 
 msgid "<32>{#p/story}* Monster Kid told $(x) they'd be there if it'd help."
 msgstr ""
+"<32>{#p/story}* Монстрёнок пообещал $(x), что всегда будет рядом, что бы не "
+"случилось."
 
 msgid "<32>{#p/story}* Monster Kid stood on top of $(x)."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок взобрался на $(x)."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about spider clans."
 msgstr ""
+"<32>{#p/story}* Монстрёнок пытается расспросить у Маффет о паучьих кланах."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about bakeries."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок пытается узнать у Маффет что такое маффин."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about tea."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок пытается спросить Маффет о её любимом чае."
 
 msgid "<32>{#p/story}* Monster Kid debated about musical notation."
 msgstr ""
 
 msgid "<32>{#p/story}* Monster Kid spoke about music theory."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок рассказал о музыкальной теории."
 
 msgid "<32>{#p/story}* Monster Kid discussed their favorite music genres."
 msgstr ""
+"<32>{#p/story}* Монстрёнок начал размышлять о своём любимом музыкальном "
+"жанре."
 
 msgid "<32>{#p/story}* Monster Kid waxed poetic about proper hygiene."
-msgstr ""
+msgstr "<32>{#p/story}* Монстрёнок ушёл в размышления о личной гигиене."
 
 msgid "<32>{#p/story}* Monster Kid rapped about hazard safety."
 msgstr ""
+"<32>{#p/story}* Монстрёнок читает рэп о безопасности во время литья труб."
 
 msgid "<32>{#p/story}* Monster Kid showed off their polished sewer pipe set."
 msgstr ""
+"<32>{#p/story}* Монстрёнок показал свой набор неустойчивых железных труб."
 
 msgid "<32>{#p/story}* Monster Kid made an ugly face at Radtile."
 msgstr ""
@@ -12577,11 +12592,10 @@ msgstr ""
 
 msgid ""
 "<32>{#p/story}* Monster Kid acted out as if they were a feral creature."
-msgstr ""
-"<32>{#p/story}* Монстрёнок начал вести себя так, как будто он сошёл с ума."
+msgstr "<32>{#p/story}* Монстрёнок начал вести себя как сумасшедший."
 
 msgid "<32>{#p/story}* Monster Kid wiggled around, mimicing $(x)."
-msgstr "<32>{#p/story}* Монстрёнок извивается, пародируя $(x)."
+msgstr "<32>{#p/story}* Монстрёнок извивается, пародируя $(x)!"
 
 msgid "<32>{#p/story}* Monster Kid did a handstand, impressing $(x)."
 msgstr "<32>{#p/story}* Монстрёнок встал вверх ногами, удивив этим $(x)!"
@@ -12619,7 +12633,7 @@ msgid ""
 "* Skrubbington's DEFENSE down!"
 msgstr ""
 "<32>{#p/story}* Чистинсону стало неприятно.\n"
-"* ЗАЩИТА Чистинсона понижена!"
+"* ЗАЩИТА чистинсона понижена!"
 
 msgid ""
 "<32>{#p/story}* Shyren felt uncomfortable!\n"
@@ -12644,11 +12658,15 @@ msgid ""
 "<32>{#p/story}* Skrubbington felt flattered!\n"
 "* Skrubbington's ATTACK down!"
 msgstr ""
+"<32>{#p/story}* Чистинсон был польщён этим!\n"
+"* АТАКА чистинсона понижена!"
 
 msgid ""
 "<32>{#p/story}* Shyren felt flattered!\n"
 "* Shyren's ATTACK down!"
 msgstr ""
+"<32>{#p/story}* Смурена была польщена этим!\n"
+"* АТАКА Смурены понижена!"
 
 msgid ""
 "<32>{#p/story}* Radtile felt respected!\n"
@@ -12659,6 +12677,8 @@ msgid ""
 "<32>{#p/story}* $(x) felt respected!\n"
 "* $(x)'s ATTACK down!"
 msgstr ""
+"<32>{#p/story}* $(x) чувствует уважение!\n"
+"* АТАКА $(x) понижена!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington and the others were distracted by Monster Kid "
