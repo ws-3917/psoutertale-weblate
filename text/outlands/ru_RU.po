@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-15 14:14+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"Last-Translator: Zenry <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10870,54 +10870,63 @@ msgid ""
 "<25>{#p/toriel}{#f/0}* There truly is nothing like the chirp of that "
 "fearless little bird."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Ничто не сравнится с щебетом этой бесстрашной птички."
 
 msgid "<25>{#f/1}* Even when it still lived within a bucket of water..."
-msgstr ""
+msgstr "<25>{#f/1}* Даже когда она жила в ведре с водой..."
 
 msgid "<25>{#f/1}* It would fly its mighty little wings..."
-msgstr ""
+msgstr "<25>{#f/1}* Она бы взмахнула своими могучими крыльями..."
 
 msgid "<25>{#f/1}* Taking us places..."
-msgstr ""
+msgstr "<25>{#f/1}* И отвозила нас куда нужно..."
 
 msgid "<25>{#f/0}* I used its services to carry groceries often."
-msgstr ""
+msgstr "<25>{#f/0}* Я часто пользовался её услугами доставки..."
 
 msgid ""
 "<25>{#f/5}* ... back when we as a species all lived in that old factory."
 msgstr ""
+"<25>{#f/5}* ...в те времена, когда все монстры жили на этой старой фабрике."
 
 msgid "<25>{#p/toriel}{#f/5}* Things sound awfully silent where you are..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* Сейчас здесь всё звучит подозрительно тихо..."
 
 msgid "<25>{#f/5}* Almost like there is something missing."
-msgstr ""
+msgstr "<25>{#f/5}* Словно чего-то не хватает."
 
 msgid "<25>{#f/5}* Something important..."
-msgstr ""
+msgstr "<25>{#f/5}* Нечто важное..."
 
 msgid ""
 "<25>{#f/0}* Well, no matter.\n"
 "* My imagination does run wild sometimes."
 msgstr ""
+"<25>{#f/0}* Ну, неважно.\n"
+"* Иногда моё воображение заходит слишком далеко."
 
 msgid "<25>{#f/1}* Chirp, chirp, chirp, chirp, chirp..."
-msgstr ""
+msgstr "<25>{#f/1}* Чик-чирик, чик-чирик, чик-чирик..."
 
 msgid "<25>{#p/toriel}{#f/1}* So you found the factory's taxi stop...?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Так вы нашли местную стоянку такси?.."
 
 msgid ""
 "<25>{#f/0}* Perhaps you could use it to escape that Royal Guard captain."
 msgstr ""
+"<25>{#f/0}* Возможно, это поможет тебе сбежать от капитана королевской "
+"гвардии."
 
 msgid "<25>{#f/1}* A visitor here once spoke of her obsession with spears..."
 msgstr ""
+"<25>{#f/1}* Однажды один посетитель упоминала свою большую любовь к копьям..."
 
 msgid ""
 "<25>{#f/0}* How odd.\n"
 "* The captain I knew was into sabers."
 msgstr ""
+"<25>{#f/0}* Как странно...\n"
+"* ...капитан, которого я знал, увлекался саблями."
 
 msgid "<25>{#p/toriel}{#f/0}* Ah, there you are."
 msgstr "<25>{#p/toriel}{#f/0}* Ах, вот ты где."
@@ -10934,12 +10943,13 @@ msgstr "<25>{#f/5}* До того как я ушла, существовал л�
 
 msgid "<25>{#f/1}* Now, however, exists the area called \"Aerialis...\""
 msgstr ""
+"<25>{#f/1}* Теперь, однако, существует область под названием «Стратополис...»"
 
 msgid "<25>{#f/23}* ... I wonder who came up with THAT name."
-msgstr ""
+msgstr "<25>{#f/23}* ...интересно, кто вообще мог придумать ТАКОЕ название..."
 
 msgid "<25>{#f/2}* Come back to the house this instant!"
-msgstr "<25>{#f/2}* Вернись в дом сейчас же!"
+msgstr "<25>{#f/2}* Вернись домой сейчас же!"
 
 msgid ""
 "<25>{#p/toriel}{#f/23}* Are you not exhausted after how you behaved towards "
@@ -10961,16 +10971,20 @@ msgstr ""
 msgid ""
 "<25>{#f/0}* Perhaps you should see the bed I made for you in the guest room."
 msgstr ""
+"<25>{#f/0}* Может быть, тебе стоит взглянуть на кровать, которую я "
+"подготовила для тебя в спальне?"
 
 msgid ""
 "<25>{#f/0}* Perhaps you should see the bed I made for you at the house."
 msgstr ""
+"<25>{#f/0}* Думаю, тебе стоит посмотреть на кровать, которую я для тебя "
+"подготовила."
 
 msgid "<25>{#f/0}* Come to the hallway, and I will show you something."
-msgstr "<25>{#f/0}* Приди в коридор, и я покажу тебе что-то."
+msgstr "<25>{#f/0}* Проходи в коридор, и я покажу тебе кое-то."
 
 msgid "<25>{#f/0}* Come to the house, and I will show you something."
-msgstr "<25>{#f/0}* Приди в дом, и я покажу тебе что-то."
+msgstr "<25>{#f/0}* Заходи ко мне домой, и я покажу тебе кое-то."
 
 msgid "<32>{#p/human}* (But the line was busy.)"
 msgstr "<32>{#p/human}* (Но линия была занята.)"
@@ -10980,37 +10994,37 @@ msgid ""
 msgstr "<25>{#p/toriel}{#f/1}* Нет нужды звонить мне по телефону, моё дитя."
 
 msgid "<26>{#f/23}* We already know what that tends to result in."
-msgstr "<26>{#f/23}* Мы уже знаем к чему это приводит."
+msgstr "<26>{#f/23}* Мы уже знаем к чему это приводит..."
 
 msgid "<25>{#f/0}* After all, I am here in the room with you."
 msgstr "<25>{#f/0}* Ведь я здесь, в комнате, рядом с тобою."
 
 msgid "<25>{#f/0}* I will be done in just a moment."
-msgstr ""
+msgstr "<25>{#f/0}* Я закончу через минуту."
 
 msgid "<25>{#f/0}* If you want to see me, you can come to the living room."
-msgstr ""
+msgstr "<25>{#f/0}* Если хочешь меня увидеть, просто проходи в гостиную."
 
 msgid "<25>{#f/0}* If you want to see me, you can wait in the living room."
-msgstr ""
+msgstr "<25>{#f/0}* Если хочешь меня увидеть, подожди меня в гостиной."
 
 msgid "<25>{#f/0}* If you want to see me, you can come to the house."
-msgstr ""
+msgstr "<25>{#f/0}* Если захочешь меня увидеть, приходи ко мне в гости."
 
 msgid "<25>{#p/asriel2}{#f/3}* Just so you know, I'm not picking that up."
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/4}* We have better things to do."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* У нас есть дела поважнее..."
 
 msgid "<25>{#p/asriel2}{#f/4}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* ..."
 
 msgid "<25>{#p/asriel2}{#f/4}* ... seriously?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* ...серьёзно?"
 
 msgid "<25>{#p/asriel2}{#f/3}* You must be really, REALLY bored."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Тебе, должно быть, ОЧЕНЬ скучно."
 
 msgid "Outlands - Courtyard"
 msgstr "Запределье: двор"
@@ -11053,10 +11067,10 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (Returning to where it all began, after so long...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Возвращение к истокам спустя столько времени...)"
 
 msgid "<32>{#p/human}* (This fills you with determination.)"
-msgstr ""
+msgstr "<32>{#p/human}* (...наполняет вас решимостью.)"
 
 msgid "Outlands - Rest Area"
 msgstr "Запределье: зона отдыха"
@@ -11077,15 +11091,16 @@ msgstr ""
 
 msgid ""
 "<32>{#p/human}* (The area has been vacated, but the air remains fresh.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Место опустело, но воздух по-прежнему свеж.)"
 
 msgid "<32>{#p/human}* (This, of course, fills you with determination.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Это, конечно же, наполняет вас решимостью.)"
 
 msgid ""
 "<32>{#p/human}* (The sight of weird and wonderful creatures fills you with "
 "determination.)"
 msgstr ""
+"<32>{#p/human}* (Вид дивных и диковинных существ наполняет тебя решимостью.)"
 
 msgid "Outlands - Stærmite Hole"
 msgstr "Запределье: дырка звездомыши."
@@ -11099,10 +11114,10 @@ msgid "<32>{#p/human}* (The thought fills you with determinætion.)"
 msgstr "<32>{#p/human}* (Наполняет вас мышимостью.)"
 
 msgid "<32>{#p/human}* (Even if the stærmite may never emerge again...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Даже если звездомышь никогда не появится...)"
 
 msgid "<32>{#p/human}* (The situation fills you with determinætion.)"
-msgstr ""
+msgstr "<32>{#p/human}* (...это не помешает вам наполниться мышимостью.)"
 
 msgid "Crash Site"
 msgstr "Место крушения"
