@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-16 11:22+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: Zenry <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -367,404 +367,439 @@ msgid "<32>{#p/human}* (Something seems to have interrupted your sleep.)"
 msgstr "<32>{#p/human}* (По-видимому, что-то прервало ваш сон.)"
 
 msgid "<32>{#p/human}* (You decide not to equip.)"
-msgstr "<32>{#p/human}* (Вы решили не экипировать.)"
+msgstr "<32>{#p/human}* (Вы решили не надевать это.)"
 
 msgid "<32>{#p/basic}* He's gotta be around here somewhere..."
-msgstr ""
+msgstr "<32>{#p/basic}* Он должен быть где-то здесь..."
 
 msgid "<32>{#p/basic}* Huh...?"
-msgstr ""
+msgstr "<32>{#p/basic}* Хм?.."
 
 msgid ""
 "<32>{#p/basic}* Is that... him?\n"
 "* Out there?"
 msgstr ""
+"<32>{#p/basic}* Это... он?\n"
+"* Там, впереди?"
 
 msgid "<32>{#p/basic}* ... it's him."
-msgstr ""
+msgstr "<32>{#p/basic}* ...это он."
 
 msgid ""
 "<32>* ...\n"
 "* Frisk, if you're ready..."
 msgstr ""
+"<32>* ...\n"
+"* Фриск, если всё готово..."
 
 msgid "<32>* If you've seen everyone else you wanted to see..."
-msgstr ""
+msgstr "<32>* Если тебе удалось увидеть всех, кого тебе хотелось..."
 
 msgid "<32>* ..."
-msgstr ""
+msgstr "<32>* ..."
 
 msgid "<32>* You know what to do."
-msgstr ""
+msgstr "<32>* Ты знаешь, что делать."
 
 msgid "<32>* Otherwise, I'll wait until you're ready."
-msgstr ""
+msgstr "<32>* В ином случае я буду ждать тебя столько, сколько потребуется."
 
 msgid "<32>{#p/basic}* Asriel."
-msgstr ""
+msgstr "<32>{#p/basic}* Азриэль."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* ... Frisk?\n"
 "* Is that you...?"
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* ...Фриск?\n"
+"* Это ты?.."
 
 msgid "<32>{#p/basic}* Asriel, it's me..."
-msgstr ""
+msgstr "<32>{#p/basic}* Азриэль, это я..."
 
 msgid "<32>{#p/basic}* Your best friend, remember?"
-msgstr ""
+msgstr "<32>{#p/basic}* Твой лучший друг, помнишь?"
 
 msgid "<25>{#p/asriel1}{#f/25}* ...!"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/25}* !.."
 
 msgid "<25>{#f/25}* $(name)...?"
-msgstr ""
+msgstr "<25>{#f/25}* $(name)?.."
 
 msgid "<25>{#f/13}* But... you're..."
-msgstr ""
+msgstr "<25>{#f/13}* Но... тебя же..."
 
 msgid "<25>{#f/23}* ... you're..."
-msgstr ""
+msgstr "<25>{#f/23}* уже..."
 
 msgid "<32>{#p/basic}* Dead?"
-msgstr ""
+msgstr "<32>{#p/basic}* ...нет в живых?"
 
 msgid ""
 "<32>{#p/basic}* Heh.\n"
 "* For a long time... part of me wished I was."
 msgstr ""
+"<32>{#p/basic}* Ха.\n"
+"* Долгое время... мне тоже так казалось."
 
 msgid ""
 "<32>{#p/basic}* After what I did to you, I...\n"
 "* I felt like I deserved it."
 msgstr ""
+"<32>{#p/basic}* После всего, что нам пришлось пережить...\n"
+"* Я думаю, это то, что я заслуживаю."
 
 msgid "<25>{#p/asriel1}{#f/7}* Don't say that, $(name)!"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/7}* Не говори так, $(name)!"
 
 msgid "<25>{#f/6}* ... you're wrong!"
-msgstr ""
+msgstr "<25>{#f/6}* ...ты не заслуживаешь такого!"
 
 msgid ""
 "<33>{#p/basic}* Haha... look who's talking now.\n"
 "* Mister \"just go be with the people who love you.\""
 msgstr ""
+"<33>{#p/basic}* Ха-ха... кто бы говорил.\n"
+"* Мистер «Просто будь с теми, кто тебя любит.»"
 
 msgid "<32>* But you deserve to know the truth about me, Asriel..."
-msgstr ""
+msgstr "<32>* Но ты заслуживаешь знать правду обо мне, Азриэль..."
 
 msgid "<32>* About everything."
-msgstr ""
+msgstr "<32>* Всю правду."
 
 msgid "<25>{#p/asriel1}{#f/23}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/23}* ..."
 
 msgid "<25>{#f/23}* $(name)..."
-msgstr ""
+msgstr "<25>{#f/23}* $(name)..."
 
 msgid "<25>{#p/asriel1}{#f/13}* But..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Но..."
 
 msgid "<25>{#f/15}* How are you still..."
-msgstr ""
+msgstr "<25>{#f/15}* Как ты ещё..."
 
 msgid "<32>{#p/basic}* ... does it matter?"
-msgstr ""
+msgstr "<32>{#p/basic}* ...имеет ли это значение?"
 
 msgid "<32>* You were right to forget about me the way you did back there."
-msgstr ""
+msgstr "<32>* Ты правильно сделал, что забыл обо мне тогда."
 
 msgid "<32>* The truth is, I've been a terrible person..."
-msgstr ""
+msgstr "<32>* Я, на самом деле, не самый лучший человек..."
 
 msgid "<32>* And I'm not the friend, or the sibling you wish you had."
-msgstr ""
+msgstr "<32>* Я не тот друг или родственник, которого тебе так хочется."
 
 msgid "<25>{#p/asriel1}{#f/13}* $(name), I..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* $(name), я..."
 
 msgid "<32>{#p/basic}* It's alright, Asriel."
-msgstr ""
+msgstr "<32>{#p/basic}* Азриэль, всё в порядке."
 
 msgid "<32>* You don't have to make it out to be better than it is."
-msgstr ""
+msgstr "<32>* Тебе не нужно приукрашивать реальность."
 
 msgid "<25>{#p/asriel1}{#f/22}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/22}* ..."
 
 msgid "<25>{#f/22}* ... why now?"
-msgstr ""
+msgstr "<25>{#f/22}* ...но почему сейчас?"
 
 msgid "<32>{#p/basic}* Well..."
-msgstr ""
+msgstr "<32>{#p/basic}* Ну..."
 
 msgid "<32>* I always thought humanity was beyond redemption."
-msgstr ""
+msgstr "<32>* Мне всегда казалось, что человечество неспособно на искупление."
 
 msgid "<32>* That, no matter what..."
-msgstr ""
+msgstr "<32>* Но, несмотря ни на что..."
 
 msgid "<32>* If you were human... you were doomed to fall into darkness."
-msgstr ""
+msgstr "<32>* Если ты был человеком... ты был бы обречён."
 
 msgid "<32>* But after following Frisk along on their journey..."
-msgstr ""
+msgstr "<32>* Но после того, как я и Фриск начали своё путешествие..."
 
 msgid "<32>* I understand the truth."
-msgstr ""
+msgstr "<32>* Мне стало ясно."
 
 msgid ""
 "<32>* The other humans... always did something that made it easy to ignore "
 "this truth."
 msgstr ""
+"<32>* Другие люди... всегда делали то, что позволяло игнорировать эту истину."
 
 msgid "<33>* They'd attack people, or worse, make them... disappear."
-msgstr ""
+msgstr "<33>* Другие люди... нападали на монстров, или даже... убивали их."
 
 msgid "<32>* But not Frisk."
-msgstr ""
+msgstr "<32>* Но не Фриск."
 
 msgid ""
 "<32>* No matter what struggles they faced, they showed kindness and mercy at"
 " every turn."
 msgstr ""
+"<32>* Даже в самых тяжёлых испытаниях сердце Фриск оставалось полным "
+"безграничной доброты и милосердия."
 
 msgid "<32>* They... proved me wrong."
-msgstr ""
+msgstr "<32>* И это открыло мне глаза..."
 
 msgid ""
 "<32>* And now, because of that, I know there's no excuse for the way I "
 "treated you."
-msgstr ""
+msgstr "<32>* Сейчас я понимаю, насколько ужасным было моё отношение к тебе."
 
 msgid "<32>* Everything you went through, everything you lost..."
-msgstr ""
+msgstr "<32>* Всё, через что ты прошёл, и всё, что ты потерял..."
 
 msgid "<32>* I'm the one to blame for it."
-msgstr ""
+msgstr "<32>* Это всё моя вина."
 
 msgid "<25>{#p/asriel1}{#f/13}* $(name)..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* $(name)..."
 
 msgid "<25>{#f/15}* Have you been conscious this whole time?"
-msgstr ""
+msgstr "<25>{#f/15}* Значит, ты и так всё знаешь?"
 
 msgid ""
 "<32>{#p/basic}* ... yeah.\n"
 "* I guess I have."
 msgstr ""
+"<32>{#p/basic}* ... да.\n"
+"* Думаю, что да."
 
 msgid ""
 "<32>* This has been my existence, Asriel...\n"
 "* Ever since we died."
 msgstr ""
+"<32>* Это было моим существованием, Азриэль...\n"
+"* С тех пор как мы умерли."
 
 msgid "<32>* And... there's something else I have to tell you."
-msgstr ""
+msgstr "<32>* И есть ещё кое-что, что мне нужно тебе сказать..."
 
 msgid "<25>{#p/asriel1}{#f/21}* What is it?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/21}* Что же?"
 
 msgid "<32>{#p/basic}* Remember when we crossed the force field together?"
-msgstr ""
+msgstr "<32>{#p/basic}* Помнишь, как мы вместе прошли через силовое поле?"
 
 msgid ""
 "<32>* When we arrived at the ruins of the old homeworld, and got found out "
 "by those humans?"
-msgstr ""
+msgstr "<32>* Когда мы прибыли к руинам старого мира и обнаружили тех людей?"
 
 msgid ""
 "<32>* I wanted to use our power to destroy them... but you stopped me, "
 "remember?"
 msgstr ""
+"<32>* У меня был план использовать нашу силу чтобы уничтожить их... но ты "
+"остановил меня, помнишь?"
 
 msgid "<25>{#p/asriel1}{#f/16}* ... right."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/16}* ... помню."
 
 msgid "<32>{#p/basic}* I didn't understand it back then, but..."
-msgstr ""
+msgstr "<32>{#p/basic}* Тогда мне было это непонятно, но..."
 
 msgid "<32>* I get it now."
-msgstr ""
+msgstr "<32>* Сейчас я понимаю."
 
 msgid ""
 "<32>* ... you were just trying to stop me... from making a terrible mistake."
-msgstr ""
+msgstr "<32>* ...ты просто пытался остановить меня... от чудовищной ошибки."
 
 msgid "<25>{#p/asriel1}{#f/15}* $(name)..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/15}* $(name)..."
 
 msgid ""
 "<32>{#p/basic}* If not for you, the outpost would've been destroyed in a "
 "second war."
 msgstr ""
+"<32>{#p/basic}* Если бы не ты, Аванпост был бы разрушен во второй войне."
 
 msgid ""
 "<32>* If not for you, the very same monsters I was supposedly trying to "
 "save..."
-msgstr ""
+msgstr "<32>* Если бы не ты, все те монстры, которых мы «пытались спасти»..."
 
 msgid "<32>* ... would have died right along with us."
-msgstr ""
+msgstr "<32>* ...погибли вместе с нами."
 
 msgid "<25>{#p/asriel1}{#f/25}* $(name), I..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/25}* $(name), я..."
 
 msgid "<32>{#p/basic}* Even now, your choice back then still matters."
-msgstr ""
+msgstr "<32>{#p/basic}* Твой выбор тогда важен даже сейчас."
 
 msgid "<32>* Even now..."
-msgstr ""
+msgstr "<32>* Даже сейчас..."
 
 msgid "<32>* You're still a better sibling to me than I ever was."
-msgstr ""
+msgstr "<32>* Ты всегда был для меня лучшим другом, чем я для тебя."
 
 msgid "<25>{#p/asriel1}{#f/25}* I forgive you, $(name)!"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/25}* $(name), я тебя прощаю!"
 
 msgid ""
 "<25>{#f/23}* Alright?\n"
 "* You don't have to do this..."
 msgstr ""
+"<25>{#f/23}* Правда?\n"
+"* Ты не обязан меня прощать..."
 
 msgid "<25>{#f/22}* I know how strongly you felt back then, and..."
-msgstr ""
+msgstr "<25>{#f/22}* Я знаю, какие сильные чувства ты испытывал тогда, и..."
 
 msgid "<25>{#f/15}* I wouldn't want you to change your mind just because I..."
 msgstr ""
+"<25>{#f/15}* Я не хочу, чтобы ты изменил своё мнение только потому, что я..."
 
 msgid ""
 "<32>{#p/basic}* No.\n"
 "* Not anymore."
 msgstr ""
+"<32>{#p/basic}* Нет.\n"
+"* Больше нет."
 
 msgid "<32>* People CAN change, Asriel..."
-msgstr ""
+msgstr "<32>* Азриэль, люди МОГУТ меняться..."
 
 msgid "<32>* Isn't that what you always believed?"
-msgstr ""
+msgstr "<32>* Разве не в это ты всегда верил?"
 
 msgid "<25>{#p/asriel1}{#f/13}* ... I still do."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* ...я всё ещё верю в это."
 
 msgid ""
 "<32>{#p/basic}* I've spent the past hundred years wallowing in self-pity."
-msgstr ""
+msgstr "<32>{#p/basic}* Последние сто лет прошли для меня в жалости к себе."
 
 msgid ""
 "<32>* I've spent the past hundred years holding a grudge I never should've "
 "had."
 msgstr ""
+"<32>* Последние сто лет во мне была лишь обида, которой не должно было "
+"существовать."
 
 msgid "<32>* In all that time, I wondered what kept me alive..."
-msgstr ""
+msgstr "<32>* Всё это время у меня был вопрос... что помогает мне жить?"
 
 msgid "<32>* And now, I finally know the answer."
-msgstr ""
+msgstr "<32>* Теперь я наконец-то знаю ответ."
 
 msgid "<25>{#p/asriel1}{#f/15}* ...?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/15}* ?.."
 
 msgid "<32>{#p/basic}* ... it's you, Asriel."
-msgstr ""
+msgstr "<32>{#p/basic}* ...Азриэль, теперь это твоё."
 
 msgid "<32>* You're the one who's been keeping me alive."
-msgstr ""
+msgstr "<32>* Ты единственный, кто сохранил мне жизнь."
 
 msgid "<32>{#p/basic}* Think of it like... an unfulfilled promise."
-msgstr ""
+msgstr "<32>{#p/basic}* Думай об этом как о моём невыполненном обещании..."
 
 msgid ""
 "<32>* Holding that grudge... thinking about you in the way that I did..."
-msgstr ""
+msgstr "<32>* Держать эту обиду... думать о тебе как о предателе..."
 
 msgid ""
 "<32>* Knowing I could've been so much more for you than I ultimately was."
 msgstr ""
 
 msgid "<32>* All this time, that's what's been holding me back."
-msgstr ""
+msgstr "<32>* Всё это время именно это сдерживало меня."
 
 msgid "<25>{#p/asriel1}{#f/23}* $(name)..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/23}* $(name)..."
 
 msgid ""
 "<32>{#p/basic}* Asriel.\n"
 "* My brother."
 msgstr ""
+"<32>{#p/basic}* Азриэль.\n"
+"* Мой брат..."
 
 msgid "<32>* You deserve to know the truth."
-msgstr ""
+msgstr "<32>* Ты заслуживаешь знать правду."
 
 msgid ""
 "<25>{*}{#p/asriel1}{#f/25}* Huh?\n"
 "* But you already- {%}"
 msgstr ""
+"<25>{*}{#p/asriel1}{#f/25}* А?\n"
+"* Но ты уже- {%}"
 
 msgid "<32>{#p/basic}* I forgive you, too."
-msgstr ""
+msgstr "<32>{#p/basic}* Я тоже тебя прощаю."
 
 msgid "<25>{#p/asriel1}{#f/30}{#i/4}* ...!"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/30}{#i/4}* !.."
 
 msgid "<25>{#p/asriel1}{#f/26}{#i/4}* $(name)..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/26}{#i/4}* $(name)..."
 
 msgid "<32>{#p/basic}* Shh..."
-msgstr ""
+msgstr "<32>{#p/basic}* Тише..."
 
 msgid "<32>* It's alright."
-msgstr ""
+msgstr "<32>* Всё в порядке."
 
 msgid "<32>* I've got you, okay?"
-msgstr ""
+msgstr "<32>* Я с тобой, хорошо?"
 
 msgid "<25>{#p/asriel1}{#f/25}{#i/4}* I..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/25}{#i/4}* Я..."
 
 msgid "<32>{#p/basic}* I've got you, Asriel."
-msgstr ""
+msgstr "<32>{#p/basic}* Я с тобой, Азриэль"
 
 msgid "<32>{#p/basic}* ... I can feel it."
-msgstr ""
+msgstr "<32>{#p/basic}* ... Я чувствую это."
 
 msgid "<32>* Even after a hundred years have passed..."
-msgstr ""
+msgstr "<32>* Даже спустя столько лет..."
 
 msgid "<32>* He's still in there, isn't he?"
-msgstr ""
+msgstr "<32>* Он всё ещё там."
 
 msgid "<32>* Like a little angel..."
-msgstr ""
+msgstr "<32>* Как маленький ангел..."
 
 msgid "<32>* Watching over me, protecting me from my own bad choices..."
-msgstr ""
+msgstr "<32>* Присматривает за мной... защищает меня от плохих поступков..."
 
 msgid "<32>* ... all so I could one day return him the favor."
-msgstr ""
+msgstr "<32>* ...для того, чтобы однажды, я могла отплатить тем же."
 
 msgid "<32>{#p/basic}* It's all starting to make sense now."
-msgstr ""
+msgstr "<32>{#p/basic}* Теперь всё начинает обретать смысл."
 
 msgid "<32>* I know what I have to do."
-msgstr ""
+msgstr "<32>* Я знаю, что мне нужно сделать."
 
 msgid ""
 "<25>{*}{#p/asriel1}{#f/25}* Huh?\n"
 "* What are you... {^60}{%}"
 msgstr ""
+"<25>{*}{#p/asriel1}{#f/25}* М?\n"
+"* Что ты... {^60}{%}"
 
 msgid "<25>{*}{#f/25}* No...!{^60}{%}"
-msgstr ""
+msgstr "<25>{*}{#f/25}* Нет!..{^60}{%}"
 
 msgid "<25>{*}{#f/26}* L... let me go!{^60}{%}"
-msgstr ""
+msgstr "<25>{*}{#f/26}* О... О-отпусти меня!{^60}{%}"
 
 msgid "<32>{*}{#p/basic}* Heh...{^60}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/basic}* Ха...{^60}{%}"
 
 msgid "<32>{*}* ... take care of Mom and Dad for me, okay?{^60}{%}"
-msgstr ""
+msgstr "<32>{*}* ... позаботься о маме и папе, хорошо?{^60}{%}"
 
 msgid "<25>{#p/asriel1}{#f/25}* Frisk, are you there?"
 msgstr ""
@@ -11076,11 +11111,14 @@ msgid ""
 "<32>{#p/human}* (The industrious Outlands falls silent, filling you with "
 "determination.)"
 msgstr ""
+"<32>{#p/human}* (Промышленное Запределье затихает, наполняя вас решимостью.)"
 
 msgid ""
 "<32>{#p/human}* (The industrious Outlands lies ahead, filling you with "
 "determination.)"
 msgstr ""
+"<32>{#p/human}* (Впереди вас ждёт промышленное Запределье, наполяющее вас "
+"решимостью.)"
 
 msgid "<32>{#p/human}* (Returning to where it all began, after so long...)"
 msgstr "<32>{#p/human}* (Возвращение к истокам спустя столько времени...)"
