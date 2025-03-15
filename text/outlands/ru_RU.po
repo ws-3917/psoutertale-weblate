@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-16 11:22+0000\n"
-"Last-Translator: Zenry <poolkol34@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -8392,7 +8392,7 @@ msgid "<11>{*}{#p/napstablook}{~}let me {#x1}try...{^20}{#x2}{^20}{%}"
 msgstr "<11>{*}{#p/napstablook}{~}дай {#x1}попробую...{^20}{#x2}{^20}{%}"
 
 msgid "<11>{*}{#p/napstablook}{~}i call it {#x3}'dapper blook'{^40}{%}"
-msgstr ""
+msgstr "<11>{*}{#p/napstablook}{~}я называю это {#x3}«джентльблук»{^40}{%}"
 
 msgid "<11>{*}{#p/napstablook}{~}do you like it?{^40}{%}"
 msgstr "<11>{*}{#p/napstablook}{~}тебе нравится?{^40}{%}"
@@ -8840,242 +8840,280 @@ msgid "<25>{#p/toriel}{#f/14}* ... goodbye, $(name)."
 msgstr "<25>{#p/toriel}{#f/14}* ... прощай, $(name)."
 
 msgid "<11>{#p/toriel}{#f/21}{#v/1}{#i/3}{#x1}{@random=1.1/1.1}Urgh..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/21}{#v/1}{#i/3}{#x1}{@random=1.1/1.1}Ах..."
 
 msgid ""
 "<11>{#v/1}{#i/3}{#x1}{@random=1.1/1.1}To strike me down at my weakest "
 "moment..."
 msgstr ""
+"<11>{#v/1}{#i/3}{#x1}{@random=1.1/1.1}Ударить меня в мой самый уязвимый "
+"момент..."
 
 msgid "<11>{#v/1}{#i/3}{#x1}{@random=1.1/1.1}..."
-msgstr ""
+msgstr "<11>{#v/1}{#i/3}{#x1}{@random=1.1/1.1}..."
 
 msgid ""
 "<11>{#v/2}{#i/4}{#x2}{@random=1.1/1.1}Ha...\n"
 "Ha..."
 msgstr ""
+"<11>{#v/2}{#i/4}{#x2}{@random=1.1/1.1}Ха...\n"
+"Ха..."
 
 msgid "<11>{#v/2}{#i/4}{#x2}{@random=1.1/1.1}It seems, young one..."
-msgstr ""
+msgstr "<11>{#v/2}{#i/4}{#x2}{@random=1.1/1.1}Кажется, малыш..."
 
 msgid ""
 "<11>{#v/3}{#i/5}{#x2}{@random=1.2/1.2}I was a fool for trusting you... all "
 "along..."
 msgstr ""
+"<11>{#v/3}{#i/5}{#x2}{@random=1.2/1.2}Было глупостью доверять тебе... всё "
+"это время..."
 
 msgid ""
 "<11>{#v/1}{#i/3}{#x3}{@random=1.1/1.1}To think I was protecting you from "
 "them..."
 msgstr ""
+"<11>{#v/1}{#i/3}{#x3}{@random=1.1/1.1}Думать, что я защищала тебя от них..."
 
 msgid "<11>{#v/1}{#i/3}{#x4}{@random=1.1/1.1}..."
-msgstr ""
+msgstr "<11>{#v/1}{#i/3}{#x4}{@random=1.1/1.1}..."
 
 msgid "<11>{#v/2}{#i/4}{#x1}{@random=1.1/1.1}It seems, young one..."
-msgstr ""
+msgstr "<11>{#v/2}{#i/4}{#x1}{@random=1.1/1.1}Судя по всему, малыш..."
 
 msgid ""
 "<11>{#v/3}{#i/5}{#x2}{@random=1.2/1.2}I was actually protecting them... from"
 " you..."
 msgstr ""
+"<11>{#v/3}{#i/5}{#x2}{@random=1.2/1.2}Я на самом деле защищала их... от "
+"тебя..."
 
 msgid ""
 "<11>{#v/1}{#i/3}{#x1}{@random=1.1/1.1}You are stronger than I thought..."
-msgstr ""
+msgstr "<11>{#v/1}{#i/3}{#x1}{@random=1.1/1.1}Ты сильнее, чем я думала..."
 
 msgid "<11>{#v/1}{#i/3}{#x3}{@random=1.1/1.1}Listen to me, young one..."
-msgstr ""
+msgstr "<11>{#v/1}{#i/3}{#x3}{@random=1.1/1.1}Послушай меня, малыш..."
 
 msgid ""
 "<11>{#v/1}{#i/3}{#x3}{@random=1.1/1.1}In a few moments, I will turn to "
 "dust..."
 msgstr ""
+"<11>{#v/1}{#i/3}{#x3}{@random=1.1/1.1}Через несколько мгновений я превращусь "
+"в пыль..."
 
 msgid ""
 "<11>{#v/1}{#i/3}{#x3}{@random=1.1/1.1}When that happens, you must take my "
 "SOUL..."
 msgstr ""
+"<11>{#v/1}{#i/3}{#x3}{@random=1.1/1.1}Когда это произойдёт, ты должен взять "
+"мою ДУШУ..."
 
 msgid ""
 "<11>{#v/1}{#i/3}{#x1}{@random=1.1/1.1}It is the only real way you can escape"
 " this place."
 msgstr ""
+"<11>{#v/1}{#i/3}{#x1}{@random=1.1/1.1}Это единственный настоящий способ "
+"выбраться отсюда."
 
 msgid ""
 "<11>{#v/2}{#i/4}{#x3}{@random=1.1/1.1}You cannot... allow ASGORE's plan "
 "to... succeed..."
 msgstr ""
+"<11>{#v/2}{#i/4}{#x3}{@random=1.1/1.1}Ты не должен... позволить плану "
+"АЗГОРА... осуществится..."
 
 msgid "<11>{#v/2}{#i/4}{#x1}{@random=1.1/1.1}..."
-msgstr ""
+msgstr "<11>{#v/2}{#i/4}{#x1}{@random=1.1/1.1}..."
 
 msgid "<11>{#v/3}{#i/5}{#x2}{@random=1.2/1.2}My child..."
-msgstr ""
+msgstr "<11>{#v/3}{#i/5}{#x2}{@random=1.2/1.2}Моё дитя..."
 
 msgid "<11>{#v/3}{#i/5}{#x4}{@random=1.2/1.2}Be good... won't you?"
-msgstr ""
+msgstr "<11>{#v/3}{#i/5}{#x4}{@random=1.2/1.2}Ты ведь будешь умницей... правда?"
 
 msgid "<20>{#p/asriel2}{#f/3}Follow me."
-msgstr ""
+msgstr "<20>{#p/asriel2}{#f/3}Следуй за мной."
 
 msgid "* Toriel"
-msgstr ""
+msgstr "* Ториэль"
 
 msgid "<11>{#p/toriel}{#f/11}..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/11}..."
 
 msgid ""
 "<11>{#p/toriel}{#f/11}...\n"
 "..."
 msgstr ""
+"<11>{#p/toriel}{#f/11}...\n"
+"..."
 
 msgid ""
 "<11>{#p/toriel}{#f/11}...\n"
 "...\n"
 "..."
 msgstr ""
+"<11>{#p/toriel}{#f/11}...\n"
+"...\n"
+"..."
 
 msgid "<11>{#p/toriel}{#f/17}...?"
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/17}?.."
 
 msgid "<11>{#p/toriel}{#f/17}What are you doing?"
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/17}Что ты делаешь?"
 
 msgid "<11>{#p/toriel}{#f/17}..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/17}..."
 
 msgid "<11>{#p/toriel}{#f/17}What are you trying to prove?"
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/17}Что ты пытаешься доказать?"
 
 msgid "<11>{#p/toriel}{#f/12}Fight me or leave!"
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/12}Сражайся или уйди!"
 
 msgid "<11>{#p/toriel}{#f/12}Stop looking at me that way!"
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/12}Перестань на меня так смотреть!"
 
 msgid "<11>{#p/toriel}{#f/12}Go away!"
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/12}Уходи!"
 
 msgid "<11>{#p/toriel}{#f/13}..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/13}..."
 
 msgid ""
 "<11>{#p/toriel}{#f/13}...\n"
 "..."
 msgstr ""
+"<11>{#p/toriel}{#f/13}...\n"
+"..."
 
 msgid ""
 "<11>{#p/toriel}{#f/13}...\n"
 "...\n"
 "..."
 msgstr ""
+"<11>{#p/toriel}{#f/13}...\n"
+"...\n"
+"..."
 
 msgid "<11>{#p/toriel}{#f/13}I know you want to go home..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/13}Я знаю что ты хочешь пойти домой..."
 
 msgid "<11>{#p/toriel}{#f/9}But the path to get there would be dangerous."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/9}Но дорога туда будет опасной."
 
 msgid "<11>{#p/toriel}{#f/14}So please... go back the other way."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/14}Так что пожалуйста... возвращайся назад."
 
 msgid "<11>{#p/toriel}{#f/13}I know we do not have much..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/13}Знаю, у нас много нет..."
 
 msgid "<11>{#p/toriel}{#f/10}But we can still have a good life."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/10}Но у нас всё ещё может быть хорошая жизнь."
 
 msgid "<11>{#p/toriel}{#f/13}You and I, like a family..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/13}Ты и я, как одна семья..."
 
 msgid "<11>{#p/toriel}{#f/10}Does that not sound good?"
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/10}Разве это не звучит хорошо?"
 
 msgid "<11>{#p/toriel}{#f/21}..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/21}..."
 
 msgid "<11>{#p/toriel}{#f/18}Why are you making this so difficult?"
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/18}Почему ты всё усложняешь?"
 
 msgid "<11>{#p/toriel}{#f/18}Please, just..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/18}Пожалуйста, просто..."
 
 msgid "<11>{#p/toriel}{#f/9}Go back the other way."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/9}Вернись назад."
 
 msgid "<11>{#p/toriel}{#f/18}Oh, child..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/18}О, дитя..."
 
 msgid "<11>{#p/toriel}{#f/9}Maybe it was foolish of me..."
-msgstr ""
+msgstr "<11>{#p/toriel}{#f/9}Должно быть глупо с моей стороны..."
 
 msgid "<11>{#f/13}Trying to stop you like this..."
-msgstr ""
+msgstr "<11>{#f/13}Пытаться остановить тебя таким способом..."
 
 msgid "<11>{#f/9}Maybe I should have just let you go."
-msgstr ""
+msgstr "<11>{#f/9}Возможно, я просто должна позволить тебе уйти."
 
 msgid "<11>{#f/17}Why are you calling out for \"$(name)?\""
-msgstr ""
+msgstr "<11>{#f/17}Зачем ты зовёшь \"$(name)?\""
 
 msgid "<32>{#p/story}* Toriel now stands before you."
-msgstr ""
+msgstr "<32>{#p/story}* Ториэль теперь стоит перед тобой."
 
 msgid "<32>{#p/story}* Toriel prepares a magical attack."
-msgstr ""
+msgstr "<32>{#p/story}* Ториэль готовит магическую атаку."
 
 msgid "<32>{#p/story}* Toriel is acting aloof."
-msgstr ""
+msgstr "<32>{#p/story}* Ториэль действует отстранённо."
 
 msgid "<32>{#p/story}* Toriel is looking through you."
-msgstr ""
+msgstr "<32>{#p/story}* Ториэль смотрит сквозь тебя."
 
 msgid "<32>{#p/story}* ..."
-msgstr ""
+msgstr "<32>{#p/story}* ..."
 
 msgid "<32>{#p/basic}* There must be another way..."
-msgstr ""
+msgstr "<32>{#p/basic}* Должно быть есть другой способ..."
 
 msgid ""
 "<32>{#p/human}* (You ask Toriel to let you through.)\n"
 "* (No effect.)"
 msgstr ""
+"<32>{#p/human}* (Вы просите Ториэль пропустить вас.)\n"
+"* (Никакого эффекта.)"
 
 msgid ""
 "<32>{#p/human}* (You ask Toriel why she's really doing this.)\n"
 "* (She winces briefly.)"
 msgstr ""
+"<32>{#p/human}* (Вы спрашиваете Ториэль, почему она на самом деле это "
+"делает.)\n"
+"* (Она слегка вздрагивает.)"
 
 msgid ""
 "<32>{#p/human}* (You begged Toriel to stop.)\n"
 "* (She hesitates.)"
 msgstr ""
+"<32>{#p/human}* (Вы умоляйте Ториэль остановиться.)\n"
+"* (Она колеблется.)"
 
 msgid "<32>{#p/human}* (You once again begged Toriel to stop.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы снова умоляйте Ториэль остановиться.)"
 
 msgid "<32>{#p/basic}* ... perhaps there is too much at stake for her."
 msgstr ""
+"<32>{#p/basic}* ... возможно, для неё слишком многое поставлено на карту."
 
 msgid ""
 "<32>{#p/human}* (You yell at Toriel.)\n"
 "* (She closes her eyes and takes a deep breath.)"
 msgstr ""
+"<32>{#p/human}* (Вы кричите на Ториэль.)\n"
+"* (Она закрывает глаза и делает глубокий вдох.)"
 
 msgid "<32>{#p/human}* (You once again yell at Toriel.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы снова кричите на Ториэль.)"
 
 msgid "<32>{#p/basic}* ... perhaps talking won't do anymore good."
-msgstr ""
+msgstr "<32>{#p/basic}* ... Кажется, разговоры не приведут ни к чему хорошему."
 
 msgid "<32>{#p/human}* (But you couldn't think of anything else to say.)"
 msgstr ""
+"<32>{#p/human}* (Но вы не смогли придумать ничего другого, чтобы сказать.)"
 
 msgid "<32>{#p/human}* (But there was no sense in doing that now.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Но сейчас в этом нет смысла.)"
 
 msgid "<20>{*}{#p/twinkly}Mine.{^15}{%}"
-msgstr ""
+msgstr "<20>{*}{#p/twinkly}Моя.{^15}{%}"
 
 msgid "Say Hello"
 msgstr "Сказать «Привет»"
@@ -10452,84 +10490,101 @@ msgid ""
 "<25>{#p/toriel}{#f/0}* If I am right, a certain friend of mine should be up "
 "ahead."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Если я права, то мой некий друг должен быть где-то "
+"впереди."
 
 msgid "<26>{#f/0}* Do not fear, little one."
-msgstr ""
+msgstr "<26>{#f/0}* Не бойся, малыш."
 
 msgid "<25>{#f/1}* Keep going..."
-msgstr ""
+msgstr "<25>{#f/1}* Продолжай идти..."
 
 msgid "<25>{#p/toriel}{#f/1}* From what I recall, this long room..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Из того, что я помню, это длинная комната..."
 
 msgid ""
 "<26>{#f/0}* ... would have been the basis for a town on the outskirts of "
 "Starton."
-msgstr ""
+msgstr "<26>{#f/0}* ... могла стать основой для города на окраине Звездограда."
 
 msgid "<25>{#f/0}* Of course, that never came to pass."
-msgstr ""
+msgstr "<25>{#f/0}* Конечно, этого так и не случилось."
 
 msgid "<25>{#f/2}* One town was more than enough!"
-msgstr ""
+msgstr "<25>{#f/2}* Одного города было более чем предостаточно!"
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I presume by now you have heard of the \"gravometric "
 "inverter?\""
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Я полагаю, что ты уже слышал о «гравометрическом "
+"инверторе»?"
 
 msgid "<26>{#f/0}* It is a device Sans has told me all about."
-msgstr ""
+msgstr "<26>{#f/0}* Это устройство, о котором мне всё рассказал Санс."
 
 msgid "<25>{#f/1}* Apparently, there is another world up there..."
-msgstr ""
+msgstr "<25>{#f/1}* Вероятно, там, наверху, есть другой мир..."
 
 msgid "<25>{#f/0}* A place where things do not always face the right way up."
-msgstr ""
+msgstr "<25>{#f/0}* Место, где вещи иногда переворачиваются вверх дном."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* This old landing pad was once a bustling "
 "intersection..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Эта старая посадочная площадка когда-то была "
+"оживлённым перекрёстком..."
 
 msgid "<25>{#f/1}* Supply ships coming and going..."
-msgstr ""
+msgstr "<25>{#f/1}* Грузовые корабли приходили и уходили..."
 
 msgid "<25>{#f/1}* Ready to aid in whatever was being built next..."
-msgstr ""
+msgstr "<25>{#f/1}* Готовые помочь во всём, что бы ни строилось дальше..."
 
 msgid "<25>{#f/5}* It is a shame the outpost seems to have stopped expanding."
-msgstr ""
+msgstr "<25>{#f/5}* Очень жаль, что аванпост, кажется, перестал расширяться."
 
 msgid "<25>{#f/0}* For a while, building new areas defined our culture!"
 msgstr ""
+"<25>{#f/0}* Какое-то время строительство новых территорий определяло нашу "
+"культуру!"
 
 msgid ""
 "<25>{#p/toriel}* I heard Sans's brother wants to join the Royal Guard "
 "someday."
 msgstr ""
+"<25>{#p/ториэль}* Я слышала, что брат Санса хочет когда-нибудь вступить в "
+"королевскую гвардию."
 
 msgid "<25>{#f/1}* Such an aspirational young skeleton..."
-msgstr ""
+msgstr "<25>{#f/1}* Какой амбициозный молодой скелет..."
 
 msgid ""
 "<25>{#f/0}* Despite my feelings about the guard, it is good for him to "
 "dream."
 msgstr ""
+"<25>{#f/0}* Несмотря на моё отношение к гвардии, это хорошо что он мечтает."
 
 msgid ""
 "<25>{#f/5}* I worry that too many have given up on their dreams lately..."
 msgstr ""
+"<25>{#f/5}* Я беспокоюсь, что в последнее время многие отказались от своих "
+"мечтаний..."
 
 msgid ""
 "<25>{#f/0}* But not him!\n"
 "* That skeleton knows what is best for him."
 msgstr ""
+"<25>{#f/0}* Но не он!\n"
+"* Этот скелет определённо знает, что для него лучше."
 
 msgid ""
 "<25>{#p/toriel}* Sans told me all about the gadgets Papyrus added to his "
 "station."
 msgstr ""
+"<25>{#p/toriel}* Санс рассказал мне всё о гаджетах, которые Папирус добавил "
+"на свою станцию."
 
 msgid "<25>{#f/1}* First, a handle, so he can \"swing\" into duty..."
 msgstr ""
