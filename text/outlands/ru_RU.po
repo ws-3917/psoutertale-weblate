@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-16 11:22+0000\n"
-"Last-Translator: David <geniusssss2008@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -82,10 +82,10 @@ msgstr ""
 "* Королевские стражи в Стратополисе..."
 
 msgid "<25>{#f/0}* Apparently, their favorite food is... salmon."
-msgstr "<25>{#f/0}* Оказывается, их любимая еда...лосось."
+msgstr "<25>{#f/0}* Оказывается, их любимая еда — это... лосось."
 
 msgid "<25>{#f/1}* Or... was it ice cream?"
-msgstr "<25>{#f/1}* Или... мороженное?"
+msgstr "<25>{#f/1}* Или... это было мороженое?"
 
 msgid "<25>{#f/2}* Wait, no, I think it was pizza!"
 msgstr "<25>{#f/2}* Стой, нет, наверняка пицца!"
@@ -1683,24 +1683,26 @@ msgid "<32>{#p/human}* (It sounds like someone is crying...)"
 msgstr ""
 
 msgid "<32>{#p/basic}* There's a backpack strung up on this coat rack."
-msgstr ""
+msgstr "<32>{#p/basic}* На вешалке висит рюкзак."
 
 msgid "<32>{#p/human}* (You look inside the backpack...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заглядываете в рюкзак...)"
 
 msgid "<32>{#p/human}* (But there was nothing left to find within.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Но там ничего не осталось.)"
 
 msgid "<32>{#p/basic}* Nothing left to find here."
-msgstr ""
+msgstr "<32>{#p/basic}* Искать здесь нечего."
 
 msgid ""
 "<32>{#p/basic}* What's this?\n"
 "* A limited edition Super Starwalker comic strip?"
 msgstr ""
+"<32>{#p/basic}* Что это?\n"
+"* Ограниченное издание комикса „Супер Старуокер“?"
 
 msgid "<32>{#s/equip}{#p/human}* (You got the Super Starwalker 2.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Вы получили комикс „Супер Старуокер 2“.)"
 
 msgid "<32>{#p/human}* (You're carrying too much to take that.)"
 msgstr ""
@@ -1708,6 +1710,7 @@ msgstr ""
 msgid ""
 "<32>{#p/human}* (If you sleep here now, you may miss something important.)"
 msgstr ""
+"<32>{#p/human}* (Если вы ляжете спать здесь, то пропустите нечто важное.)"
 
 msgid "* (Go to sleep?)"
 msgstr ""
@@ -1865,13 +1868,13 @@ msgstr "<25>{#f/17}* Если что... так и задумано, правда
 
 msgid ""
 "<25>{#f/13}* This machine runs on the Outlands' own power supply, so..."
-msgstr ""
+msgstr "<25>{#f/13}* Эта машина использует генератор Запределья, так что..."
 
 msgid ""
 "<25>{#f/15}* To avoid using too much power, Toriel just made it break "
 "itself."
 msgstr ""
-"<25>{#f/15}* Чтобы избежать перерасхода энергии, Ториэль сделала их ломкими."
+"<25>{#f/15}* Чтобы избежать перерасхода энергии, Ториэль сделала его ломким."
 
 msgid "<26>{#f/20}* Not that she'd tell you."
 msgstr "<26>{#f/20}* Не то, что б она тебе говорила."
@@ -1895,24 +1898,26 @@ msgid ""
 msgstr "<25>{#f/15}* ... примерно десятитысячную долю от ЯДРА."
 
 msgid "<25>{#p/asriel1}{#f/13}* Hmm..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Хм-м..."
 
 msgid "<25>{#f/15}* I wonder if, despite its low capacity..."
-msgstr ""
+msgstr "<25>{#f/15}* Интересно, не смотря на малую энергоёмкость..."
 
 msgid ""
 "<25>{#f/13}* This generator would be enough to power a small atmospheric "
 "system."
 msgstr ""
+"<25>{#f/13}* ...этим генератором можно запитать малую систему фильтрации "
+"воздуха."
 
 msgid "<25>{#f/17}* If the CORE was destroyed, could people survive here...?"
-msgstr ""
+msgstr "<25>{#f/17}* Если ЯДРО будет уничтожено, выживут ли монстры...?"
 
 msgid "<26>{#p/asriel1}{#f/20}* ... asking for a friend."
-msgstr ""
+msgstr "<26>{#p/asriel1}{#f/20}* ... спрашиваю для друга."
 
 msgid "<32>{#p/basic}* It's out of service."
-msgstr ""
+msgstr "<32>{#p/basic}* Сломано."
 
 msgid "<32>{#p/human}* (You decide not to make anything.)"
 msgstr "<32>{#p/human}* (Вы решили ничего не делать.)"
@@ -8674,7 +8679,7 @@ msgid "<32>{#p/basic}* Pretend it's a dream, then."
 msgstr "<25>{#f/5}* Значит притворись, что это сон..."
 
 msgid "<32>{#p/basic}* If that works for you."
-msgstr "<32>{#p/basic}* Если тебя это устроит."
+msgstr "<32>{#p/basic}* ...если тебя это устроит."
 
 msgid "<25>{#p/toriel}{#f/9}* What do you want?"
 msgstr "<25>{#p/toriel}{#f/9}* Чего ты хочешь?"
@@ -8695,102 +8700,109 @@ msgid "<32>{#p/basic}* ... not about this human."
 msgstr "<32>{#p/basic}* ... не к этому человеку."
 
 msgid "<32>* Ever since they got here, I've been following them..."
-msgstr ""
+msgstr "<32>* С тех пор как тот попал сюда, я следую за ним..."
 
 msgid "<32>* And now they're asking me to reach out to you."
-msgstr ""
+msgstr "<32>* И теперь человек просит меня помочь."
 
 msgid "<32>* What do you think that means?"
-msgstr ""
+msgstr "<32>* Ты понимаешь, что я имею в виду?"
 
 msgid "<25>{#p/toriel}{#f/13}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/13}* ..."
 
 msgid "<32>{#p/basic}* It means you have to let them go."
-msgstr ""
+msgstr "<32>{#p/basic}* Ты должна отпустить нас."
 
 msgid "<25>{#p/toriel}{#f/12}* ... do you not understand what is at stake?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/12}* ... не понимаешь, что стоит на кону?"
 
 msgid "<25>{#f/11}* If I let them go, they will surely die."
-msgstr ""
+msgstr "<25>{#f/11}* Если дитя уйдёт, то определённо погибнет."
 
 msgid "<32>{#p/basic}* ... come on."
-msgstr ""
+msgstr "<32>{#p/basic}* ... ну нет же."
 
 msgid "<32>{#p/basic}* That's not really why you're doing this, is it?"
-msgstr ""
+msgstr "<32>{#p/basic}* Это не истинная причина твоих действий, верно?"
 
 msgid ""
 "<25>{#p/toriel}{#f/12}* With that attitude, perhaps you really are $(name)."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/12}* С таким напором, возможно, ты и есть $(name)."
 
 msgid "<25>{#p/toriel}{#f/11}* You always did question my authority."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/11}* Всегда подвергаешь сомнению моё слово."
 
 msgid "<32>{#p/basic}* I think I have every right to."
-msgstr ""
+msgstr "<32>{#p/basic}* Имею все права на это."
 
 msgid ""
 "<32>{#p/basic}* You wish to keep them here because you are afraid of what "
 "lies beyond the Outlands."
 msgstr ""
+"<32>{#p/basic}* Ты сдерживаешь нас, потому что боишься боишься того, что "
+"лежит вне Запределья."
 
 msgid ""
 "<33>{#p/basic}* But things aren't the same as they were a hundred years ago."
-msgstr ""
+msgstr "<33>{#p/basic}* Но многое поменялось сквозь века."
 
 msgid ""
 "<33>{#p/basic}* You're only ignorant about it because you're too afraid to "
 "go see for yourself."
-msgstr ""
+msgstr "<33>{#p/basic}* Твоё невежество вызвано страхом узнать самой."
 
 msgid ""
 "<25>{#p/toriel}{#f/13}* ... but if I let them go, I won't be able to..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/13}* ... но если я отпущу, то буду неспособна..."
 
 msgid "<32>{#p/basic}* Be there for them?"
-msgstr ""
+msgstr "<32>{#p/basic}* Остаться здесь и заботиться?"
 
 msgid "<32>{#p/basic}* Hey, I know the feeling."
-msgstr ""
+msgstr "<32>{#p/basic}* Эх, мне знакома эта горечь."
 
 msgid ""
 "<32>{#p/basic}* But keeping them here would be dooming them to death anyway."
 msgstr ""
+"<32>{#p/basic}* Но, запирая здесь, ты все равно обречёшь человека на смерть."
 
 msgid ""
 "<32>{#p/basic}* What's a life if it doesn't get to do anything worth living "
 "for?"
-msgstr ""
+msgstr "<32>{#p/basic}* Ценна ли жизнь, прожитая зря?"
 
 msgid "<25>{#p/toriel}{#f/13}* $(name), I..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/13}* $(name), я..."
 
 msgid "<32>{#p/basic}* You gave them a spare cell phone, remember?"
-msgstr ""
+msgstr "<32>{#p/basic}* Ты отдала нам сотовый, помнишь?"
 
 msgid "<32>{#p/basic}* Keep the line open, and maybe they'll give you a call."
-msgstr ""
+msgstr "<32>{#p/basic}* Будь готова ответить, и мы, возможно, позвоним."
 
 msgid "<25>{#p/toriel}{#f/9}* ... and what about you?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/9}* ... а что насчёт тебя?"
 
 msgid ""
 "<32>{#p/basic}* Look.\n"
 "* I'll be alright."
 msgstr ""
+"<32>{#p/basic}* Слушай.\n"
+"* Я буду в порядке."
 
 msgid ""
 "<32>{#p/basic}* All I ask is that you don't forget about THEM after they're "
 "gone."
 msgstr ""
+"<32>{#p/basic}* Всё, чего я прошу, это не забыть НАС, после того, как мы "
+"уйдём."
 
 msgid "<32>{#p/basic}* Goodbye, Toriel."
-msgstr ""
+msgstr "<32>{#p/basic}* Прощай, Ториэль."
 
 msgid "<25>{#p/toriel}{#f/14}* ... goodbye, $(name)."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/14}* ... прощай, $(name)."
 
 msgid "<11>{#p/toriel}{#f/21}{#v/1}{#i/3}{#x1}{@random=1.1/1.1}Urgh..."
 msgstr ""
