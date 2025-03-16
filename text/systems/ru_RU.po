@@ -1,23 +1,21 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-13 10:13+0000\n"
-"Last-Translator: David <geniusssss2008@gmail.com>\n"
+"PO-Revision-Date: 2025-03-16 16:13+0000\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.10.2\n"
 
 #
-
 msgid "(You take a deep breath.)"
 msgstr "(Вы делаете глубокий вдох.)"
 
@@ -103,6 +101,8 @@ msgid ""
 "An error occured! Please send\n"
 "screenshot to developer."
 msgstr ""
+"Произошла ошибка! Пожалуйста,\n"
+"отошлите скриншот разработчику."
 
 msgid "CONTROL"
 msgstr ""
@@ -138,7 +138,7 @@ msgid "Save"
 msgstr ""
 
 msgid "SkipText"
-msgstr ""
+msgstr "ПропускТекста"
 
 msgid "Freecam"
 msgstr ""
@@ -207,10 +207,10 @@ msgid "Start"
 msgstr ""
 
 msgid "ARMOR"
-msgstr ""
+msgstr "БРОНЯ"
 
 msgid "WEAPON"
-msgstr ""
+msgstr "ОРУЖИЕ"
 
 msgid "INSPECT"
 msgstr ""
@@ -348,10 +348,10 @@ msgid "Fill"
 msgstr ""
 
 msgid "Font Family"
-msgstr ""
+msgstr "Семейство шрифтов"
 
 msgid "Font Size"
-msgstr ""
+msgstr "Размер шрифта"
 
 msgid "Frames"
 msgstr ""
@@ -531,10 +531,10 @@ msgid "NAVIGATION"
 msgstr ""
 
 msgid "Prev"
-msgstr ""
+msgstr "Пред"
 
 msgid "Next"
-msgstr ""
+msgstr "След"
 
 msgid "Enter Value"
 msgstr ""
@@ -582,16 +582,16 @@ msgid "Save File"
 msgstr ""
 
 msgid "That file could not be parsed."
-msgstr ""
+msgstr "Этот файл невозможно прочесть."
 
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgid "Clear this file?"
-msgstr ""
+msgstr "Очистить этот файл?"
 
 msgid ""
 "Your SAVE file from the\n"
@@ -622,7 +622,6 @@ msgstr ""
 
 msgid "spacey_432"
 msgstr ""
-
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr ""
@@ -901,7 +900,7 @@ msgid "xNoodlePlayz"
 msgstr ""
 
 msgid "§fill=#ff0§< SPECIAL THANKS >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ОСОБЫЕ БЛАГОДАРНОСТИ >§fill=#fff§"
 
 msgid ""
 "§fill=#808080§For being there for me when I\n"
