@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-14 11:45+0000\n"
-"PO-Revision-Date: 2025-03-15 14:12+0000\n"
+"PO-Revision-Date: 2025-03-16 11:20+0000\n"
 "Last-Translator: Bilge <mnwary@protonmail.com>\n"
 "Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
 "2-starton/tr/>\n"
@@ -958,9 +958,11 @@ msgid ""
 "<25>{#p/sans}{#f/2}* if you liked that last puzzle, just wait until you see "
 "this one."
 msgstr ""
+"<25>{#p/sans}{#f/2}* eğer o önceki bulmacayı beğendiysen, bir de şimdikini "
+"görmeyi bekle."
 
 msgid "<18>{#p/papyrus}{#f/9}HUMAN!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}İNSAN!!"
 
 msgid "<18>{#f/9}YOU HAVE SEEN MY PUZZLES."
 msgstr ""
@@ -972,14 +974,18 @@ msgid ""
 "<26>{#p/sans}* no, really.\n"
 "* walk up and take a look."
 msgstr ""
+"<26>{#p/sans}* hayır, gerçekten.\n"
+"* yürüyüp bir göz at."
 
 msgid "<25>{#p/sans}* it's right there on the ground."
-msgstr ""
+msgstr "<25>{#p/sans}* tam orada, yerde duruyor."
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}SANS!!\n"
 "WHERE'S THE PUZZLE!?"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}SANS!!\n"
+"BULMACA NEREDE!?"
 
 msgid "<25>{#p/sans}* you're lookin' at it."
 msgstr ""
@@ -990,7 +996,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#f/4}OKAY..."
-msgstr ""
+msgstr "<18>{#f/4}TAMAM..."
 
 msgid ""
 "<25>{#p/sans}* well, how was it?\n"
@@ -998,23 +1004,27 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/sans}* can't even bring yourself to look at it, huh?"
-msgstr ""
+msgstr "<25>{#p/sans}* bir bakmaya bile cesaret edemiyorsun, ha?"
 
 msgid "<25>* i guess i shouldn't have expected much."
-msgstr ""
+msgstr "<25>* sanırım daha fazlasını beklememeliydim."
 
 msgid ""
 "<26>{#f/3}* oh well.\n"
 "* maybe a kakuro puzzle would be easier for you."
 msgstr ""
+"<26>{#f/3}* ah, neyse.\n"
+"* belki bir kakuro bulmacası senin için daha kolay olurdu."
 
 msgid "<26>{#f/0}* but i digress."
-msgstr ""
+msgstr "<26>{#f/0}* ama konuyu dağıtıyorum."
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}SANS!!!\n"
 "THAT DIDN'T DO ANYTHING!"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}SANS!!!\n"
+"BU HİÇBİR ŞEY YAPMADI!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}SANS!!!\n"
@@ -1022,16 +1032,16 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/sans}* whoops."
-msgstr ""
+msgstr "<25>{#p/sans}* tüh."
 
 msgid "<25>{#f/3}* i knew i should have used today's kakuro puzzle instead."
-msgstr ""
+msgstr "<25>{#f/3}* günün kakuro bulmacasını kullanmam gerektiğini biliyordum."
 
 msgid "<18>{#p/papyrus}{#f/1}WHAT!? KAKURO!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}NE!? KAKURO MU!?"
 
 msgid "<18>{#f/9}I CAN'T BELIEVE YOU SAID THAT!!"
-msgstr ""
+msgstr "<18>{#f/9}BUNU SÖYLEDİĞİNE İNANAMIYORUM!!"
 
 msgid "<18>{#f/4}IN MY OPINION..."
 msgstr ""
@@ -1048,21 +1058,23 @@ msgid "<25>{#f/4}* that's for baby bones."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}UN. BELIEVABLE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}İN. ANILAMAZ."
 
 msgid ""
 "<18>{#f/9}HUMAN!!!\n"
 "SOLVE THIS DISPUTE!"
 msgstr ""
+"<18>{#f/9}İNSAN!!!\n"
+"BU ANLAŞMAZLIĞI ÇÖZ!"
 
 msgid "* (Which is harder?)"
-msgstr ""
+msgstr "* (Hangisi daha zor?)"
 
 msgid "Sudoku"
-msgstr ""
+msgstr "Sudoku"
 
 msgid "Kakuro"
-msgstr ""
+msgstr "Kakuro"
 
 msgid "<18>{#p/papyrus}HA! HA! YES!"
 msgstr "<18>{#p/papyrus}HA! HA! EVET!"
@@ -1329,7 +1341,7 @@ msgid "<25>{#p/asriel2}{#f/15}* So, uh... onwards?"
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/15}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* ..."
 
 msgid "<25>{#p/asriel2}{#f/8}* Psst, let's wait and see what he does."
 msgstr ""
@@ -1501,7 +1513,7 @@ msgid "<25>{#p/asgore}{#f/1}* Do you not have anything better to do?"
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/8}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* ..."
 
 msgid "<25>{|}{#p/asgore}{#f/3}* Look, son, I simply- {%}"
 msgstr ""
@@ -1512,7 +1524,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/2}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/2}* ..."
 
 msgid ""
 "<25>{#p/asgore}{#f/1}* Alright, Asriel.\n"
@@ -1530,7 +1542,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* ..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/9}* Oh, sorry...\n"
@@ -1562,13 +1574,15 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/3}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/3}* ..."
 
 msgid "<25>{#p/asriel2}{#f/6}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* ..."
 
 msgid "<25>{#p/asgore}{#f/7}* You must consider the gravity of your choices!"
 msgstr ""
+"<25>{#p/asgore}{#f/7}* Seçimlerinin ağırlığını göz önünde bulundurman "
+"gerekiyor!"
 
 msgid ""
 "<25>{#p/asriel2}{#f/15}* Or what? I'll float off into space, never to be "
@@ -1576,18 +1590,20 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#f/16}* Come on $(name), we're done here."
-msgstr ""
+msgstr "<25>{#f/16}* Hadi $(name), burada işimiz bitti."
 
 msgid ""
 "<25>{*}{#p/asgore}{#f/8}* Asriel, please!\n"
 "* I only want to help!{^999}"
 msgstr ""
+"<25>{*}{#p/asgore}{#f/8}* Asriel, lütfen!\n"
+"* Ben yalnızca yardım etmek istiyorum!{^999}"
 
 msgid "<25>{#p/asriel2}{#f/3}* Ready yourself, $(name)."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Kendini hazırla, $(name)."
 
 msgid "<26>{#f/4}* This is Undyne's domain."
-msgstr ""
+msgstr "<26>{#f/4}* Burası Undyne'ın alanı."
 
 msgid "<25>{#p/asriel2}{#f/4}* Take us in."
 msgstr ""
