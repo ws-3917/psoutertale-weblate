@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-14 11:45+0000\n"
-"PO-Revision-Date: 2025-03-16 11:20+0000\n"
+"PO-Revision-Date: 2025-03-16 16:11+0000\n"
 "Last-Translator: Bilge <mnwary@protonmail.com>\n"
 "Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
 "2-starton/tr/>\n"
@@ -1674,7 +1674,7 @@ msgid "<18>{#p/papyrus}{#f/3}HIS EXACT WORDS WERE \"I WANT TO SEE MY SON.\""
 msgstr ""
 
 msgid "<18>{#f/7}..."
-msgstr ""
+msgstr "<18>{#f/7}..."
 
 msgid "<18>{#f/7}I CAN'T BELIEVE THE PRINCE KILLED MY BROTHER!"
 msgstr ""
@@ -1762,7 +1762,7 @@ msgid "<18>{|}{#f/32}{#x1}I CAN'T BE SURE, BUT IT SOUNDS LIKE- {%}"
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/6}* No."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Hayır."
 
 msgid "<18>{|}{#p/papyrus}{#f/6}BUT SHE SAID YOU MIGHT BE ABLE TO- {%}"
 msgstr ""
@@ -1798,7 +1798,7 @@ msgid "<25>{#f/7}* It's BORING."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/3}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/3}..."
 
 msgid "<18>{#f/6}BUT WHAT IF I SHOW YOU THIS PUZZLE?"
 msgstr ""
@@ -1839,13 +1839,13 @@ msgid "<18>{#f/9}LET'S FIND OUT WHAT OUR RANDOM NUMBER WILL BE!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/3}ASRIEL."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/3}ASRIEL."
 
 msgid "<25>{#p/asriel2}{#f/6}* Papyrus."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Papyrus."
 
 msgid "<18>{#f/31}WHY?"
-msgstr ""
+msgstr "<18>{#f/31}NEDEN?"
 
 msgid "<18>{#f/31}WHY WOULD YOU DO THIS?"
 msgstr ""
@@ -1884,19 +1884,19 @@ msgid "<25>{#p/asriel2}{#f/1}* You really wanna know?"
 msgstr ""
 
 msgid "<18>{#f/3}YES..."
-msgstr ""
+msgstr "<18>{#f/3}EVET..."
 
 msgid "<25>{#p/asriel2}{#f/10}* But do you really, really wanna know?"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/31}YES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}EVET."
 
 msgid "<25>{#p/asriel2}{#f/3}* Say it louder."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}YES!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EVET!"
 
 msgid "<26>{#p/asriel2}{#f/1}* With an exoberry on top."
 msgstr ""
@@ -1907,38 +1907,41 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/1}* Hee hee hee..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Hee hee hee..."
 
 msgid "<25>{#f/1}* Alright, I'll tell you."
-msgstr ""
+msgstr "<25>{#f/1}* Pekala, sana söyleyeceğim."
 
 msgid "<25>{#f/15}* In fact, it'll only take one word..."
-msgstr ""
+msgstr "<25>{#f/15}* Hatta, yalnızca tek bir kelimeye bakar."
 
 msgid "<18>{#p/papyrus}{#f/4}OH MY GOD, JUST SAY IT ALREADY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}AMAN TANRIM, SADECE SÖYLE ARTIK..."
 
 msgid ""
 "<25>{*}{#p/asriel2}{#f/14}{@random=1.1/1.1}{@fill=#f00}* $(name).{%100}"
-msgstr ""
+msgstr "<25>{*}{#p/asriel2}{#f/14}{@random=1.1/1.1}{@fill=#f00}* $(name).{%100}"
 
 msgid "<18>{#p/papyrus}{#f/32}...!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/32}...!"
 
 msgid ""
 "<25>{#p/asriel2}{#f/5}* Hah!\n"
 "* Hahaha!\n"
 "* The look on your face!"
 msgstr ""
+"<25>{#p/asriel2}{#f/5}* Hah!\n"
+"* Hahaha!\n"
+"* Yüzündeki ifade!"
 
 msgid "<18>{#p/papyrus}{#f/31}I..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}BEN..."
 
 msgid "<18>{#f/3}... NO..."
-msgstr ""
+msgstr "<18>{#f/3}... HAYIR..."
 
 msgid "<18>{#p/papyrus}{#f/7}NO, YOU'RE WRONG."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}HAYIR, YANILIYORSUN."
 
 msgid "<18>{#f/7}YOU ARE THE ONE WHO'S BEEN TRYING TO BRING ME DOWN."
 msgstr ""
@@ -1947,7 +1950,7 @@ msgid "<18>{#f/7}YOU ARE THE ONE WHO'S FED ME LIE AFTER LIE."
 msgstr ""
 
 msgid "<18>{#f/9}BUT I, PAPYRUS..."
-msgstr ""
+msgstr "<18>{#f/9}AMA BEN, PAPYRUS..."
 
 msgid "<18>{#f/9}FINALLY UNDERSTAND THE {@fill=#f00}REAL TRUTH{@fill=#fff}."
 msgstr ""
@@ -1958,31 +1961,31 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/34}YOU'RE NOT {@fill=#f00}ASRIEL{@fill=#fff}."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/34}SEN {@fill=#f00}ASRİEL{@fill=#fff} DEĞİLSİN."
 
 msgid "<18>{#f/31}{@fill=#f00}ASRIEL{@fill=#fff} WOULD NEVER ACT LIKE THIS."
-msgstr ""
+msgstr "<18>{#f/31}{@fill=#f00}ASRİEL{@fill=#fff} ASLA BÖYLE DAVRANMAZDI."
 
 msgid "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} WAS A KIND SOUL."
-msgstr ""
+msgstr "<18>{#f/5}{@fill=#f00}ASRİEL{@fill=#fff} NAZİK BİR RUHTU."
 
 msgid "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} BELIEVED IN PEOPLE..."
-msgstr ""
+msgstr "<18>{#f/5}{@fill=#f00}ASRİEL{@fill=#fff} BAŞKALARINA İNANDI..."
 
 msgid "<18>{#f/31}HE BELIEVED IN HUMANITY BEFORE ANYONE ELSE DID."
-msgstr ""
+msgstr "<18>{#f/31}İNSANLIĞA HERKESTEN ÖNCE O İNANDI."
 
 msgid "<18>{#f/4}YOU, ON THE OTHER HAND..."
-msgstr ""
+msgstr "<18>{#f/4}ÖTE YANDAN, SEN..."
 
 msgid "<18>{#f/7}YOU JUST WANT TO USE THEM FOR YOUR OWN ENDS!"
-msgstr ""
+msgstr "<18>{#f/7}ONU YALNIZCA KENDİ AMAÇLARIN İÇİN KULLANMAK İSTİYORSUN!"
 
 msgid "<18>{#f/4}AND FRANKLY, I DON'T CARE WHAT YOU HAVE TO SAY."
-msgstr ""
+msgstr "<18>{#f/4}VE AÇIKÇASI, NE SÖYLEYECEĞİN UMRUMDA DEĞİL."
 
 msgid "<18>{#f/9}I STILL HAVE HOPE FOR THAT HUMAN."
-msgstr ""
+msgstr "<18>{#f/9}BENİM O İNSAN İÇİN HALA UMUDUM VAR."
 
 msgid "<25>{#p/asriel2}{#f/8}* Well, if you've got so much faith in them..."
 msgstr ""
@@ -2024,10 +2027,10 @@ msgid "<32>{#p/basic}* The door is covered in cat- claw scratches."
 msgstr ""
 
 msgid "<32>{#p/basic}* ... but everybody ran."
-msgstr ""
+msgstr "<32>{#p/basic}* ... ama herkes kaçtı."
 
 msgid "<32>{#p/basic}* ... but nobody came."
-msgstr ""
+msgstr "<32>{#p/basic}* ... ama kimse gelmedi."
 
 msgid "<32>{#p/human}* (But there was nobody around to occupy the seat.)"
 msgstr ""
@@ -2050,7 +2053,7 @@ msgid "<32>* One night will cost you 60G."
 msgstr ""
 
 msgid "* (Get a room?)"
-msgstr ""
+msgstr "* (Oda al?)"
 
 msgid "<32>{#p/basic}{#npc/a}* Changed your mind?"
 msgstr ""
@@ -2139,16 +2142,16 @@ msgid "<32>* There's bound to be a place you can stay there!"
 msgstr ""
 
 msgid "<25>{#p/kidd}{#f/1}* What's up?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Naber?"
 
 msgid "<25>{#p/kidd}{#f/1}* Yo, howzzitgoin?"
 msgstr ""
 
 msgid "<25>{#p/kidd}{#f/1}* Hey, hey!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Hey, hey!"
 
 msgid "<25>{#p/kidd}{#f/1}* Nice to see you, haha."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Seni görmek güzel, haha."
 
 msgid "<25>{#p/kidd}{#f/1}* Woah, dude, what's up?"
 msgstr ""
