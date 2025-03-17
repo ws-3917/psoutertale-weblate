@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-17 14:30+0000\n"
-"Last-Translator: Zenry <poolkol34@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -1684,6 +1684,8 @@ msgstr "<32>* «Он изобрёл множество вещей, которы�
 
 msgid "<32>* \"Like the replicaters and fabricaters and gravity plate things.\""
 msgstr ""
+"<32>* «Такие как репликаторы, фабрикаторы, гравитационные платформы и прочие "
+"штуки»."
 
 msgid "<32>* \"But he looked at me really odd Like I was so scary.\""
 msgstr "<32>* «Но он смотрел на меня, как на кого-то страшного»."
@@ -1698,7 +1700,7 @@ msgid "<32>* \"A new star appeared in the sky today.\""
 msgstr "<32>* «Сегодня на небе появилась новая звезда»."
 
 msgid "<32>* \"A really brite one.\""
-msgstr ""
+msgstr "<32>* «Ряльно яркая»."
 
 msgid "<32>* \"I wonder why more stars dont appear like that all the time.\""
 msgstr "<32>* «Интересно, почему звёзды не сияют так всё время»."
@@ -1815,7 +1817,7 @@ msgid "<32>* \"I want you to know that you're the best, $(name).\""
 msgstr "<32>* «$(name), я хочу, чтобы ты знала, ты самая лучшая»."
 
 msgid "<32>{#p/human}* (It sounds like someone is crying...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Похоже кто-то плачет...)"
 
 msgid "<32>{#p/basic}* There's a backpack strung up on this coat rack."
 msgstr "<32>{#p/basic}* На вешалке висит рюкзак."
@@ -1848,7 +1850,7 @@ msgstr ""
 "<32>{#p/human}* (Если вы ляжете спать здесь, то пропустите нечто важное.)"
 
 msgid "* (Go to sleep?)"
-msgstr ""
+msgstr "* (Лечь спать?)"
 
 msgid "<25>{#p/toriel}{#f/5}* Oh dear."
 msgstr ""
@@ -1886,47 +1888,49 @@ msgid "* (Try to walk through it?)"
 msgstr ""
 
 msgid "<32>{#p/basic}* The ghost is still blocking the way."
-msgstr ""
+msgstr "<32>{#p/basic}* Призрак всё ещё преграждает путь."
 
 msgid ""
 "<32>{#p/napstablook}* i usually visit this place to get some peace and "
 "quiet..."
-msgstr ""
+msgstr "<32>{#p/napstablook}* я посещаю это место, чтобы обрести мир и покой..."
 
 msgid "<32>* but today i met someone nice..."
-msgstr ""
+msgstr "<32>* но сегодня я встретил кого-то хорошего..."
 
 msgid "<32>* well, i'll get out of your way now"
-msgstr ""
+msgstr "<32>* ладно, я сойду с пути прочь"
 
 msgid "<32>* cya..."
-msgstr ""
+msgstr "<32>* прощай..."
 
 msgid ""
 "<32>{#p/napstablook}* so um...\n"
 "* you really like me, huh"
 msgstr ""
+"<32>{#p/napstablook}* так...\n"
+"* я тебе нравлюсь, да"
 
 msgid "<32>* heh... thank you..."
-msgstr ""
+msgstr "<32>* хе-хе... спасибо..."
 
 msgid "<32>* and, uh... sorry i got in your way before..."
-msgstr ""
+msgstr "<32>* и, ох... извини, что помешал тебе раньше..."
 
 msgid "<32>* i'll go somewhere else now"
-msgstr ""
+msgstr "<32>* я уйду куда-нибудь сейчас же"
 
 msgid "<32>* but... don't worry..."
-msgstr ""
+msgstr "<32>* но... не волнуйся..."
 
 msgid "<32>* you'll see me again later..."
-msgstr ""
+msgstr "<32>* увидишь меня снова..."
 
 msgid "<32>* if you want to..."
-msgstr ""
+msgstr "<32>* если захочешь..."
 
 msgid "<32>* well, cya..."
-msgstr ""
+msgstr "<32>* ладно, прощай..."
 
 msgid "<32>{#p/napstablook}* so um... you really despise me, huh"
 msgstr ""
