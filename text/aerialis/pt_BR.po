@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-12 16:16+0000\n"
-"PO-Revision-Date: 2025-03-17 15:00+0000\n"
+"PO-Revision-Date: 2025-03-17 17:14+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
@@ -17034,1387 +17034,1602 @@ msgid "<20>{#p/mettaton}But it wasn't exactly glamorous, either..."
 msgstr "<20>{#p/mettaton}Mas não foi exatamente glamoroso, também..."
 
 msgid "<20>{#p/mettaton}It's time to bring your a-game!"
-msgstr ""
+msgstr "<20>{#p/mettaton}É hora de te trazer um jogo!"
 
 msgid "<20>{#p/mettaton}Can you keep up the pace?"
-msgstr ""
+msgstr "<20>{#p/mettaton}Você consegue manter o ritmo?"
 
 msgid "<20>{#p/mettaton}Turn it up to eleven!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Aumente seu ritmo!"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/9}{#a.la/0}{#a.ra/5}Then, our kind will get to"
 " see the stars..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/9}{#a.la/0}{#a.ra/5}Então, nosso povo irá ver "
+"as estrelas..."
 
 msgid "<20>{#p/mettaton}Whatever, Who cares!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Tanto faz, quem liga!"
 
 msgid ""
 "<20>{#p/mettaton}Lights!\n"
 "Camera!\n"
 "Plastic explosives!"
 msgstr ""
+"<20>{#p/mettaton}Luzes!\n"
+"Câmera!\n"
+"Plástico explosivo!"
 
 msgid ""
 "<20>{#p/mettaton}Destruction!\n"
 "Annihilation!\n"
 "Armageddon!"
 msgstr ""
+"<20>{#p/mettaton}Destruição!\n"
+"Aniquilação!\n"
+"Armagedom!"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/1}{#a.la/1}{#a.ra/7}... and I'm the one who's "
 "going to send them there!"
 msgstr ""
+"20>{#p/mettaton}{#e/mettaton/1}{#a.la/1}{#a.ra/7}... e eu sou quem irá dar a "
+"eles a liberdade!"
 
 msgid "<20>{#p/mettaton}Nobody, that's who!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Ninguém, ninguém liga!"
 
 msgid "<20>{#p/mettaton}Things are blowing up!"
-msgstr ""
+msgstr "<20>{#p/mettaton}As coisas estão explodindo!"
 
 msgid "<20>{#p/mettaton}Things are getting crazy!"
-msgstr ""
+msgstr "<20>{#p/mettaton}As coisas estão ficando malucas!"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/15}{#a.la/8}{#a.ra/8}It's a shame, really.\n"
 "Alphys, Asgore, even my cousins..."
 msgstr ""
+"20>{#p/mettaton}{#e/mettaton/15}{#a.la/8}{#a.ra/8}É uma pena, sério.\n"
+"Alphys, Asgore e até meus primos..."
 
 msgid ""
 "<20>{#e/mettaton/12}{#a.la/8}{#a.ra/8}Those closest to me are all quick to "
 "avoid conflict."
 msgstr ""
+"<20>{#e/mettaton/12}{#a.la/8}{#a.ra/8}Todos aqueles próximos de mim sempre "
+"desejam evitar conflito."
 
 msgid "<20>{#p/mettaton}Let's just take a moment to think."
-msgstr ""
+msgstr "<20>{#p/mettaton}Vamos tomar um momento para pensar."
 
 msgid "<20>{#p/mettaton}Nothing like a break to quell the enemy's fire!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Nada como uma pausa para reprimir o fogo do inimigo!"
 
 msgid "<21>{#p/mettaton}Time for our council- regulated break!"
-msgstr ""
+msgstr "<21>{#p/mettaton}Hora do nosso intervalo regulamentado pelo conselho!"
 
 msgid ""
 "<20>{#p/mettaton}Can't catch a break?\n"
 "Sucks to be you!"
 msgstr ""
+"<20>{#p/mettaton}Não consegue fazer uma pausa?\n"
+"É uma merda ser você!"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/13}{#a.la/8}{#a.ra/8}But me?\n"
 "I don't play by their lovey-dovey rules."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/13}{#a.la/8}{#a.ra/8}Mas eu?\n"
+"Eu não jogo pelas regras amáveis deles."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/23}{#a.la/1}{#a.ra/6}I get straight to the "
 "heart of it!"
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/23}{#a.la/1}{#a.ra/6}Eu vou direto ao coração "
+"da questão."
 
 msgid "<20>{#p/mettaton}I don't get why they had to be so confrontational..."
 msgstr ""
+"<20>{#p/mettaton}Eu não entendo por que eles me confrontaram daquela forma..."
 
 msgid "<20>{#p/mettaton}... am I supposed to believe it was out of love?"
-msgstr ""
+msgstr "<20>{#p/mettaton}... eu deveria acreditar que foi por amor?"
 
 msgid "<20>{#p/mettaton}It's time we got back to the heart of this conflict!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Hora de voltar para o coração do conflito!"
 
 msgid "<20>{#p/mettaton}We've grown so distant, darling..."
-msgstr ""
+msgstr "<20>{#p/mettaton}Nós crescemos tão distantes, querido..."
 
 msgid "<20>{#p/mettaton}How about another heart-to-heart?"
-msgstr ""
+msgstr "<20>{#p/mettaton}Que tal outro turno de coração com coração?"
 
 msgid "<20>{#p/mettaton}I think it's time you learned your lesson."
-msgstr ""
+msgstr "<20>{#p/mettaton}Acho que já é hora de você ter aprendido sua lição."
 
 msgid "<20>{#p/mettaton}Here's something you can take to heart!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Aqui vai algo que você pode levar para o coração!"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/26}{#a.la/8}{#a.ra/8}... jeez."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/26}{#a.la/8}{#a.ra/8}... senhor."
 
 msgid ""
 "<20>{#e/mettaton/25}{#a.la/8}{#a.ra/8}You really are an annoying little bug,"
 " aren't you?"
 msgstr ""
+"<20>{#e/mettaton/25}{#a.la/8}{#a.ra/8}Você é um verdadeiro inseto insolente, "
+"sabia?"
 
 msgid "<20>{#p/mettaton}A... and besides, how can I even trust them now?"
-msgstr ""
+msgstr "<20>{#p/mettaton}E... e aliás, como eu posso confiar neles agora?"
 
 msgid ""
 "<20>{#p/mettaton}A... arms?\n"
 "Wh... who needs arms with legs like these?"
 msgstr ""
+"<20>{#p/mettaton}Braços...?\n"
+"Qu-quem precisa de braços com pernas assim?"
 
 msgid "<20>{#p/mettaton}I... is that all you've got?"
-msgstr ""
+msgstr "<20>{#p/mettaton}É isso... isso é tudo que você tem?"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/15}{#a.la/8}{#a.ra/8}But hey, you know what "
 "they say about a bug, right?"
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/15}{#a.la/8}{#a.ra/8}Mas ei, você sabe o que "
+"eles dizem sobre bugs, certo?"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/13}{#a.la/9}{#a.ra/10}It's just another "
 "problem that needs fixing."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/13}{#a.la/9}{#a.ra/10}É apenas mais um "
+"problema que precisa de concerto."
 
 msgid "<20>{#p/mettaton}I d-don't... know what to think anymore..."
-msgstr ""
+msgstr "<20>{#p/mettaton}Eu n-não sei... mais o que pensar..."
 
 msgid "<20>{#p/mettaton}Let's h-hear... hear one last roar from the audience!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Vamos ouvir... ouvir um último rugido da platéia!"
 
 msgid ""
 "<20>{#p/mettaton}Shoutout t-to... to Dr. Alphys for making my dreams come "
 "true!"
 msgstr ""
+"<20>{#p/mettaton}Agradecimentos a... doutora Alphys, por tornar meus sonhos "
+"realidade!"
 
 msgid ""
 "<20>{#p/mettaton}Shoutout t-to... to the ones who've given their lives to "
 "protect us!"
 msgstr ""
+"<20>{#p/mettaton}Agradecimentos a... aqueles que deram suas vidas para nos "
+"proteger!"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/15}{#a.la/10}{#a.ra/0}Look.\n"
 "I don't blame you for fighting so valiantly."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/15}{#a.la/10}{#a.ra/0}Olha.\n"
+"Eu não te culpo por lutar tão valentamente."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/0}{#a.ra/10}But, and I mean this in "
 "the best possible way..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/19}{#a.la/0}{#a.ra/10}Mas, e eu quero dizer "
+"que este é o melhor caminho possível..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/17}{#a.la/8}{#a.ra/8}You'd have better chances"
 " against a wall of reinforced polycarbide."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/17}{#a.la/8}{#a.ra/8}Você teria melhores "
+"chances contra uma parede de policarboneto reforçado."
 
 msgid "<20>{#p/mettaton}Could it be that they're tr... truly sorry?"
 msgstr ""
+"<20>{#p/mettaton}Eles poderiam estar realmente... realmente arrependidos?"
 
 msgid "<20>{#p/mettaton}There's no way I'm giv... giving up now!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Não tem como eu desis... desistir agora!"
 
 msgid "<20>{#p/mettaton}Now it's my turn to ful... fulfill all yours!"
 msgstr ""
+"<20>{#p/mettaton}Agora é a minha vez de cumprir... cumprir todos os seus!"
 
 msgid "<20>{#p/mettaton}I'll make sure your efforts we... weren't in vain!"
 msgstr ""
+"<20>{#p/mettaton}Eu irei garantir que seus esforços não serão... em vão!"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/20}{#a.la/0}{#a.ra/0}What's that?\n"
 "You don't care what I have to say?"
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/20}{#a.la/0}{#a.ra/0}O que é isso?\n"
+"Você não se importa com o que eu tenho pra dizer?"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/17}{#a.la/8}{#a.ra/8}... feh.\n"
 "Your loss, darling!"
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/17}{#a.la/8}{#a.ra/8}... feh.\n"
+"Você que perde, querido!"
 
 msgid "<20>{#p/mettaton}Or is it ju... just a ploy to get into the spotlight?"
 msgstr ""
+"<20>{#p/mettaton}Ou é ap... apenas um estrategia para entrar no centro das "
+"atenções?"
 
 msgid "<20>{#p/mettaton}Not after al... all we've been through!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Não após tu... tudo o que nós passamos!"
 
 msgid "<20>{#p/mettaton}I wouldn't ha... have it any other way!"
-msgstr ""
+msgstr "<20>{#p/mettaton}Eu não fa... faria de outra maneira!"
 
 msgid "<20>{#p/mettaton}It's the le... least I can do!"
-msgstr ""
+msgstr "<20>{#p/mettaton}É o mínimo que posso... fa... fazer!"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/12}H... haah...\n"
 "H... haah..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/12}H... haah...\n"
+"H... haah..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/14}{#a.la/3}{#a.ra/0}Oh well.\n"
 "Some people just never learn..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/14}{#a.la/3}{#a.ra/0}Poxa vida.\n"
+"Algumas pessoas nunca aprendem..."
 
 msgid "<20>{#e/mettaton/13}{#a.la/8}{#a.ra/8}But that's enough out of me."
-msgstr ""
+msgstr "<20>{#e/mettaton/13}{#a.la/8}{#a.ra/8}Mas já chega de mim."
 
 msgid ""
 "<20>{#e/mettaton/7}{#a.la/9}{#a.ra/10}I'll let my heart take it from here!"
 msgstr ""
+"<20>{#e/mettaton/7}{#a.la/9}{#a.ra/10}Eu vou deixar meu coração tomar "
+"controle daqui pra frente!"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/13}The show must go on...!"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/13}O show deve continuar...!"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/11}(Sigh...)"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/11}(Suspiro...)"
 
 msgid "<20>{#e/mettaton/29}Well..."
-msgstr ""
+msgstr "<20>{#e/mettaton/29}Bem..."
 
 msgid "<20>{#e/mettaton/10}Would you look at that."
-msgstr ""
+msgstr "<20>{#e/mettaton/10}Olha só pra isso."
 
 msgid "<20>{#e/mettaton/20}This is the most viewers I've ever had..."
 msgstr ""
+"<20>{#e/mettaton/20}Acho que essa é maior quantidade de espectadores que eu "
+"já tive..."
 
 msgid ""
 "<20>{#e/mettaton/17}By now, we've reached the viewer call-in milestone."
-msgstr ""
+msgstr "<20>{#e/mettaton/17}Nós atingimos o marco de ligações para o público."
 
 msgid "<20>{#e/mettaton/14}..."
-msgstr ""
+msgstr "<20>{#e/mettaton/14}..."
 
 msgid "<20>{#e/mettaton/15}Let's see what the audience has to say..."
-msgstr ""
+msgstr "<20>{#e/mettaton/15}Vamos ver o que a audiência tem pra dizer..."
 
 msgid "<20>{#e/mettaton/12}... before we finish off our saga for good."
-msgstr ""
+msgstr "<20>{#e/mettaton/12}... antes de acabarmos essa saga para o bem."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/8}Ooh, look at these ratings..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/8}Ooh, olhe para esses números..."
 
 msgid "<20>{#e/mettaton/5}This is the most viewers I've ever had!"
 msgstr ""
+"<20>{#e/mettaton/5}Essa é a maior quantidade de espectadores que eu já tive!"
 
 msgid "<20>{#e/mettaton/7}By now, we've reached the viewer call-in milestone."
 msgstr ""
+"<20>{#e/mettaton/7}Nós alcançamos o marco para ligações dos espectadores."
 
 msgid "<20>{#e/mettaton/19}... before the battle is over for real!"
-msgstr ""
+msgstr "<20>{#e/mettaton/19}... antes que a batalha acabe de verdade!"
 
 msgid "<20>{#e/mettaton/19}... before we finish off our saga for good!"
-msgstr ""
+msgstr "<20>{#e/mettaton/19}... antes de acabarmos com essa saga para o bem!"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}No... I..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/15}Não... eu..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/14}I still have to..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/14}Eu ainda tenho que..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/9}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/9}..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/9}Blooky, if you're watching this, then..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/9}Blooky, se você estiver assistindo isso, "
+"então..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/10}Please don't feel bad, alright?"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/10}Por favor não fique triste, tudo bem?"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/9}I shouldn't have pushed you away."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/9}Eu não deveria ter te afastado."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/19}I shouldn't have acted like I didn't care."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/19}Eu não deveria ter agido como se não me "
+"importasse."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/17}Because... regardless of what happened in "
 "the past..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/17}Porque... independente do que aconteceu no "
+"passado..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/10}You, Lurksalot... all of you..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/10}Você, Lurksalot... todos vocês..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/20}You're still my family!"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/20}Vocês ainda são minha família!"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/15}So... forget everything else I've said."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/15}Então... esqueça tudo que eu disse."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/9}From now on, it doesn't matter."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/9}De agora em diante, isso não importa."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/10}All that matters..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/10}Tudo que importa..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/14}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/14}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}So that's how it is, is it?"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/15}Então é assim que acaba?"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}... heh, I think..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}... heh, eu acho..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/20}I think I understand now."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/20}Eu acho que eu entendo agora."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/10}All this time..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/10}Todo esse tempo..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/10}I've only been acting like we're enemies."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/10}Eu estive apenas agindo como se fossemos "
+"inimigos."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/11}A story for the audience to get invested "
 "in."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/11}Uma história para que a audiência ficasse "
+"envolvida."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}But you..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}Mas você..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/17}You believed it."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/17}Você acreditou."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/17}You brought our rivalry to life."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/17}Você trouxe nossa realidade para a vida "
+"real."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/10}And by the end..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/10}E no fim..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/9}You lived up perfectly to the role I gave to"
 " you."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/9}Você viveu perfeitamente para a regra que eu "
+"te impus."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/14}Well then, dear $(moniker2)."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/14}Pois bem, querido $(moniker2)."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/12}I guess it's only fair I live up to mine."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/12}Acho justo que eu esteja à altura do que "
+"desejei viver."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/10}Ha... darling..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/10}Ha... querido..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/17}You do know what happens when my HP reaches"
 " zero..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/17}Você sabe o que acontece quando meu HP "
+"chega a zero..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/17}... don't you?"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/17}... não sabe?"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/18}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/18}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/9}But before I go."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/9}Mas antes que eu vá."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/10}I just wanted to say..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/10}Eu só queria dizer..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/17}... you're the greatest guest star I've "
 "ever had."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/17}... você é a maior estrela que eu já tive "
+"aqui."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}All those people, watching us..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}Todas essas pessoas, nos assistindo..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}Cheering us on..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}Torcendo por nós..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/17}They're here because of you."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/17}Eles estão aqui por sua causa."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/10}To see your story unfold."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/10}Para ver sua história se desenrolar."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/9}So... darling."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/9}Então... querido."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/13}Don't underestimate yourself, alright?"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/13}Não subestime a si mesmo, tudo bem?"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/14}And don't worry about me."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/14}E não se preocupe comigo."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/12}Because, even if my story came to an end..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/12}Porque, mesmo que minha história tenha "
+"encontrado um fim..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/14}... you..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/14}... você..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/12}I should have known you'd betray me."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/12}Eu deveria sabe que você iria me trair."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/15}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}I wanted to give you a chance."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/15}Eu queria te dar uma chance."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/14}I wanted to believe there was still good in"
 " you."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/14}Eu queria acreditar que ainda havia bem em "
+"você."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}But now..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}Mas agora..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/22}I know there's no hope of it coming back."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/22}Eu sei que não existe mais esperança para o "
+"que aconteceu."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/14}I wanted to believe that you'd changed."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/14}Eu queria acreditar na sua mudança."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/22}I know you never had good in you to begin "
 "with."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/22}Eu já sabia que não existia bem em você "
+"desde o começo."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/30}... you poor thing."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/30}... sua pobre coisa."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/30}I really must apologize."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/30}Eu devo me desculpar."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/20}If I had just been a little more "
 "pragmatic..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/20}Se eu tivesse sido um pouco mais "
+"pragmático..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/23}I could've given you the death you so "
 "utterly deserve."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/23}Eu teria te dado a morte que você tanto "
+"merece."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/30}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/30}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/30}Well, that's fine."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/30}Bom, tudo bem."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/24}You live and learn, darling."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/24}Você vive e aprende, querido."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/30}And in the end..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/30}E no fim..."
 
 msgid "<20>{*}{#p/mettaton}{#e/mettaton/31}... is that I forgive you!{^20}{%}"
-msgstr ""
+msgstr "<20>{*}{#p/mettaton}{#e/mettaton/31}... é que eu te perdôo!{^20}{%}"
 
 msgid ""
 "<20>{*}{#p/mettaton}{#e/mettaton/30}... let's end this rivalry off with a "
 "bang.{^20}{%}"
 msgstr ""
+"<20>{*}{#p/mettaton}{#e/mettaton/30}... Vamos acabar com essa rivalidade com "
+"um estrondo.{^20}{%}"
 
 msgid ""
 "<20>{*}{#p/mettaton}{#e/mettaton/30}... at least it ended off with a "
 "bang.{^20}{%}"
 msgstr ""
+"<20>{*}{#p/mettaton}{#e/mettaton/30}... pelo menos isso acabou com uma "
+"explosão.{^20}{%}"
 
 msgid ""
 "<20>{*}{#p/mettaton}{#e/mettaton/27}... you'll realize not everything's "
 "going to go your way!{^20}{%}"
 msgstr ""
+"<20>{*}{#p/mettaton}{#e/mettaton/27}... logo você perceberá que nem tudo se "
+"sairá da forma que quer!{^20}{%}"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}...?"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}...?"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}{#a.la/0}{#a.ra/0}... of course."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/15}{#a.la/0}{#a.ra/0}... é claro."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/13}{#a.la/8}{#a.ra/8}You thought I'd be done "
 "for without the wires... right?"
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/13}{#a.la/8}{#a.ra/8}Você pensou que eu "
+"estaria morto sem os fios... né?"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/20}{#a.la/0}{#a.ra/10}Oh, darling... you poor,"
 " poor little excuse of a child."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/20}{#a.la/0}{#a.ra/10}Oh, querido... sua "
+"pobre, pobre criança lamentada."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/23}{#a.la/10}{#a.ra/0}You simply couldn't be "
 "more wrong."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/23}{#a.la/10}{#a.ra/0}Você não poderia estar "
+"mais errada."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/24}{#a.la/2}{#a.ra/3}All this time, I've been "
 "absorbing the CORE's power..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/24}{#a.la/2}{#a.ra/3}Todo esse tempo, eu "
+"estive absorvendo o poder do CORE..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/30}{#a.la/8}{#a.ra/8}Did you really think I'd "
 "let it go to waste?"
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/30}{#a.la/8}{#a.ra/8}Você realmente achou que "
+"eu iria desperdiça-lo?"
 
 msgid ""
 "<20>{*}{#p/mettaton}{#e/mettaton/27}{#a.la/8}{#a.ra/8}Let's see how you like"
 " me NOW!"
 msgstr ""
+"<20>{*}{#p/mettaton}{#e/mettaton/27}{#a.la/8}{#a.ra/8}Vamos ver se você "
+"gosta de mim AGORA!"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/26}... ugh..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/26}... ugh..."
 
 msgid "<20>{#e/mettaton/25}You beat me."
-msgstr ""
+msgstr "<20>{#e/mettaton/25}Você me venceu."
 
 msgid "<20>{#e/mettaton/19}After all of that, I underestimated you... again."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}Depois de tudo isso, eu te subestimei... de novo."
 
 msgid "<20>{#e/mettaton/13}But that's okay."
-msgstr ""
+msgstr "<20>{#e/mettaton/13}Mas tudo bem."
 
 msgid "<20>{#e/mettaton/14}Someone, somewhere out there..."
-msgstr ""
+msgstr "<20>{#e/mettaton/14}Alguém, alguém aí fora..."
 
 msgid "<20>{#e/mettaton/19}They'll put a stop to this madness."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}Alguém aí fora vai conseguir te parar."
 
 msgid "<20>{#e/mettaton/9}And when that time comes..."
-msgstr ""
+msgstr "<20>{#e/mettaton/9}E quando este momento chegar..."
 
 msgid "<20>{#e/mettaton/10}We'll all..."
-msgstr ""
+msgstr "<20>{#e/mettaton/10}Todos nós..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/26}... unbelievable..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/26}... inacreditável..."
 
 msgid "<20>{#e/mettaton/25}You didn't even let me use my full power."
-msgstr ""
+msgstr "<20>{#e/mettaton/25}Você nem me deixou usar meu poder total."
 
 msgid "<20>{#e/mettaton/10}But... maybe that's for the best."
-msgstr ""
+msgstr "<20>{#e/mettaton/10}Mas... talvez isso tenha sido para o melhor."
 
 msgid ""
 "<20>{#e/mettaton/9}...\n"
 "After all..."
 msgstr ""
+"<20>{#e/mettaton/9}...\n"
+"Até porque..."
 
 msgid "<20>{#e/mettaton/18}If there really is no hope for us here..."
-msgstr ""
+msgstr "<20>{#e/mettaton/18}Se realmente não existe esperança para nós aqui..."
 
 msgid "<20>{#e/mettaton/10}Then maybe we should've just let you win."
-msgstr ""
+msgstr "<20>{#e/mettaton/10}Talvez nós deveríamos apenas tê-lo deixado vencer."
 
 msgid "<20>{#e/mettaton/9}..."
-msgstr ""
+msgstr "<20>{#e/mettaton/9}..."
 
 msgid "<20>{#e/mettaton/9}Oh well..."
-msgstr ""
+msgstr "<20>{#e/mettaton/9}Pois bem..."
 
 msgid "<21>{#p/event}Ring, ring..."
-msgstr ""
+msgstr "<21>{#p/event}Ring, ring..."
 
 msgid "<21>{#p/napstablook}{~}....."
-msgstr ""
+msgstr "<21>{#p/napstablook}{~}....."
 
 msgid "<21>{#e/mettaton/9}{~}oh........"
-msgstr ""
+msgstr "<21>{#e/mettaton/9}{~}oh........"
 
 msgid ""
 "<21>{~}hi...\n"
 "mettaton..."
 msgstr ""
+"<21>{~}oi...\n"
+"mettaton..."
 
 msgid ""
 "<21>{#e/mettaton/18}{~}i know it's been weird since the meeting...\n"
 "but..."
 msgstr ""
+"<21>{#e/mettaton/18}{~}eu sei que tem sido estranho desde nosso encontro... "
+"mas..."
 
 msgid ""
 "<21>{~}seeing you for who you really are, doing what you really want..."
 msgstr ""
+"<21>{~}ver você por quem você realmente é, fazendo o que você realmente "
+"quer..."
 
 msgid "<21>{#e/mettaton/10}{~}brought a happy tear to my eye..."
-msgstr ""
+msgstr "<21>{#e/mettaton/10}{~}trouxe um choro de felicidade ao meu coração..."
 
 msgid ""
 "<21>{#e/mettaton/9}{~}i can't tell, but...\n"
 "i guess this is the last episode...?"
 msgstr ""
+"<21>{#e/mettaton/9}{~}eu não sei se é, mas...\n"
+"acho que esse é o último episódio...?"
 
 msgid ""
 "<21>{#e/mettaton/11}{~}i'll miss you...\n"
 "cousin......"
 msgstr ""
+"<21>{#e/mettaton/11}{~}eu vou sentir sua falta...\n"
+"primo..."
 
 msgid "<21>{#e/mettaton/18}{~}i really liked seeing your rivalry..."
-msgstr ""
+msgstr "<21>{#e/mettaton/18}{~}eu realmente gostei de ver sua rivalidade..."
 
 msgid ""
 "<21>{~}it's not usually the sort of thing i'm into...\n"
 "but..."
 msgstr ""
+"<21>{~}geralmente não é o tipo de coisa que eu gosto...\n"
+"mas..."
 
 msgid ""
 "<21>{#e/mettaton/10}{~}because you did it, i enjoyed it...\n"
 "vicariously"
-msgstr ""
+msgstr "<21>{#e/mettaton/10}{~}por ter sido você quem fez, eu gostei..."
 
 msgid ""
 "<21>{~}a lot of people have gone missing lately...\n"
 "but..."
 msgstr ""
+"<21>{~}um monte de pessoas sumiram nas últimas horas...\n"
+"mas..."
 
 msgid ""
 "<21>{#e/mettaton/10}{~}seeing you battle it out like that helped me feel "
 "better"
 msgstr ""
+"<21>{#e/mettaton/10}{~}vendo você lutar com canta braveza fez com que eu me "
+"sentisse melhor"
 
 msgid "<21>{#e/mettaton/18}{~}i really liked watching your show..."
-msgstr ""
+msgstr "<21>{#e/mettaton/18}{~}eu realmente gostei de assistir seu show..."
 
 msgid ""
 "<21>{~}my life is pretty boring...\n"
 "but..."
 msgstr ""
+"<21>{~}minha vida é bem entendiante...\n"
+"mas..."
 
 msgid ""
 "<21>{#e/mettaton/10}{~}seeing you on tv brought excitement to my life...\n"
 "vicariously"
 msgstr ""
+"<21>{#e/mettaton/10}{~}ver você na tv trouxe emoção para minha vida... "
+"sinceramente"
 
 msgid "<21>{#e/mettaton/10}{~}seeing you on tv helped me feel better"
-msgstr ""
+msgstr "<21>{#e/mettaton/10}{~}te ver na tv me ajudou a sentir-me melhor..."
 
 msgid ""
 "<21>{#e/mettaton/11}{~}i'll miss you...\n"
 "mettaton......"
 msgstr ""
+"<21>{#e/mettaton/11}{~}eu vou sentir sua falta...\n"
+"mettaton......"
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/19}No, wait!\n"
 "Wait, bl..."
 msgstr ""
+"<20>{#p/mettaton}{#e/mettaton/19}Não, espera!\n"
+"Espera, bl..."
 
 msgid "<20>{#e/mettaton/9}Th... they already hung up."
-msgstr ""
+msgstr "<20>{#e/mettaton/9}El... ele já desligou."
 
 msgid "<20>{#e/mettaton/19}..."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}..."
 
 msgid "<20>{#e/mettaton/20}I'll take another caller!!!"
-msgstr ""
+msgstr "<20>{#e/mettaton/20}Eu vou fazer mais uma ligação!"
 
 msgid "<21>{#p/basic}Mettaton, you really did us proud!"
-msgstr ""
+msgstr "<21>{#p/basic}Mettaton, você nos deixou orgulhosos!"
 
 msgid "<21>{#p/basic}Mettaton, your show made us so happy!"
-msgstr ""
+msgstr "<21>{#p/basic}Mettaton, seu show nos fez tão felizes!"
 
 msgid "<21>{#p/basic}Mettaton, who's going to fight the villains without you!"
-msgstr ""
+msgstr "<21>{#p/basic}Mettaton, quem vai lutar contra os vilões sem você!"
 
 msgid "<21>{#p/basic}Mettaton, I don't know what I'll watch without you!"
-msgstr ""
+msgstr "<21>{#p/basic}Mettaton, eu não sei o que irei assistir sem você!"
 
 msgid ""
 "<21>{#e/mettaton/10}{#p/basic}There's a reason you're the shining star of "
 "the outpost!"
 msgstr ""
+"<21>{#e/mettaton/10}{#p/basic}Tem uma razão pela qual você é a estrela em "
+"ascensão do Outpost!"
 
 msgid ""
 "<21>{#e/mettaton/10}{#p/basic}There's a Mettaton- shaped hole in my "
 "Mettaton-shaped heart!"
 msgstr ""
+"<21>{#e/mettaton/10}{#p/basic}Tem um buraco em formato de Mettaton no meu "
+"coração em formato do Mettaton!"
 
 msgid "<20>{#p/mettaton}Ah... I see."
-msgstr ""
+msgstr "<20>{#p/mettaton}Ah... eu entendo."
 
 msgid "<20>{#e/mettaton/19}Everyone... thank you so much."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}Todo mundo... muito obrigado."
 
 msgid "<20>{#e/mettaton/20}And Blooky..."
-msgstr ""
+msgstr "<20>{#e/mettaton/20}E Blooky..."
 
 msgid ""
 "<20>{#e/mettaton/20}I never thought I'd forgive you and the others, but..."
 msgstr ""
+"<20>{#e/mettaton/20}Eu nunca pensei que te perdoaria e os outros, mas..."
 
 msgid "<20>{#e/mettaton/9}That farm was your passion project, right?"
-msgstr ""
+msgstr "<20>{#e/mettaton/9}Aquela fazenda era seu projeto dos sonhos, né?"
 
 msgid "<20>{#e/mettaton/9}After having several of my own... I think I get it."
 msgstr ""
+"<20>{#e/mettaton/9}Depois de ter muito de mim mesmo... eu acho que entendi."
 
 msgid "<20>{#e/mettaton/19}You just wanted us to be successful together..."
 msgstr ""
+"<20>{#e/mettaton/19}Você só queria que fossemos bem sucedidos, juntos..."
 
 msgid "<20>{#e/mettaton/19}You, Lurksalot... all of you..."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}Você, Lurksalot, todos vocês..."
 
 msgid "<20>{#e/mettaton/20}You all just wanted us to be happy."
-msgstr ""
+msgstr "<20>{#e/mettaton/20}Vocês só queriam nos ver felizes."
 
 msgid "<20>{#e/mettaton/20}... heh."
-msgstr ""
+msgstr "<20>{#e/mettaton/20}... heh."
 
 msgid "<20>{#e/mettaton/9}But as for my show..."
-msgstr ""
+msgstr "<20>{#e/mettaton/9}E em relação a meu show..."
 
 msgid "<20>{#e/mettaton/10}I think I might take a break for a while."
-msgstr ""
+msgstr "<20>{#e/mettaton/10}Eu acho que vou me retirar por um tempo."
 
 msgid "<20>{#e/mettaton/20}But you misunderstand..."
-msgstr ""
+msgstr "<20>{#e/mettaton/20}Mas você entendeu errado..."
 
 msgid "<20>{#e/mettaton/10}I'm... not going anywhere."
-msgstr ""
+msgstr "<20>{#e/mettaton/10}Eu... não vou a lugar nenhum."
 
 msgid "<20>{#e/mettaton/20}I guess it's for the best, though."
-msgstr ""
+msgstr "<20>{#e/mettaton/20}Eu acho que foi para o melhor entretanto."
 
 msgid "<20>{#e/mettaton/15}I've been away from the family for far too long..."
-msgstr ""
+msgstr "<20>{#e/mettaton/15}Eu estive longe da minha família por muito tempo..."
 
 msgid "<20>{#e/mettaton/14}It's about time I told them what's going on."
-msgstr ""
+msgstr "<20>{#e/mettaton/14}Já é hora de contar a eles o que está acontecendo."
 
 msgid "<20>{#e/mettaton/19}In short..."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}Por agora..."
 
 msgid "<20>{#e/mettaton/15}The truth is, this form's energy consumption is..."
 msgstr ""
+"<20>{#e/mettaton/15}A verdade é que o consumo de energia desta forma é..."
 
 msgid "<20>{#e/mettaton/14}Inefficient."
-msgstr ""
+msgstr "<20>{#e/mettaton/14}Ineficiente."
 
 msgid ""
 "<20>{#e/mettaton/19}In a few moments, I'll run out of battery power, and..."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}Em poucos momentos, eu irei ficar sem bateria, e..."
 
 msgid "<20>{#e/mettaton/10}Well."
-msgstr ""
+msgstr "<20>{#e/mettaton/10}Bem."
 
 msgid "<20>I'll be alright."
-msgstr ""
+msgstr "<20>Eu ficarei bem."
 
 msgid "<20>{#e/mettaton/9}See you around, $(moniker2)."
-msgstr ""
+msgstr "<20>{#e/mettaton/9}Te vejo por aí, $(moniker2)."
 
 msgid "<20>{#e/mettaton/9}Fly safe, darling."
-msgstr ""
+msgstr "<20>{#e/mettaton/9}Vá em segurança, querido."
 
 msgid "<20>{#e/mettaton/19}And everyone... thank you."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}E a todos... muito obrigado."
 
 msgid "<20>{#e/mettaton/20}You've been a great audience!"
-msgstr ""
+msgstr "<20>{#e/mettaton/20}Vocês foram uma ótima audiência!"
 
 msgid "<20>{*}{#p/mettaton}You're orange now.{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#p/mettaton}Você está laranja agora.{^30}{%}"
 
 msgid "<20>{*}{#e/mettaton/4}That's my attack.{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#e/mettaton/4}Esse é meu ataque.{^30}{%}"
 
 msgid ""
 "<20>{*}{#e/mettaton/12}... heh.\n"
 "Who says we can't have a little fun?{^30}{%}"
 msgstr ""
+"<20>{*}{#e/mettaton/12}... heh.\n"
+"Quem disse que não podemos nos divertir um pouco?{^30}{%}"
 
 msgid ""
 "<20>{*}{#e/mettaton/0}Now, be a good darling and press [Z] to "
 "explode.{^30}{%}"
 msgstr ""
+"<20>{*}{#e/mettaton/0}Agora, seja um bom querido e aperte [Z] para "
+"explodir.{^30}{%}"
 
 msgid "<20>{*}{#e/mettaton/0}But be careful...{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#e/mettaton/0}Mas cuidado...{^30}{%}"
 
 msgid ""
 "<20>{*}{#e/mettaton/0}The more you do it, the slower you'll move.{^30}{%}"
 msgstr ""
+"<20>{*}{#e/mettaton/0}Quanto mais você fizer isso, mais lentamente se "
+"moverá.{^30}{%}"
 
 msgid "<20>{*}{#e/mettaton/12}... but enough with words.{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#e/mettaton/12}... mas chega de palavras.{^30}{%}"
 
 msgid "<20>{*}{#e/mettaton/4}It's time to put you in the grave.{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#e/mettaton/4}É hora de te colocar em um caixão.{^30}{%}"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/6}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/6}..."
 
 msgid ""
 "<20>{#e/mettaton/9}G... guess that's what I get for fusing with my body..."
 msgstr ""
+"<20>{#e/mettaton/9}A... acho que é isso que eu ganho por me fundir ao meu "
+"corpo..."
 
 msgid "<20>{#e/mettaton/11}Now... there'll be nobody left..."
-msgstr ""
+msgstr "<20>{#e/mettaton/11}Agora... não existe mais ninguém..."
 
 msgid "<20>{#e/mettaton/7}... to stop you..."
-msgstr ""
+msgstr "<20>{#e/mettaton/7}... que possa te parar..."
 
 msgid "<20>{#e/mettaton/7}..."
-msgstr ""
+msgstr "<20>{#e/mettaton/7}..."
 
 msgid ""
 "<20>{#e/mettaton/10}Goodbye...\n"
 "...\n"
 "... darling."
 msgstr ""
+"<20>{#e/mettaton/10}Adeus...\n"
+"...\n"
+"... querido."
 
 msgid "<20>{#p/finalghost}{~}..."
-msgstr ""
+msgstr "<20>{#p/finalghost}{~}..."
 
 msgid "<20>{~}Mettaton..."
-msgstr ""
+msgstr "<20>{~}Mettaton..."
 
 msgid "<20>{#p/finalghost}{~}So this is what it comes to."
-msgstr ""
+msgstr "<20>{#p/finalghost}{~}Então chegamos a isso."
 
 msgid "<20>{~}..."
-msgstr ""
+msgstr "<20>{~}..."
 
 msgid ""
 "<20>{~}I have waited long for a chance to put an end to you, and now I have "
 "one."
 msgstr ""
+"<20>{~}Eu esperei por muito tempo para ter a chance de te destruir, agora eu "
+"tenho uma."
 
 msgid "<20>{~}As you cannot use magic, you cannot kill me."
-msgstr ""
+msgstr "<20>{~}Como você não pode usar magia, você não pode me matar."
 
 msgid "<20>{~}Therefore, you have no method of getting past me."
-msgstr ""
+msgstr "<20>{~}Sendo assim, não tem como você passar por mim."
 
 msgid "<20>{|}{~}Your time has- {%}"
-msgstr ""
+msgstr "<20>{|}{~}Sua hora cheg-{%}"
 
 msgid ""
 "<20>{#p/asriel2}Seriously?\n"
 "I know my magic's limited, but it's not THAT bad."
 msgstr ""
+"<20>{#p/asriel2}Sério?\n"
+"Eu sei que minha mágica está limitada, mas não é TÃO ruim."
 
 msgid "<20>{#x1}Cut me some slack..."
-msgstr ""
+msgstr "<20>{#x1}Tá me tirando de tempo aqui..."
 
 msgid "<20>{#p/asriel2}..."
-msgstr ""
+msgstr "<20>{#p/asriel2}..."
 
 msgid "Would you forgive a ghost?"
-msgstr ""
+msgstr "Você perdoaria um fantasma?"
 
 msgid "Would you smooch a ghost?"
-msgstr ""
+msgstr "Você beijaria um fantasma?"
 
 msgid "Would you attack a ghost?"
-msgstr ""
+msgstr "Você atacaria um fantasma?"
 
 msgid "Hug it out!"
-msgstr ""
+msgstr "Abraça Ele!"
 
 msgid ""
 "Forgive\n"
 "and forget."
 msgstr ""
+"Perdoar\n"
+"E esquecer."
 
 msgid "Heck Yeah"
-msgstr ""
+msgstr "Mas é claro"
 
 msgid "HELL YEAH"
-msgstr ""
+msgstr "É CLARO"
 
 msgid "Absolutely!"
-msgstr ""
+msgstr "Absolutamente!"
 
 msgid ""
 "Without\n"
 "Hesitation."
 msgstr ""
+"Sem\n"
+"Hesitar."
 
 msgid "I Could"
-msgstr ""
+msgstr "Eu poderia"
 
 msgid "I Should"
-msgstr ""
+msgstr "Eu deveria"
 
 msgid "I Will"
-msgstr ""
+msgstr "Eu vou"
 
 msgid ""
 "If I\n"
 "Have To."
 msgstr ""
+"Se eu\n"
+"tiver que."
 
 msgid "<20>{#p/mettaton}Time's up.{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Acabou o tempo.{^40}{%}"
 
 msgid ""
 "<20>{#p/mettaton}Time's up, darling.\n"
 "I'll take that as a yes~{^40}{%}"
 msgstr ""
+"<20>{#p/mettaton}O tempo acabou, querida.\n"
+"Vou tomar isso como um sim~{^ 40}{%}"
 
 msgid ""
 "<20>{#p/mettaton}Time's up, darling.\n"
 "I'll take that as a yes...{^40}{%}"
 msgstr ""
+"<20>{#p/mettaton}O tempo acabou, querida.\n"
+"Vou tomar isso como um sim ...{^40}{%}"
 
 msgid "<20>{#p/mettaton}Straight to the point, I see.{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Direto ao ponto, eu vejo.{^40}{%}"
 
 msgid ""
 "<20>{#p/mettaton}Great answer!\n"
 "I love it!!!{^40}{%}"
 msgstr ""
+"<20>{#p/mettaton}Ótima resposta! \n"
+"Eu amei!!!{^40}{%}"
 
 msgid "<20>{#p/mettaton}I'd like to see you try.{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Eu gostaria de te ver tentar.{^40}{%}"
 
 msgid "<20>{#p/mettaton}... but I can't keep running away.{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}... mas eu não posso continuar fugindo.{^40}{%}"
 
 msgid "<20>{#p/mettaton}Now THAT's how you answer a question!{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}É ASSIM que se responde a uma pergunta!{^40}{%}"
 
 msgid "<20>{#p/mettaton}So you just lack the courage, hmm?{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Então você só não tem coragem, hmm?{^40}{%}"
 
 msgid "<20>{#p/mettaton}Woah, I wouldn't go that far.{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Woah, eu não iria tão longe.{^40}{%}"
 
 msgid "<20>{#p/mettaton}I like your attitude!{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Eu gostei da sua atitude!{^40}{%}"
 
 msgid "<20>{#p/mettaton}The truth is so refreshing!{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}A verdade é tão refrescante!{^40}{%}"
 
 msgid "<20>{#p/mettaton}Well, that's confidence...{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Olha só, isso é confiança...{^40}{%}"
 
 msgid "<20>{#p/mettaton}Oooh, you're serious about this.{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Oooh, você está falando sério.{^40}{%}"
 
 msgid "<20>{#p/mettaton}Don't lie to yourself, dear...{^40}{%}"
-msgstr ""
+msgstr "<20>{#p/mettaton}Não minta para si mesmo, querido...{^40}{%}"
 
 msgid "Hits: $(x)"
-msgstr ""
+msgstr "Acertos: $(x)"
 
 msgid "Shield: $(x)%"
-msgstr ""
+msgstr "Escudo: $(x)%"
 
 msgid "Impressive"
-msgstr ""
+msgstr "Impressionante"
 
 msgid "Dramatic"
-msgstr ""
+msgstr "Dramático"
 
 msgid "Unimpressive"
-msgstr ""
+msgstr "Inexpressivo"
 
 msgid "Risky"
-msgstr ""
+msgstr "Arriscado "
 
 msgid "Laughable"
-msgstr ""
+msgstr "Risível"
 
 msgid "Crazy"
-msgstr ""
+msgstr "Louco"
 
 msgid "Impressive?"
-msgstr ""
+msgstr "Impressionante?"
 
 msgid "Showstopping"
-msgstr ""
+msgstr "Espetacular"
 
 msgid "Plot Twist"
-msgstr ""
+msgstr "Plot Twist"
 
 msgid "Cute"
-msgstr ""
+msgstr "Fofo"
 
 msgid "Doubling Down"
-msgstr ""
+msgstr "Dobrando Aposta"
 
 msgid "Flirty"
-msgstr ""
+msgstr "Flerte"
 
 msgid "Tripling Down"
-msgstr ""
+msgstr "Triplicando Aposta"
 
 msgid "Romantic"
-msgstr ""
+msgstr "Romântico"
 
 msgid "Flirtatious"
-msgstr ""
+msgstr "Flertador"
 
 msgid "Enthralling"
-msgstr ""
+msgstr "Fascinante"
 
 msgid "Disappointing"
-msgstr ""
+msgstr "Desapontante"
 
 msgid "Embarrassing"
-msgstr ""
+msgstr "Embaraçoso"
 
 msgid "Satisfying"
-msgstr ""
+msgstr "Satisfatório"
 
 msgid "Decadent"
-msgstr ""
+msgstr "Decadente"
 
 msgid "Unsatisfying"
-msgstr ""
+msgstr "Insatisfatório"
 
 msgid "Violent"
-msgstr ""
+msgstr "Violento"
 
 msgid "Accurate"
-msgstr ""
+msgstr "Preciso"
 
 msgid "Deadly"
-msgstr ""
+msgstr "Mortal"
 
 msgid "Explosive"
-msgstr ""
+msgstr "Explosivo"
 
 msgid "Enthusiastic"
-msgstr ""
+msgstr "Entusiasta"
 
 msgid "Acrobatic"
-msgstr ""
+msgstr "Acrobático"
 
 msgid "Even More Violent"
-msgstr ""
+msgstr "Ainda Mais Violento"
 
 msgid "Unremarkable"
-msgstr ""
+msgstr "Normal"
 
 msgid "Stunning"
-msgstr ""
+msgstr "Atordoante"
 
 msgid "Narcotic"
-msgstr ""
+msgstr "Narcótico"
 
 msgid "Spicy"
-msgstr ""
+msgstr "Picante"
 
 msgid "Musical"
-msgstr ""
+msgstr "Musical"
 
 msgid "Extravagant"
-msgstr ""
+msgstr "Extravagante"
 
 msgid "Brazen"
-msgstr ""
+msgstr "Descarado"
 
 msgid "Choreography"
-msgstr ""
+msgstr "Coreográfico"
 
 msgid "Fashionable"
-msgstr ""
+msgstr "Elegante"
 
 msgid "Tactical"
-msgstr ""
+msgstr "Tático"
 
 msgid "Repetitive"
-msgstr ""
+msgstr "Repetitivo"
 
 msgid "Super Repetitive"
-msgstr ""
+msgstr "Super Repetitivo"
 
 msgid "Painful"
-msgstr ""
+msgstr "Doloroso"
 
 msgid "Familiar"
-msgstr ""
+msgstr "Familiar"
 
 msgid "Correct"
-msgstr ""
+msgstr "Correto"
 
 msgid "Incorrect"
-msgstr ""
+msgstr "Incorreto"
 
 msgid "* Cozmo"
-msgstr ""
+msgstr "* Cozmo"
 
 msgid ""
 "<32>{#p/human}* (You brandish the spanner.)\n"
 "* (Cozmo does not mistake it for a magic wand.)"
 msgstr ""
+"<32>{#p/human}* (Você brande a chave.)\n"
+"* (Cozmo não a confunde com uma varinha mágica.)"
 
 msgid "<20>{#p/basic}{~}That magic..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Essa magia..."
 
 msgid "<20>{#p/basic}{~}... I shall not give into its power!"
-msgstr ""
+msgstr "<20>{#p/basic}{~}... Não cederei ao seu poder!"
 
 msgid ""
 "<33>{#p/basic}* Hold on.\n"
 "* I think I know what to do here."
 msgstr ""
+"<33>{#p/basic}* Espera.\n"
+"* Eu acho que sei o que fazer aqui."
 
 msgid "<20>{#p/basic}{~}Er..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Er..."
 
 msgid ""
 "<32>{#p/basic}* Cozmo recognizes the artifact and deems you worthy of its "
 "respect!"
 msgstr ""
+"<32>{#p/basic}* Cozmo reconhece o artefato e te declara como merecedor de "
+"seu respeito!"
 
 msgid ""
 "<20>{#p/basic}{~}Could it be?\n"
 "The pendant of kings and rulers?"
 msgstr ""
+"<20>{#p/basic}{~}Poderia ser?\n"
+"O pingente de reis e governantes?"
 
 msgid "<20>{#p/basic}{~}I shall be in your way no longer!"
-msgstr ""
+msgstr "<20>{#p/basic}{~}Eu devo me retirar do seu caminho agora!"
 
 msgid "<32>{*}{#p/basic}* World of old. {^5}World of magic.{^25}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/basic}* Um mundo antigo. {^5}Um mundo de magia.{^25}{%}"
 
 msgid ""
 "<32>{*}{#p/basic}* But no matter how tragic, we must live on...{^60}{%}"
 msgstr ""
+"<32>{*}{#p/basic}* Mas não importa o quão trágico, devemos continuar "
+"vivendo...{^60}{%}"
 
 msgid "<32>{*}{#p/basic}* And remember.{^40}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/basic}* E lembre-se.{^40}{%}"
 
 msgid "<20>{#p/basic}{~}Memoria mundi!"
-msgstr ""
+msgstr "<20>{#p/basic}{~}Memoria mundi!"
 
 msgid "<20>{#p/basic}{~}You know the words!"
-msgstr ""
+msgstr "<20>{#p/basic}{~}Você sabe as palavras!"
 
 msgid "<32>{#p/basic}* Cozmo is knocked out!"
-msgstr ""
+msgstr "<32>{#p/basic}* Cozmo está nocauteado!"
 
 msgid "<32>{#p/alphys}* Uh oh."
-msgstr ""
+msgstr "<32>{#p/alphys}* Uh oh."
 
 msgid "<32>{#p/story}* Cozmo came through in a flash!"
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo aparece em um piscar de olhos!"
 
 msgid ""
 "<32>{#p/alphys}* Cozmo's what you'd call a \"traditional\" magic user.\n"
 "* Its orbs are its strength..."
 msgstr ""
+"<32>{#p/alphys}* Cozmo é o que você chamaria de um \"tradicional\" usuário "
+"de magia.\n"
+"* Seus orbes são força."
 
 msgid ""
 "<32>{#p/story}* COZMO - ATK 29 DEF 24\n"
 "* This enigmatic ELITE squad member speaks in magic words."
 msgstr ""
+"<32>{#p/story}* COZMO - ATQ 29 DEF 24\n"
+"* Este membro do esquadrão de ELITE fala em palavras mágicas."
 
 msgid ""
 "<32>{#p/story}* COZMO - ATK 29 DEF 24\n"
 "* Not playing with a full deck."
 msgstr ""
+"<32>{#p/story}* COZMO - ATQ 29 DEF 24\n"
+"* Não joga com todas as cartas."
 
 msgid ""
 "<32>{#p/story}* COZMO - ATK 29 DEF 24\n"
 "* A magician, out of tricks..."
 msgstr ""
+"<32>{#p/história}* COZMO - ATQ 29 DEF 24\n"
+"* Um mágico, sem truques..."
 
 msgid ""
 "<32>{#p/story}* COZMO - ATK 29 DEF 24\n"
 "* No magic words could save this old magician now."
 msgstr ""
+"<32>{#p/story}* COZMO - ATQ 29 DEF 24\n"
+"* Nenhuma palavra mágica pode salvar este velho mágico."
 
 msgid ""
 "<32>{#p/story}* COZMO - ATK 29 DEF 24\n"
 "* The power of love is stronger than even the oldest magic."
 msgstr ""
+"<32>{#p/story}* COZMO - ATQ 29 DEF 24\n"
+"* O poder do amor é mais forte do que a mais antiga magia."
 
 msgid "<32>{#p/alphys}* It's Cozmo."
-msgstr ""
+msgstr "<32>{#p/alphys}* É o Cozmo."
 
 msgid "<32>{#p/story}* Cozmo does a mysterious jig."
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo faz um gabarito misterioso."
 
 msgid "<32>{#p/story}* Cozmo flaunts its orbs in a menacing manner."
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo exibe seus orbes de maneira ameaçadora."
 
 msgid "<32>{#p/story}* Cozmo whispers non-terrestrial swear words."
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo sussurra palavrões não terrestres."
 
 msgid "<32>{#p/story}* Cozmo peers at you with piercing eyes."
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo te dá um olhar penetrante."
 
 msgid "<32>{#p/story}* Smells like... magic."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a... magia."
 
 msgid "<20>{#p/basic}{~}Abra cadabra."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Abra cadabra."
 
 msgid "<20>{#p/basic}{~}A la kazam!!"
-msgstr ""
+msgstr "<20>{#p/basic}{~}A la kazam!!"
 
 msgid "<20>{#p/basic}{~}Tinkle tinkle hoy."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Tinkle tinkle hoy."
 
 msgid "<20>{#p/basic}{~}Hocus pocus."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Hocus pocus."
 
 msgid "<21>{#p/basic}{~}Please and thank you."
-msgstr ""
+msgstr "<21>{#p/basic}{~}Por favor e obrigado."
 
 msgid "<32>{#p/human}* (You dance.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você dança.)"
 
 msgid "<32>{#p/basic}* Cozmo's gravity orb grows near..."
-msgstr ""
+msgstr "<32>{#p/basic}* O orbe gravitacional de Cozmo chega mais perto..."
 
 msgid "<20>{#p/basic}{~}Magnum gravitas!!"
-msgstr ""
+msgstr "<20>{#p/basic}{~}Magnum gravitas!!"
 
 msgid "<32>{#p/alphys}* One orb down..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Um orbe caiu..."
 
 msgid "<32>{#p/story}* Cozmo's gravity orb has relented its pull."
-msgstr ""
+msgstr "<32>{#p/story}* O orbe gravitacional de Cozmo cedeu sua atração."
 
 msgid "<32>{#p/basic}* Cozmo's shocker orb powers up..."
-msgstr ""
+msgstr "<32>{#p/basic}* O orbe chocante de Cozmo se fortalece..."
 
 msgid ""
 "<32>{#p/alphys}* Yes, that's it!\n"
 "* Y-you're almost there!"
 msgstr ""
+"<32>{#p/alphys}* Isso, é isso!\n"
+"* V-você tá quase lá!"
 
 msgid "<20>{#p/basic}{~}Vulu voltika!"
-msgstr ""
+msgstr "<20>{#p/basic}{~}Vulu voltika!"
 
 msgid "<20>{#p/basic}{~}It's too much!!!"
-msgstr ""
+msgstr "<20>{#p/basic}{~}Isso é demais!!!"
 
 msgid ""
 "<32>{#p/alphys}* Yes!!!\n"
 "* The orbs are out of power!"
 msgstr ""
+"<32>{#p/alphys}* Isso!!!\n"
+"* Os orbes não tem mais poder!"
 
 msgid "<32>{#p/story}* Cozmo's shocker orb is drained of energy."
-msgstr ""
+msgstr "<32>{#p/story}* Os orbes do Cozmo estão sem energia."
 
 msgid ""
 "<32>{#p/human}* (You dance.)\n"
 "* (Nothing changes.)"
 msgstr ""
+"<32>{#p/human}* (Você dança.)\n"
+"* (Nada muda.)"
 
 msgid "<32>{#p/basic}* Cozmo's confusion increases to an unbearable degree!"
-msgstr ""
+msgstr "<32>{#p/basic}* A confusão de Cozmo aumenta a um grau insuportável!"
 
 msgid "<20>{#p/basic}{~}Saddened..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Tristeza..."
 
 msgid "<20>{#p/basic}{~}Defeated..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Derrotado..."
 
 msgid "<20>{#p/basic}{~}Failed..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Falha..."
 
 msgid "<32>{#p/alphys}* You can probably spare it now."
-msgstr ""
+msgstr "<32>{#p/alphys}* Você pode poupar ele agora."
 
 msgid "<32>{#p/story}* Cozmo is out of options."
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo está sem opções."
 
 msgid "<32>{#p/human}* (You play dead.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você finge de morto.)"
 
 msgid "<32>{#p/basic}* Cozmo's orbs begin to act strangely to each other..."
-msgstr ""
+msgstr "<32>{#p/basic}* Os orbes do Cozmo começam a agir de forma estranha..."
 
 msgid "<32>{#p/alphys}* What the...?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Mas que...?"
 
 msgid "<20>{#p/basic}{~}\\x00*chants of confusion*"
-msgstr ""
+msgstr "<20>{#p/basic}{~}\\x00*cara de confusão*"
 
 msgid "<32>{#p/alphys}* I guess that works...?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Eu acho que funcionou...?"
 
 msgid "<32>{#p/story}* Cozmo's orbs don't know how to handle this."
-msgstr ""
+msgstr "<32>{#p/story}* Os orbes do Cozmo não sabem como lidar com isso."
 
 msgid "<20>{#p/basic}{~}Utter inconfidence."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Desconfiança total."
 
 msgid "<20>{#p/basic}{~}Total vexation."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Vexame total."
 
 msgid "<20>{#p/basic}{~}Radical confusion."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Confusão radical."
 
 msgid ""
 "<32>{#p/human}* (You play dead.)\n"
 "* (Nothing changes.)"
 msgstr ""
+"<32>{#p/human}* (Você finge de morto.)\n"
+"* (Nada acontece.)"
 
 msgid ""
 "<32>{#p/human}* (You flirt with Cozmo.)\n"
 "* (No effect.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta com o Cozmo.)\n"
+"* (Sem efeito.)"
 
 msgid "<32>{#p/alphys}* Yeah, good luck with that..."
-msgstr ""
+msgstr "<32>{#p/alphys}* É, boa sorte com isso..."
 
 msgid ""
 "<32>{#p/human}* (You call on your experience, and invoke a flirtatious "
 "incantation.)"
 msgstr ""
+"<32>{#p/human}* (Você chama na experiência, e invoca uma magia de flerte.)"
 
 msgid "<32>{#p/alphys}* Huh...?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Huh...?"
 
 msgid ""
 "<20>{#p/basic}{~}Ah!\n"
 "A fellow wizard!"
 msgstr ""
+"<20>{#p/basic}{~}Ah!\n"
+"Parceiro mago!"
 
 msgid ""
 "<32>{#p/alphys}* Oh my god.\n"
 "* Do it again!!!"
 msgstr ""
+"<32>{#p/alphys}* Oh meu senhor!\n"
+"* Faz de novo!!!!"
 
 msgid "<32>{#p/story}* Cozmo is on the love train."
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo está no trem do amor."
 
 msgid ""
 "<32>{#p/human}* (You call on your experience, and recite a romantic scribe.)"
 msgstr ""
+"<32>{#p/human}* (Você chama na experiência e recita uma escrita romântica.)"
 
 msgid "<32>{#p/alphys}* It just gets better and better."
-msgstr ""
+msgstr "<32>{#p/alphys}* Só fica cada vez melhor."
 
 msgid ""
 "<20>{#p/basic}{~}Ah!\n"
 "It's amazing!"
 msgstr ""
+"<20>{#p/basic}{~}Ah!\n"
+"É incrível!"
 
 msgid "<32>{#p/alphys}* Wow... I guess that's that."
-msgstr ""
+msgstr "<32>{#p/alphys}* Wow... eu acho que é isso."
 
 msgid "<32>{#p/story}* Cozmo is enchanted."
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo está encantado."
 
 msgid ""
 "<32>{#p/human}* (You flirt.)\n"
 "* (Nothing changes.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta.)\n"
+"* (Nada acontece.)"
 
 msgid "<32>{#p/alphys}* Pfft, don't push your luck."
-msgstr ""
+msgstr "<32>{#p/alphys}* Pfft, não seja tão metido."
 
 msgid "<20>{#p/basic}{~}How lovely..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Que amável..."
 
 msgid "<20>{#p/basic}{~}How sweet..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Que doce..."
 
 msgid "<20>{#p/basic}{~}How thoughtful..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Quão atencioso..."
 
 msgid "<32>{#p/alphys}* Its HP is low..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Seu HP está baixo..."
 
 msgid "<32>{#p/story}* Cozmo is holding on."
-msgstr ""
+msgstr "<32>{#p/story}* Cozmo está tentando se manter de pé."
 
 msgid "* Terrestria"
-msgstr ""
+msgstr "* Terrestria"
 
 msgid "<20>{#p/basic}{~}... this magic... is forbidden..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}... essa magia... é a proibida..."
 
 msgid ""
 "<32>{#p/basic}* Wait...\n"
 "* Let me try something."
 msgstr ""
+"<32>{#p/basic}* Espera...\n"
+"* Deixa eu tentar uma coisa."
 
 msgid ""
 "<20>{#p/basic}{~}...\n"
@@ -18422,58 +18637,71 @@ msgid ""
 "...\n"
 "Hmm?"
 msgstr ""
+"<20>{#p/basic}{~}...\n"
+"...\n"
+"...\n"
+"Hmm?"
 
 msgid "<32>{*}{#p/human}* (...){^30}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/human}* (...){^30}{%}"
 
 msgid ""
 "<32>{*}{#p/human}* (The sound of an ancient song echoes through the "
 "room.){^100}{%}"
 msgstr ""
+"<32>{*}{#p/human}* (O som de uma música ancestral permeia a sala.){^100}{%}"
 
 msgid "<20>{#p/basic}{~}A song of our long- lost world..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Um som do nosso mundo perdido a tanto tempo..."
 
 msgid "<20>{#p/basic}{~}Perhaps there is still beauty in the universe."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Talvez ainda exista beleza no universo..."
 
 msgid ""
 "<32>{#p/basic}* Terrestria recognizes the artifact and deems you worthy of "
 "her trust!"
 msgstr ""
+"<32>{#p/basic}* Terrestria reconhece o artefato e te considera digno da sua "
+"confiança!"
 
 msgid "<20>{#p/basic}{~}An artifact from our long-lost world..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Um artefato do nosso mundo perdido a tanto tempo..."
 
 msgid "<20>{#p/basic}{~}Perhaps its legend will live on in you."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Talvez sua lenda viverá em você."
 
 msgid "<32>{#p/basic}* Terrestria is knocked out!"
-msgstr ""
+msgstr "<32>{#p/basic}* Terrestria está nocauteada!"
 
 msgid "<32>{#p/alphys}* You think you can repeat that last trick?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Você acha que consegue repetir aquele último truque?"
 
 msgid "<32>{#p/alphys}* Not again."
-msgstr ""
+msgstr "<32>{#p/alphys}* De novo não."
 
 msgid "<32>{#p/story}* Terrestria blocks the way!"
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria bloqueia o caminho!"
 
 msgid ""
 "<32>{#p/alphys}* Terrestria is a staff-wielder, and she's REALLY passionate "
 "about the homeworld."
 msgstr ""
+"<32>{#p/alphys}* Terrestria é uma portadora de cajado e é REALMENTE "
+"apaixonada pelo mundo natal."
 
 msgid ""
 "<32>{#p/story}* TERRESTRIA - ATK 36 DEF 36\n"
 "* This heavy ELITE squad member wields the Planetary Staff."
 msgstr ""
+"<32>{#p/história}* TERRA - ATQ 36 DEF 36\n"
+"* Está membro pesada do esquadrão ELITE empunha o Cajado Planetário."
 
 msgid ""
 "<32>{#p/story}* TERRESTRIA - ATK 36 DEF 36\n"
 "* The world is crumbling."
 msgstr ""
+"<32>{#p/história}* TERRA - ATQ 36 DEF 36\n"
+"* O mundo está desmoronando"
 
 msgid ""
 "<32>{#p/story}* TERRESTRIA - ATK 36 DEF 36\n"
