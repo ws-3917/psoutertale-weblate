@@ -1,42 +1,65 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-17 15:02+0000\n"
+"PO-Revision-Date: 2025-03-17 15:02+0000\n"
+"Last-Translator: Mr R <roddypesce@gmail.com>\n"
+"Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
+"1-outlands/it/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Ho sentito che c'è un certo tipo di fluido a "
+"Aerialis..."
 
 msgid "<25>{#f/0}* Used primarily to dampen electricity."
 msgstr ""
+"<25>{#f/0}* Usato principalmente per ridurre il voltaggio di elettricità."
 
 msgid "<25>{#f/1}* If you could carry this fluid, how far would you take it?"
 msgstr ""
+"<25>{#f/1}* Se potessi portare con te questo fluido, quanto lontano lo "
+"porteresti?"
 
 msgid "<25>{#f/1}* Would you carry it all the way to the Citadel?"
-msgstr ""
+msgstr "<25>{#f/1}* Riusciresti a portarlo fino alla Cittadella finale? "
 
 msgid "<25>{#f/1}* Or would you simply dispose of it in a recycle bin?"
-msgstr ""
+msgstr "<25>{#f/1}* O semplicemente lo butterai via dopo un po’?"
 
 msgid "<25>{#f/0}* How disappointing that would be."
-msgstr ""
+msgstr "<25>{#f/0}* Quello sì che sarebbe deludente."
 
 msgid "<25>{#p/toriel}{#f/1}* Perhaps, if I ever become a teacher..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Forse, se riuscissi mai a diventare un insegnante..."
 
 msgid "<25>{#f/0}* I could host a field trip to the Royal Lab."
-msgstr ""
+msgstr "<25>{#f/0}* Potrei organizzare una gita al Laboratorio Reale."
 
 msgid "<25>{#f/0}* With Dr. Alphys's permission, of course."
-msgstr ""
+msgstr "<25>{#f/0}* Con il permesso della Dottoressa Alphys, ovviamente."
 
 msgid ""
 "<25>{#f/1}* All those interesting experiments they must conduct there..."
 msgstr ""
+"<25>{#f/1}* Con tutti quei esperimenti interessanti che si potrebbero "
+"condurre..."
 
 msgid "<25>{#f/0}* It'd be a great learning experience for the children."
-msgstr ""
+msgstr "<25>{#f/0}* Sarebbe di certo molto istruttivo per i bambini."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* Word of your TV premier has spread quickly, little "
