@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-17 02:13+0000\n"
+"PO-Revision-Date: 2025-03-17 08:36+0000\n"
 "Last-Translator: Zenry <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -961,86 +961,96 @@ msgstr ""
 "* Нам лучше идти."
 
 msgid "<25>{#f/20}* Your friends are probably worried sick about you by now."
-msgstr ""
+msgstr "<25>{#f/20}* Наверное, твои друзья очень волнуются за тебя."
 
 msgid ""
 "<25>{#f/16}* I don't know what's going to happen to $(name) after this."
-msgstr ""
+msgstr "<25>{#f/16}* Я не знаю что произойдёт с $(name) после этого."
 
 msgid "<25>{#f/13}* They held on for a chance to see me, but that's..."
-msgstr ""
+msgstr "<25>{#f/13}* Она очень хотела увидеть меня, но это..."
 
 msgid "<25>{#f/15}* ... in the past now."
-msgstr ""
+msgstr "<25>{#f/15}* ... теперь в прошлом."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* I still can't believe they waited all that time "
 "just to see me..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* Я всё ещё не могу поверить, что она ждала меня "
+"столько времени, просто чтобы увидеть меня..."
 
 msgid "<25>{#f/23}* Stubborn idiot."
-msgstr ""
+msgstr "<25>{#f/23}* Упрямый идиот."
 
 msgid ""
 "<25>{#f/17}* ... is what I would have said, if I was still a talking star."
-msgstr ""
+msgstr "<25>{#f/17}* ... это то, чтобы я сказал, будучи Светиком."
 
 msgid "<25>{#f/13}* But... I don't really think they're an idiot."
-msgstr ""
+msgstr "<25>{#f/13}* Но... я не считаю что она идиот."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* $(name)'s not stupid.\n"
 "* And I..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* это не $(name) глупая.\n"
+"* А я..."
 
 msgid "<25>{#f/13}* I agreed with a lot of what they said about themselves..."
-msgstr ""
+msgstr "<25>{#f/13}* Я согласился со многим, что она говорила о себе..."
 
 msgid "<25>{#f/15}* About them not being the kind of friend I wish I had..."
-msgstr ""
+msgstr "<25>{#f/15}* О том, что она не самый лучший друг..."
 
 msgid "<25>{#f/7}* ... but it doesn't mean I wanted them gone!"
-msgstr ""
+msgstr "<25>{#f/7}* ... но это не значит, что я хотел, чтобы она исчезла!"
 
 msgid "<25>{#p/asriel1}{#f/13}* It's not like $(name) has to go away..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Я не хотел чтобы $(name) исчезла..."
 
 msgid ""
 "<25>{#f/17}* If they wanted to, they could stay with us.\n"
 "* I'd like them to."
 msgstr ""
+"<25>{#f/17}* Если бы она хотела, она могла остаться со мной...\n"
+"* Я хотел этого."
 
 msgid "<25>{#f/15}* But I'd understand if they wanted to go."
-msgstr ""
+msgstr "<25>{#f/15}* Но я понимаю почему она ушла."
 
 msgid ""
 "<25>{#f/16}* They \"won\" their game.\n"
 "* They shouldn't want to \"play\" with me anymore."
 msgstr ""
+"<25>{#f/16}* Она «победила» в этой игре.\n"
+"* Ей больше не нужно «играть» со мной."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* ... $(name)...\n"
 "* If you're still there, listening..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* ... $(name).\n"
+"* Если ты всё ещё там, послушай..."
 
 msgid "<25>{#f/15}* I want you to know that I love you."
-msgstr ""
+msgstr "<25>{#f/15}* Я хочу, чтобы ты знала, я всё ещё люблю тебя."
 
 msgid "<25>{#f/23}* You might not have been the greatest person..."
-msgstr ""
+msgstr "<25>{#f/23}* Возможно, ты была не самым лучшим человеком..."
 
 msgid "<25>{#f/22}* But, deep down, you still cared about me."
-msgstr ""
+msgstr "<25>{#f/22}* Но, в глубине души, ты всё ещё мне не безразлична."
 
 msgid "<25>{#p/asriel1}{#f/23}* Ha..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/23}* Ха..."
 
 msgid "<25>{#f/22}* I probably seem like a crazy person right now."
-msgstr ""
+msgstr "<25>{#f/22}* Возможно, я сейчас звучу как сумасшедший."
 
 msgid ""
 "<25>{#f/15}* Obsessing over someone I should have moved on from already..."
-msgstr ""
+msgstr "<25>{#f/15}* Зависимость от кого-то, от кого нужно было уйти..."
 
 msgid ""
 "<26>{#f/17}* ... I guess $(name) and I really are just a \n"
@@ -1050,105 +1060,119 @@ msgstr ""
 msgid ""
 "<25>{#p/asriel1}{#f/13}* One time, $(name) and I were fighting over a bed..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* Однажды мы с $(name) поругались из за кровати..."
 
 msgid ""
 "<25>{#f/10}* 'Cause, both of us wanted the one with the nightstand next to "
 "it."
-msgstr ""
+msgstr "<25>{#f/10}* Мы оба хотели ту, что с тумбочкой рядом."
 
 msgid ""
 "<26>{#f/15}* We were both pushing each other off the side, trying to make "
 "room..."
 msgstr ""
+"<26>{#f/15}* Мы оба толкали друг друга, пытаясь освободить место в комнате..."
 
 msgid "<25>{#f/4}* All that fighting got us so tired, that we fell asleep."
-msgstr ""
+msgstr "<25>{#f/4}* Все эти битвы нас так утомили, что мы заснули."
 
 msgid "<25>{#f/13}* But when we woke up..."
-msgstr ""
+msgstr "<25>{#f/13}* Но когда мы проснулись..."
 
 msgid "<25>{#f/17}* We were lying right next to each other."
-msgstr ""
+msgstr "<25>{#f/17}* Мы лежали совсем рядом друг с другом."
 
 msgid "<25>{#f/13}* I tried to get up, but... they didn't want to let go."
-msgstr ""
+msgstr "<25>{#f/13}* Я пытался встать, но... она не хотела отпускать меня."
 
 msgid "<26>{#f/15}* They just kept saying..."
-msgstr ""
+msgstr "<26>{#f/15}* Она просто продолжала говорить..."
 
 msgid "<25>{#f/15}* \"... warm...\""
-msgstr ""
+msgstr "<25>{#f/15}* «... тёплый.»"
 
 msgid "<25>{#f/15}* \"... fluffy...\""
-msgstr ""
+msgstr "<25>{#f/15}* «... пушистый.»"
 
 msgid "<25>{#f/20}* I would have complained about it, but..."
-msgstr ""
+msgstr "<25>{#f/20}* Я хотел пожаловаться ей на это, но..."
 
 msgid "<25>{#f/17}* ... at that point, I was just happy we weren't fighting."
-msgstr ""
+msgstr "<25>{#f/17}* ... в тот момент я был рад, что мы не ссоримся."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* This other time, $(name) and I were making dinner "
 "for Mom and Dad."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* В другой раз я и $(name) готовили ужин для мамы и "
+"папы."
 
 msgid "<25>{#f/15}* They kept wanting to make it more spicy..."
-msgstr ""
+msgstr "<25>{#f/15}* Она всё время хотела сделать его острым..."
 
 msgid ""
 "<25>{#f/3}* To be honest, if they insisted on that now, I would not "
 "complain."
 msgstr ""
+"<25>{#f/3}* Честно говоря, если бы она настояла на этом сейчас, я бы не стал "
+"жаловаться."
 
 msgid "<25>{#f/20}* I could go for something spicy right about now."
-msgstr ""
+msgstr "<25>{#f/20}* Сейчас я бы не отказался от чего нибудь остренького."
 
 msgid ""
 "<25>{#f/13}* But, back then, I was more into sweets.\n"
 "* Most monsters are."
 msgstr ""
+"<25>{#f/13}* Но тогда я больше любил что нибудь сладкое\n"
+"* Как и большинству монстров."
 
 msgid ""
 "<25>{#f/15}* We ended up playing tug-of-war with the mixing bowl, and..."
 msgstr ""
+"<25>{#f/15}* В итоге мы стали играть в «перетягивание каната» с миской для "
+"смешивания."
 
 msgid "<25>{#f/20}* You can imagine how that turned out."
-msgstr ""
+msgstr "<25>{#f/20}* Думаю, ты понимаешь, что в итоге произошло."
 
 msgid "<25>{#f/17}* Mom made us clean up the mess, of course."
-msgstr ""
+msgstr "<25>{#f/17}* Мама, конечно, заставила нас убирать всё за собой."
 
 msgid ""
 "<25>{#f/13}* Then, Dad took us out to eat, and we both got what we wanted."
 msgstr ""
+"<25>{#f/13}* Потом папа отвёл нас поесть, и мы оба получили то, что хотели."
 
 msgid ""
 "<25>{#p/asriel1}{#f/15}* $(name) and I...\n"
 "* It's like we couldn't agree on anything..."
 msgstr ""
+"<25>{#p/asriel1}{#f/15}* Я и $(name)...\n"
+"* Как будто мы вообще ни о чём не можем договориться."
 
 msgid "<25>{#f/20}* Besides spending time together, that is."
-msgstr ""
+msgstr "<25>{#f/20}* Кроме, конечно, игр."
 
 msgid ""
 "<26>{#f/17}* Despite our differences, $(name) and I really were inseparable."
 msgstr ""
+"<26>{#f/17}* Несмотря на наши разногласия, я и $(name) были не разлей вода."
 
 msgid "<25>{#f/13}* Even death itself couldn't keep us apart forever."
-msgstr ""
+msgstr "<25>{#f/13}* Даже смерть не смогла разлучить нас."
 
 msgid "<25>{#p/asriel1}{#f/17}* ... do you think they're still around, Frisk?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/17}* ... как ты думаешь, Фриск, она всё здесь?"
 
 msgid "<25>{#f/17}* For all you know, they could be watching us right now."
-msgstr ""
+msgstr "<25>{#f/17}* Если она всё ещё может наблюдать за нами..."
 
 msgid "<25>{#f/23}* Wouldn't that be something."
-msgstr ""
+msgstr "<25>{#f/23}* Это было бы нечто."
 
 msgid "<25>{#f/22}* But it's impossible to know for sure."
-msgstr ""
+msgstr "<25>{#f/22}* Но это невозможно узнать точно."
 
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Golly.\n"
@@ -1160,7 +1184,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#f/13}* But... it's not like that at all."
-msgstr ""
+msgstr "<25>{#f/13}* Но... всё совсем не так."
 
 msgid ""
 "<25>{#f/17}* I just can't help but reminisce about someone I used to know."
@@ -1198,7 +1222,7 @@ msgid "<25>{#f/23}* ... it means a lot."
 msgstr "<25>{#f/23}* ... это многое значит."
 
 msgid "<25>{#f/13}* Mom, Dad..."
-msgstr "<25>{#f/13}* Мама, Папа..."
+msgstr "<25>{#f/13}* Мама, папа..."
 
 msgid "<25>{#f/13}* Sans, Papyrus, Undyne, Alphys..."
 msgstr "<25>{#f/13}* Санс, Папирус, Андайн, Альфис..."
@@ -1216,19 +1240,19 @@ msgid "<25>{#f/23}* I'll try to be a better person."
 msgstr "<25>{#f/23}* Я постараюсь стать лучше."
 
 msgid "<25>{#f/22}* And, If I ever screw up..."
-msgstr ""
+msgstr "<25>{#f/22}* И если я когда-нибудь облажаюсь..."
 
 msgid "<25>{#f/13}* ... I know you'll be there to help me pick up the pieces."
-msgstr ""
+msgstr "<25>{#f/13}* ... я знаю, что ты будешь рядом чтобы мне помочь."
 
 msgid "<25>{#p/asriel1}{#f/17}* Ha... $(name)."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/17}* Ха... $(name)."
 
 msgid "<25>{#f/23}* I won't let you down, okay?"
-msgstr ""
+msgstr "<25>{#f/23}* Я не подведу тебя, хорошо?"
 
 msgid "<25>{#f/22}* I'll make the most out of this chance you've given me."
-msgstr ""
+msgstr "<25>{#f/22}* Я не дам этому шансу пропасть попусту."
 
 msgid "<25>{#f/17}* I'll make it count."
 msgstr ""
