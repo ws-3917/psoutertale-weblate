@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-17 08:36+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"PO-Revision-Date: 2025-03-17 14:30+0000\n"
+"Last-Translator: Zenry <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -985,7 +985,7 @@ msgstr "<25>{#f/23}* Упрямый идиот."
 
 msgid ""
 "<25>{#f/17}* ... is what I would have said, if I was still a talking star."
-msgstr "<25>{#f/17}* ... это то, чтобы я сказал, будучи Светиком."
+msgstr "<25>{#f/17}* ... это то, чтобы я сказал в форме Светика."
 
 msgid "<25>{#f/13}* But... I don't really think they're an idiot."
 msgstr "<25>{#f/13}* Но... я не считаю что она идиот."
@@ -994,11 +994,11 @@ msgid ""
 "<25>{#p/asriel1}{#f/13}* $(name)'s not stupid.\n"
 "* And I..."
 msgstr ""
-"<25>{#p/asriel1}{#f/13}* это не $(name) глупая.\n"
+"<25>{#p/asriel1}{#f/13}* Это не $(name) глупая.\n"
 "* А я..."
 
 msgid "<25>{#f/13}* I agreed with a lot of what they said about themselves..."
-msgstr "<25>{#f/13}* Я согласился со многим, что она говорила о себе..."
+msgstr "<25>{#f/13}* Я согласен со многим, что она говорила о себе..."
 
 msgid "<25>{#f/15}* About them not being the kind of friend I wish I had..."
 msgstr "<25>{#f/15}* О том, что она не самый лучший друг..."
@@ -1056,6 +1056,8 @@ msgid ""
 "<26>{#f/17}* ... I guess $(name) and I really are just a \n"
 "  pair of stubborn idiots."
 msgstr ""
+"<26>{#f/17}* ... Похоже, мы с $(name) и вправду \n"
+"  пара упрямых идиотов."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* One time, $(name) and I were fighting over a bed..."
@@ -1124,7 +1126,7 @@ msgid ""
 "<25>{#f/13}* But, back then, I was more into sweets.\n"
 "* Most monsters are."
 msgstr ""
-"<25>{#f/13}* Но тогда я больше любил что нибудь сладкое\n"
+"<25>{#f/13}* Но тогда я больше любил сладкое.\n"
 "* Как и большинству монстров."
 
 msgid ""
@@ -1178,10 +1180,13 @@ msgid ""
 "<25>{#p/asriel1}{#f/17}* Golly.\n"
 "* For someone who'll be staying with you..."
 msgstr ""
+"<25>{#p/asriel1}{#f/17}* Божечки.\n"
+"* Учитывая, что я сейчас с тобой..."
 
 msgid ""
 "<25>{#f/20}* I sure am making it sound like I'd rather be with $(name)."
 msgstr ""
+"<25>{#f/20}* Тебе, наверное, кажется, что я скорее выбрал бы быть с $(name)."
 
 msgid "<25>{#f/13}* But... it's not like that at all."
 msgstr "<25>{#f/13}* Но... всё совсем не так."
@@ -1189,6 +1194,7 @@ msgstr "<25>{#f/13}* Но... всё совсем не так."
 msgid ""
 "<25>{#f/17}* I just can't help but reminisce about someone I used to know."
 msgstr ""
+"<25>{#f/17}* I just can't help but reminisce about someone I used to know."
 
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Frisk...\n"
@@ -1201,7 +1207,7 @@ msgid "<25>{#f/13}* Thanks to you..."
 msgstr "<25>{#f/13}* Благодаря тебе..."
 
 msgid "<25>{#f/23}* I feel like I have a future again."
-msgstr "<25>{#f/23}* Я верю в себя снова."
+msgstr "<25>{#f/23}* Я снова в себя верю."
 
 msgid "<25>{#f/22}* Even though you couldn't forgive me for what I'd done..."
 msgstr ""
@@ -1255,7 +1261,7 @@ msgid "<25>{#f/22}* I'll make the most out of this chance you've given me."
 msgstr "<25>{#f/22}* Я не дам этому шансу пропасть попусту."
 
 msgid "<25>{#f/17}* I'll make it count."
-msgstr ""
+msgstr "<25>{#f/17}* Я так считаю."
 
 msgid "<32>{#p/human}* (You feel the nearby monster presence dwindling.)"
 msgstr ""
@@ -1322,21 +1328,22 @@ msgid "<32>{#p/basic}* ..."
 msgstr "<32>{#p/basic}* ..."
 
 msgid "<32>* This is fine."
-msgstr "<32>* Это норма."
+msgstr "<32>* Это нормально."
 
 msgid "<25>{#p/asriel2}{#f/10}* Something you missed back here?"
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/3}* Ah, the place where it all began."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Это место где всё началось."
 
 msgid ""
 "<25>{#p/asriel2}{#f/4}* We've certainly come along since then, haven't we, "
 "$(name)?"
 msgstr ""
+"<25>{#p/asriel2}{#f/4}* «С тех пор много воды утекло, что думаешь, $(name)?»"
 
 msgid "<25>{#p/asriel2}{#f/3}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* ..."
 
 msgid "<25>{#p/asriel2}{#f/10}* Wasn't there a dummy here before...?"
 msgstr "<25>{#p/asriel2}{#f/10}* Разве тут не был манекен...?"
@@ -1377,315 +1384,358 @@ msgid ""
 "<32>* I wonder what she could have meant...?\n"
 "* She seemed determined."
 msgstr ""
+"<32>* Интересно, что она могла иметь в виду?..\n"
+"* Она выглядела решительной."
 
 msgid "<32>* I saw that goat lady take the taxi to the supermarket earlier."
-msgstr ""
+msgstr "<32>* Я видел как эта леди-коза брала такси для поездки в супермаркет."
 
 msgid ""
 "<32>* She said she was going off to buy milk, but she still hasn't come "
 "back..."
-msgstr ""
+msgstr "<32>* Она сказала, что уходит за молоком, но до сих пор не врнулась..."
 
 msgid "<32>* I hope she's alright."
-msgstr ""
+msgstr "<32>* Я надеюсь с ней всё хорошо."
 
 msgid ""
 "<32>* Sometimes, when I'm alone, I like to ride the taxi to the marketplace."
-msgstr ""
+msgstr "<32>* Иногда, когда я один, я пользуюсь такси для поездок на рынок."
 
 msgid "<32>* It's a quaint little shop, but there's loads of stuff to buy."
 msgstr ""
+"<32>* Это маленький причудливый магазин, но я люблю покупать в нём всякое."
 
 msgid "<32>* Maybe I'll take you there sometime... you'd adore it!"
 msgstr ""
+"<32>* Может быть, когда нибудь я возьму тебя с собой... ты будешь в восторге!"
 
 msgid "<32>* I'm not a fan of how you beat us all up at first."
-msgstr ""
+msgstr "<32>* Мне нравится, как ты в начале нас всех избил."
 
 msgid "<32>* We were all so scared and confused..."
-msgstr ""
+msgstr "<32>* Мы были так напуганы и растеряны..."
 
 msgid "<32>* ... at least you did something good in the end."
-msgstr ""
+msgstr "<32>* ... по крайней мере, в конце концов, ты сделал что-то хорошее."
 
 msgid "<32>* The people you've been beating up aren't happy about it."
-msgstr ""
+msgstr "<32>* Монстры, которых ты избивал, не в восторге от этого."
 
 msgid ""
 "<32>* Just be glad I'm off-duty...\n"
 "* 'Cause otherwise..."
 msgstr ""
+"<32>* Радуйся что я не на службе...\n"
+"* Потому-что иначе..."
 
 msgid "<32>* I'd have your head."
-msgstr ""
+msgstr "<32>* Я бы отрубил твою голову."
 
 msgid "<32>{#p/basic}{#n1}* No... no!"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Нет... нет!"
 
 msgid "<32>* G-get away from me!"
-msgstr ""
+msgstr "<32>* О-отойди от меня!"
 
 msgid ""
 "<25>{#p/asriel2}{#f/5}* ... but that's okay, I know you'll be there on time!"
 msgstr ""
+"<25>{#p/asriel2}{#f/5}* ... но ничего страшного, я знаю, ты придёшь вовремя!"
 
 msgid "<25>{#p/asriel2}{#f/1}* You wouldn't want to let me down, would you?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Ты ведь не хочешь меня подвести, правда?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* Sorry about that, I had to use Toriel's phone to "
 "call someone."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* Извини, мне пришлось воспользоваться телефоном "
+"Ториэль, чтобы позвонить кое-кому."
 
 msgid ""
 "<25>{#p/asriel2}{#f/1}* Don't worry...\n"
 "* You'll find out why soon enough."
 msgstr ""
+"<25>{#p/asriel2}{#f/1}* Но не волнуйся...\n"
+"* Ты скоро узнаешь почему."
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* ... hee hee hee.\n"
 "* I'll be waiting for you up ahead."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* ... ха-ха-ха.\n"
+"* Я буду ждать тебя впереди."
 
 msgid "<25>{#p/asriel2}{#f/4}* I'll be waiting for you up ahead."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Я буду ждать тебя впереди."
 
 msgid "<25>{#p/asriel2}{#f/1}* Ready, $(name)?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* $(name), ты готова?"
 
 msgid "<25>{#f/2}* 'Cause once we move forward, there's no turning back."
-msgstr ""
+msgstr "<25>{#f/2}* Ведь если мы пойдём вперёд, пути назад уже не будет."
 
 msgid "* (Follow Him?)"
-msgstr ""
+msgstr "* (Следовать за ним?)"
 
 msgid "<25>{#p/asriel2}{#f/1}* Ready?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Ну что?"
 
 msgid "<25>{#p/asriel2}{#f/2}* Okay..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/2}* Хорошо..."
 
 msgid "<25>{#f/1}* Let's do this."
-msgstr ""
+msgstr "<25>{#f/1}* Давай приступим к делу."
 
 msgid "<25>{#p/asriel2}{#f/4}* I'll be waiting, then."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Тогда я буду ждать тебя."
 
 msgid ""
 "<32>{#p/human}* (You turn to the first page... you can barely make out the "
 "words.)"
 msgstr ""
+"<32>{#p/human}* (Вы открываете первую страницу... вы едва можете разобрать "
+"слова.)"
 
 msgid ""
 "<32>{#p/asriel1}{#v/2}* \"i am starting a dairy Cuz mommy said it wood be "
 "fun.\""
 msgstr ""
+"<32>{#p/asriel1}{#v/2}* «я начал вести дневник потомучто мама сказала что "
+"это весело»"
 
 msgid "<32>* \"today i lerned how to put seeds in daddys garden\""
-msgstr ""
+msgstr "<32>* «сегодня я узнал как сажать семена в саду папы»"
 
 msgid "<32>* \"he says they will grow up soon But it wil take a long tiem.\""
-msgstr ""
+msgstr "<32>* «он сказал что они скоро вырастут Но это займет много времини»"
 
 msgid "<32>* \"mommy is gona make a snail pie tonite And im exsited\""
-msgstr ""
+msgstr "<32>* «мама сделает торт с улитками и я очень рад»"
 
 msgid "<32>* \"other then that im having a good day.\""
-msgstr ""
+msgstr "<32>* «во всем остальном у меня хороший день»"
 
 msgid "<32>{#p/human}* (You turn to the second page...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы перелистываете на вторую страницу...)"
 
 msgid "<32>{#p/asriel1}{#v/2}* \"azzys dairy, k-504\""
-msgstr ""
+msgstr "<32>{#p/asriel1}{#v/2}* «дневник аззи, к-504»"
 
 msgid ""
 "<32>* \"mommy said i shood rite down the date So folks can no when i rote "
 "it.\""
-msgstr ""
+msgstr "<32>* «мама сказала мне записать дату Чтобы я мог быстрее выучить ее»"
 
 msgid ""
 "<32>* \"my starling flower stil hasnt grown yet but daddy promises it wil be"
 " soon\""
 msgstr ""
+"<32>* «мой звездоцвет еще не вырос но папа пообещал что он скоро вырастет»"
 
 msgid ""
 "<32>* \"i wish there was a window on my room but daddy said there is pluming"
 " here.\""
 msgstr ""
+"<32>* «я хочу чтобы в моей комнате было окно но папа сказал что тут "
+"водопровод»"
 
 msgid "<32>* \"they said they wood put a window in the front room tho\""
-msgstr ""
+msgstr "<32>* «они сказали что окно будет во входной комнате»"
 
 msgid "<32>* \"i am having a nice day today as wel.\""
-msgstr ""
+msgstr "<32>* «сегодня тоже хороший день»"
 
 msgid ""
 "<32>{#p/human}* (You turn to the third page... seems a couple years went "
 "by.)"
 msgstr ""
+"<32>{#p/human}* (Вы перелистываете на третью страницу... Кажется, прошло "
+"несколько лет.)"
 
 msgid "<32>{#p/asriel1}{#v/2}* \"Azzys Diary, K-506.03.\""
-msgstr ""
+msgstr "<32>{#p/asriel1}{#v/2}* «Дневник Аззи, К-506.03.»"
 
 msgid ""
 "<32>* \"My old diary was in a box of toys And i wanted to put more in it.\""
 msgstr ""
+"32>* «Мой старый дневник лежал в коробке с игрушками И я решил что нибудь в "
+"него написать."
 
 msgid "<32>* \"Looks like I only rote the first part of The date last time.\""
-msgstr ""
+msgstr "<32>* «Похоже в прошлый раз я выучил только первую часть даты.»"
 
 msgid "<32>* \"By the way the Starling flower I planted before grew up.\""
-msgstr ""
+msgstr "<32>* «А ещё звездоцвет который я посадил раньше вырос.»"
 
 msgid ""
 "<32>* \"But I got in a fite with a frend The other day and we havent talked "
 "since that.\""
-msgstr ""
+msgstr "<32>* «Но на днях я посорелся с другом и мы больше не разговаривали.»"
 
 msgid "<32>* \"Im worryed about them... i hope theyre not still mad.\""
-msgstr ""
+msgstr "<32>* «Я волнуюсь о нем... надеюсь он не сошёл с ума.»"
 
 msgid "<32>{#p/human}* (You turn to the fourth page...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы перелистываете на четвёртую страницу...)"
 
 msgid "<32>{#p/asriel1}{#v/2}* \"Azzys Diary, K-506.03\""
-msgstr ""
+msgstr "<32>{#p/asriel1}{#v/2}* «Дневник Аззи, К-506.03»"
 
 msgid ""
 "<32>* \"i talked with my frend, they say theyre not upset anymore, so thats "
 "good\""
 msgstr ""
+"<32>* «я поговорил со своим другом, он сказал что больше не будет себя так "
+"вести это очень хорошо»"
 
 msgid ""
 "<32>* \"Mommy and I were watching the sky out side And we saw a shooting "
 "star.\""
-msgstr ""
+msgstr "<32>* «мы с мамой смотрели на небо и смотрели на падающую звезду»"
 
 msgid ""
 "<32>* \"She said to make a wish... I wished that one day a human wood come "
 "down.\""
-msgstr ""
+msgstr "<32>* «она сказала загадать желание... я пожелал увидеть человека»"
 
 msgid "<32>* \"Mommy and Daddy tell so many storys about them...\""
-msgstr ""
+msgstr "<32>* «мама и папа рассказывают о людях так много исторей...»"
 
 msgid "<32>* \"They cant all be bad rite?\""
-msgstr ""
+msgstr "<32>* «не могут же они все быть плохими»"
 
 msgid "<32>{#p/human}* (You turn to the fifth page...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы перелистываете на пятую страницу...)"
 
 msgid "<32>* \"Not alot to say today.\""
-msgstr ""
+msgstr "<32>* «Сегодня мне почти нечего сказать.»"
 
 msgid "<32>* \"Maybe this diary idea is silly.\""
-msgstr ""
+msgstr "<32>* «Может мне вообще не стоило заводить этот глупый дневник.»"
 
 msgid ""
 "<32>* \"Mom saw me riting in it the other day and said she was proud of "
 "me.\""
-msgstr ""
+msgstr "<32>* «Мама увидела как я писал в дневник и похвалила меня.»"
 
 msgid "<32>* \"Is it realy that importint?\""
-msgstr ""
+msgstr "<32>* «Это правда настолько важно?»"
 
 msgid ""
 "<32>{#p/human}* (You turn to the sixth page... seems like a few more years "
 "went by.)"
 msgstr ""
+"<32>{#p/human}* (Вы перелистываете шестую страницу... кажется, прошло ещё "
+"несколько лет.)"
 
 msgid "<32>{#p/asriel1}{#v/1}* \"Azzy's Diary, K-510.08\""
-msgstr ""
+msgstr "<32>{#p/asriel1}{#v/1}* «Дневник Аззи, К-510.08»"
 
 msgid "<32>* \"Seems I cant write in this thing for too long at once.\""
-msgstr ""
+msgstr "<32>* «Похоже, я не могу вести дневник слишком долго за один раз.»"
 
 msgid ""
 "<32>* \"But today I saw the book again and chose to write some more in it.\""
-msgstr ""
+msgstr "<32>* «Но сегодня я опять увидел дневник и решил в него написать.»"
 
 msgid ""
 "<32>* \"The past few years have been good, I went to school and learned lots"
 " of things.\""
 msgstr ""
+"<32>* «Последние несколько лет были хорошими, я ходил в школу и многому "
+"научился.»"
 
 msgid ""
 "<32>* \"Like how to add numbers.\"\n"
 "* \"And how to use a computer.\""
 msgstr ""
+"<32>* «Например, как складывать числа.»\n"
+"* \"Или пользоваться компьютером.\""
 
 msgid "<32>* \"Mom said Im too young to make an online acount tho.\""
 msgstr ""
+"<32>* «Мама сказала, что я ещё слишком мал чтобы заводить онлайн-аккаунт.»"
 
 msgid "<32>* \"Maybe one day when Im older I can have one.\""
-msgstr ""
+msgstr "<32>* «Может быть, однажды, я смогу его создать.»"
 
 msgid "<32>{#p/human}* (You turn to the seventh page...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы перелистываете седьмую страницу...)"
 
 msgid "<32>{#p/asriel1}{#v/1}* \"Azzy's Diary, K-510.08.\""
-msgstr ""
+msgstr "<32>{#p/asriel1}{#v/1}* «Дневник Аззи, К-510.08.08.»"
 
 msgid ""
 "<32>* \"That smart guy visited again today. He said he had a bad dream about"
 " a human.\""
 msgstr ""
+"<32>* «Снова приходил этот умник. Он сказал что ему приснился плохой сон о "
+"человеке.»"
 
 msgid ""
 "<32>* \"Oh, did I mention him? He is the science person dad talks to alot.\""
 msgstr ""
+"<32>* «О, я его не упоминал? Это учёный, с которым папа часто разговаривает.»"
 
 msgid "<32>* \"He invented alot of things that we use now.\""
-msgstr ""
+msgstr "<32>* «Он изобрёл множество вещей, которыми мы пользуемся сейчас.»"
 
 msgid "<32>* \"Like the replicaters and fabricaters and gravity plate things.\""
 msgstr ""
 
 msgid "<32>* \"But he looked at me really odd Like I was so scary.\""
-msgstr ""
+msgstr "<32>* «Но он смотрел на меня, как на кого-то страшного»."
 
 msgid "<32>* \"Did I do somthing wrong?\""
-msgstr ""
+msgstr "<32>* «Чем я ему не понравился?»"
 
 msgid "<32>{#p/human}* (You turn to the eighth page...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы перелистываете на восьмую страницу...)"
 
 msgid "<32>* \"A new star appeared in the sky today.\""
-msgstr ""
+msgstr "<32>* «Сегодня на небе появилась новая звезда»."
 
 msgid "<32>* \"A really brite one.\""
 msgstr ""
 
 msgid "<32>* \"I wonder why more stars dont appear like that all the time.\""
-msgstr ""
+msgstr "<32>* «Интересно, почему звёзды не сияют так всё время»."
 
 msgid "<32>* \"Also we are gonna move to the new citadel when its made.\""
 msgstr ""
+"<32>* «Ещё мы собираемся переехать в новую Цитадель, когда она будет "
+"построена»."
 
 msgid "<32>* \"I saw the blue prints of it, it looks amazing so far!\""
-msgstr ""
+msgstr "<32>* «Я видел её синие очертания... это так красиво!»"
 
 msgid "<32>* \"It will be alot better than living in the factory too.\""
-msgstr ""
+msgstr "<32>* «Это будет намного лучше, чем жить на фабрике»."
 
 msgid ""
 "<32>{#p/human}* (You turn to the ninth page... seems a day was skipped.)"
 msgstr ""
+"<32>{#p/human}* (Вы перелистываете на девятую страницу... кажется, один день "
+"был пропущен.)"
 
 msgid "<32>{#p/asriel1}{#v/1}* \"Azzy's Diary, K-510.09.\""
-msgstr ""
+msgstr "<32>{#p/asriel1}{#v/1}* «Дневник Аззи, K-510.09»."
 
 msgid ""
 "<32>* \"I met a real human yesterday. They crashed in the trash area near "
 "our house.\""
 msgstr ""
+"<32>* «Вчера я встретил настоящего человека. Она разбилась на мусорке рядом "
+"с домом»."
 
 msgid "<32>* \"I helped them out of the reck and they said thanks.\""
 msgstr ""
+"<32>* \"Я помог ей выбраться из-под обломков, и она поблагодарила меня.\""
 
 msgid "<32>* \"I didnt think it would ever happen, but here they are.\""
-msgstr ""
+msgstr "<32>* \"Я не думал что это когда-либо случится, но вот она здесь\"."
 
 msgid ""
 "<32>* \"And they are actually he{#p/basic}f{#p/asriel1}{#v/1}h{#p/basic}sj "
@@ -1696,67 +1746,73 @@ msgstr ""
 msgid ""
 "<32>* \"Okay so Im actually hiding under the covers so $(name) cant mess up "
 "what Im writing.\""
-msgstr ""
+msgstr "<32>* «Так, я прячусь от $(name), чтобы она не испортила мой текст»."
 
 msgid "<32>* \"They can be a bit mean some times, but thats ok.\""
-msgstr ""
+msgstr "<32>* «Иногда она бывает грубой, но это нормально»."
 
 msgid ""
 "<32>* \"Mom did that battle thing with them and there heart was red and "
 "upside down.\""
 msgstr ""
+"<32>* \"Мама провела эту битву с ней, и сердце было красным и вверх ногами\"."
 
 msgid "<32>* \"Its really nice to have someone else to talk to everyday.\""
-msgstr ""
+msgstr "<32>* «Очень хорошо, когда каждый день есть с кем поговорить»."
 
 msgid "<32>{#p/human}* (You turn to the tenth page...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы перелистываете на десятую страницу...)"
 
 msgid "<32>* \"Mom said shes gonna adopt $(name) into the family.\""
-msgstr ""
+msgstr "<32>* «Мама сказала, что собирается удочерить $(name) в нашу семью\"."
 
 msgid ""
 "<32>* \"I dont know what adopt means but she said I will be like their "
 "brother.\""
 msgstr ""
+"<32>* «Я незнаю что значит „удочерение“, но она сказала, что она будет мне "
+"как сестра»."
 
 msgid "<32>* \"But thats good Cuz then I can spend more time with them.\""
 msgstr ""
+"<32>* «Но это хорошо, потому что я смогу больше времени проводить с ней»"
 
 msgid "<32>* \"Me and $(name) are gonna do everything together!\""
-msgstr ""
+msgstr "<32>* «Я м $(name) будем всё делать вместе!»"
 
 msgid "<32>* \"Also they said sorry for what happend in the last diary page.\""
-msgstr ""
+msgstr "<32>* «Также она извинилась за то, что произошло на прошлой странице»."
 
 msgid "<32>* \"I didnt tell them yet but, I forgive them.\""
-msgstr ""
+msgstr "<32>* «Я ещё не сказал ей об этом, но я прощаю её.»"
 
 msgid "<32>{#p/human}* (You turn to the eleventh page.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы перелистываете на одиннадцатую страницу.)"
 
 msgid "<32>{#p/asriel1}* \"Asriel's Diary, K-515.09\""
-msgstr ""
+msgstr "<32>{#p/asriel1}* «Дневник Азриэля, К-515.09»"
 
 msgid "<32>* \"$(name) said it's time for the plan.\""
-msgstr ""
+msgstr "<32>* «$(name) сказала мне, что настало время для плана»."
 
 msgid "<32>* \"I was scared, but they said I could do it.\""
-msgstr ""
+msgstr "<32>* «Мне страшно, но она сказала, что я смогу это сделать»."
 
 msgid ""
 "<32>* \"After this entry, I'll wait for them to eat the poisoned pie we "
 "made...\""
 msgstr ""
+"<32>* «После этой записи я буду ждать, пока она не съест испечённый нами "
+"отравленный пирог...»"
 
 msgid "<32>* \"And then we can save everyone together.\""
-msgstr ""
+msgstr "<32>* «И тогда мы сможем спасти всех»."
 
 msgid "<32>* \"If something goes wrong, and you're reading this later...\""
-msgstr ""
+msgstr "<32>* «Если что-то пойдёт не так, и вы будете читать это позже...»"
 
 msgid "<32>* \"I want you to know that you're the best, $(name).\""
-msgstr ""
+msgstr "<32>* «$(name), я хочу, чтобы ты знала, ты самая лучшая»."
 
 msgid "<32>{#p/human}* (It sounds like someone is crying...)"
 msgstr ""
