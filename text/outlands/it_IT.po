@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-17 15:02+0000\n"
-"PO-Revision-Date: 2025-03-17 15:02+0000\n"
+"PO-Revision-Date: 2025-03-17 17:16+0000\n"
 "Last-Translator: Mr R <roddypesce@gmail.com>\n"
 "Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/it/>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.10.2\n"
 
 #
-
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -65,50 +63,67 @@ msgid ""
 "<25>{#p/toriel}{#f/0}* Word of your TV premier has spread quickly, little "
 "one!"
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Piccolo mio, Ho sentito che hai fatto il tuo primo "
+"debutto in TV!"
 
 msgid "<25>{#f/0}* Though, I have not seen it, due to my lack of a TV."
 msgstr ""
+"<25>{#f/0}* Anche se devo ammettere che non ti ho ancora visto, visto che "
+"non ho una TV."
 
 msgid ""
 "<25>{#f/1}* When I heard about it, however, I must admit I was surprised..."
 msgstr ""
+"<25>{#f/1}* Però devo ammettere che, quando l'ho saputo, sono rimasta di "
+"sasso... "
 
 msgid "<25>{#f/2}* How did you not miss even a SINGLE time?"
 msgstr ""
+"<25>{#f/2}* Come hai fatto a non mancare neanche una SINGOLA nota o posa di "
+"ballo?"
 
 msgid "<25>{#f/6}* I did not know you had such \"fabulous\" moves."
-msgstr ""
+msgstr "<25>{#f/6}* Non credevo avessi movenze così \"ganze\"."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* Hmm...\n"
 "* The royal guards in Aerialis..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Hmm...\n"
+"* Le Guardie Reali di Aerialis..."
 
 msgid "<25>{#f/0}* Apparently, their favorite food is... salmon."
-msgstr ""
+msgstr "<25>{#f/0}* Sembrerebbe che il loro cibo preferito sia...il salmone."
 
 msgid "<25>{#f/1}* Or... was it ice cream?"
-msgstr ""
+msgstr "<25>{#f/1}* O forse era...il gelato?"
 
 msgid "<25>{#f/2}* Wait, no, I think it was pizza!"
-msgstr ""
+msgstr "<25>{#f/2}* No, aspetta...credo fosse la pizza!"
 
 msgid ""
 "<25>{#f/0}* All of which would be impossible without the humble replicator."
 msgstr ""
+"<25>{#f/0}* Tutti cibi che sarebbe impossibile avere senza l'umile "
+"replicatore."
 
 msgid "<25>{#f/1}* And... are those not strange foods for such new recruits?"
 msgstr ""
+"<25>{#f/1}* Certo che...sbaglio o questi sono gusti molto strani per delle "
+"reclute della Guardia Reale?"
 
 msgid "<25>{#p/toriel}{#f/0}* I hear you have appeared on TV, little one."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/0}* Piccolo mio, Ho sentito che sei andato in TV."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* I hear you have appeared on TV again, little one."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Piccolo mio, Ho sentito che sei andato di nuovo in TV."
 
 msgid "<25>{#f/1}* I also hear you did something shocking..."
 msgstr ""
+"<25>{#f/1}* Ho anche sentito che hai fatto qualcosa di incredibilmente "
+"irresponsabile..."
 
 msgid ""
 "<25>{#f/2}* And altered crafting ingredients to create plastic explosive!"
