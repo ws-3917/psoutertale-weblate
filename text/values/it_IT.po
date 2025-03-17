@@ -1,15 +1,28 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-18 00:13+0000\n"
+"PO-Revision-Date: 2025-03-18 00:13+0000\n"
+"Last-Translator: Mr R <roddypesce@gmail.com>\n"
+"Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
+"7-values/it/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+#
 
 msgid "en_US"
 msgstr "it_IT"
 
-msgid ""
-msgstr ""
 
 msgid "You must choose a name."
-msgstr "Dovresti scegliere un nome."
+msgstr "Devi scegliere un nome."
 
 msgid "No?"
 msgstr "No?"
@@ -45,10 +58,10 @@ msgid ""
 "The story is yours, no matter what you feel."
 msgstr ""
 "Coraggio.\n"
-"La storia e tua, non importa come ti senti."
+"La storia è tua, non importa cosa credi."
 
 msgid "May tranquility come upon you as you embark on your journey."
-msgstr "Possa la tranquillità salire mentre intraprendi il tuo viaggio."
+msgstr "Possa la tranquillità invaderti mentre intraprendi il tuo viaggio."
 
 msgid ""
 "Take heart.\n"
@@ -171,7 +184,7 @@ msgid ""
 "(They're powerless to stop you.)"
 msgstr ""
 "............\n"
-"(Non ha il potere di fermarti.)"
+"(Sembra che non riesca a dirti nulla.)"
 
 msgid ""
 "............\n"
@@ -193,7 +206,7 @@ msgid "I think you should think of your own name, my child."
 msgstr "Credo che dovresti scegliere un nome tutto tuo, tesoro mio."
 
 msgid "Really..."
-msgstr "Davvero..."
+msgstr "Seriamente..."
 
 msgid "Nice try, idiot."
 msgstr "Bel tentativo, idiota."
@@ -223,7 +236,7 @@ msgid "(Pant pant)"
 msgstr "(Pant pant)"
 
 msgid "I'LL ALLOW IT!!!!"
-msgstr "IO LO CONCEDO!!!!"
+msgstr "TE LO CONCEDO!!!!"
 
 msgid "ok."
 msgstr "ok."
@@ -238,7 +251,7 @@ msgid "A pleasing nomenclature, no?"
 msgstr "Un nome gradevole, no?"
 
 msgid "I am not amused."
-msgstr "Non sono felice."
+msgstr "Non ne sono felice."
 
 msgid "Roar."
 msgstr "Roar."
@@ -257,7 +270,7 @@ msgid ""
 "You must have great taste, dearie~"
 msgstr ""
 "Ahuhuhu~\n"
-"Devi avere un ottimo gusto, tesoro~"
+"Devi avere un ottimo gusto, tesorino~"
 
 msgid ""
 "Hey!\n"
@@ -267,7 +280,7 @@ msgstr ""
 "Solo Skrubby può chiamarmi così!"
 
 msgid "Sorry, but you're a letter shy."
-msgstr "Scusa, ma sei timido."
+msgstr "Mi dispiace, ma ti manca una lettera."
 
 msgid "...?"
 msgstr "...?"
@@ -297,10 +310,10 @@ msgid "Like, OK I guess."
 msgstr "Tipo, OK credo"
 
 msgid "You like my name, little buddy?"
-msgstr "Ti piace il mio nome, piccoletto"
+msgstr "Ti piace il mio nome, piccoletto?"
 
 msgid "Bratty! Bratty! That's MY name!"
-msgstr "Bratty! Bratty! Quello e il MIO nome!"
+msgstr "Bratty! Bratty! Quello è il MIO nome!"
 
 msgid "A fellow wizard?"
 msgstr "Un compagno mago?"
@@ -309,7 +322,7 @@ msgid "Slick choice, homeslice."
 msgstr "Scelta astuta, bellezza."
 
 msgid "Now you're just being rude, darling."
-msgstr "Ora sei semplicemente scortese, tesoro."
+msgstr "Ora stai semplicemente essendo scortese, tesoro."
 
 msgid "OOOOH!!! ARE YOU PROMOTING MY BRAND?"
 msgstr "OOOOH!!! STAI PROMUOVENDO IL MIO MARCHIO?"
@@ -318,13 +331,13 @@ msgid "Is this name correct? ;)"
 msgstr "Questo nome è corretto? ;)"
 
 msgid "Hot, but not hot enough."
-msgstr "Caldo, ma non abasstanza."
+msgstr "Caldo, ma non quanto me."
 
 msgid "You don't have to do that..."
-msgstr "Non devi farlo..."
+msgstr "Non devi farlo per forza..."
 
 msgid "You KNEW!?"
-msgstr "Lo SAI!?"
+msgstr "Lo SAPEVI!?"
 
 msgid "Respect my AUTHORITY!"
 msgstr "Rispetta la mia AUTORITÀ"
