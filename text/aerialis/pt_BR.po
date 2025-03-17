@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-12 16:16+0000\n"
-"PO-Revision-Date: 2025-03-15 01:34+0000\n"
+"PO-Revision-Date: 2025-03-17 02:11+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
@@ -15561,348 +15561,392 @@ msgid ""
 "<20>{#p/alphys}Okay, okay!\n"
 "I-I'll do it!"
 msgstr ""
+"<20>{#p/alphys}Okay, okay!\n"
+"E-EU faço isso!"
 
 msgid "<20>{#p/alphys}Uh, sure!"
-msgstr ""
+msgstr "<20>{#p/alphys}Uh, claro!"
 
 msgid "<20>{#p/alphys}... hm?"
-msgstr ""
+msgstr "<20>{#p/alphys}... hm?"
 
 msgid "<20>{#p/alphys}F-forgive me..."
-msgstr ""
+msgstr "<20>{#p/alphys}Me d-desculpa..."
 
 msgid "<20>{#p/alphys}O-oh yeah, that."
-msgstr ""
+msgstr "<20>{#p/alphys}O-oh certo, isso."
 
 msgid "<20>{*}{#p/mettaton}MUCH BETTER.{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#p/mettaton}BEM MELHOR.{^30}{%}"
 
 msgid ""
 "<20>{*}{#p/alphys}N-now try pressing\n"
 "[Z] to teleport.{^30}{%}"
 msgstr ""
+"<20>{*}{#p/alphys}A-agora tente apertar\n"
+"[Z] para teleportar.{^30}{%}"
 
 msgid ""
 "<20>{*}{#p/alphys}So... y-you move around, then you press [Z] to "
 "teleport!{^30}{%}"
 msgstr ""
+"<20>{*}{#p/alphys}Então... v-você se move e aperta [Z] quando quiser "
+"teleportar!{^30}{%}"
 
 msgid "<20>{*}{#p/alphys}Move around, then press [Z] to teleport.{^30}{%}"
 msgstr ""
+"<20>{*}{#p/alphys}Se mova ao redor e aperte [Z] para teleportar.{^30}{%}"
 
 msgid "<20>{*}{#p/mettaton}ALPHYS, ALPHYS, ALPHYS...{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#p/mettaton}ALPHYS, ALPHYS, ALPHYS...{^30}{%}"
 
 msgid "<20>{*}WHAT HAVE I TOLD YOU ABOUT HANDING OUT HINTS?{^30}{%}"
-msgstr ""
+msgstr "<20>{*}O QUE EU JÁ TE DISSE SOBRE DAR DICAS?{^30}{%}"
 
 msgid "<20>{*}...{^30}{%}"
-msgstr ""
+msgstr "<20>{*}...{^30}{%}"
 
 msgid "<20>{*}ANYWAY...{^30}{%}"
-msgstr ""
+msgstr "<20>{*}BOM...{^30}{%}"
 
 msgid "<20>{*}LET'S GET THIS SHOW ON THE ROAD!{^30}{%}"
-msgstr ""
+msgstr "<20>{*}VAMOS COMEÇAR ESSE SHOW!{^30}{%}"
 
 msgid "<20>{#p/mettaton}DON'T MISS A SINGLE NOTE, MY DEAR!"
-msgstr ""
+msgstr "<20>{#p/mettaton}NÃO PERCA UM ÚNICO MOVIMENTO, QUERIDO!"
 
 msgid "<20>{#p/mettaton}LET'S KICK THINGS UP A NOTCH."
-msgstr ""
+msgstr "<20>{#p/mettaton}VAMOS DAR UMA BELA MOVIMENTADA."
 
 msgid "<20>{#p/mettaton}I MUST SAY, YOU'RE HANDLING THIS LIKE A TRUE ICON."
 msgstr ""
+"<20>{#p/mettaton}EU DEVO DIZER, VOCÊ ESTÁ LIDANDO COM ISSO COMO UM "
+"VERDADEIRO ÍCONE."
 
 msgid "<20>BUT, CAN YOU GO FIN-TO-FIN WITH OUR SPECIAL GUEST?"
-msgstr ""
+msgstr "<20>MAS VOCÊ CONSEGUE BATER DE FRENTE COM NOSSO CONVIDADO ESPECIAL?"
 
 msgid ""
 "<20>{#p/mettaton}I MUST SAY, YOUR PERFORMANCE THUS FAR HASN'T BEEN THE BEST."
 msgstr ""
+"<20>{#p/mettaton}EU DEVO DIZER, SUA PERFORMANCE NÃO FOI TÃO BOA ATÉ O "
+"MOMENTO."
 
 msgid "<20>PERHAPS WHAT YOU NEED IS A LITTLE COMPETITION!"
-msgstr ""
+msgstr "<20>TALVEZ VOCÊ SÓ PRECISE DE UM POUCO DE COMPETIÇÃO!"
 
 msgid "<20>{#p/mettaton}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}..."
 
 msgid "<20>WHERE IS..."
-msgstr ""
+msgstr "<20>ONDE ESTÁ..."
 
 msgid "<20>{#p/basic}She's dead."
-msgstr ""
+msgstr "<20>{#p/basic}Ela tá morta."
 
 msgid ""
 "<20>{#p/mettaton}OH.\n"
 "THAT'S A SHAME."
 msgstr ""
+"<20>{#p/mettaton}OH.\n"
+"ISSO É UM TRAGÉDIA."
 
 msgid ""
 "<20>{#p/mettaton}DEAR AUDIENCE... LET US OFFER A MOMENT OF SILENCE FOR "
 "SHYREN."
 msgstr ""
+"<20>{#p/mettaton}QUERIDA AUDIÊNCIA... DAREMOS UM MOMENTO DE SILÊNCIO A "
+"SHYREN."
 
 msgid "<20>{#p/mettaton}OKAY, MOMENT OVER."
-msgstr ""
+msgstr "<20>{#p/mettaton}TÁ BOM, ACABOU O MOMENTO."
 
 msgid "<20>{#p/mettaton}LUCKY YOU, $(moniker3u)!"
-msgstr ""
+msgstr "<20>{#p/mettaton}SORTE A SUA, $(moniker3u)!"
 
 msgid "<20>{#p/mettaton}LUCKY YOU!"
-msgstr ""
+msgstr "<20>{#p/mettaton}SORTE A SUA!"
 
 msgid "<20>I GUESS YOU GET TO SKIP THIS PART."
-msgstr ""
+msgstr "<20>ACHO QUE VAMOS TER QUE PULAR ESSA PARTE."
 
 msgid "<20>IT'S A REAL SHAME WE CAN'T KEEP SINGING, BUT HEY..."
-msgstr ""
+msgstr "<20>UMA LASTIMA NÃO PODERMOS CONTINUAR A CANTAR, MAS EI..."
 
 msgid "<20>WHEN ONE ACT ENDS, ANOTHER MUST BEGIN."
-msgstr ""
+msgstr "<20>QUANDO UM ATO ACABA, OUTRO DEVE COMEÇAR."
 
 msgid "<20>... LET'S DANCE!"
-msgstr ""
+msgstr "<20>... VAMOS DANÇAR!"
 
 msgid "<20>{#p/mettaton}GIVE IT ALL YOU'VE GOT, SHYREN!"
-msgstr ""
+msgstr "<20>{#p/mettaton}ENTREGUE TUDO QUE TEM, SHYREN!"
 
 msgid "<20>{#p/mettaton}SHYREN...?"
-msgstr ""
+msgstr "<20>{#p/mettaton}SHYREN...?"
 
 msgid "<20>{#p/mettaton}ENCHANTING, EH?"
-msgstr ""
+msgstr "<20>{#p/mettaton}ENCANTADOR, EH?"
 
 msgid ""
 "<20>{#p/mettaton}DON'T WORRY.\n"
 "SHYREN'S VOICE DOES THAT TO EVERYONE."
 msgstr ""
+"<20>{#p/mettaton}NÃO SE PREOCUPE, A VOZ DA SHYREN FAZ ISSO COM TODO MUNDO."
 
 msgid "<20>{#p/mettaton}... MAYBE SHYREN'S JUST NOT FEELING IT TODAY."
-msgstr ""
+msgstr "<20>{#p/mettaton}...TALVEZ SHYREN NÃO ESTIVESSE NO RITMO HOJE."
 
 msgid "<20>HOW TRAGIC."
-msgstr ""
+msgstr "<20>QUE TRÁGICO."
 
 msgid "<20>BY THE WAY, DID I MENTION YOUR VOICE IS GETTING BORING?"
-msgstr ""
+msgstr "<20>ALIÁS, EU MENCIONEI QUE SUA VOZ ESTÁ FICANDO ENJOATIVA?"
 
 msgid "<20>{#p/mettaton}OH, SHYREN IS JUST LOVELY, ISN'T SHE?"
-msgstr ""
+msgstr "<20>{#p/mettaton}OH, SHYREN É TÃO AMÁVEL, NÃO É MESMO?"
 
 msgid "<20>IF I HAD MY WAY WITH HER, SHE'D BE A SUPERSTAR ALREADY..."
-msgstr ""
+msgstr "<20>SE EU CONSEGUISSE ENCANTA-LA, ELA JÁ SERIA UMA SUPER ESTRELA..."
 
 msgid "<20>OH WELL. BY THE WAY, DID I MENTION YOUR VOICE IS GETTING BORING?"
-msgstr ""
+msgstr "<20>OH BEM. ALIÁS, EU MENCIONEI QUE SUA VOZ ESTÁ FICANDO ENTEDIANTE?"
 
 msgid "<20>BUT DON'T WORRY, THE SOLUTION HERE IS OBVIOUS."
-msgstr ""
+msgstr "<20>MAS NÃO SE PREOCUPE, A SOLUÇÃO AQUI É ÓBVIA."
 
 msgid "<20>AS ANY GOOD SHOW-BOT KNOWS, YOU CAN'T HAVE THE SONG..."
-msgstr ""
+msgstr "<20>COMO QUALQUER BOM SHOW-BOT SABE, VOCÊ NÃO PODE TER A MÚSICA..."
 
 msgid "<20>... WITHOUT THE DANCE!"
-msgstr ""
+msgstr "<20>... SEM A DANÇA!"
 
 msgid "<20>{#p/mettaton}BRING IT ON!"
-msgstr ""
+msgstr "<20>{#p/mettaton}VEM COM TUDO!"
 
 msgid "<20>{#p/mettaton}DO YOU HEAR THAT, DARLING...?"
-msgstr ""
+msgstr "<20>{#p/mettaton}VOCÊ OUVIU ISSO, QUERIDO...?"
 
 msgid "<20>... THAT'S RIGHT."
-msgstr ""
+msgstr "<20>... EXATAMENTE."
 
 msgid "<20>THE VIEWERS ARE STARVING FOR SOME DRAMA!"
-msgstr ""
+msgstr "<20>OS ESPECTADORES ESTÃO SEDENTOS POR DRAMA!"
 
 msgid "<20>QUEUE THE OBLIGATORY ANGRY MANNEQUIN."
-msgstr ""
+msgstr "<20>E ISSO É OBVIAMENTE UM MANEQUIM BRAVO OBRIGATÓRIO."
 
 msgid "<20>{#p/basic}You again."
-msgstr ""
+msgstr "<20>{#p/basic}Você de novo."
 
 msgid "<20>{#p/basic}You again!"
-msgstr ""
+msgstr "<20>{#p/basic}Você de novo!"
 
 msgid "<20>{#p/basic}YOU AGAIN!!!"
-msgstr ""
+msgstr "<20>{#p/basic}VOCÊ DE NOVO!!!"
 
 msgid "<20>{#p/mettaton}OH, DO YOU TWO KNOW EACH OTHER?"
-msgstr ""
+msgstr "<20>{#p/mettaton}OH, VOCÊS DOIS SE CONHECEM?"
 
 msgid ""
 "<20>{#p/basic}...\n"
 "Maybe.\n"
 "Maybe not."
 msgstr ""
+"<20>{#p/basic}...\n"
+"Talvez.\n"
+"Talvez não."
 
 msgid "<20>{#p/basic}LIKE YOU'D CARE!"
-msgstr ""
+msgstr "<20>{#p/basic}COMO SE VOCÊ LIGASSE!"
 
 msgid "<20>{#p/mettaton}WOAH, NO NEED TO GET HOSTILE..."
-msgstr ""
+msgstr "<20>{#p/mettaton}WOAH, NÃO PRECISA FICAR HOSTIL..."
 
 msgid "<20>{#p/mettaton}THIS IS BUT A HUMBLE TALENT SHOW!"
-msgstr ""
+msgstr "<20>{#p/mettaton}ESTE É UM SHOW DE TALENTOS HUMILDE!"
 
 msgid ""
 "<20>{#p/basic}And this is the second time in two weeks that you've had me "
 "on!"
-msgstr ""
+msgstr "<20>{#p/basic}E essa é a segunda vez que você me chama essa semana!"
 
 msgid "<20>{#p/basic}Do you have a crush on me or something!?"
-msgstr ""
+msgstr "<20>{#p/basic}Você tem um crush em mim ou sei lá?"
 
 msgid ""
 "<20>{#p/mettaton}...\n"
 "DON'T BE RIDICULOUS."
 msgstr ""
+"<20>{#p/mettaton}...\n"
+"NÃO SEJA RIDÍCULO."
 
 msgid ""
 "<20>{#p/mettaton}I'VE ONLY BROUGHT YOU ON BECAUSE YOU'RE A MAGNET FOR DRAMA!"
-msgstr ""
+msgstr "<20>{#p/mettatonEU SÓ TE CHAMEI PORQUE VOCÊ É UMA MAQUINA DO DRAMA!"
 
 msgid "<20>{#p/basic}(That's what my cousin used to say...)"
-msgstr ""
+msgstr "<20>{#p/basic}(Isso é o que meu primo costumava dizer...)"
 
 msgid ""
 "<20>{#p/basic}Oh, hey.\n"
 "Good to see you!"
 msgstr ""
+"<20>{#p/basic}Oh, ei.\n"
+"Bom te ver!"
 
 msgid "<20>{#p/mettaton}THAT'S IT...?"
-msgstr ""
+msgstr "<20>{#p/mettaton}É SÓ ISSO...?"
 
 msgid "<20>{#p/mettaton}NOTHING ELSE TO SAY...?"
-msgstr ""
+msgstr "<20>{#p/mettaton}MAS ALGUMA COISA PRA DIZER...?"
 
 msgid "<20>{#p/basic}You know, Mettaton, I'm not ALWAYS mad at everyone."
-msgstr ""
+msgstr "<20>{#p/basic}Sabe Mettaton, eu nem sempre estou com raiva das pessoas."
 
 msgid ""
 "<20>{#p/basic}... didn't I tell you this when you brought me on two weeks "
 "ago?"
 msgstr ""
+"<20>{#p/basic}... eu já não te disse isso quando vim aqui duas semanas atrás?"
 
 msgid ""
 "<20>{#p/mettaton}OH.\n"
 "THAT'S NICE."
 msgstr ""
+"<20>{#p/mettaton}OH.\n"
+"QUE LEGAL."
 
 msgid "<20>{#p/mettaton}BUT WE DON'T HAVE TIME FOR YOUR LOVEY-DOVEY NONSENSE."
 msgstr ""
+"<20>{#p/mettaton}MAS NÃO TEMOS TEMPO PRA ESSE ROMANCE DRAMÁTICO SEM SENTIDO!"
 
 msgid "<20>{#p/basic}Yeah, yeah..."
-msgstr ""
+msgstr "<20>{#p/basic}Sei, sei..."
 
 msgid "<20>{#p/basic}(Wait, that's what my cousin used to say...)"
-msgstr ""
+msgstr "<20>{#p/basic}(Espera, isso é o que meu primo costumava dizer...)"
 
 msgid "<20>Okay, I'll deal."
-msgstr ""
+msgstr "<20>Ok, eu vou lidar."
 
 msgid "<20>If a fight's what you want, then a fight's what you'll get!"
-msgstr ""
+msgstr "<20>Se é luta que você quer, é luta que você vai ter!"
 
 msgid "<20>{#p/mettaton}WELL, THIS SHOULD BE INTERESTING."
-msgstr ""
+msgstr "<20>{#p/mettaton}BEM, ISSO VAI SER INTERESSANTE."
 
 msgid "<20>{#p/mettaton}UH... HELLO?"
-msgstr ""
+msgstr "<20>{#p/mettaton}UH... OII?"
 
 msgid ""
 "<20>IT SEEMS OUR DEAR $(moniker2u) HAS BEEN LEFT WITHOUT A DANCE PARTNER."
 msgstr ""
+"<20>PARECE QUE NOSSO QUERIDO $(moniker2u) FICOU SEM UM PARCEIRO DE DANÇA."
 
 msgid ""
 "<20>IT SEEMS OUR POOR, POOR HUMAN HAS BEEN LEFT WITHOUT A DANCE PARTNER."
 msgstr ""
+"<20>PARECE QUE NOSSO POBRE E POBRE HUMANO FICOU SEM UM PARCEIRO DE DANÇA."
 
 msgid "<20>HOW UNFORTUNATE..."
-msgstr ""
+msgstr "<20>QUE AZARADO..."
 
 msgid "<20>BUT THE SHOW MUST GO ON!"
-msgstr ""
+msgstr "<20>MAS O SHOW DEVE CONTINUAR!"
 
 msgid "<20>YOU'RE ON A HOT STREAK TODAY, DARLING."
-msgstr ""
+msgstr "<20>VOCÊ NÃO ESTÁ MUITO ATIVO HOJE, QUERIDO."
 
 msgid "<20>SEEMS NOBODY'S INTERESTED OR ALIVE ENOUGH TO FACE YOU."
 msgstr ""
+"<20>PARECE QUE NINGUÉM ESTÁ VIVO OU INTERESSADO O SUFICIENTE PRA TE "
+"ENFRENTAR."
 
 msgid "<20>OH WELL..."
-msgstr ""
+msgstr "<20>POIS BEM..."
 
 msgid "<20>THE SHOW MUST GO ON!"
-msgstr ""
+msgstr "<20>O SHOW DEVE CONTINUAR!"
 
 msgid "<20>{#p/mettaton}NO HOLDING BACK!"
-msgstr ""
+msgstr "<20>{#p/mettaton}SEM SE SEGURAR!"
 
 msgid "<20>{#p/mettaton}TOO MUCH COTTON TO HANDLE, HUH?"
-msgstr ""
+msgstr "<20>{#p/mettaton}É ALGODÃO DEMAIS PARA AGUENTAR, NÉ?"
 
 msgid "<20>{#p/mettaton}WELL, TOO BAD!"
-msgstr ""
+msgstr "<20>{#p/mettaton}BEM, QUE PENINHA!"
 
 msgid "<20>{#p/mettaton}TO SAY I'M IMPRESSED WOULD BE AN UNDERSTATEMENT!"
-msgstr ""
+msgstr "<20>{#p/mettaton}DIZER QUE ESTOU IMPRESSIONADO SERIA O MÍNIMO!"
 
 msgid "<20>YOU'VE ABSOLUTELY NAILED IT."
-msgstr ""
+msgstr "<20>VOCÊ DOMINOU O PALCO."
 
 msgid "<20>DEAR VIEWERS, DO TAKE NOTES..."
-msgstr ""
+msgstr "<20>QUERIDOS ESPECTADORES, TOMEM NOTAS..."
 
 msgid "<20>-THIS- IS HOW YOU PUT ON A SHOW."
-msgstr ""
+msgstr "<20>É -ASSIM- QUE SE APRESENTA UM SHOW."
 
 msgid ""
 "<20>{#p/mettaton}YOU MAY NOT HAVE THE GREATEST VOCAL CHOPS, BUT THIS "
 "DANCING... OOOOH!"
 msgstr ""
+"<20>{#p/mettaton}VOCÊ PODE ATÉ NÃO TER A MELHOR CORDA VOCAL, MAS SABE "
+"DANÇAR... O SE SABE!"
 
 msgid "<20>SIMPLY SUPERB."
-msgstr ""
+msgstr "<20>SIMPLESMENTE..."
 
 msgid ""
 "<20>{#p/mettaton}WITH A NAME LIKE \"$(moniker1u),\" IT'S NO SURPRISE YOU "
 "WERE SUCH A LETDOWN!"
 msgstr ""
+"<20>{#p/mettaton}COM UM NOME COMO \"$(moniker1u)\", NÃO É SURPRESA QUE VOCÊ "
+"TENHA SIDO UMA DECEPÇÃO!"
 
 msgid "<20>{#p/mettaton}I -HAD- WISHED FOR A BETTER OUTCOME..."
-msgstr ""
+msgstr "<20>{#p/mettaton}EU -TINHA- DESEJADO UM RESULTADO MELHOR..."
 
 msgid ""
 "<20>{#p/mettaton}WITH A NAME LIKE \"$(moniker1u),\" YOU'D EXPECT A MORE "
 "-YOUTHFUL- SHOWING!"
 msgstr ""
+"<20>{#p/mettaton}COM UM NOME COMO \"$(moniker1u)\", VOCÊ ESPERARIA UMA "
+"EXIBIÇÃO MAIS JOVEM!"
 
 msgid ""
 "<20>{#p/mettaton}WITH A NAME LIKE \"$(moniker1u),\" YOU'D HOPE TO BE BLOWN "
 "AWAY!"
 msgstr ""
+"<20>{#p/mettaton}COM UM NOME COMO \"$(moniker1u)\", VOCÊ ESPERARIA FICAR "
+"IMPRESSIONADO!"
 
 msgid ""
 "<20>{#p/mettaton}WITH A NAME LIKE \"$(moniker1u),\" YOU'D THINK YOUR SKILLS "
 "WOULD BE MAD!"
 msgstr ""
+"<20>{#p/mettaton}COM UM NOME COMO \"$(moniker1u)\", VOCÊ PENSARIA QUE SUAS "
+"HABILIDADES SERIAM LOUCAS!"
 
 msgid ""
 "<20>{#p/mettaton}WITH A NAME LIKE \"$(moniker1u),\" YOU'D HOPE TO HAVE "
 "STOLEN THE SHOW!"
 msgstr ""
+"<20>{#p/mettaton}COM UM NOME COMO \"$(moniker1u)\", VOCÊ ESPERARIA TER "
+"ROUBADO O SHOW!"
 
 msgid "<20>{#p/mettaton}BUT I GUESS IT JUST WASN'T MEANT TO BE."
-msgstr ""
+msgstr "<20>{#p/mettaton}MAS ACHO QUE NÃO ERA PARA SER."
 
 msgid "<20>{#p/mettaton}WELL, $(moniker3u), I CAN'T SAY I EXPECTED THIS!"
 msgstr ""
+"<20>{#p/mettaton}OLHA, $(moniker3u), EU NÃO POSSO DIZER QUE ESPERAVA ISSO!"
 
 msgid "<20>{#p/mettaton}I -WAS- EXPECTING ANOTHER LETDOWN, BUT..."
-msgstr ""
+msgstr "<20>{#p/mettaton}EU -ESTAVA- ESPERANDO OUTRA QUEDA, MAS..."
 
 msgid "<20>{#p/mettaton}WELL, DEAR $(moniker1u)..."
 msgstr ""
