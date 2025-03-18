@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-12 16:16+0000\n"
-"PO-Revision-Date: 2025-03-18 11:52+0000\n"
+"PO-Revision-Date: 2025-03-18 11:58+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
@@ -22033,67 +22033,73 @@ msgid "Laser Rifle"
 msgstr "Rifle de Laser"
 
 msgid "<32>{#p/human}* (You throw away the Laser Rifle.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Rifle de Laser.)"
 
 msgid "<32>{#p/human}* (12 AT.)"
-msgstr ""
+msgstr "<32>{#p/human}* (12 AT.)"
 
 msgid ""
 "<32>{#p/basic}* \"Laser Rifle\" (12 AT)\n"
 "* Critical hits with this weapon deal MASSIVE damage."
 msgstr ""
+"<32>{#p/basic}* \"Rifle de Laser\" 12 (AT)\n"
+"* Ataques críticos com essa arma dão um dano INSANO."
 
 msgid "<32>{#p/human}* (You equip the Laser Rifle.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você equipa o Rifle de Laser.)"
 
 msgid "Critical hits with this weapon are decent enough."
-msgstr ""
+msgstr "Acertos críticos com esta arma são decentes o suficiente."
 
 msgid "Rifle?"
-msgstr ""
+msgstr "Rifle?"
 
 msgid "<32>{#p/human}* (10 AT.)"
-msgstr ""
+msgstr "<32>{#p/human}* (10 AT.)"
 
 msgid ""
 "<32>{#p/basic}* \"Laser Rifle?\" (10 AT)\n"
 "* Critical hits with this weapon are decent enough."
 msgstr ""
+"<32>{#p/basic}* \"Rifle?\" (10 AT)\n"
+"* Acertos críticos com esta arma são decentes o suficiente."
 
 msgid "Laser Rifle?"
-msgstr ""
+msgstr "Rifle de Laser?"
 
 msgid "Increases aim time in battle."
-msgstr ""
+msgstr "Aumenta o tempo de mira na batalha."
 
 msgid "Visor"
-msgstr ""
+msgstr "Viseira"
 
 msgid "<32>{#p/human}* (You throw away the Tactical Visor.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora a Viseira Tática.)"
 
 msgid "<32>{#p/human}* (12 DF.)"
-msgstr ""
+msgstr "<32>{#p/human}* (12 DF.)"
 
 msgid ""
 "<32>{#p/basic}* \"Tactical Visor\" (12 DF)\n"
 "* Increases aim time in battle."
 msgstr ""
+"<32>{#p/basic}* \"Viseira Tática\" (12 DF)\n"
+"* Aumenta o tempo de mira na batalha."
 
 msgid "Tactical Visor"
-msgstr ""
+msgstr "Viseira Tática"
 
 msgid "<32>{#p/human}* (You wear the Tactical Visor.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você coloca o Viseira Tática.)"
 
 msgid "A bit less tactical than the original. Increases aim time."
-msgstr ""
+msgstr "Um pouco menos tática do que a original. Cresce o tempo de mira."
 
 msgid "Visor?"
-msgstr ""
+msgstr "Viseira?"
 
 msgid "<32>{#p/human}* (10 DF.)"
-msgstr ""
+msgstr "<32>{#p/human}* (10 DF.)"
 
 msgid ""
 "<32>{#p/basic}* \"Tactical Visor?\" (10 DF)\n"
