@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-17 15:02+0000\n"
-"PO-Revision-Date: 2025-03-18 03:56+0000\n"
+"PO-Revision-Date: 2025-03-18 11:54+0000\n"
 "Last-Translator: Mr R <roddypesce@gmail.com>\n"
 "Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/it/>\n"
@@ -512,166 +512,194 @@ msgid ""
 "<32>{#p/basic}* Heh.\n"
 "* For a long time... part of me wished I was."
 msgstr ""
+"<32>{#p/basic}* Heh.\n"
+"* Per molto tempo...parte di me desiderava lo fossi."
 
 msgid ""
 "<32>{#p/basic}* After what I did to you, I...\n"
 "* I felt like I deserved it."
 msgstr ""
+"<32>{#p/basic}* Dopo quello che ti ho fatto, Io...\n"
+"* Pensavo di meritarmelo."
 
 msgid "<25>{#p/asriel1}{#f/7}* Don't say that, $(name)!"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/7}* Non dire così, $(name)!"
 
 msgid "<25>{#f/6}* ... you're wrong!"
-msgstr ""
+msgstr "<25>{#f/6}* ... non è vero!"
 
 msgid ""
 "<33>{#p/basic}* Haha... look who's talking now.\n"
 "* Mister \"just go be with the people who love you.\""
 msgstr ""
+"<33>{#p/basic}* Haha... guarda chi parla.\n"
+"* Dopo che mi hai detto di \"andare con chi mi vuole bene.\""
 
 msgid "<32>* But you deserve to know the truth about me, Asriel..."
-msgstr ""
+msgstr "<32>* Ma tu meriti di sapere la verità su di me, Asriel..."
 
 msgid "<32>* About everything."
-msgstr ""
+msgstr "<32>* Su tutto."
 
 msgid "<25>{#p/asriel1}{#f/23}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/23}* ..."
 
 msgid "<25>{#f/23}* $(name)..."
-msgstr ""
+msgstr "<25>{#f/23}* $(name)..."
 
 msgid "<25>{#p/asriel1}{#f/13}* But..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Ma..."
 
 msgid "<25>{#f/15}* How are you still..."
-msgstr ""
+msgstr "<25>{#f/15}* Come fai a essere ancora..."
 
 msgid "<32>{#p/basic}* ... does it matter?"
-msgstr ""
+msgstr "<32>{#p/basic}* ... serve davvero a qualcosa saperlo?"
 
 msgid "<32>* You were right to forget about me the way you did back there."
-msgstr ""
+msgstr "<32>* Hai fatto bene a cercare di dimenticarmi."
 
 msgid "<32>* The truth is, I've been a terrible person..."
-msgstr ""
+msgstr "<32>* La verità è, che io in realtà sono stato una persona orribile..."
 
 msgid "<32>* And I'm not the friend, or the sibling you wish you had."
 msgstr ""
+"<32>* E non sono riuscito a essere l'amico o il fratello che tu volessi che "
+"fossi."
 
 msgid "<25>{#p/asriel1}{#f/13}* $(name), I..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* $(name), Io..."
 
 msgid "<32>{#p/basic}* It's alright, Asriel."
-msgstr ""
+msgstr "<32>{#p/basic}* Va bene così, Asriel."
 
 msgid "<32>* You don't have to make it out to be better than it is."
-msgstr ""
+msgstr "<32>* Non mi devi far sembrare migliore di quanto sia mai stato."
 
 msgid "<25>{#p/asriel1}{#f/22}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/22}* ..."
 
 msgid "<25>{#f/22}* ... why now?"
-msgstr ""
+msgstr "<25>{#f/22}* ... perché me lo dici solo ora?"
 
 msgid "<32>{#p/basic}* Well..."
-msgstr ""
+msgstr "<32>{#p/basic}* Beh..."
 
 msgid "<32>* I always thought humanity was beyond redemption."
-msgstr ""
+msgstr "<32>* Ho sempre pensato che la razza umana fosse insalvabile."
 
 msgid "<32>* That, no matter what..."
-msgstr ""
+msgstr "<32>* Che, non importa da dove venissi..."
 
 msgid "<32>* If you were human... you were doomed to fall into darkness."
-msgstr ""
+msgstr "<32>* Se eri un umano... eri condannato a essere malvagio."
 
 msgid "<32>* But after following Frisk along on their journey..."
-msgstr ""
+msgstr "<32>* Ma dopo che ho seguito Frisk nel suo viaggio..."
 
 msgid "<32>* I understand the truth."
-msgstr ""
+msgstr "<32>* Ho capito la verità."
 
 msgid ""
 "<32>* The other humans... always did something that made it easy to ignore "
 "this truth."
 msgstr ""
+"<32>* Gli altri umani... hanno sempre fatto qualcosa che mi rendeva semplice "
+"ignorare questa verità."
 
 msgid "<33>* They'd attack people, or worse, make them... disappear."
-msgstr ""
+msgstr "<33>* Attaccando i mostri, o ancora peggio, facendoli... sparire."
 
 msgid "<32>* But not Frisk."
-msgstr ""
+msgstr "<32>* Ma non Frisk."
 
 msgid ""
 "<32>* No matter what struggles they faced, they showed kindness and mercy at"
 " every turn."
 msgstr ""
+"<32>* Non importa le difficoltà che incontrava, lui ha sempre mostrato "
+"gentilezza e risparmiato tutti."
 
 msgid "<32>* They... proved me wrong."
-msgstr ""
+msgstr "<32>* Lui... mi hanno dimostrato che mi sbagliavo."
 
 msgid ""
 "<32>* And now, because of that, I know there's no excuse for the way I "
 "treated you."
 msgstr ""
+"<32>* E so bene che, questa non è una scusa valida per come ti ho trattato."
 
 msgid "<32>* Everything you went through, everything you lost..."
 msgstr ""
+"<32>* Tutto quello che hai dovuto affrontare, tutto quello che hai perso..."
 
 msgid "<32>* I'm the one to blame for it."
-msgstr ""
+msgstr "<32>* É tutta colpa mia."
 
 msgid "<25>{#p/asriel1}{#f/13}* $(name)..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* $(name)..."
 
 msgid "<25>{#f/15}* Have you been conscious this whole time?"
 msgstr ""
+"<25>{#f/15}* Sei davvero rimasto in questo stato per tutto questo tempo?"
 
 msgid ""
 "<32>{#p/basic}* ... yeah.\n"
 "* I guess I have."
 msgstr ""
+"<32>{#p/basic}* ... sì.\n"
+"* Purtroppo sì."
 
 msgid ""
 "<32>* This has been my existence, Asriel...\n"
 "* Ever since we died."
 msgstr ""
+"<32>* Ho vissuto in questo modo da molto tempo, Asriel...\n"
+"* Da quel giorno quando morimmo."
 
 msgid "<32>* And... there's something else I have to tell you."
-msgstr ""
+msgstr "<32>* E... c'è qualcos’altro che devo dirti."
 
 msgid "<25>{#p/asriel1}{#f/21}* What is it?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/21}* Sì?"
 
 msgid "<32>{#p/basic}* Remember when we crossed the force field together?"
 msgstr ""
+"<32>{#p/basic}* Ti ricordi quando abbiamo superato il campo di forza assieme?"
 
 msgid ""
 "<32>* When we arrived at the ruins of the old homeworld, and got found out "
 "by those humans?"
 msgstr ""
+"<32>* Quando siamo arrivati alle rovine del vecchio pianeta natale, e "
+"abbiamo trovato quegli umani?"
 
 msgid ""
 "<32>* I wanted to use our power to destroy them... but you stopped me, "
 "remember?"
 msgstr ""
+"<32>* Volevo usare il nostro nuovo potere per distruggerli... ma tu mi hai "
+"fermato, ricordi?"
 
 msgid "<25>{#p/asriel1}{#f/16}* ... right."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/16}* ... Sì."
 
 msgid "<32>{#p/basic}* I didn't understand it back then, but..."
 msgstr ""
+"<32>{#p/basic}* Al tempo non riuscivo a capire perché mi avessi fermato, ma "
+"ora..."
 
 msgid "<32>* I get it now."
-msgstr ""
+msgstr "<32>* Ho capito."
 
 msgid ""
 "<32>* ... you were just trying to stop me... from making a terrible mistake."
 msgstr ""
+"<32>* ... tu stavi cercando di fermarmi... fermarmi dal commettere un "
+"terribile errore. "
 
 msgid "<25>{#p/asriel1}{#f/15}* $(name)..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/15}* $(name)..."
 
 msgid ""
 "<32>{#p/basic}* If not for you, the outpost would've been destroyed in a "
