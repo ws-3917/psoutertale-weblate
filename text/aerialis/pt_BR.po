@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-12 16:16+0000\n"
-"PO-Revision-Date: 2025-03-18 11:58+0000\n"
+"PO-Revision-Date: 2025-03-18 15:04+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
@@ -22105,504 +22105,577 @@ msgid ""
 "<32>{#p/basic}* \"Tactical Visor?\" (10 DF)\n"
 "* A bit less tactical than the original. Increases aim time."
 msgstr ""
+"<32>{#p/basic}* \"Viseira Tática?\" (10 DF)\n"
+"* Um pouco menos tático que a original. Cresce a mira."
 
 msgid "Tactical Visor?"
-msgstr ""
+msgstr "Viseira Tática?"
 
 msgid ""
 "A winding wick of flavors!\n"
 "Five uses left."
 msgstr ""
+"Um pavio sinuoso de sabores!\n"
+"Cinco usos restantes."
 
 msgid "Filament"
-msgstr ""
+msgstr "Filamento"
 
 msgid "<32>{#p/human}* (You throw away the Filament.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você jogou fora o Filamento.)"
 
 msgid "<32>{#p/human}* (30 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (30 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Filament\" Heals 30 HP\n"
 "* A winding wick of flavors!\n"
 "* Five uses left."
 msgstr ""
+"<32>{#p/basic}* \"Filamento\" Cura 30 HP.\n"
+"* Um pavio sinuoso de sabores!\n"
+"* Cinco usos restantes."
 
 msgid "Quintuple Filament"
-msgstr ""
+msgstr "Filamento Quinto"
 
 msgid "<32>{#p/human}* (You extract some energy from the Filament.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você extrai certa energia do Filamento.)"
 
 msgid ""
 "A winding wick of flavors!\n"
 "Four uses left."
 msgstr ""
+"Um pavio sinuoso de sabores!\n"
+"Quatro usos restantes."
 
 msgid "<32>{#p/human}* (25 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (25 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Filament\" Heals 25 HP\n"
 "* A winding wick of flavors!\n"
 "* Four uses left."
 msgstr ""
+"<32>{#p/basic}* \"Filamento\" Cura 25 HP\n"
+"* Um pavio sinuoso de sabores!\n"
+"* Quatro usos restantes."
 
 msgid "Quadruple Filament"
-msgstr ""
+msgstr "Filamento Quarto"
 
 msgid ""
 "A winding wick of flavors!\n"
 "Three uses left."
 msgstr ""
+"Um pavio sinuoso de sabores!\n"
+"Três usos restantes."
 
 msgid "<32>{#p/human}* (20 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (20 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Filament\" Heals 20 HP\n"
 "* A winding wick of flavors!\n"
 "* Three uses left."
 msgstr ""
+"<32>{#p/basic}* \"Filamento\" Cura 20 HP\n"
+"* Um pavio sinuoso de sabores!\n"
+"* Três usos restantes."
 
 msgid "Triple Filament"
-msgstr ""
+msgstr "Filamento Triplo"
 
 msgid ""
 "A winding wick of flavors!\n"
 "Two uses left."
 msgstr ""
+"Um pavio sinuoso de sabores!\n"
+"Dois usos restantes."
 
 msgid "<32>{#p/human}* (15 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (15 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Filament\" Heals 15 HP\n"
 "* A winding wick of flavors!\n"
 "* Two uses left."
 msgstr ""
+"<32>{#p/basic}* \"Filamento\" Cura 15 HP\n"
+"* Um pavio sinuoso de sabores!\n"
+"* Dois usos restantes."
 
 msgid "Double Filament"
-msgstr ""
+msgstr "Filamento Duplo"
 
 msgid ""
 "A winding wick of flavors!\n"
 "One use left."
 msgstr ""
+"Um pavio sinuoso de sabores!\n"
+"Resta um uso."
 
 msgid "<32>{#p/human}* (10 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (10 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Filament\" Heals 10 HP\n"
 "* A winding wick of flavors!\n"
 "* One use left."
 msgstr ""
+"<32>{#p/basic}* \"Filamento\" Cura 10 HP\n"
+"* Um pavio sinuoso de sabores!\n"
+"* Um uso restante."
 
 msgid "Flat, but sharp. Restores some lost HP after each turn."
-msgstr ""
+msgstr "Fino, mas forte. Restaura HP perdido em cada turno."
 
 msgid "Tablaphone"
-msgstr ""
+msgstr "Tablaphone"
 
 msgid "<32>{#p/human}* (You throw away the Tablaphone.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Tablaphone.)"
 
 msgid ""
 "<32>{#p/basic}* \"Tablaphone\" (10 AT)\n"
 "* Flat, but sharp. Restores some lost HP after each turn."
 msgstr ""
+"<32>{#p/basic}* \"Tablaphone\" (10 AT)\n"
+"* Fino, mas forte. Restaura HP perdido em cada turno."
 
 msgid "<32>{#p/human}* (You equip the Tablaphone.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você equipa o Tablaphone.)"
 
 msgid "Your opposition's attacks have a small chance to heal you."
-msgstr ""
+msgstr "Os ataques do seu oponente têm uma pequena chance de curá-lo."
 
 msgid "Resonator"
-msgstr ""
+msgstr "Ressonador"
 
 msgid "<32>{#p/human}* (You throw away the Sonic Resonator.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Ressonador Sônico.)"
 
 msgid "<32>{#p/human}* (11 DF.)"
-msgstr ""
+msgstr "<32>{#p/human}* (11 DF.)"
 
 msgid ""
 "<32>{#p/basic}* \"Sonic Resonator\" (11 DF)\n"
 "* Your opposition's attacks have a small chance to heal you."
 msgstr ""
+"<32>{#p/basic}* \"Ressonador Sônico\" (11 DF)\n"
+"* Os ataques do seu oponente têm uma pequena chance de curá-lo."
 
 msgid "Sonic Resonator"
-msgstr ""
+msgstr "Ressonador Sônico"
 
 msgid "<32>{#p/human}* (You equip the Sonic Resonator.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você equipa o Ressonador Sônico.)"
 
 msgid "The kind of food you expect to find at a rec center."
-msgstr ""
+msgstr "O tipo de comida que você espera encontrar no Rec Center."
 
 msgid "Mysteryfood"
-msgstr ""
+msgstr "ComidaMisterio"
 
 msgid "<32>{#p/human}* (You throw away the Mysteryfood.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você jogou fora a ComidaMisterio.)"
 
 msgid "<32>{#p/human}* (13 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (13 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Mysteryfood\" Heals 13 HP\n"
 "* The kind of food you expect to find at a rec center."
 msgstr ""
+"<32>{#p/basic}* \"ComidaMisterio\" Cura 13 HP\n"
+"* O tipo de comida que você espera encontrar no Rec Center."
 
 msgid "<32>{#p/human}* (You eat the Mysteryfood.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come a ComidaMisterio.)"
 
 msgid "Alters your perception of time."
-msgstr ""
+msgstr "Altera sua percepção do tempo."
 
 msgid "Hyper Pop"
-msgstr ""
+msgstr "Hyper Pop"
 
 msgid "<32>{#p/human}* (You throw away the Hyper Vortex Pop.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Hyper Vortex Pop.)"
 
 msgid "<32>{#p/human}* (22 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (22 HP.)"
 
 msgid ""
 "<33>{#p/basic}* \"Hyper Vortex Pop\" Heals 22 HP\n"
 "* Alters your perception of time.\n"
 "* Not viable outside of battle."
 msgstr ""
+"<33>{#p/basic}* \"Pop do Vórtice Hiper\" cura 22 HP\n"
+"* Altera sua percepção do tempo.\n"
+"* Não é viável fora da batalha"
 
 msgid "Hyper Vortex Pop"
-msgstr ""
+msgstr "Hyper Vortex Pop"
 
 msgid "<32>{#p/human}* (You sucked on the Hyper Vortex Pop.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você suga o Hyper Vortex Pop.)"
 
 msgid "<32>{#p/human}* (Your perception of time is already shifted.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Sua percepção de tempo já foi alterada.)"
 
 msgid "<32>{#p/human}* (Your perception of time begins to shift.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Sua percepção de tempo começa a se alterar.)"
 
 msgid "<32>{#p/story}* FOCUS up for two turns!"
-msgstr ""
+msgstr "<32>{#p/story}* FOCO cresceu por dois turnos!"
 
 msgid "<32>{#p/human}* (No effect outside of battle.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Sem efeito fora de batalha.)"
 
 msgid "A non-violent single-use weapon."
-msgstr ""
+msgstr "Uma arma de uso único não violenta."
 
 msgid "Stun Gun"
-msgstr ""
+msgstr "Stun Gun"
 
 msgid "<32>{#p/human}* (You throw away the Stun Gun.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora a Stun Gun.)"
 
 msgid ""
 "<32>{#p/human}* (You get the sense this item shouldn't be carried as lightly"
 " as one might think.)"
 msgstr ""
+"<32>{#p/human}* (Você tem a sensação de que este item não deve ser carregado "
+"tão levianamente quanto se imagina.)"
 
 msgid ""
 "<32>{#p/basic}* A non-violent single-use weapon.\n"
 "* Not viable outside of battle."
 msgstr ""
+"<32>{#p/basic}* Uma arma de uso único não violenta.\n"
+"* Sem efeito fora de batalha."
 
 msgid "Sleep Bomb"
-msgstr ""
+msgstr "Bomba Sonífera"
 
 msgid "<32>{#p/human}* (You throw away the Sleep Bomb.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora a Bomba Sonífera.)"
 
 msgid ""
 "<32>{#p/human}* (You get the sense this item wouldn't be as calming as one "
 "would hope.)"
 msgstr ""
+"<32>{#p/human}* (Você tem a sensação de que este ítem não será calmamente "
+"como se espera.)"
 
 msgid "Sugar Spray"
-msgstr ""
+msgstr "Spray de Açúcar"
 
 msgid "<32>{#p/human}* (You throw away the Sugar Spray.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Spray de Açúcar.)"
 
 msgid ""
 "<32>{#p/human}* (You get the sense this item isn't as sweet as it seems.)"
 msgstr ""
+"<32>{#p/human}* (Você tem a sensação de que este ítem não será tão doce "
+"quanto parece.)"
 
 msgid "Fresh from the microwave."
-msgstr ""
+msgstr "Esquentado no micro-ondas."
 
 msgid "Corn Dog"
-msgstr ""
+msgstr "Cachorro Quente"
 
 msgid "<32>{#p/human}* (You throw away the Corn Dog.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Cachorro Quente.)"
 
 msgid ""
 "<32>{#p/basic}* \"Corn Dog\" Heals 10 HP\n"
 "* Fresh from the microwave."
 msgstr ""
+"<32>{#p/basic}* \"Cachorro Quente\" Cura 10 HP\n"
+"* Esquentado no micro-ondas."
 
 msgid "<32>{#p/human}* (You eat the Corn Dog.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come o Cachorro Quente.)"
 
 msgid ""
 "Like a corn dog, but fluffier.\n"
 "Don't question it."
 msgstr ""
+"Como um Cachorro Quente, mas fofo.\n"
+"Não pergunta."
 
 msgid "Corn Goat"
-msgstr ""
+msgstr "Cabra Quente"
 
 msgid "<32>{#p/human}* (You throw away the Corn Goat.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora a Cabra Quente.)"
 
 msgid ""
 "<32>{#p/basic}* \"Corn Goat\" Heals 20 HP\n"
 "* Like a corn dog, but fluffier.\n"
 "* Don't question it."
 msgstr ""
+"<32>{#p/basic}* \"Cabra Quente\" Cura 20 HP\n"
+"* Como um Cachorro Quente, mas fofo.\n"
+"* Não pergunta."
 
 msgid "<32>{#p/human}* (You eat the Corn Goat.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come a Cabra Quente.)"
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* Please don't tell me that's symbolic of anything..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* Por favor não me diga que isso significa alguma "
+"coisa a mais..."
 
 msgid "A slice of pie from the Earth's night sky."
-msgstr ""
+msgstr "Um pedaço de torta da noite estrelada na Terra."
 
 msgid "Moon Pie"
-msgstr ""
+msgstr "Torta da Lua"
 
 msgid "<32>{#p/human}* (You throw away the Moon Pie.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora a Torta da Lua.)"
 
 msgid "<32>{#p/human}* (99 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (99 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Moon Pie\" Heals 99 HP\n"
 "* A slice of pie from the Earth's night sky."
 msgstr ""
+"<32>{#p/basic}* \"Torta da Lua\" Cura 99 HP\n"
+"* Um pedaço de torta da noite estrelada na Terra."
 
 msgid "<32>{#p/human}* (You eat the Moon Pie.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come a Torta da Lua.)"
 
 msgid ""
 "A crushingly orange soda.\n"
 "Tolerable."
 msgstr ""
+"Um refrigerante de laranja esmagador.\n"
+"Tolerável."
 
 msgid "Orange Soda"
-msgstr ""
+msgstr "Refri de Laranja"
 
 msgid "<32>{#p/human}* (You throw away the Orange Soda.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você jogou fora o Refri de Laranja.)"
 
 msgid "<25>* Did you just throw away a perfectly good orange soda?"
-msgstr ""
+msgstr "<25>* Você acabou de jogar fora um perfeito refrigerante de laranja?"
 
 msgid "<32>{#p/human}* (16 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (16 HP.)"
 
 msgid ""
 "<32>{#p/basic}* \"Orange Soda\" Heals 16 HP\n"
 "* A crushingly orange soda.\n"
 "* Tolerable."
 msgstr ""
+"<32>{#p/basic}* \"Refri de Laranja\" Cura 16 HP\n"
+"* Um refri de laranja esmagador. \n"
+"* Tolerável."
 
 msgid ""
 "<32>{#p/human}* (You drink the Orange Soda, and crush it in your hands.)"
 msgstr ""
+"<32>{#p/human}* (Você bebe o Refri de Laranja e esmaga a latinha nas mãos.)"
 
 msgid "<32>{#p/story}* ATTACK up by ${8 + battler.at_bonus}!"
-msgstr ""
+msgstr "<32>{#p/story}* ATAQUE subiu mais ${8 + battler.at_bonus}!"
 
 msgid "<25>{#p/alphys}{#g/alphysOhGodNo}* W-was that my drink!?"
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysOhGodNo}* E-essa era minha bebia!?"
 
 msgid "<25>{#p/alphys}{#f/10}* Oh... my god..."
-msgstr ""
+msgstr "<25>{#p/alphys}{#f/10}* Oh... meu amado..."
 
 msgid "<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* You did not hold back!"
-msgstr ""
+msgstr "<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* Você nem hesitou!"
 
 msgid "<32>{#p/human}* (You drink the Orange Soda.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você bebeu o Refri de Laranja.)"
 
 msgid "Demise"
-msgstr ""
+msgstr "Morte"
 
 msgid "<32>{#p/human}* (You throw away the Plunderer's Demise.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga fora o Morte ao Saqueador.)"
 
 msgid ""
 "<32>{#p/basic}* \"Plunderer's Demise\"\n"
 "* Heals -99 HP\n"
 "* ..."
 msgstr ""
+"<32>{#p/basic}* \"Morte ao Saqueador\"\n"
+"* Cura -99 HP\n"
+"* ..."
 
 msgid "Plunderer's Demise"
-msgstr ""
+msgstr "B<32>{#p/human}* (Você joga fora o Morte ao Saqueador.)"
 
 msgid "<32>{#p/human}* (You eat the Plunderer's Demise.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você come o Morte ao Saqueador.)"
 
 msgid "Liftgate Pass"
-msgstr ""
+msgstr "Passe Levitador"
 
 msgid ""
 "Acquired from your upgraded CELL.\n"
 "Used to access the liftgate network."
 msgstr ""
+"Adquirido na atualização do CELL.\n"
+"Usado para acessar o levitador."
 
 msgid "Mystery Key"
-msgstr ""
+msgstr "Chave Misteriosa"
 
 msgid "Used to unlock the door to Mettaton's house."
-msgstr ""
+msgstr "Usada para abrir a porta da casa do Mettaton."
 
 msgid "Acquired from Bratty and Catty's shop in the rec center."
-msgstr ""
+msgstr "Adquirido na loja da Bratty e Catty no Rec Center."
 
 msgid "POSTS (NEWEST FIRST)"
-msgstr ""
+msgstr "POSTS (NOVOS)"
 
 msgid "PRIVATE MESSAGES (NEWEST FIRST)"
-msgstr ""
+msgstr "MENSAGENS PRIVADAS (NOVAS PRIMEIRO)"
 
 msgid "Press [X] to Finish"
-msgstr ""
+msgstr "Pressione [x] para acabar"
 
 msgid "SYSTEM"
-msgstr ""
+msgstr "SISTEMA"
 
 msgid "An evacuation notice has been issued in your area. Vacate at once."
-msgstr ""
+msgstr "Um aviso de evacuação foi emitido em sua área. Desocupe imediatamente."
 
 msgid "Thank you for creating an account on the outpost's #1 social network!"
-msgstr ""
+msgstr "Obrigado por criar uma conta na internet número 1 do Outpost!"
 
 msgid "ALPHYS"
-msgstr ""
+msgstr "ALPHYS"
 
 msgid "uhhhh nobody saw that right"
-msgstr ""
+msgstr "uhhhh ninguém viu aquilo né"
 
 msgid "finally met the human that was kinda nervewracking LOL"
-msgstr ""
+msgstr "finalmente conheci o humano foi bem loucura kkkkk"
 
 msgid "well i just met the human"
-msgstr ""
+msgstr "bem acabei de conhecer o humano"
 
 msgid "ok good"
-msgstr ""
+msgstr "bom"
 
 msgid "still cant believe mettaton gave them a moniker???"
-msgstr ""
+msgstr "nem acredito que o mettaton deu pra ele um apelido???"
 
 msgid "still cant believe mettaton wanted me to fight them???"
-msgstr ""
+msgstr "nem posso acreditar que o mettaton queria que eu lutasse com ele???"
 
 msgid "they seem... nice?"
-msgstr ""
+msgstr "ele parece... legal?"
 
 msgid "yeah that wouldve been pretty embarrasing otherwise"
-msgstr ""
+msgstr "é isso teria sido bem embaraçoso"
 
 msgid "yeah lets hope that doesnt get blown out of proportion"
-msgstr ""
+msgstr "é vamos esperar que isso não saia de proporção"
 
 msgid "yeah lets hope that doesnt happen again"
-msgstr ""
+msgstr "é vamos esperar que isso não aconteça de novo"
 
 msgid "yeah lets hope nothing bad happens"
-msgstr ""
+msgstr "é vamos esperar que nada de ruim aconteça"
 
 msgid "oh my god i thought those guys were about to provoke the human"
-msgstr ""
+msgstr "oh senhor eu pensei que aqueles caras iriam provocar o humano"
 
 msgid ""
 "really guys?\n"
 "THERES ICE CREAM AT THE REC CENTER"
 msgstr ""
+"sério caras?\n"
+"TEM SORVETE NO REC CENTER"
 
 msgid "awkward"
-msgstr ""
+msgstr "estranho"
 
 msgid "oh no."
-msgstr ""
+msgstr "ah não."
 
 msgid "ok mettaton could you like not keep doing this to me thanks"
-msgstr ""
+msgstr "tá mettaton da pra você não continuar fazendo isso comigo obrigada"
 
 msgid "ok ill be honest i have no idea how that worked out LOL"
-msgstr ""
+msgstr "tá eu vou ser sincera eu não faço ideia de como aquilo funcionou KKKKK"
 
 msgid "wow, i shouldve known those bombs were just TV props LOL"
-msgstr ""
+msgstr "wow, eu deveria saber que aquelas bombas eram só besteira da TV kkkkkkk"
 
 msgid "NOOOO they were so close"
-msgstr ""
+msgstr "NÃÃÃO tava tão perto"
 
 msgid "let's go the human made it to the end"
-msgstr ""
+msgstr "aí sim o humano chegou no final"
 
 msgid "anyone who wasnt watching just now missed out big time"
-msgstr ""
+msgstr "quem não estava assistindo perdeu um momento muito da hora"
 
 msgid "well, there goes my last one-time use portable jetpack"
-msgstr ""
+msgstr "bem, aí foi meu jetpack de uso único portátil"
 
 msgid "wait how did the human get here if i never gave them a liftgate pass"
 msgstr ""
+"espera aí como é que o humano conseguiu aquilo se eu nunca dei um passe pra "
+"ele"
 
 msgid "BTW has anyone else seen mew mew space adventure???"
-msgstr ""
+msgstr "ALIÁS, alguém aí vou Mew Mew aventura no espaço???"
 
 msgid "like did they just steal my spare cell phone or something"
-msgstr ""
+msgstr "tipo ele realmente roubou meu telefone reserva"
 
 msgid "i finally started watching the last season and its actually good WTF"
 msgstr ""
+"eu finalmente comecei a assistir a última têmpora e nossa é muito bom PQP"
 
 msgid "NAPSTABLOOK22"
-msgstr ""
+msgstr "NAPSTABLOOK22"
 
 msgid "alphys... can you please respond to my private messages..."
-msgstr ""
+msgstr "alphys... da pra você responder minhas mensagens no privado..."
 
 msgid "we did... that one time..."
-msgstr ""
+msgstr "nós assistimos... naquela vez..."
 
 msgid "COOLSKELETON95"
-msgstr ""
+msgstr "COOLSKELETON95"
 
 msgid "i'm... getting worried"
-msgstr ""
+msgstr "eu estou... ficando preocupado"
 
 msgid ""
 "ARE WE WATCHING \"TV SHOWS\" NOW?\n"
 "SOUNDS EXCITING!"
 msgstr ""
+"ESTAMOS ASSISTINDO SHOWS DE TV AGORA?\n"
+"PARECE ANIMADOR!"
 
 msgid "ooh i remember that"
-msgstr ""
+msgstr "ohh eu lembro disso"
 
 msgid "_Sp4ceAdv3ntur3r_"
-msgstr ""
+msgstr "_Sp4ceAdv3ntur3r_"
 
 msgid "_K1ll3rMann3qu1n_"
-msgstr ""
+msgstr "_K1ll3rMann3qu1n_"
 
 msgid ""
 "Alphys, HUH?\n"
