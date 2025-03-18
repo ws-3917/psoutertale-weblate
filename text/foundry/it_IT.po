@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 00:13+0000\n"
-"PO-Revision-Date: 2025-03-18 00:13+0000\n"
+"PO-Revision-Date: 2025-03-18 03:56+0000\n"
 "Last-Translator: Mr R <roddypesce@gmail.com>\n"
 "Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
 "3-foundry/it/>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.10.2\n"
 
 #
-
 msgid "<32>{#p/basic}* ..."
 msgstr ""
 
@@ -24,7 +22,7 @@ msgid "<32>{#p/basic}* I'm going to pretend you didn't just sell that locket."
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to equip.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Decidi di non equipaggiarlo.)"
 
 msgid "<32>{#p/human}* (You grab Toriel's hand.)"
 msgstr ""
@@ -219,10 +217,10 @@ msgid "* (Enter the code?)"
 msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "<32>{#p/human}* (You decide not to enter.)"
 msgstr ""
@@ -249,7 +247,7 @@ msgid "<32>* Now she's..."
 msgstr ""
 
 msgid "<32>* ..."
-msgstr ""
+msgstr "<32>* ..."
 
 msgid ""
 "<32>* But, uh, it's okay!\n"
