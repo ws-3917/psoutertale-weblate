@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-18 03:56+0000\n"
+"PO-Revision-Date: 2025-03-18 03:56+0000\n"
+"Last-Translator: Mr R <roddypesce@gmail.com>\n"
+"Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
+"6-common/it/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+#
 
 msgid "The player did everything they could..."
 msgstr ""
@@ -363,8 +378,6 @@ msgstr ""
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr ""
@@ -5174,7 +5187,7 @@ msgid "<25>{#p/toriel}{#f/10}* ... very good."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/9}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/9}* ..."
 
 msgid ""
 "<25>{#p/toriel}{#f/10}* I suppose I cannot judge the citizens too harshly..."
@@ -8120,7 +8133,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>* ..."
-msgstr ""
+msgstr "<32>* ..."
 
 msgid ""
 "<32>* ... huh?\n"
@@ -8690,10 +8703,10 @@ msgid "* (Lay down next to it?)"
 msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "<32>{#p/basic}* The ghost is still here."
 msgstr ""
@@ -9874,7 +9887,7 @@ msgid "<32>{#p/basic}* ... uh, don't you mean \"the four of us?\""
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/25}* ...!"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/25}* ...!"
 
 msgid "<25>{#f/25}* $(name)... you're..."
 msgstr ""
