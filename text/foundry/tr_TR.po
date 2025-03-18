@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-14 15:05+0000\n"
-"PO-Revision-Date: 2025-03-15 14:12+0000\n"
+"PO-Revision-Date: 2025-03-18 03:53+0000\n"
 "Last-Translator: Bilge <mnwary@protonmail.com>\n"
 "Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
 "3-foundry/tr/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #
 msgid "<32>{#p/basic}* ..."
-msgstr ""
+msgstr "<32>{#p/basic}* ..."
 
 msgid "<32>{#p/basic}* I'm going to pretend you didn't just sell that locket."
 msgstr "<32>{#p/basic}* O madalyonu öylece satmamışsın gibi davranacağım."
@@ -44,7 +44,7 @@ msgid "<25>{#f/9}* If you tried to call me, I had my phone turned off."
 msgstr ""
 
 msgid "<25>{#f/13}* ..."
-msgstr ""
+msgstr "<25>{#f/13}* ..."
 
 msgid "<25>{#f/13}* I am sorry for all that I did, little one."
 msgstr ""
@@ -59,7 +59,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#f/10}* ..."
-msgstr ""
+msgstr "<25>{#f/10}* ..."
 
 msgid "<25>{#f/10}* I suppose it is nice to see you here."
 msgstr ""
@@ -89,7 +89,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#f/5}* ..."
 
 msgid ""
 "<25>{#p/toriel}{#f/5}* ... huh?\n"
@@ -102,7 +102,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/2}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/2}* ..."
 
 msgid "<25>{#f/1}* Those words..."
 msgstr ""

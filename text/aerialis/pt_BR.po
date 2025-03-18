@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-12 16:16+0000\n"
-"PO-Revision-Date: 2025-03-17 17:14+0000\n"
+"PO-Revision-Date: 2025-03-18 03:53+0000\n"
 "Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
 "ps-outertale/4-aerialis/pt_BR/>\n"
@@ -18701,63 +18701,72 @@ msgid ""
 "* The world is crumbling."
 msgstr ""
 "<32>{#p/história}* TERRA - ATQ 36 DEF 36\n"
-"* O mundo está desmoronando"
+"* O mundo está desmoronando."
 
 msgid ""
 "<32>{#p/story}* TERRESTRIA - ATK 36 DEF 36\n"
 "* Things aren't so bad anymore."
 msgstr ""
+"<32>{#p/story}* TERRESTRIA - ATQ 36 DEF 36\n"
+"* As coisas não são mais tão ruins."
 
 msgid ""
 "<32>{#p/story}* TERRESTRIA - ATK 36 DEF 36\n"
 "* The ground shakes beneath her ever-worn boots."
 msgstr ""
+"<32>{#p/história}* TERRA - ATQ 36 DEF 36\n"
+"* O chão treme sob suas botas sempre gastas."
 
 msgid ""
 "<32>{#p/story}* TERRESTRIA - ATK 36 DEF 36\n"
 "* Her attention stolen, the world falls away."
 msgstr ""
+"<32>{#p/história}* TERRA - ATQ 36 DEF 36\n"
+"* Sua atenção roubada, o mundo cai."
 
 msgid "<32>{#p/alphys}* It's Terrestria."
-msgstr ""
+msgstr "<32>{#p/alphys}* É a Terrestria."
 
 msgid "<32>{#p/story}* Terrestria tightens her grip on the staff."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria aperta com força o seu cajado."
 
 msgid "<32>{#p/story}* Terrestria breathes deeply."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria respira profundamente."
 
 msgid "<32>{#p/story}* Terrestria watches quietly."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria assiste quieta."
 
 msgid "<32>{#p/story}* Terrestria's armor emits a faint, yellow glow."
 msgstr ""
+"<32>{#p/story}* A armadura de Terrestria apresenta um amarelo dourado forte."
 
 msgid "<32>{#p/story}* Smells like a forgotten relic."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a uma relíquia esquecida."
 
 msgid "<20>{#p/basic}{~}Good knight."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Boa noite."
 
 msgid "<20>{#p/basic}{~}Farewell."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Durma bem."
 
 msgid "<20>{#p/basic}{~}Adieu."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Adieu."
 
 msgid "<20>{#p/basic}{~}Close your eyes..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Feche seus olhos..."
 
 msgid "<20>{#p/basic}{~}Goodbye."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Adeus."
 
 msgid ""
 "<32>{#p/human}* (You move in closer and caress Terrestria, telling her "
 "things will be okay.)"
 msgstr ""
+"<32>{#p/human}* (Você se aproxima e abraça Terrestria, dizendo a ela que as "
+"coisas ficarão bem.)"
 
 msgid "<32>{#p/alphys}* That's... uh..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Isso é... uh..."
 
 msgid ""
 "<20>{#p/basic}{~}...\n"
@@ -18765,1719 +18774,1913 @@ msgid ""
 "...\n"
 "Truly?"
 msgstr ""
+"<20>{#p/basic}{~}...\n"
+"...\n"
+"...\n"
+"Verdade?"
 
 msgid "<32>{#p/alphys}* Is she... crying?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Ela está... chorando?"
 
 msgid "<32>{#p/story}* Terrestria's stance weakens."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria demonstra fraqueza."
 
 msgid ""
 "<32>{#p/human}* (You embrace Terrestria, reminding her there is still beauty"
 " in the universe.)"
 msgstr ""
+"<32>{#p/human}* (Você segura a mão de Terrestria e a lembra que ainda existe "
+"beleza no universo.)"
 
 msgid "<32>{#p/alphys}* Awww..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Awww..."
 
 msgid ""
 "<20>{#p/basic}{~}...\n"
 "...\n"
 "Thank you..."
 msgstr ""
+"<20>{#p/basic}{~}...\n"
+"...\n"
+"Obrigada..."
 
 msgid "<32>{#p/alphys}* That's... honestly very sweet."
-msgstr ""
+msgstr "<32>{#p/alphys}* Isso foi... muito fofo."
 
 msgid "<32>{#p/story}* Terrestria has found a new purpose in life."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria encontrou um novo propósito na vida."
 
 msgid ""
 "<20>{#p/basic}{~}...\n"
 "...\n"
 "There you are..."
 msgstr ""
+"<20>{#p/basic}{~}...\n"
+"...\n"
+"Aí está..."
 
 msgid ""
 "<32>{#p/human}* (You comfort Terrestria.)\n"
 "* (Nothing changes.)"
 msgstr ""
+"<32>{#p/human}* (Você conforta Terrestria.)\n"
+"* (Nada muda.)"
 
 msgid "<32>{#p/human}* (You comfort Terrestria.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você conforta Terrestria.)"
 
 msgid ""
 "<32>{#p/basic}* Terrestria drops her staff and accepts your offer of peace."
 msgstr ""
+"<32>{#p/basic}* Terrestria deixa seu cajado cair e aceita sua oferta de paz."
 
 msgid "<20>{#p/basic}{~}Gratuities."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Gratitude."
 
 msgid "<20>{#p/basic}{~}Much obliged."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Much obliged."
 
 msgid "<20>{#p/basic}{~}Many thanks."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Vários obrigados."
 
 msgid "<32>{#p/alphys}* I think you can spare her..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Eu acho que você já pode poupar ela..."
 
 msgid "<32>{#p/story}* Terrestria is at peace."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria está em paz."
 
 msgid "<32>{#p/human}* (You flash your phone screen.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você joga a luz do celular na cara dela.)"
 
 msgid "<32>{#p/basic}* Terrestria goes into a panic!"
-msgstr ""
+msgstr "<32>{#p/basic}* Terrestria está em pânico!"
 
 msgid "<32>{#p/alphys}* What are you doing!?"
-msgstr ""
+msgstr "<32>{#p/alphys}* O que você tá fazendo!?"
 
 msgid "<20>{#p/basic}{~}\\x00*silent panic*"
-msgstr ""
+msgstr "<20>{#p/basic}{~}\\x00*pânico silencioso*"
 
 msgid "<32>{#p/alphys}* She's b-blinded!"
-msgstr ""
+msgstr "<32>{#p/alphys}* Ela está c-cega!"
 
 msgid ""
 "<32>{#p/story}* Terrestria has lost her sense of sight for this battle."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria perdeu seu sentido para está batalha."
 
 msgid "<20>{#p/basic}{~}No vision..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Sem visão..."
 
 msgid "<20>{#p/basic}{~}Can't see you..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Não pode te ver..."
 
 msgid "<20>{#p/basic}{~}Where are you..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Onde você está..."
 
 msgid ""
 "<32>{#p/human}* (You flash your phone screen.)\n"
 "* (Terrestria is too busy day- dreaming about you to notice.)"
 msgstr ""
+"<32>{#p/human}* (Você pisca a tela do telefone.)\n"
+"* (Terrestria está muito ocupado sonhando acordada com você para notar.)"
 
 msgid ""
 "<32>{#p/human}* (You flash your phone screen.)\n"
 "* (Terrestria is too relaxed to notice.)"
 msgstr ""
+"<32>{#p/human}* (Você pisca a tela do telefone.)\n"
+"* (Terrestria está relaxada demais para notar.)"
 
 msgid ""
 "<32>{#p/human}* (You flash your phone screen.)\n"
 "* (Nothing changes.)"
 msgstr ""
+"<32>{#p/human}* (Você liga a luz do telefone.)\n"
+"* (Nada acontece.)"
 
 msgid ""
 "<32>{#p/human}* (You flirt with Terrestria.)\n"
 "* (No effect.)"
 msgstr ""
+"<32>{#p/human}* (Você flerta com a Terrestria.)\n"
+"* (Sem efeito.)"
 
 msgid ""
 "<32>{#p/alphys}* Yeah, the ELITE squad is sort of trained against swooning."
 msgstr ""
+"<32>{#p/alphys}* Sim, o esquadrão ELITE é meio que treinado contra o flerte."
 
 msgid ""
 "<32>{#p/human}* (You call on your experience, and whisper a simple but "
 "confident compliment.)"
 msgstr ""
+"<32>{#p/human}* (Você chama na experiência, e joga um simples mas confiante "
+"comprimento.)"
 
 msgid "<32>{#p/alphys}* Uh..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Uh..."
 
 msgid "<20>{#p/basic}{~}What delight..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Que beleza..."
 
 msgid "<32>{#p/alphys}* Of course you'd find a way to make it work..."
 msgstr ""
+"<32>{#p/alphys}* Claro que você encontraria uma maneira de fazer isso "
+"funcionar..."
 
 msgid "<32>{#p/story}* Terrestria is beginning to like you."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria está começando a gostar de você."
 
 msgid ""
 "<32>{#p/human}* (You call on your experience, and gaze long into "
 "Terrestria's eyes.)"
 msgstr ""
+"<32>{#p/human}* (Você chama na experiência e olha longamente nos olhos de "
+"Terrestria.)"
 
 msgid "<32>{#p/alphys}* Ohhhh kay."
-msgstr ""
+msgstr "<32>{#p/alphys}* Ohhhh cara."
 
 msgid "<20>{#p/basic}{~}What beauty to be seen..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Que coisa linda de se ver..."
 
 msgid ""
 "<32>{#p/alphys}* W-well.\n"
 "* This is... something."
 msgstr ""
+"<32>{#p/alphys}* B-bom.\n"
+"* Isso foi... alguma coisa."
 
 msgid "<32>{#p/story}* Terrestria is enamoured."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria está apaixonada."
 
 msgid "<32>{#p/alphys}* You are insane."
-msgstr ""
+msgstr "<32>{#p/alphys}* Você é insano."
 
 msgid "<20>{#p/basic}{~}Quite breath-taking..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}É de tirar o fôlego..."
 
 msgid "<20>{#p/basic}{~}How wonderful..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Que maravilha..."
 
 msgid "<20>{#p/basic}{~}So beautiful..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}Que lindo..."
 
 msgid "<32>{#p/alphys}* She's close to death..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Ela está próxima da morte..."
 
 msgid "<32>{#p/story}* Terrestria's breath shakes."
-msgstr ""
+msgstr "<32>{#p/story}* Terrestria respira ofegante."
 
 msgid "* Final Froggit"
-msgstr ""
+msgstr "* Final Froggit"
 
 msgid "<08>{#p/basic}{~}In your mercy, I see wisdom."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Na sua piedade, eu vejo esperança."
 
 msgid "<08>{#p/basic}{~}My hopes have been ful- filled."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Minhas esperanças foram preenchidas."
 
 msgid "<08>{#p/basic}{~}I did not forsee this outcome."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu não previ esse resultado."
 
 msgid "<08>{#p/basic}{~}I must steer clear of the abyss.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Devo me afastar do abismo..."
 
 msgid "<08>{#p/basic}{~}Skip, jump."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Pule, pule."
 
 msgid "<08>{#p/basic}{~}May love radiate through our hearts."
-msgstr ""
+msgstr "<08>{#p/basic}{~}O amor pode radiar em nossos corações."
 
 msgid "<08>{#p/basic}{~}We shall be the best of friends."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Nós devemos ser os melhores dos amigos."
 
 msgid "<08>{#p/basic}{~}Your kindness warms my heart."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Sua bondade aquece meu coração."
 
 msgid "<08>{#p/basic}{~}Robbit, robbit."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Robbit, robbit."
 
 msgid "<08>{#p/basic}{~}My time has come."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Minha hora chegou."
 
 msgid "<08>{#p/basic}{~}May you have the wealth that you desire."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Que você tenha a riqueza que deseja."
 
 msgid "<32>{#p/asriel2}* ..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* ..."
 
 msgid "<32>{#p/basic}* Final Froggit is knocked out!"
-msgstr ""
+msgstr "<32>{#p/basic}* Final Froggit está derrotado!"
 
 msgid ""
 "<32>{#p/alphys}* Final Froggit, it's like Froggit, but fancier.\n"
 "* It talks in an odd language."
 msgstr ""
+"<32>{#p/alphys}* Final Froggit é como o Froggit, mas chique. Ele fala em uma "
+"língua antiga."
 
 msgid "<32>{#p/alphys}* It's just Final Froggit."
-msgstr ""
+msgstr "<32>{#p/alphys}* É apenas o Final Froggit."
 
 msgid ""
 "<32>{#p/story}* FINAL FROGGIT - ATK 30 DEF 24\n"
 "* The future is boundless for this monster."
 msgstr ""
+"<32>{#p/story}* FINAL FROGGIT - ATQ 30 DEF 24\n"
+"* O futuro é ilimitado para este monstro."
 
 msgid ""
 "<32>{#p/story}* FINAL FROGGIT - ATK 30 DEF 24\n"
 "* This monster may soon live on through its wisdom."
 msgstr ""
+"<32>{#p/story}* FINAL FROGGIT - ATQ 30 DEF 24\n"
+"* Este monstro pode em breve viver através de sua sabedoria."
 
 msgid ""
 "<32>{#p/story}* FINAL FROGGIT - ATK 30 DEF 24\n"
 "* This monster understands your true desires."
 msgstr ""
+"<32>{#p/story}* FINAL FROGGIT - ATQ 30 DEF 24\n"
+"* Este monstro entende seu verdadeiro propósito."
 
 msgid ""
 "<32>{#p/story}* FINAL FROGGIT - ATK 30 DEF 24\n"
 "* This monster is satisfied with its message."
 msgstr ""
+"<32>{#p/story}* FINAL FROGGIT - ATQ 30 DEF 24\n"
+"* Este monstro está satisfeito com sua mensagem."
 
 msgid "<08>{#p/basic}{~}Creak, creak."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Creak, creak."
 
 msgid "<08>{#p/basic}{~}Purr."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Purr."
 
 msgid "<32>{#p/alphys}* ..."
-msgstr ""
+msgstr "<32>{#p/alphys}* ..."
 
 msgid ""
 "<32>{#p/story}* The battlefield is engulfed in the smell of leola root."
 msgstr ""
+"<32>{#p/story}* O campo de batalha está envolto no cheiro de raiz de leola."
 
 msgid "<32>{#p/story}* Final Froggit seeks an understanding."
-msgstr ""
+msgstr "<32>{#p/story}* Final Froggit busca um entendimento."
 
 msgid "<32>{#p/story}* Final Froggit hopes to share its wisdom."
-msgstr ""
+msgstr "<32>{#p/story}* Final Froggit deseja compartilhar sua sabedoria."
 
 msgid "<32>{#p/human}* (You flirt with Final Froggit.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você flerta com o Final Froggit.)"
 
 msgid "<32>* Final Froggit shows modest appreciation for your remarks."
-msgstr ""
+msgstr "<32>* Final Froggit demonstra modesta apreciação por suas remarcações."
 
 msgid "<32>{#p/alphys}* Ehehe..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Ehehe..."
 
 msgid ""
 "<08>{#p/basic}{~}(Sighs deeply.)\n"
 "Robbit."
 msgstr ""
+"<08>{#p/basic}{~}(Suspiro alto.) \n"
+"Robbit."
 
 msgid ""
 "<08>{#p/basic}{~}(Blushes deeply.)\n"
 "Robbit."
 msgstr ""
+"<08>{#p/basic}{~}(Muito envergonhado.)\n"
+"Robbit."
 
 msgid "<32>{#p/human}* (But there was nothing for you to translate yet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas não havia nada para você traduzir ainda.)"
 
 msgid ""
 "<32>{#p/alphys}* Maybe you should, like... wait for it to say something "
 "first?"
 msgstr ""
+"<32>{#p/alphys}* Talvez você deveria, sei lá... esperar ele dizer algo antes?"
 
 msgid "<32>{#p/human}* (You translate Final Froggit's message.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você traduz a mensagem do Final Froggit.)"
 
 msgid "<08>{#p/basic}{~}(Don't kill and don't be killed.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Não mate e não seja morto.)"
 
 msgid "<08>{#p/basic}{~}(Time heals all wounds.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Tempo cura todas as dores.)"
 
 msgid "<08>{#p/basic}{~}(Let not the rage consume you.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Não permita que a raiva o consuma.)"
 
 msgid "<09>{#p/basic}{~}(Keep moving forward.)"
-msgstr ""
+msgstr "<09>{#p/basic}{~}(Continue caminhando em frente.)"
 
 msgid "<08>{#p/basic}{~}(You can always do better.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Você sempre pode fazer melhor.)"
 
 msgid "<08>{#p/basic}{~}(Stay true to your- self.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Mantenha-se verdadeiro a si mesmo.)"
 
 msgid "<08>{#p/basic}{~}(Never give into fear.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Nunca de as mãos ao medo.)"
 
 msgid "<08>{#p/basic}{~}(Always try your best.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Sempre tente seu melhor.)"
 
 msgid "<08>{#p/basic}{~}(Regret when you were mean.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Se arrependa de quando você foi mau.)"
 
 msgid "<08>{#p/basic}{~}(Never regret being kind.)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Nunca se arrependa da sua bondade.)"
 
 msgid "<32>{#p/alphys}* I think you can spare Final Froggit now."
-msgstr ""
+msgstr "<32>{#p/alphys}* Eu acho que você pode poupar ele agora."
 
 msgid "<32>{#p/alphys}* I think you can spare it now."
-msgstr ""
+msgstr "<32>{#p/alphys}* Eu acho que você pode poupa-lo agora."
 
 msgid "<32>{#p/story}* Final Froggit seems reluctant to fight you."
-msgstr ""
+msgstr "<32>{#p/story}* Final Froggit parece relutante em lutar contra você."
 
 msgid ""
 "<32>{#p/human}* (You do something mysterious, but Final Froggit is "
 "unaffected.)"
 msgstr ""
+"<32>{#p/human}* (Você faz algo misterioso, mas o Final Froggit não é "
+"afetado.)"
 
 msgid ""
 "<32>{#p/human}* (You do something threatening, but Final Froggit is "
 "unaffected.)"
 msgstr ""
+"<32>{#p/human}* (Você faz algo ameaçador, mas o Final Froggit não é afetado.)"
 
 msgid "<32>{#p/alphys}* No..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Não..."
 
 msgid "<32>{#p/story}* Final Froggit stands its ground."
-msgstr ""
+msgstr "<32>{#p/story}* Final Froggit se mantém firme."
 
 msgid "* Flutterknyte"
-msgstr ""
+msgstr "* Flutterknyte"
 
 msgid "<08>{#p/basic}{~}Thank good- ness.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ainda bem.."
 
 msgid "<08>{#p/basic}{~}I feared I would never escape."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu temi que nunca iria escapar."
 
 msgid "<08>{#p/basic}{~}What was I think- ing.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}O que eu estava pensando.."
 
 msgid "<08>{#p/basic}{~}I have to get out of here..!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu preciso sair daqui..!"
 
 msgid "<08>{#p/basic}{~}If you truly feel this way.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Se você realmente se sente assim..."
 
 msgid "<08>{#p/basic}{~}I am obliged to as well..!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu sou obrigado a me sentir também..!"
 
 msgid "<08>{#p/basic}{~}It's okay.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Tudo bem.."
 
 msgid "<08>{#p/basic}{~}We can be friends if you want.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Nós podemos ser amigos de você quiser.."
 
 msgid "<08>{#p/basic}{~}Please.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Por favor.."
 
 msgid "<08>{#p/basic}{~}D-don't let go.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}N-não deixe ir.."
 
 msgid "<08>{#p/basic}{~}I'm so sorry.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu sinto muito.."
 
 msgid "<08>{#p/basic}{~}I knew I wasn't cut out for this.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu sabia que não era o suficiente para isso.."
 
 msgid "<08>{#p/basic}{~}Here's your pay- ment.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Aqui está seu pagamento.."
 
 msgid "<08>{#p/basic}{~}Please.. spare me.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Por favor.. tenha piedade.."
 
 msgid "<32>{#p/basic}* Flutterknyte is knocked out!"
-msgstr ""
+msgstr "<32>{#p/basic}* Flutterknyte está derrotado!"
 
 msgid ""
 "<32>{#p/alphys}* Flutterknyte... is it just me, or does it seem nervous?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Flutterknyte... sou só eu ou ele parece nervoso?"
 
 msgid "<32>{#p/alphys}* It's just Flutterknyte."
-msgstr ""
+msgstr "<32>{#p/alphys}* É apenas o Flutterknyte."
 
 msgid ""
 "<32>{#p/story}* FLUTTERKNYTE - ATK 34 DEF 12\n"
 "* This monster carries a bloated sense of responsibility."
 msgstr ""
+"<32>{#p/story}* FLUTTERKNYTE - ATQ 34 DEF 12\n"
+"* Este monstro carregado um grande senso de responsabilidade."
 
 msgid ""
 "<32>{#p/story}* FLUTTERKNYTE - ATK 34 DEF 12\n"
 "* Stays behind, afraid of being a disappointment."
 msgstr ""
+"<32>{#p/story}* FLUTTERKNYTE - ATQ 34 DEF 12\n"
+"* Se mantém atrás, por medo de desapontar."
 
 msgid ""
 "<32>{#p/story}* FLUTTERKNYTE - ATK 34 DEF 12\n"
 "* A weight has been lifted from its wings."
 msgstr ""
+"<32>{#p/história}* FLUTTERKNYTE - ATQ 34 DEF 12\n"
+"* Um peso foi levantado de suas asas"
 
 msgid ""
 "<32>{#p/story}* FLUTTERKNYTE - ATK 34 DEF 12\n"
 "* Its wings aren't the only things fluttering..."
 msgstr ""
+"<32>{#p/história}* FLUTTERKNYTE - ATQ 34 DEF 12\n"
+"* Suas asas não são as únicas coisas que sabem voar..."
 
 msgid "<32>{#p/human}* (You offer an arm for Flutterknyte to perch on.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você oferece seu braço para Flutterknyte se segurar.)"
 
 msgid "<32>{#p/basic}* Flutterknyte thinks about accepting your offer..."
-msgstr ""
+msgstr "<32>{#p/basic}* Flutterknyte pensa sobre aceitar sua proposta..."
 
 msgid "<32>{#p/alphys}* You're halfway there."
-msgstr ""
+msgstr "<32>{#p/alphys}* Você tá na metade do caminho."
 
 msgid "<32>{#p/human}* (You continue offering.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você continua a oferecer.)"
 
 msgid "<32>{#p/basic}* Flutterknyte backs away, fearing for its life..."
-msgstr ""
+msgstr "<32>{#p/basic}* Flutterknyte recua, temendo por sua vida..."
 
 msgid "<32>* Flutterknyte wants to go now."
-msgstr ""
+msgstr "<32>* Flutterknyte deseja ir agora."
 
 msgid "<32>{#p/alphys}* There you go...?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Muito bem...?"
 
 msgid "<32>{#p/basic}* Flutterknyte moves towards your arm and lands."
-msgstr ""
+msgstr "<32>{#p/basic}* Flutterknyte se move até seu braço e assenta."
 
 msgid "<32>* Flutterknyte can rest now."
-msgstr ""
+msgstr "<32>* Flutterknyte pode descansar agora."
 
 msgid "<32>{#p/alphys}* There you go!"
-msgstr ""
+msgstr "<32>{#p/alphys}* Muito bem!"
 
 msgid "<32>{#p/human}* (You offer your other arm for Flutterknyte.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você oferece seu outro braço para Flutterknyte.)"
 
 msgid "<33>{#p/basic}* Flutterknyte has seen enough..."
-msgstr ""
+msgstr "<33>{#p/basic}* Flutterknyte parece já ter entendido..."
 
 msgid "<32>{#p/alphys}* ... jeez."
-msgstr ""
+msgstr "<32>{#p/alphys}* ... cara."
 
 msgid ""
 "<32>{#p/basic}* Flutterknyte, overwhelmed by choices, decides to fly away..."
 msgstr ""
+"<32>{#p/basic}* Flutterknyte, oprimida pelas possibilidades, decide voar "
+"para longe."
 
 msgid "<32>{#p/alphys}* ... what."
-msgstr ""
+msgstr "<32>{#p/alphys}* ... que."
 
 msgid "<32>{#p/human}* (You flirt with Flutterknyte.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você com o Flutterknyte.)"
 
 msgid "<32>{#p/basic}* Flutterknyte is surprised, and feels conflicted..."
-msgstr ""
+msgstr "<32>{#p/basic}* Flutterknyte está surpreso e sente um conflito..."
 
 msgid "<32>{#p/alphys}* Er..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Er..."
 
 msgid ""
 "<32>{#p/basic}* Flutterknyte is surprised, but accepts it nonetheless..."
-msgstr ""
+msgstr "<32>{#p/basic}* Flutterknyte fica surpreso, mas aceita mesmo assim..."
 
 msgid "<32>{#p/alphys}* Cute..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Que gracinha..."
 
 msgid "<08>{#p/basic}{~}What to do what to say.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}O que fazer, o que dizer."
 
 msgid "<08>{#p/basic}{~}Thank you thank you.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Muito obrigado, muito obrigado."
 
 msgid "<32>{#p/human}* (You poke Flutterknyte to knock it off its balance.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você cutuca Flutterknyte para desequilibrá-lo.)"
 
 msgid "<32>{#p/basic}* Flutterknyte is shaken, but quickly regains focus."
 msgstr ""
+"<32>{#p/basic}* Flutterknyte fica abalado, mas rapidamente recupera o foco."
 
 msgid "<32>{#p/alphys}* Mean...?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Maldoso...?"
 
 msgid "<32>{#p/basic}* Flutterknyte falls and skitters away!"
-msgstr ""
+msgstr "<32>{#p/basic}* Flutterknyte cai e rola para longe!"
 
 msgid "<32>{#p/alphys}* I'm gonna pretend like you didn't just do that."
-msgstr ""
+msgstr "<32>{#p/alphys}* Eu vou pretender que você não acabou de fazer isso."
 
 msgid "<08>{#p/basic}{~}Should I..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu deveria..?"
 
 msgid "<08>{#p/basic}{~}Can I..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu posso..?"
 
 msgid "<08>{#p/basic}{~}Will I..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu vou..?"
 
 msgid "<08>{#p/basic}{~}\\x00*ex- hausted sigh*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*suspiro exausto*"
 
 msgid "<08>{#p/basic}{~}Rest, at last."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Descanso, no fim de tudo."
 
 msgid "<08>{#p/basic}{~}Thank you."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Obrigado."
 
 msgid "<08>{#p/basic}{~}I knew not how tired I was."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu sabia o quão não estava cansado."
 
 msgid "<08>{#p/basic}{~}I know not how long it's been."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não sei quanto tempo se passou."
 
 msgid "<08>{#p/basic}{~}I'll do what I must.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu irei fazer o que devo.."
 
 msgid "<08>{#p/basic}{~}It's for the greater good.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}É pelo bem da grandeza.."
 
 msgid "<08>{#p/basic}{~}They're counting on me.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eles estão contando comigo.."
 
 msgid "<08>{#p/basic}{~}The future depends on this.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}O futuro depende disso.."
 
 msgid "<08>{#p/basic}{~}\\x00*shuffle shuffle*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*balança balança*"
 
 msgid "<32>{#p/story}* Flutterknyte is in serious trouble."
-msgstr ""
+msgstr "<32>{#p/story}* Flutterknyte está com sérios problemas."
 
 msgid "<32>{#p/story}* Flutterknyte continues to mutter justifications."
-msgstr ""
+msgstr "<32>{#p/story}* Flutterknyte continua procurando justificativas."
 
 msgid "<32>{#p/story}* Flutterknyte is hovering."
-msgstr ""
+msgstr "<32>{#p/story}* Flutterknyte está pairando."
 
 msgid "<32>{#p/story}* Smells like pears."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a peras."
 
 msgid "<32>{#p/story}* Flutterknyte takes slow, steady breaths."
-msgstr ""
+msgstr "<32>{#p/story}* Flutterknyte vai devagar e respira fundo."
 
 msgid "<32>{#p/story}* Flutterknyte ponders their future."
-msgstr ""
+msgstr "<32>{#p/story}* Flutterknyte pondera sobre seu futuro."
 
 msgid "<32>{#p/alphys}* Looks like Flutterknyte will accept your mercy now."
-msgstr ""
+msgstr "<32>{#p/alphys}* Parece que Flutterknyte aceita sua piedade agora."
 
 msgid "<32>{#p/alphys}* Looks like it'll accept your mercy now."
-msgstr ""
+msgstr "<32>{#p/alphys}* Parece que ele aceita sua piedade."
 
 msgid "<32>{#p/story}* Flutterknyte is at rest."
-msgstr ""
+msgstr "<32>{#p/story}* Flutterknyte está descansando."
 
 msgid "* Eyewalker Prime"
-msgstr ""
+msgstr "* Eyewalker Prime"
 
 msgid "<08>{#p/basic}{~}Out of sight, out of mind."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Fora da visão, fora da mente."
 
 msgid "<08>{#p/basic}{~}Your ma- lice is stronger than my own!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}A sua malícia é mais forte que a minha!"
 
 msgid "<08>{#p/basic}{~}I won't test it further."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não vou testá-lo mais."
 
 msgid "<08>{#p/basic}{~}Such beauty in your eyes.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Tanta beleza em seus olhos.."
 
 msgid "<08>{#p/basic}{~}Don't tell the clan about this!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não conte ao clã sobre isso!"
 
 msgid "<08>{#p/basic}{~}Friend- ship.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Amizade.."
 
 msgid "<08>{#p/basic}{~}This could be a real eye- opener!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Essa pode ser uma verdadeira abertura de olhos!"
 
 msgid "<08>{#p/basic}{~}Don't squeeze too hard, okay?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não aperte com muita força, ok?"
 
 msgid "<08>{#p/basic}{~}I shall die proudly as a leader."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu devo morrer orgulhoso como um líder."
 
 msgid "<08>{#p/basic}{~}Tch.. don't try to pay me back."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Tch.. não tente me pagar de volta."
 
 msgid "<08>{#p/basic}{~}This is for you!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Isso é por você!"
 
 msgid "<32>{#p/basic}* Eyewalker Prime is knocked out!"
-msgstr ""
+msgstr "<32>{#p/basic}* Eyewalker Prime está derrotado!"
 
 msgid ""
 "<32>{#p/alphys}* Eyewalker Prime...?\n"
 "* They're probably the leader of the Eyewalker clan."
 msgstr ""
+"<32>{#p/alphys}* Eyewalker Prime...?\n"
+"* Ele provavelmente é o líder do clã dos Eyewalker."
 
 msgid "<32>{#p/alphys}* It's just Eyewalker Prime."
-msgstr ""
+msgstr "<32>{#p/alphys}* É apenas o Eyewalker Prime."
 
 msgid ""
 "<33>{#p/story}* EYEWALKER PRIME - ATK 32 DEF 26\n"
 "* There's more to this monster than meets the eye."
 msgstr ""
+"<33>{#p/story}* EYEWALKER PRIME - ATQ 32 DEF 26\n"
+"* A mais para esse monstro do que apenas seus olhos."
 
 msgid ""
 "<32>{#p/story}* EYEWALKER PRIME - ATK 32 DEF 26\n"
 "* Satisfied with your following of family traditions."
 msgstr ""
+"<32>{#p/história}* EYEWALKER PRIME - ATQ 32 DEF 26\n"
+"* Satisfeito com o seu seguimento das tradições familiares."
 
 msgid ""
 "<32>{#p/story}* EYEWALKER PRIME - ATK 32 DEF 26\n"
 "* Considers you to be quite the \"looker\" now."
 msgstr ""
+"<32>{#p/story}* EYEWALKER PRIME - ATQ 32 DEF 26\n"
+"* Considera você um grande \"observador\" agora."
 
 msgid ""
 "<32>{#p/story}* EYEWALKER PRIME - ATK 32 DEF 26\n"
 "* For this monster, tradition always comes before safety."
 msgstr ""
+"<32>{#p/story}* EYEWALKER PRIME - ATQ 32 DEF 26\n"
+"* Para este monstro, tradição vem antes de segurança."
 
 msgid "<32>{#p/human}* (You stare at Eyewalker Prime.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você encara Eyewalker Prime.)"
 
 msgid "<32>{#p/human}* (You smile at Eyewalker Prime.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você sorri para Eyewalker Prime.)"
 
 msgid "<32>{#p/human}* (You wink at Eyewalker Prime.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você pisca para o Eyewalker Prime.)"
 
 msgid "<32>{#p/alphys}* Oh come on."
-msgstr ""
+msgstr "<32>{#p/alphys}* Oh qual foi."
 
 msgid "<32>{#p/story}* Eyewalker Prime is staring into your SOUL."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime está encarando sua ALMA."
 
 msgid "<32>{#p/story}* Eyewalker Prime offers up a menacing grin."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime oferece um sorriso ameaçador."
 
 msgid "<32>{#p/story}* Eyewalker Prime isn't messing around."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime não está para brincadeira."
 
 msgid "<32>{#p/story}* Eyewalker Prime thinks of their family's honor."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime pensa na honra de sua família."
 
 msgid "<32>{#p/story}* Smells like mouthwash."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a enxaguante bucal."
 
 msgid "<32>{#p/story}* Eyewalker Prime is watering."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime está regando."
 
 msgid "<08>{#p/basic}{~}Bring it on!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Desse jeito!"
 
 msgid "<08>{#p/basic}{~}Show me your teeth!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Me mostre seus dentes!"
 
 msgid "<08>{#p/basic}{~}Don't hold back!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não se segure!"
 
 msgid "<08>{#p/basic}{~}Show me your looks!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Me mostre quem você é!"
 
 msgid "<08>{#p/basic}{~}What are YOU made of?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Do que VOCÊ é feito?"
 
 msgid ""
 "<08>{#p/basic}{~}Hah.\n"
 "Nice try.\n"
 "But I'm taken!"
 msgstr ""
+"<08>{#p/basic}{~}Hah.\n"
+"Boa tentativa.\n"
+"Mas eu sou levado!"
 
 msgid "<08>{#p/basic}{~}That's partly right.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Isso está certo em partes.."
 
 msgid "<08>{#p/basic}{~}You've almost got it.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você quase conseguiu.."
 
 msgid "<08>{#p/basic}{~}You're getting there.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você está chegando lá.."
 
 msgid "<32>{#p/alphys}* I think you need to do the other thing now."
-msgstr ""
+msgstr "<32>{#p/alphys}* Eu acho que você precisa fazer a outra coisa agora."
 
 msgid "<32>{#p/story}* Eyewalker Prime is looking for more."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime está procurando por mais."
 
 msgid "<32>{#p/alphys}* Eyewalkers love it when you smile and stare at them."
-msgstr ""
+msgstr "<32>{#p/alphys}* Eyewalkers amam quando você sorri e encara eles."
 
 msgid "<32>{#p/story}* Eyewalker Prime wants to see the full picture."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime quer ver a foto inteira."
 
 msgid "<32>{#p/alphys}* D-do the other thing!"
-msgstr ""
+msgstr "<32>{#p/alphys}* F-faça outra coisa!"
 
 msgid "<32>{#p/story}* Eyewalker Prime wishes you'd follow its directive."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime deseja que você siga seus movimentos."
 
 msgid "<32>{#p/alphys}* Eyewalker Prime seems content now..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Eyewalker Prime parece contente agora..."
 
 msgid "<32>{#p/alphys}* It seems content now..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Ele parece contente agora..."
 
 msgid "<32>{#p/story}* Eyewalker Prime is pleased."
-msgstr ""
+msgstr "<32>{#p/story}* Eyewalker Prime está satisfeito."
 
 msgid "<08>{#p/basic}{~}What are you waiting for?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}O que você está esperando?"
 
 msgid "<08>{#p/basic}{~}You gonna do some- thing, or.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você vai fazer alguma coisa ou.."
 
 msgid "<08>{#p/basic}{~}Is that all you've got?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Isso é tudo que você tem?"
 
 msgid "<08>{#p/basic}{~}Glad we see eye to eye."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Feliz por vermos olho a olho."
 
 msgid "<08>{#p/basic}{~}Looking good, pal."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Parecendo bom, amigão."
 
 msgid "<08>{#p/basic}{~}That's the way."
-msgstr ""
+msgstr "<08>{#p/basic}{~}É assim que se faz."
 
 msgid "<08>{#p/basic}{~}Hmm.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Hmm.."
 
 msgid "<08>{#p/basic}{~}You make a con- vincing move.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você fez um movimento convincente.."
 
 msgid "<08>{#p/basic}{~}That's not what I meant!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não foi isso que eu quis dizer!"
 
 msgid "<08>{#p/basic}{~}I didn't want to fight you anyway."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu não queria lutar com você mesmo."
 
 msgid "<08>{#p/basic}{~}I knew this was a bad idea."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu sabia que essa era uma má ideia."
 
 msgid "<08>{#p/basic}{~}You are very strange."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você é bem estranho."
 
 msgid "<08>{#p/basic}{~}but charming none- theless."
-msgstr ""
+msgstr "<08>{#p/basic}{~}mas charmoso mesmo assim."
 
 msgid "<08>{#p/basic}{~}Sure, let's be friends."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Claro, meu amigo."
 
 msgid "<08>{#p/basic}{~}It's better that way."
-msgstr ""
+msgstr "<08>{#p/basic}{~}É melhor assim."
 
 msgid "<08>{#p/basic}{~}Um.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Um.."
 
 msgid "<08>{#p/basic}{~}If that's what you really want?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Se é isso que você realmente quer?"
 
 msgid "<08>{#p/basic}{~}It's time I stopped run- ning.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}É hora de parar de correr.."
 
 msgid "<08>{#p/basic}{~}.. from my death."
-msgstr ""
+msgstr "<08>{#p/basic}{~}.. da minha morte."
 
 msgid "<08>{#p/basic}{~}You'll get more out of this than me."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você vai tirar mais proveito disso do que eu."
 
 msgid "<08>{#p/basic}{~}By all means, take it."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Por tudo que isso significa, tome."
 
 msgid "<32>{#p/basic}* Silencio escapes!"
-msgstr ""
+msgstr "<32>{#p/basic}* Silencio escapa!"
 
 msgid ""
 "<32>{#p/alphys}* Silencio, huh?\n"
 "* Yeah, this one gets around a lot, actually."
 msgstr ""
+"<32>{#p/alphys}* Silencio, huh?\n"
+"* É, ele se safa bastante, na verdade."
 
 msgid "<32>{#p/alphys}* It's just Silencio."
-msgstr ""
+msgstr "<32>{#p/alphys}* É apenas o Silencio."
 
 msgid ""
 "<32>{#p/story}* SILENCIO - ATK 28 DEF 17\n"
 "* Shamelessly cowardly.\n"
 "* Along for the ride."
 msgstr ""
+"<32>{#p/story}* SILENCIO - ATK 28 DEF 17\n"
+"* Descaradamente covarde.\n"
+"* Junto com o passeio."
 
 msgid "<32>{#p/human}* (You flirt with Silencio.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você flerta com Silencio.)"
 
 msgid "<32>{#p/alphys}* Alright then..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Tudo bem então..."
 
 msgid "<09>{#p/basic}{~}You're adorable."
-msgstr ""
+msgstr "<09>{#p/basic}{~}Você é adorável."
 
 msgid ""
 "<32>{#p/human}* (You insult Silencio.)\n"
 "* (No effect.)"
 msgstr ""
+"<32>{#p/human}* (Você insulta Silêncio.)\n"
+"* (Sem efeito.)"
 
 msgid "<32>{#p/story}* Silencio is ignoring the others."
-msgstr ""
+msgstr "<32>{#p/story}* Silencio está ignorando os outros."
 
 msgid "<32>{#p/story}* Smells like a pit stop."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a pit stop."
 
 msgid "<08>{#p/basic}Out of the way."
-msgstr ""
+msgstr "<08>{#p/basic}Fora do caminho."
 
 msgid "<08>{#p/basic}You people are slow."
-msgstr ""
+msgstr "<08>{#p/basic}Você é muito lento."
 
 msgid "<08>{#p/basic}I'm not partici- pating."
-msgstr ""
+msgstr "<08>{#p/basic}Eu não estou participando."
 
 msgid "<08>{#p/basic}Reject the swarm."
-msgstr ""
+msgstr "<08>{#p/basic}Rejeite o enxame."
 
 msgid "<08>{#p/basic}Danger is for fools."
-msgstr ""
+msgstr "<08>{#p/basic}Perigo é para os tolos."
 
 msgid "<08>{#p/basic}Leave me alone."
-msgstr ""
+msgstr "<08>{#p/basic}Me deixa em paz."
 
 msgid "* Silencio"
-msgstr ""
+msgstr "* Silencio"
 
 msgid "<32>{#p/alphys}* Looks like it never wanted to do this to begin with."
-msgstr ""
+msgstr "<32>{#p/alphys}* Parece que ele nem queria fazer isso pra começar."
 
 msgid "<32>{#p/story}* Silencio doesn't need anyone else around."
-msgstr ""
+msgstr "<32>{#p/story}* Silencio não precisa de ninguém por perto."
 
 msgid "<08>{#p/basic}{~}I'll get along alright."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu vou ficar bem."
 
 msgid "<08>{#p/basic}{~}Partners are over- rated."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Parceiros são superestimados."
 
 msgid "<08>{#p/basic}{~}At last, alone time."
-msgstr ""
+msgstr "<08>{#p/basic}{~}No fim, um tempo sozinho."
 
 msgid "<08>{#p/basic}{~}Cha, cha."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Cha, cha."
 
 msgid "<08>{#p/basic}{~}I dance in peace."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu danço em paz."
 
 msgid "<08>{#p/basic}{~}I'm outta here."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu tô fora daqui."
 
 msgid "* Mushketeer"
-msgstr ""
+msgstr "* Mushketeer"
 
 msgid "<08>{#p/basic}{~}It's only fair to spare you too!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}É apenas justo te poupar também!"
 
 msgid ""
 "<08>{#p/basic}{~}I'm in over my mushroom cap!\n"
 "Retreat!"
 msgstr ""
+"<08>{#p/basic}{~}Estou acima do meu boné de cogumelo!\n"
+"Retirar-se!"
 
 msgid "<08>{#p/basic}{~}All's fair in love 'n' war!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Tudo é justo no amor e na guerra!"
 
 msgid "<08>{#p/basic}{~}From now on, we fight as allies!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}De agora em diante, nós lutamos como aliados!"
 
 msgid "<08>{#p/basic}{~}Hugging really is the key to peace!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Abraçar realmente é a chave da paz!"
 
 msgid "<08>{#p/basic}{~}This cycle of conflict must end!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Este ciclo de conflito deve acabar agora!"
 
 msgid "<08>{#p/basic}{~}The spoils of war are yours!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}As manchas da guerra são suas!"
 
 msgid "<33>{#p/basic}* Mushketeer has met their match!"
-msgstr ""
+msgstr "<33>{#p/basic}* Mushketeer encontrou seu rival!"
 
 msgid "<32>{#p/basic}* Mushketeer surrenders!"
-msgstr ""
+msgstr "<32>{#p/basic}* Mushketeer se rende!"
 
 msgid "<32>{#p/basic}* Mushketeer has been impaired!"
-msgstr ""
+msgstr "<32>{#p/basic}* Mushketeer foi prejudicado!"
 
 msgid "<08>{#p/basic}{~}Your reign of terror is over!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}O seu reino de terror acaba agora!"
 
 msgid "<08>{#p/basic}{~}Join me on the front- line."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Junto-se a mim na linha de frente."
 
 msgid "<08>{#p/basic}{~}Prepare for exe- cution!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Preparar para a execução!"
 
 msgid ""
 "<08>{#p/basic}{~}All's fair in love..\n"
 ".. and CORE."
 msgstr ""
+"<08>{#p/basic}{~}Tudo é justo no amor...\n"
+"e no CORE."
 
 msgid "<08>{#p/basic}{~}Nobody outguns Mush- keteer!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ninguém tira a arma do Mushketter!"
 
 msgid "<08>{#p/basic}{~}No time like war time.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Sem tempo como o tempo da guerra.."
 
 msgid "<32>{#p/asriel2}* Almost dead."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Quase morto."
 
 msgid "<32>{#p/story}* Mushketeer sets out on its final push."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer respira fundo e faz um último levante."
 
 msgid "<32>{#p/asriel2}* Mushketeer."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Mushketeer."
 
 msgid "<32>{#p/asriel2}* Why is this thing in our way?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Por que essa coisa tá no nosso caminho?"
 
 msgid "<32>{#p/alphys}* Please don't die."
-msgstr ""
+msgstr "<32>{#p/alphys}* Por favor não morra."
 
 msgid "<32>{#p/story}* Mushketeer blocks the way!"
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer bloqueia o caminho!"
 
 msgid "<32>{#p/story}* Mushketeer stands firm."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer se mantém firme."
 
 msgid "<32>{#p/story}* Mushketeer wants to be a hero."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer deseja ser um herói."
 
 msgid "<32>{#p/story}* Mushketeer is preparing for a shootout."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer está se preparando para um tiroteio."
 
 msgid "<32>{#p/story}* Mushketeer reaches around for their gun."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer pega sua arma."
 
 msgid "<32>{#p/story}* Smells like dry dirt."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a terra seca."
 
 msgid "<32>{#p/story}* Mushketeer, the pray 'n' spray specialist."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer, o especialista em orar e deixar ir."
 
 msgid "<32>{#p/story}* Mushketeer is on edge."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer está na ponte."
 
 msgid "<32>{#p/story}* Mushketeer darts their eyes around."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer lança os olhos ao redor."
 
 msgid ""
 "<32>{#p/asriel2}* Mushketeer, the gun-toter.\n"
 "* The dirty elder cousin of a mushroom far away..."
 msgstr ""
+"<32>{#p/asriel2}* Mushketeer, o portador de armas.\n"
+"* O primo mais velho sujo, de um cogumelo distante..."
 
 msgid ""
 "<32>{#p/alphys}* Mushketeer.\n"
 "* I have no idea who this is."
 msgstr ""
+"<32>{#p/alphys}* Mushketeer.\n"
+"* Eu não faço ideia de quem seja esse."
 
 msgid "<32>{#p/alphys}* It's just Mushketeer."
-msgstr ""
+msgstr "<32>{#p/alphys}* É só o Mushketeer."
 
 msgid ""
 "<32>{#p/story}* MUSHKETEER - ATK 30 DEF 28\n"
 "* Product of its upbringing.\n"
 "* Gun-toter."
 msgstr ""
+"<32>{#p/história}* MUSHKETEER - ATQ 30 DEF 28\n"
+"* Produto de sua educação.\n"
+"* Carregador de armas."
 
 msgid ""
 "<32>{#p/story}* MUSHKETEER - ATK 30 DEF 28\n"
 "* Reconsidering its upbringing.\n"
 "* Gun-tosser."
 msgstr ""
+"<32>{#p/história}* MUSHKETEER - ATQ 30 DEF 28\n"
+"* Reconsiderando sua educação.\n"
+"* Atirador de armas."
 
 msgid ""
 "<32>{#p/story}* MUSHKETEER - ATK 30 DEF 28\n"
 "* Forgetting its upbringing.\n"
 "* Heart-warmer."
 msgstr ""
+"<32>{#p/história}* MUSHKETEER - ATQ 30 DEF 28\n"
+"* Esquecendo sua educação.\n"
+"* Aquecedor de coração."
 
 msgid ""
 "<32>{#p/story}* MUSHKETEER - ATK 30 DEF 28\n"
 "* The war stops for no mushroom."
 msgstr ""
+"<32>{#p/story}* MUSHKETEER - ATQ 30 DEF 28\n"
+"* A guerra não para os cogumelos."
 
 msgid "<32>{#p/human}* (You invite Mushketeer to a private shootout.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você convida Mushketeer para um tiroteio privado.)"
 
 msgid "<32>{#p/alphys}* Nahhhh."
-msgstr ""
+msgstr "<32>{#p/alphys}* Nahhhh."
 
 msgid ""
 "<08>{#p/basic}{~}Hey!\n"
 "We don't do that here."
 msgstr ""
+"<08>{#p/basic}{~}Ei!\n"
+"Não faça isso aqui."
 
 msgid ""
 "<08>{#p/basic}{~}Well..\n"
 "If it's what you're into.."
 msgstr ""
+"<08>{#p/basic}{~}Bem..\n"
+"Se é isso que você quer.."
 
 msgid "<32>{#p/alphys}* Welp, that didn't work."
-msgstr ""
+msgstr "<32>{#p/alphys}* Tá, isso não funcionou."
 
 msgid "<32>{#p/story}* Oh no, Mushketeer is serious."
-msgstr ""
+msgstr "<32>{#p/story}* Oh não, Mushketter está sério."
 
 msgid "<32>{#p/alphys}* Wait, that worked?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Espera, isso funcionou?"
 
 msgid "<32>{#p/story}* Oh yes, Mushketeer is serious."
-msgstr ""
+msgstr "<32>{#p/story}* Ah sim, Mushketeer está sério."
 
 msgid "<32>{#p/human}* (You come closer to Mushketeer.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você se aproxima do Mushketter.)"
 
 msgid "<32>{#p/basic}* Mushketeer's attacks get more intense!"
-msgstr ""
+msgstr "<32>{#p/basic}* ataques de Mushketter ficam mais intensos!"
 
 msgid "<32>{#p/asriel2}* ...?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* ...?"
 
 msgid "<32>{#p/alphys}* Careful..."
-msgstr ""
+msgstr "<32>{#p/alphys}* Cuidado..."
 
 msgid "<32>{#p/human}* (You come right next to Mushketeer.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você está super próximo de Mushketeer.)"
 
 msgid "<32>{#p/basic}* Mushketeer's attacks go insane!"
-msgstr ""
+msgstr "<32>{#p/basic}* Ataques de Mushketter ficam insanos!"
 
 msgid "<32>{#p/asriel2}* $(name)...?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* $(name)...?"
 
 msgid "<32>{#p/alphys}* Oh my god, be careful...!"
-msgstr ""
+msgstr "<32>{#p/alphys}* Oh meu senhor, cuidado...!"
 
 msgid "<32>{#p/human}* (But you were already right next to Mushketeer.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas você já está perto o suficiente do Mushketter.)"
 
 msgid "<32>{#p/asriel2}* I am starting to get worried."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Eu estou começando a ficar preocupado."
 
 msgid "<32>{#p/alphys}* D-do anything other than this!!!"
-msgstr ""
+msgstr "<32>{#p/alphys}* F-faça alguma outra coisa!!!"
 
 msgid "<08>{#p/basic}{~}What do you think you're doing!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}O que você pensa que está fazendo!"
 
 msgid "<08>{#p/basic}{~}What're you playin' at!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}O que você está fazendo!?"
 
 msgid "<32>{#p/human}* (You try to disarm Mushketeer, but it's too far away.)"
 msgstr ""
+"<32>{#p/human}* (Você tenta desarmar Mushketter, mas ele está muito longe.)"
 
 msgid "<32>{#p/alphys}* You might try getting closer."
-msgstr ""
+msgstr "<32>{#p/alphys}* Você precisa se aproximar."
 
 msgid ""
 "<32>{#p/human}* (You try to disarm Mushketeer, but it's just out of reach.)"
 msgstr ""
+"<32>{#p/human}* (Você tenta desarmar Mushketter, mas ele está fora de "
+"alcance.)"
 
 msgid ""
 "<32>{#p/alphys}* I guess...\n"
 "* If you have to get closer..."
 msgstr ""
+"<32>{#p/alphys}* Eu acho...\n"
+"* Que se você se aproximar..."
 
 msgid "<32>{#p/human}* (You disarm Mushketeer.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você desarma Mushketter.)"
 
 msgid "<32>{#p/human}* (But Mushketeer had already been disarmed.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas Mushketter já foi desarmado.)"
 
 msgid ""
 "<32>{#p/human}* (You try to disarm Mushketeer, but Mushketeer knocks you "
 "back to where you started.)"
 msgstr ""
+"<32>{#p/human}* (Você tenta desarmar Mushketter, mas ele te chuta de volta "
+"para onde você começou.)"
 
 msgid "<32>{#p/asriel2}* We're wasting time."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Estamos perdendo tempo."
 
 msgid "<08>{#p/basic}{~}I guess this means no war..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu acho que isso significa que a guerra acabou...?"
 
 msgid "<08>{#p/basic}{~}\\x00*sigh*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*suspiro*"
 
 msgid "<08>{#p/basic}{~}Maybe it's for the best."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Talvez seja para o melhor."
 
 msgid ""
 "<32>{#p/story}* Mushketeer awaits confirmation of the end of this battle."
-msgstr ""
+msgstr "<32>{#p/story}* Mushketeer espera pela confirmação do fim da batalha."
 
 msgid "<08>{#p/basic}{~}Oh well.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Pois bem.."
 
 msgid "<08>{#p/basic}{~}It is what it is.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}É o que é.."
 
 msgid "* Hotwire"
-msgstr ""
+msgstr "* Hotwire"
 
 msgid "<08>{#p/basic}{~}No need to worry, pal"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não precisa se preocupar, parceiro"
 
 msgid "<08>{#p/basic}{~}I'll be out of your way now."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu vou sair fora do seu caminho agora."
 
 msgid "<08>{#p/basic}{~}Your at- titude's got me petri- fied"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Sua atitude me petrificou"
 
 msgid "<08>{#p/basic}{~}Escape is all but justi- fied!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Escapar é tudo menos justificado!"
 
 msgid "<08>{#p/basic}{~}No need to push and shove"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não há necessidade de empurrar e jogar"
 
 msgid "<08>{#p/basic}{~}We're already falling in love!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Nós já estamos nos apaixonando neste lugar!"
 
 msgid "<08>{#p/basic}{~}I vow to be your friend"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu prometo ser seu amigo"
 
 msgid "<08>{#p/basic}{~}Regard- less of what happens!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Independente do que tiver acontecido!"
 
 msgid "<08>{#p/basic}{~}This sensa- tion is astound- ing"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Essa sensação é surpreendente"
 
 msgid "<08>{#p/basic}{~}I can feel you all around me!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu posso te sentir aproximadamente!"
 
 msgid "<08>{#p/basic}{~}It's like I told my mum"
-msgstr ""
+msgstr "<08>{#p/basic}{~}É como eu disse para minha mãe"
 
 msgid "<08>{#p/basic}{~}I knew this day would come."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu sabia que esse dia chegaria."
 
 msgid "<08>{#p/basic}{~}Only a train wreck"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Apenas um acidente"
 
 msgid "<08>{#p/basic}{~}Wouldn't offer you a pay- check!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não lhe ofereceria um cheque para ser diferente!"
 
 msgid "<32>{#p/asriel2}* Hotwire."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Hotwire."
 
 msgid "<32>{#p/asriel2}* It's vulnerable."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Está vulnerável."
 
 msgid ""
 "<32>{#p/asriel2}* Hotwire, the rhyming machine.\n"
 "* Such cleverness wasted on a pointless pass time."
 msgstr ""
+"<32>{#p/asriel2}* Hotwire, a máquina de rimas.\n"
+"* Tal esperteza desperdiçada em um passa tempo inútil."
 
 msgid ""
 "<32>{#p/story}* HOTWIRE - ATK 29 DEF 14\n"
 "* For this devious monster, no scheme is too complex."
 msgstr ""
+"<32>{#p/história}* HOTWIRE - ATQ 29 DEF 14\n"
+"* Para este monstro tortuoso, nenhum esquema é muito complexo."
 
 msgid ""
 "<32>{#p/story}* HOTWIRE - ATK 29 DEF 14\n"
 "* The spark is fading for this otherwise ignited monster."
 msgstr ""
+"<32>{#p/história}* HOTWIRE - ATQ 29 DEF 14\n"
+"* A faísca está desaparecendo deste monstro incendiado."
 
 msgid ""
 "<32>{#p/story}* HOTWIRE - ATK 29 DEF 14\n"
 "* This smoking hothead's rhymes might just catch fire."
 msgstr ""
+"<32>{#p/história}* HOTWIRE - ATQ 29 DEF 14\n"
+"* As rimas dessa tocha podem pegar fogo"
 
 msgid ""
 "<32>{#p/story}* HOTWIRE - ATK 29 DEF 14\n"
 "* Re-kindling its love for rap, a-one-liner at a time."
 msgstr ""
+"<32>{#p/história}* HOTWIRE - ATQ 29 DEF 14\n"
+"* Reacendendo seu amor pelo rap, uma linha de cada vez."
 
 msgid "<32>{#p/human}* (You flirt with Hotwire.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você flerta com Hotwire.)"
 
 msgid "<32>{#p/basic}* Hotwire flirts back!"
-msgstr ""
+msgstr "<32>{#p/basic}* Hotwire flerta de volta!"
 
 msgid "<32>{#p/human}* (You let your best diss track loose on Hotwire.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você deixou sua melhor faixa solta no Hotwire.)"
 
 msgid "<08>{#p/basic}{~}If you wanna call me crap"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Se você quer me chamar de babaca"
 
 msgid "<08>{#p/basic}{~}You better know how to rap!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}É melhor saber rimar na batalha!"
 
 msgid "<08>{#p/basic}{~}Your disses are trash"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Suas rimas são um lixo"
 
 msgid "<08>{#p/basic}{~}So you might as well dash"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Então você deveria ir lavar..."
 
 msgid "<08>{#p/basic}{~}Before I turn you to ash!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Antes que eu te coloque no seu lugar!"
 
 msgid "<08>{#p/basic}{~}Bet you think you're so chic"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Aposto que você pensa tão fera"
 
 msgid "<08>{#p/basic}{~}You're just a wimpy pip- squeak"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Mas você não aguenta o ritmo da pantera"
 
 msgid "<08>{#p/basic}{~}I'm the original hot streak"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu estou na caminho original"
 
 msgid "<08>{#p/basic}{~}I make your insults look weak!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu faço seus insultos parecerem nada!"
 
 msgid "<32>{#p/human}* (You spark Hotwire's cables.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você acende os cabos de Hotwire.)"
 
 msgid "<32>{#p/basic}* Hotwire's confidence grows."
-msgstr ""
+msgstr "<32>{#p/basic}* Hotwire cresce sua confiança."
 
 msgid "<32>{#p/basic}* Hotwire is peaking!"
-msgstr ""
+msgstr "<32>{#p/basic}* Hotwire está no auge!"
 
 msgid "<32>{#p/basic}* Hotwire is already powered up."
-msgstr ""
+msgstr "<32>{#p/basic}* Hotwire já está super poderoso."
 
 msgid "<32>{#p/human}* (You rap at Hotwire.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você faz rap com o Hotwire.)"
 
 msgid "<32>{#p/basic}* Hotwire is indifferent towards you."
-msgstr ""
+msgstr "<32>{#p/basic}* Hotwire é indiferente em relação a você."
 
 msgid "<32>{#p/basic}* Hotwire is disappointed in you."
-msgstr ""
+msgstr "<32>{#p/basic}* Hotwire está desapontado com você."
 
 msgid "<32>{#p/basic}* Hotwire is disgusted at you."
-msgstr ""
+msgstr "<32>{#p/basic}* Hotwire tem nojo de você."
 
 msgid "<08>{#p/basic}{~}No shame on this flame"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Sem pena no fogo"
 
 msgid "<08>{#p/basic}{~}I cannot be tamed!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu não posso parar meu desejo caloroso!"
 
 msgid "<08>{#p/basic}{~}The name's Hotwire"
-msgstr ""
+msgstr "<08>{#p/basic}{~}O nome é Hotwire"
 
 msgid "<08>{#p/basic}{~}I'm super hot fire!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu super hot fire!"
 
 msgid "<08>{#p/basic}{~}Even a noose"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Até mesmo um laço"
 
 msgid "<08>{#p/basic}{~}Won't stop me letting loose!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não me para de ser um amasso!"
 
 msgid "<08>{#p/basic}{~}I'm ablaze and unfazed"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Estou em chamas e imperturbável"
 
 msgid "<08>{#p/basic}{~}Can't step to my ways!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Isso me torna imparável!"
 
 msgid "<08>{#p/basic}{~}I'm in the hot seat"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu estou na parte quente"
 
 msgid "<08>{#p/basic}{~}So bring on the heat!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Então sai da minha frente!"
 
 msgid "<08>{#p/basic}{~}My flirting is un- matched"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Meu flerte é incomparável"
 
 msgid "<08>{#p/basic}{~}There's no quip I won't catch!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Seu coração é flecha do vigário!"
 
 msgid "<08>{#p/basic}{~}I'll serve you a hot one"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu vou te servir uma quente agora"
 
 msgid "<08>{#p/basic}{~}Even if you're not one"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Mesmo se você não merecer"
 
 msgid "<08>{#p/basic}{~}Fire off like a shotgun!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Dispare como uma espingarda!"
 
 msgid "<08>{#p/basic}{~}This mark's about to get bruised"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Esta marca está prestes a ficar machucada"
 
 msgid "<08>{#p/basic}{~}Four little words to describe the hurt"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Quatro palavrinhas para descrever a dor"
 
 msgid "<08>{#p/basic}{~}Lost, con- fused, beaten, abused!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Confuso, perdido, abatido e abusado!"
 
 msgid "<08>{#p/basic}{~}Danger, danger, in comes a long- ranger"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Perigo, perigo, entra um longo prazo"
 
 msgid "<08>{#p/basic}{~}A sniper so wack, it's a life- changer"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Um atirador tão maluco, é uma mudança de vida"
 
 msgid "<08>{#p/basic}{~}Only need one bullet in the chamber!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Só precisa de uma bala na caçamba!"
 
 msgid "<08>{#p/basic}{~}I see you like it lovey dovey"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Vejo que você gosta de amor"
 
 msgid "<08>{#p/basic}{~}Ready, steady, hot and heavy"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Carinhoso, pronto, quente e diferente"
 
 msgid "<08>{#p/basic}{~}This track's a real heart attack!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Esta faixa é um verdadeiro ataque cardíaco!"
 
 msgid "<08>{#p/basic}{~}I flow like I'm stream- ing"
-msgstr ""
+msgstr "<08>{#p/basic}{~}E o seu flow te coloca no ritmo"
 
 msgid "<08>{#p/basic}{~}Winsome smile is beaming"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Sorriso cativante está radiante"
 
 msgid "<08>{#p/basic}{~}I'll whip you so bad, ooh"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu vou te chicotear tanto, ooh"
 
 msgid "<08>{#p/basic}{~}You'll wish you were dreaming"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você deseja estar sonhando acordado"
 
 msgid "<08>{#p/basic}{~}On a mission, consum- mated"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Pois está perdendo pro cara esquentado"
 
 msgid "<09>{#p/basic}{~}I'm bi- partisan, nomi- nated"
-msgstr ""
+msgstr "<09>{#p/basic}{~}Sou bipartidário, nomeado"
 
 msgid "<08>{#p/basic}{~}You're just a citizen, domi- nated"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você é um cidadão dominado"
 
 msgid "<08>{#p/basic}{~}Even your SOUL is unculti- vated!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Até mesmo sua ALMA é corrompida!"
 
 msgid "<08>{#p/basic}{~}I'm a bonafide killer"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu sou um assassino genuíno"
 
 msgid "<08>{#p/basic}{~}You're a waste dist- iller"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você é um distribuidor de resíduos"
 
 msgid "<08>{#p/basic}{~}Your bars are lame fillers"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Suas barras são enchimentos coxos"
 
 msgid "<08>{#p/basic}{~}Whereas mine are straight thril- lers!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Considerando que os meus são thrillers diretos!"
 
 msgid "<08>{#p/basic}{~}You're flirting with fire, bud"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você está flertando com o fogo, amigo"
 
 msgid "<08>{#p/basic}{~}No shot you'll step to this stud"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Sem que você vai conquistar este garanhão"
 
 msgid "<08>{#p/basic}{~}One mistake is all it takes"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Um erro é tudo que se precisa"
 
 msgid "<08>{#p/basic}{~}Before I land a rhyme in your face!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Pra eu te encher de rima!"
 
 msgid "<32>{#p/story}* Hotwire is looking for that extra little boost."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire está procurando por um pequeno impulso extra."
 
 msgid "<32>{#p/story}* Hotwire is rhyming up a storm."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire está rimando na tempestade."
 
 msgid "<32>{#p/story}* Hotwire is protected by its winsome smile."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire é protegido por seu sorriso cativante."
 
 msgid "<32>{#p/story}* Hotwire reaches for the turbocharger."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire alcança o turbo carregador."
 
 msgid "<32>{#p/story}* Smells like lyricism."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a lirismo."
 
 msgid "<32>{#p/story}* Hotwire is shocked at its own brilliance."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire está chocado com seu próprio brilhantismo."
 
 msgid "<32>{#p/story}* Hotwire begins its ignition sequence... manually."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire começa sua sequência de ignição... manualmente."
 
 msgid "<32>{#p/story}* Hotwire gets things going whether we like it or not."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire continua indo, gostando você ou não."
 
 msgid "<32>{#p/story}* Hotwire is feeling electric."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire está se sentindo elétrico."
 
 msgid "<32>{#p/story}* Hotwire has reached its true level."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire chegou no seu verdadeiro nível."
 
 msgid "<32>{#p/story}* Hotwire is turbocharged."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire está turbo carregador."
 
 msgid "<32>{#p/story}* Hotwire is spiraling out of control."
-msgstr ""
+msgstr "<32>{#p/story}* Hotwire está ficando fora de controle."
 
 msgid "* Perigee"
-msgstr ""
+msgstr "* Perigee"
 
 msgid "<08>{#p/basic}{~}I shall be else- where."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu deveria estar em outro lugar."
 
 msgid "<08>{#p/basic}{~}It is no longer safe for me here."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não é seguro para mim aqui."
 
 msgid "<08>{#p/basic}{~}Is this love?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Isto é amor?"
 
 msgid "<08>{#p/basic}{~}I look forward to our friend- ship."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu estou olhando pela nossa amizade."
 
 msgid ""
 "<08>{#p/basic}{~}Thank you..\n"
 "So very much.."
 msgstr ""
+"<08>{#p/basic}{~}Obrigado...\n"
+"Muito obrigado..."
 
 msgid "<08>{#p/basic}{~}I under- stand why I must die."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu entendo o motivo de ter que morrer."
 
 msgid ""
 "<08>{#p/basic}{~}Please..\n"
 "Live on in my name.."
 msgstr ""
+"<08>{#p/basic}{~}Por favor..\n"
+"Viva em meu nome.."
 
 msgid "<08>{#p/basic}{~}Take as much as you need."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Pegue o tanto que precisar."
 
 msgid "<32>{#p/asriel2}* Perigee."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Perigee."
 
 msgid ""
 "<32>{#p/asriel2}* Perigee, the lethargic bird.\n"
 "* Spends too much time in its own happy-go-lucky head."
 msgstr ""
+"<32>{#p/asriel2}* Perigee, o pássaro letárgico.\n"
+"* Passa muito tempo em sua própria cabeça despreocupada."
 
 msgid ""
 "<32>{#p/story}* PERIGEE - ATK 25 DEF 0\n"
 "* This bird of peace believes its feathers heal all wounds."
 msgstr ""
+"<32>{#p/story}* PERIGEE - ATQ 25 DEF 0\n"
+"* Este pássaro da paz acredita que suas asas curam todos os pecados."
 
 msgid ""
 "<33>{#p/story}* PERIGEE - ATK 25 DEF 0\n"
 "* This bird of peace is trying\n"
 "  to use its feathers to recover."
 msgstr ""
+"<33>{#p/story}* PERIGEE - ATQ 25 DEF 0\n"
+"* Este pássaro da paz está tentando usar suas asas para cuidar-se."
 
 msgid ""
 "<32>{#p/story}* PERIGEE - ATK 25 DEF 0\n"
 "* This bird of peace is also a patron of the arts."
 msgstr ""
+"<32>{#p/história}* PERIGEU - ATQ 25 DEF 0\n"
+"* Este pássaro da paz também é um patrono das artes."
 
 msgid ""
 "<32>{#p/story}* PERIGEE - ATK 25 DEF 0\n"
 "* This bird of peace appreciates your love songs platonically."
 msgstr ""
+"<32>{#p/história}* PERIGEU - ATQ 25 DEF 0\n"
+"* Este pássaro da paz aprecia suas canções de amor platonicamente."
 
 msgid "<32>{#p/human}* (You flirt with Perigee.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você flerta com o Perigee.)"
 
 msgid "<32>{#p/human}* (You shout at Perigee.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você grita com o Perigee.)"
 
 msgid "<08>{#p/basic}{~}Chirp, chirp."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Chirp, chirp."
 
 msgid "<08>{#p/basic}{~}\\x00*calming whistle*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*apito calmante*"
 
 msgid "<08>{#p/basic}{~}Life is good."
-msgstr ""
+msgstr "<08>{#p/basic}{~}A vida é boa."
 
 msgid "<08>{#p/basic}{~}\\x00*flap- ping sounds*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*sons de flap-ping*"
 
 msgid "<08>{#p/basic}{~}Peace and tran- quility."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Paz e tranquilidade."
 
 msgid ""
 "<08>{#p/basic}{~}Hm?\n"
 "I don't under- stand..."
 msgstr ""
+"<08>{#p/basic}{~}Hm?\n"
+"Eu não entendo..."
 
 msgid "<08>{#p/basic}{~}It's okay, I can help you feel better."
-msgstr ""
+msgstr "<08>{#p/basic}{~} Está tudo bem, posso te fazer sentir melhor."
 
 msgid "<08>{#p/basic}{~}Here, I'll help you calm down."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Aqui, vou te ajudar a se acalmar."
 
 msgid "<08>{#p/basic}{~}Don't be upset."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não fique com raiva."
 
 msgid "<08>{#p/basic}{~}You can always whistle another tune."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Você sempre pode assobiar outra música."
 
 msgid "<08>{#p/basic}{~}Ah, that cute remark was your song?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ah, essa bela remarca foi seu som?"
 
 msgid "<08>{#p/basic}{~}I accept it, and your gesture."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu aceito e aceito seu gesto."
 
 msgid "<08>{#p/basic}{~}I accept your gesture."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eu aceito seu gesto."
 
 msgid "<08>{#p/basic}{~}\\x00*intent whistle*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*apito de intenção*"
 
 msgid "<32>{#p/story}* Perigee awaits your gesture."
-msgstr ""
+msgstr "<32>{#p/story}* Perigee espera seu gesto."
 
 msgid "<32>{#p/human}* (But there was nothing to bow for yet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Mas não havia nada para se curvar ainda.)"
 
 msgid ""
 "<32>{#p/human}* (You bow.)\n"
 "* (Perigee bows back.)\n"
 "* (An understanding is reached.)"
 msgstr ""
+"<32>{#p/human}* (Você se curva.) \n"
+"* (Perigee se curva de volta.)\n"
+"* (Um entendimento de ambas partes.)"
 
 msgid ""
 "<32>{#p/human}* (You whistle a tranquil tune.)\n"
 "* (Perigee whistles back.)\n"
 "* (The song goes on and on...)"
 msgstr ""
+"<32>{#p/human}* (Você cantarola uma tom tranquilo.)\n"
+"* (Perigee cantarola de volta e o som vai e volta...)"
 
 msgid "<32>{#p/story}* Perigee orbits closeby."
-msgstr ""
+msgstr "<32>{#p/story}* Perigee voa próximo."
 
 msgid "<32>{#p/story}* Perigee is living fancy-free."
-msgstr ""
+msgstr "<32>{#p/story}* Perigee está vivendo livre da moda."
 
 msgid "<32>{#p/story}* Perigee is as happy as could be."
-msgstr ""
+msgstr "<32>{#p/story}* Perigee está tão feliz quando poderia."
 
 msgid "<32>{#p/story}* Perigee maintains a feather- light touch."
-msgstr ""
+msgstr "<32>{#p/story}* O Perigee mantém um toque leve como uma pena."
 
 msgid "<32>{#p/story}* Smells like spare bread."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a pão amanhecido."
 
 msgid "<32>{#p/story}* Perigee is satisfied."
-msgstr ""
+msgstr "<32>{#p/story}* Perigee está satisfeito."
 
 msgid "<32>{#p/story}* Perigee's time is near."
-msgstr ""
+msgstr "<32>{#p/story}* O tempo de Perigee está próximo."
 
 msgid "* Tsunderidex"
-msgstr ""
+msgstr "* Tsunderidex"
 
 msgid "<08>{#p/basic}{~}Y-yeah, I didn't want you around anyway!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}É, e-eu nem te queria por perto mesmo!"
 
 msgid ""
 "<08>{#p/basic}{~}Y-yeah!\n"
 "Get outta my way!"
 msgstr ""
+"<08>{#p/basic}{~}É!\n"
+"S-sai daqui!"
 
 msgid ""
 "<08>{#p/basic}{~}Um..\n"
 "W-well.."
 msgstr ""
+"<08>{#p/basic}{~}Hmm..\n"
+"B-bem.."
 
 msgid "<08>{#p/basic}{~}.. well, I love you too!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}.. bem, eu te amo também!"
 
 msgid "<08>{#p/basic}{~}J-just friends, huh?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}A-apenas amigos, huh?"
 
 msgid "<08>Sure thing, I guess.."
-msgstr ""
+msgstr "<08>Claro, eu acho..."
 
 msgid ""
 "<08>{#p/basic}{~}Eeeh?\n"
 "What are you.."
 msgstr ""
+"<08>{#p/basic}{~}Eeeh?\n"
+"O que você está.."
 
 msgid ""
 "<08>{#p/basic}{~}.. oh..\n"
 "Thanks, eheh.."
 msgstr ""
+"<08>{#p/basic}{~}.. oh..\n"
+"Obrigado, eheh.."
 
 msgid "<08>{#p/basic}{~}If it's what you want.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Se é isso que você deseja.."
 
 msgid "<08>{#p/basic}{~}I-I'll do it!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}E-eu vou fazer isso!"
 
 msgid "<08>{#p/basic}{~}D-don't think it means I like you!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}N-não pense que isso significa que eu gosto de você!"
 
 msgid "<32>{#p/asriel2}* Tsunderidex, a monster I have utterly no words for."
 msgstr ""
+"<32>{#p/asriel2}* Tsunderidex, um monstro ao qual eu não tenho palavras."
 
 msgid ""
 "<32>{#p/story}* TSUNDERIDEX - ATK 25 DEF 26\n"
 "* Seems mean, but does it secretly like you?"
 msgstr ""
+"<32>{#p/story}* TSUNDERIDEX - ATQ 25 DEF 26\n"
+"* Parece grosso, mas gosta de você secretamente?"
 
 msgid ""
 "<32>{#p/story}* TSUNDERIDEX - ATK 25 DEF 26\n"
 "* Caught in the self-sustaining battle of the tsunderes."
 msgstr ""
+"<32>{#p/story}* TSUNDERIDEX - ATQ 25 DEF 26\n"
+"* Pego em uma batalha de sustentação própria tsunderes."
 
 msgid ""
 "<32>{#p/story}* TSUNDERIDEX - ATK 25 DEF 26\n"
 "* This hesitant lover's engine is now yours to ride."
 msgstr ""
+"<32>{#p/story}* TSUNDERIDEX - ATQ 25 DEF 26\n"
+"* A máquina hesitante de amor agora é sua para controlar."
 
 msgid ""
 "<32>{#p/story}* TSUNDERIDEX - ATK 25 DEF 26\n"
 "* Seems... jealous."
 msgstr ""
+"<32>{#p/história}* TSUNDERIDEX - ATQ 25 DEF 26\n"
+"* Parece... cioso."
 
 msgid ""
 "<32>{#p/story}* TSUNDERIDEX - ATK 25 DEF 26\n"
 "* Ready to burst."
 msgstr ""
+"<32>{#p/história}* TSUNDERIDEX - ATK 25 DEF 26\n"
+"* Pronto para estourar."
 
 msgid "<32>{#p/human}* (You intentionally ignore Tsunderidex's presence.)"
 msgstr ""
+"<32>{#p/human}* (Você intencionalmente ignora a presença de Tsunderidex.)"
 
 msgid "<32>{#p/human}* (You tell Tsunderidex it has an impressive shield.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que ele tem um escudo "
+"impressionante.)"
 
 msgid "<32>{#p/human}* (You tell Tsunderidex it has nice cannons.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você diz a Tsunderidex que ele tem asas incríveis.)"
 
 msgid "<32>{#p/human}* (You tell Tsunderidex it has a powerful jump drive.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que ele tem um grande poder de vôo.)"
 
 msgid ""
 "<32>{#p/human}* (You tell Tsunderidex that you like its taste in virtual "
 "novels.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que gostou das opiniões dele sobre "
+"novelas.)"
 
 msgid "<32>{#p/human}* (You tell Tsunderidex that it has cute engine struts.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que ele tem uma engenharia fofa.)"
 
 msgid ""
 "<32>{#p/human}* (You tell Tsunderidex that you'd like to supercharge its "
 "capacitor.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que gostaria de ver seu super "
+"capacitador.)"
 
 msgid ""
 "<32>{#p/human}* (You tell Tsunderidex that you'd like to clean it to a "
 "sparkle.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que gostaria de limpá-lo até "
+"brilhar.)"
 
 msgid ""
 "<32>{#p/human}* (You tell Tsunderidex its nose should be nuzzling yours.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que seu nariz deve estar acariciando "
+"o seu.)"
 
 msgid ""
 "<32>{#p/human}* (You tell Tsunderidex its roof scoop is second to none.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Você diz ao Tsunderidex que seu teto é inigualável.)"
 
 msgid "<32>{#p/human}* (You tell Tsunderidex it has breathtaking wings.)"
 msgstr ""
+"<32>{#p/human}* (Você diz Tsunderidex que suas turbinas são de tirar o "
+"fôlego.)"
 
 msgid "<32>{#p/human}* (You tell Tsunderidex it has a captivating underglow.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que ele tem um brilho cativante.)"
 
 msgid ""
 "<32>{#p/human}* (You tell Tsunderidex you'd like to go where no human has "
 "gone before.)"
 msgstr ""
+"<32>{#p/human}* (Você diz a Tsunderidex que gostaria de ir a onde nenhum "
+"humano jamais foi.)"
 
 msgid ""
 "<32>{#p/human}* (You move in close to Tsunderidex to siphon its battery "
 "power.)"
 msgstr ""
+"<32>{#p/human}* (Você se aproxima de Tsunderidex para sugar a energia da "
+"bateria.)"
 
 msgid ""
 "<32>{#p/human}* (You activate the slipstream flight module on Tsunderidex's "
 "engines.)"
 msgstr ""
+"<32>{#p/human}* (Você ativa o módulo de vôo de turbilhão nos motores de "
+"Tsunderidex.)"
 
 msgid ""
 "<32>{#p/human}* (You activate the transphasic firing mechanism on "
 "Tsunderidex's cannons.)"
 msgstr ""
+"<32>{#p/human}* (Você ativa o mecanismo de disparo transfásico nos canhões "
+"de Tsunderidex.)"
 
 msgid ""
 "<32>{#p/human}* (You activate the auto-adaptive modulation on Tsunderidex's "
 "shields.)"
 msgstr ""
+"<32>{#p/human}* (Você ativa a modulação auto-adaptativa nos escudos de "
+"Tsunderidex.)"
 
 msgid ""
 "<33>{#p/human}* (You can't activate further.)\n"
 "* (All of Tsunderidex's body parts are fully activated.)"
 msgstr ""
+"<33>{#p/human}* (Você não pode ativar mais.)\n"
+"* (Todas as partes do corpo de Tsunderidex estão totalmente ativadas.)"
 
 msgid "<08>{#p/basic}{~}It's not like I LIKE you."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Não é como se eu gostasse de VOCÊ."
 
 msgid "<08>{#p/basic}{~}Id.. idiot!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Id.. idiota!"
 
 msgid ""
 "<08>{#p/basic}{~}Hmph!\n"
 "Don't get in my way."
 msgstr ""
+"<08>{#p/basic}{~}Hmph!\n"
+"Não fica no meu caminho!"
 
 msgid ""
 "<08>{#p/basic}{~}(Eep..!)\n"
 "Human.."
 msgstr ""
+"<08>{#p/basic}{~}(Eep..!)\n"
+"Humano.."
 
 msgid ""
 "<08>{#p/basic}{~}..\n"
@@ -20485,189 +20688,240 @@ msgid ""
 "..\n"
 "..?"
 msgstr ""
+"<08>{#p/basic}{~}..\n"
+"H-humano\n"
+"..\n"
+"..?"
 
 msgid ""
 "<08>{#p/basic}{~}Huh!?\n"
 "Y-you sicko!"
 msgstr ""
+"<08>{#p/basic}{~}Huh!?\n"
+"S-seu tarado!"
 
 msgid ""
 "<08>{#p/basic}{~}I.. I think not!\n"
 "Hmph!"
 msgstr ""
+"<08>{#p/basic}{~}Eu... eu não acho!\n"
+"Hmph!"
 
 msgid "<08>{#p/basic}{~}Is that true..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Isso é verdade..?"
 
 msgid ""
 "<08>{#p/basic}{~}I..\n"
 "Th-thank you.."
 msgstr ""
+"<08>{#p/basic}{~}Eu..\n"
+"Mu-muito obrigado.."
 
 msgid ""
 "<08>{#p/basic}{~}W-what?\n"
 "Right now???"
 msgstr ""
+"<08>{#p/basic}{~}O-o que?\n"
+"Agora???"
 
 msgid "<08>{#p/basic}{~}This is too much.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Isso é demais.."
 
 msgid ""
 "<08>{#p/basic}{~}H-hey!\n"
 "That's not fair!"
 msgstr ""
+"<08>{#p/basic}{~}E-ei!\n"
+"Isso não é justo!"
 
 msgid "<08>{#p/basic}{~}Ugh, you two are being weird."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ugh, vocês dois estão sendo estranhos."
 
 msgid "<08>{#p/basic}{~}S-stay away from them!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}F-fique longe dele!"
 
 msgid "<08>{#p/basic}{~}Wh.. what are you doing??"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Oq... o que você está fazendo?"
 
 msgid ""
 "<08>{#p/basic}{~}Um.\n"
 "Human."
 msgstr ""
+"<08>{#p/basic}{~}Um.\n"
+"Humano."
 
 msgid ""
 "<08>{#p/basic}{~}Oh..\n"
 "..\n"
 "W-wow.."
 msgstr ""
+"<08>{#p/basic}{~}Oh..\n"
+"..\n"
+"W-wow.."
 
 msgid ""
 "<08>{#p/basic}{~}D-don't do that!\n"
 "Please."
 msgstr ""
+"<08>{#p/basic}{~}N-não faça isso!\n"
+"Por favor."
 
 msgid ""
 "<08>{#p/basic}{~}..\n"
 "..\n"
 "(Why..)"
 msgstr ""
+"<08>{#p/basic}{~}..\n"
+"..\n"
+"(Por que..)"
 
 msgid "<08>{#p/basic}{~}Quit stealing my thunder!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Pare de roubar meu trovão!"
 
 msgid ""
 "<08>{#p/basic}{~}Hmph!\n"
 "Ignore me all you want!"
 msgstr ""
+"<08>{#p/basic}{~}Hmph!\n"
+"Me ignora o tanto que quiser!"
 
 msgid ""
 "<08>{#p/basic}{~}Yeah!\n"
 "It's not like I want you here!"
 msgstr ""
+"<08>{#p/basic}{~}É!\n"
+"Não é como se eu quisesse você aqui!"
 
 msgid "<32>{#p/asriel2}* Are you actually going to do this right now?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Você realmente vai fazer isso agora?"
 
 msgid "<32>{#p/story}* Tsunderidex is checking out its newly activated parts."
-msgstr ""
+msgstr "<32>{#p/story}* Tsunderidex está checando suas novas partes atividades."
 
 msgid "<32>{#p/asriel2}* This is a waste of time..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Isso é uma perda de tempo..."
 
 msgid ""
 "<32>{#p/story}* Tsunderidex is obsessing over its newly activated parts."
 msgstr ""
+"<32>{#p/story}* Tsunderidex está obcecado com suas novas partes atividades."
 
 msgid ""
 "<32>{#p/story}* Tsunderidex is worried about its newly activated parts."
 msgstr ""
+"<32>{#p/story}* Tsunderidex está preocupado com suas novas partes ativadas."
 
 msgid "<32>{#p/asriel2}* Tsunderidex."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Tsunderidex."
 
 msgid "<32>{#p/story}* Tsunderidex looks over, then turns up its nose."
-msgstr ""
+msgstr "<32>{#p/story}* Tsunderidex olha e depois torce o nariz."
 
 msgid "<32>{#p/story}* Tsunderidex shakes its nose dimissively at you."
-msgstr ""
+msgstr "<32>{#p/story}* Tsunderidex balança o nariz com desdém para você."
 
 msgid "<32>{#p/story}* Tsunderidex \"accidentally\" bumps you with its nacelles."
 msgstr ""
+"<32>{#p/story}* Tsunderidex \"acidentalmente\" te acerta com um dos seus "
+"ventos."
 
 msgid "<32>{#p/story}* Tsunderidex sets its cannons to \"stun.\""
-msgstr ""
+msgstr "<32>{#p/story}* Tsunderidex define seus canhões para \"atordoar.\""
 
 msgid "<32>{#p/story}* Smells like space cacti."
-msgstr ""
+msgstr "<32>{#p/story}* Cheira a cacto espacial."
 
 msgid "<32>{#p/story}* Tsunderidex is looking away shyly."
-msgstr ""
+msgstr "<32>{#p/story}* Tsunderidex está olhando longe."
 
 msgid "<32>{#p/story}* Tsunderidex's engines are leaking plasma."
-msgstr ""
+msgstr "<32>{#p/story}* Os motores de Tsunderidex estão deixando cair plasma."
 
 msgid "* RG 01"
-msgstr ""
+msgstr "* RG 01"
 
 msgid "* RG 03"
-msgstr ""
+msgstr "* RG 03"
 
 msgid "<11>{#p/basic}{~}Like, what are you even doing?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Tipo, o que você tá fazendo?"
 
 msgid "<11>{#p/undyne}{#p/basic}{~}This ain't it, chief."
-msgstr ""
+msgstr "<11>{#p/undyne}{#p/basic}{~}Não é isso, chefe."
 
 msgid ""
 "<32>{#p/asriel2}* RG 01...\n"
 "* There's really not much to say about these guys."
 msgstr ""
+"<32>{#p/asriel2}* RG 01...\n"
+"* Não tem muito o que dizer sobre esses caras."
 
 msgid ""
 "<32>{#p/story}* RG 01 - ATK 30 DEF 20\n"
 "* A confident lover who seems intent on ending you."
 msgstr ""
+"<32>{#p/story}* RG 01 - ATQ 30 DEF 20\n"
+"* Um amador confidente que deseja acabar com você."
 
 msgid ""
 "<32>{#p/story}* RG 03 - ATK 30 DEF 20\n"
 "* Conspicuous cowgirl attitude.\n"
 "* Skeptic."
 msgstr ""
+"<32>{#p/história}* RG 03 - ATQ 30 DEF 20\n"
+"* Atitude conspícua de cowgirl.\n"
+"* Cética."
 
 msgid ""
 "<32>{#p/story}* RG 01 - ATK 30 DEF 20\n"
 "* Intent on ending you, even if it kills him."
 msgstr ""
+"<32>{#p/story}* RG 01 - ATK 30 DEF 20\n"
+"* Na intenção de acabar com você, mesmo que ele também morra."
 
 msgid ""
 "<32>{#p/story}* RG 03 - ATK 30 DEF 20\n"
 "* Planning on sharpening her falchion soon."
 msgstr ""
+"<32>{#p/história}* RG 03 - ATK 30 DEF 20\n"
+"* Planejando afiar seu falchion em breve."
 
 msgid ""
 "<32>{#p/story}* RG 03 - ATK 30 DEF 20\n"
 "* Re-united at last..."
 msgstr ""
+"<32>{#p/story}* RG 03 - ATK 30 DEF 20\n"
+"* Reunidas no fim..."
 
 msgid ""
 "<32>{#p/story}* RG 03 - ATK 30 DEF 20\n"
 "* Broken."
 msgstr ""
+"<32>{#p/story}* RG 03 - ATQ 30 DEF 20\n"
+"* Quebrada."
 
 msgid ""
 "<33>{#p/story}* RG 03 - ATK 30 DEF 20\n"
 "* Wants badly to say something..."
 msgstr ""
+"<33>{#p/história}* RG 03 - ATK 30 DEF 20\n"
+"* Quer muito dizer alguma coisa..."
 
 msgid ""
 "<32>{#p/story}* RG 03 - ATK 30 DEF 20\n"
 "* Eager to make up for her lack of conviction."
 msgstr ""
+"<32>{#p/história}* RG 03 - ATQ 30 DEF 20\n"
+"* Ansiosa para compensar sua falta de convicção."
 
 msgid "<11>{#p/basic}{~}Team attack."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Ataque em conjunto."
 
 msgid "<11>{#p/basic}{~}We'll stop you..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Nós vamos te parar..."
 
 msgid "<11>{#p/basic}{~}We're just friends..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Estamos só na amizade..."
 
 msgid "<11>{#p/basic}{~}You're no match for us."
 msgstr ""
