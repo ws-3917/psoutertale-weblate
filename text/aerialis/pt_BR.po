@@ -22030,7 +22030,7 @@ msgid "Critical hits with this weapon deal MASSIVE damage."
 msgstr "Ataques críticos com essa arma dão um dano INSANO."
 
 msgid "Laser Rifle"
-msgstr ""
+msgstr "Rifle de Laser"
 
 msgid "<32>{#p/human}* (You throw away the Laser Rifle.)"
 msgstr ""
