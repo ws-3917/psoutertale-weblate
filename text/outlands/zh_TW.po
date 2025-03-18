@@ -269,9 +269,7 @@ msgid "<25>{#f/5}* You were unavailable at the time."
 msgstr "<25>{#f/5}* 但當時你沒空。"
 
 msgid "<25>{#f/1}* ... you did have a good reason, did you not?"
-msgstr ""
-"<25>{#f/1}* ...你肯定是在\n"
-"  忙些什麼吧？"
+msgstr "<25>{#f/1}* ...你肯定是在忙些什麼吧？"
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* Who knew a robot could have such a beautiful voice?"
