@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-18 15:07+0000\n"
-"Last-Translator: Zenry <poolkol34@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -9907,71 +9907,81 @@ msgid ""
 "<25>{#p/toriel}{#f/0}* Ah, of course.\n"
 "* That must be where you crash-landed."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Ах, конечно.\n"
+"* Должно быть, именно тут ты совершил аварийную посадку."
 
 msgid "<25>{#f/0}* The other humans who came here landed there, too."
-msgstr ""
+msgstr "<25>{#f/0}* Другие люди, прибывшие сюда, тоже приземлялись тут."
 
 msgid "<25>{#f/1}* There must be something about the force field..."
-msgstr ""
+msgstr "<25>{#f/1}* Должно быть, что-то не так с силовым полем..."
 
 msgid ""
 "<25>{#f/0}* ... which always makes incoming craft fly in on this vector."
 msgstr ""
+"<25>{#f/0}* ...которое всегда заставляет приближающиеся корабли лететь по "
+"этому вектору."
 
 msgid "<25>{#p/toriel}{#f/1}* Is that where I first found you?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Это место, где я впервые нашла тебя?"
 
 msgid ""
 "<25>{#f/5}* That talking star who tormented you has been a pest for some "
 "time."
-msgstr ""
+msgstr "<25>{#f/5}* Эта говорящая звезда, мучившая тебя, уже конкретно надоела."
 
 msgid "<25>{#f/1}* I have tried to reason with him before, but..."
-msgstr ""
+msgstr "<25>{#f/1}* Я уже пыталась урезонить его, но..."
 
 msgid "<25>{#f/9}* My efforts never truly got anywhere."
-msgstr ""
+msgstr "<25>{#f/9}* Мои усилия ни к чему так и не привели."
 
 msgid "<25>{#f/5}* All alone out there, by yourself..."
-msgstr ""
+msgstr "<25>{#f/5}* Ты был там совсем один, сам по себе..."
 
 msgid "<25>{#f/0}* It is a good thing I was there to bring you in."
-msgstr ""
+msgstr "<25>{#f/0}* Хорошо, что я была там и привела тебя."
 
 msgid "<25>{#p/toriel}{#f/1}* The entrance to the Outlands..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Вход в Запределье..."
 
 msgid "<25>{#f/0}* Indeed, the area before this is not actually part of it."
-msgstr ""
+msgstr "<25>{#f/0}* На самом деле, область перед ним не является его частью."
 
 msgid "<25>{#f/5}* It is... more of an unmarked crash site."
-msgstr ""
+msgstr "<25>{#f/5}* Это скорее... неотмеченное место крушения."
 
 msgid ""
 "<25>{#f/1}* After the first human crashed directly INTO the Outlands..."
 msgstr ""
+"<25>{#f/1}* После того, как первый человек врезался ПРЯМО в Запределье..."
 
 msgid "<25>{#f/0}* A separate platform seemed an obvious addition."
-msgstr ""
+msgstr "<25>{#f/0}* Отдельная платформа казалась очевидным дополнением."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* The puzzle in this room works well for "
 "demonstrations."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Головоломка в этой комнате хорошо подходит для "
+"демонстраций."
 
 msgid "<25>{#f/1}* After all, why else would I build it?"
-msgstr ""
+msgstr "<25>{#f/1}* В конце концов, зачем бы я её вообще построила?"
 
 msgid "<25>{#f/5}* Unfortunately, not every human understood this."
-msgstr ""
+msgstr "<25>{#f/5}* К сожалению, не все люди понимали это."
 
 msgid ""
 "<25>{#f/3}* One of them even tried running at the security field directly..."
 msgstr ""
+"<25>{#f/3}* Один из них даже попытался бежать прямо на поле безопасности..."
 
 msgid ""
 "<25>{#f/0}* ... suffice it to say, the use of healing magic was required."
 msgstr ""
+"<25>{#f/0}* ...достаточно сказать, что потребовалось использование магии "
+"исцеления."
 
 msgid ""
 "<25>{#p/toriel}* If this puzzle is not my favorite, I do not know what is!"
@@ -11194,17 +11204,19 @@ msgstr ""
 "пространстве..."
 
 msgid "<25>{#f/0}* Which also implies the nearby presence of synth-bushes."
-msgstr ""
+msgstr "<25>{#f/0}* Что также подразумевает наличие синткустов поблизости."
 
 msgid "<25>{#f/3}* Those things are terrible to get stuck in..."
-msgstr ""
+msgstr "<25>{#f/3}* В подобных штуках ужасно застревать..."
 
 msgid "<25>{#f/4}* Getting you all itchy and scratchy..."
-msgstr ""
+msgstr "<25>{#f/4}* Из-за них ты можешь начать чесаться и зудеть..."
 
 msgid ""
 "<25>{#f/0}* Fortunately, I know you are smart enough not to run into them."
 msgstr ""
+"<25>{#f/0}* К счастью, я знаю, что ты достаточно умён, что бы не залезать в "
+"них."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* There truly is nothing like the chirp of that "
