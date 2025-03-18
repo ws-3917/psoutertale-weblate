@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-19 00:09+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -8266,7 +8266,7 @@ msgid "<32>{#p/story}* Oculoux gnashes its teeth."
 msgstr "<32>{#p/story}* Зениций скрежечет зубами."
 
 msgid "<32>{#p/story}* Smells like eyedrops."
-msgstr "<32>{#p/story}* Пахнет слёзами."
+msgstr "<32>{#p/story}* Пахнет слезами."
 
 msgid "<32>{#p/story}* Oculoux has gone bloodshot."
 msgstr "<32>{#p/story}* Зениций налился кровью."
@@ -8516,7 +8516,7 @@ msgstr ""
 "* Романтическое напряжение достигло наивысшего уровня."
 
 msgid "<11>{#p/napstablook}{~}uh..."
-msgstr "<11>{#p/napstablook}{~}эм-м..."
+msgstr "<11>{#p/napstablook}{~}э-э..."
 
 msgid "<11>{#p/napstablook}{~}okay, i guess...?"
 msgstr "<11>{#p/napstablook}{~}хорошо, я полагаю?.."
@@ -8528,7 +8528,7 @@ msgid "<32>{#p/human}* (You try to console Napstablook.)"
 msgstr "<32>{#p/human}* (Вы попытались утешить Напстаблука.)"
 
 msgid "<32>{#p/human}* (You give Napstablook a patient smile.)"
-msgstr "<32>{#p/human}* (Вы терпеливо улыбнулись Напстаблуку.)"
+msgstr "<32>{#p/human}* (Вы любезно улыбнулись Напстаблуку.)"
 
 msgid "<32>{#p/human}* (You tell Napstablook a little joke.)"
 msgstr "<32>{#p/human}* (Вы рассказываете Напстаблуку небольшую шутку.)"
@@ -8543,7 +8543,7 @@ msgid "<11>{#p/napstablook}{~}heh heh..."
 msgstr "<11>{#p/napstablook}{~}ха-ха..."
 
 msgid "<11>{*}{#p/napstablook}{~}let me {#x1}try...{^20}{#x2}{^20}{%}"
-msgstr "<11>{*}{#p/napstablook}{~}дай {#x1}попробую...{^20}{#x2}{^20}{%}"
+msgstr "<11>{*}{#p/napstablook}{~}один {#x1}момент...{^20}{#x2}{^20}{%}"
 
 msgid "<11>{*}{#p/napstablook}{~}i call it {#x3}'dapper blook'{^40}{%}"
 msgstr "<11>{*}{#p/napstablook}{~}я называю это {#x3}«джентльблук»{^40}{%}"
@@ -8566,23 +8566,23 @@ msgstr "<11>{#p/napstablook}{~}ты не сожалеешь..."
 msgid ""
 "<11>{#p/napstablook}{~}umm... you do know you can't kill ghosts, right..."
 msgstr ""
-"<11>{#p/napstablook}{~}эм-м... ты ведь знаешь, что не можешь убить "
-"призраков, верно..."
+"<11>{#p/napstablook}{~}...ты ведь знаешь, что не можешь убить призраков, "
+"верно?"
 
 msgid "<11>{~}we're sorta incorporeal and all"
 msgstr "<11>{~}мы вроде как бестелесны и всё такое"
 
 msgid "<11>{~}i was just lowering my hp because i didn't want to be rude"
-msgstr "<11>{~}я просто понижал мои оз, потому что не хотел быть грубым"
+msgstr "<11>{~}я просто понижал свои оз, чтобы не показаться грубым"
 
 msgid "<11>{~}sorry... i just made this more awkward..."
-msgstr "<11>{~}извини... я сделал ситуацию более неловкой..."
+msgstr "<11>{~}извини... я сделал только хуже..."
 
 msgid "<11>{~}pretend you beat me..."
 msgstr "<11>{~}притворись, что одолел меня..."
 
 msgid "<11>{~}ooooooooo"
-msgstr "<11>{~}ууууууууу"
+msgstr "<11>{~}у-у-у-у-у"
 
 msgid "<32>{#p/human}* (You flirt with Napstablook.)"
 msgstr "<32>{#p/human}* (Вы заигрываете с Напстаблуком.)"
@@ -8595,10 +8595,10 @@ msgstr "<32>{#p/human}* (Вы делаете Напстаблуку искрен
 
 msgid ""
 "<32>{#p/human}* (You reassure Napstablook of your feelings towards them.)"
-msgstr "<32>{#p/human}* (Вы уверяете Напстаблуку о своих чувствах к нему.)"
+msgstr "<32>{#p/human}* (Вы признаётесь Напстаблуку в чувствах.)"
 
 msgid "<11>{#p/napstablook}{~}i'd just weigh you down"
-msgstr "<11>{#p/napstablook}{~}я буду лишь отягощать тебя"
+msgstr "<11>{#p/napstablook}{~}я буду обузой для тебя"
 
 msgid ""
 "<11>{#p/napstablook}{~}oh.....\n"
@@ -8608,7 +8608,7 @@ msgstr ""
 "я это уже слышал....."
 
 msgid "<11>{#p/napstablook}{~}uh... you really think so?"
-msgstr "<11>{#p/napstablook}{~}эм-м... ты действительно так думаешь?"
+msgstr "<11>{#p/napstablook}{~}ты... ты действительно так думаешь?"
 
 msgid "<11>{#p/napstablook}{~}oh, you're serious..."
 msgstr "<11>{#p/napstablook}{~}о, ты серьёзно..."
