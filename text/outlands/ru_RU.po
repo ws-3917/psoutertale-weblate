@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-18 11:54+0000\n"
+"PO-Revision-Date: 2025-03-18 15:07+0000\n"
 "Last-Translator: Zenry <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -3114,14 +3114,14 @@ msgid ""
 "<25>{#p/twinkly}{#f/5}{#v/0}* Clever.\n"
 "* Verrrryy clever."
 msgstr ""
-"<25>{#p/twinkly}{#f/5}{#v/0}* Хорошо.\n"
-"* Ооочееень хорошо."
+"<25>{#p/twinkly}{#f/5}{#v/0}* Умно.\n"
+"* О-о-очень умно."
 
 msgid "<25>{#f/11}{#v/0}* You think you're really smart, don'tcha?"
-msgstr "<25>{#f/11}{#v/0}* Ты считаешь себя самым умным?"
+msgstr "<25>{#f/11}{#v/0}* Думаешь, ты самый хитрый?"
 
 msgid "<25>{#f/8}{#v/0}* If you had just killed a FEW more monsters..."
-msgstr "<25>{#f/8}{#v/0}* Если бы ты убил ещё несколько монстров..."
+msgstr "<25>{#f/8}{#v/0}* Если бы ты убил ещё пару монстров..."
 
 msgid "<25>{#f/9}{#v/0}* Well, maybe I shouldn't reveal my plans this early."
 msgstr "<25>{#f/9}{#v/0}* Хотя, думаю, мне не стоит раскрывать все карты сразу."
@@ -3132,57 +3132,58 @@ msgstr "<25>{#f/7}{#v/0}* Знаешь, $(name)..."
 msgid ""
 "<25>{#f/5}{#v/0}* It's only a matter of time before we're together again."
 msgstr ""
+"<25>{#f/5}{#v/0}* Это только вопрос времени, когда мы снова будем вместе."
 
 msgid "<25>{#f/6}{#v/0}* Try a little harder next time, and maybe..."
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* В следующий раз закончи начатое, и может..."
 
 msgid "<25>{#f/5}{#v/0}* You'll get to see something new."
-msgstr ""
+msgstr "<25>{#f/5}{#v/0}* Ты увидишь кое-что интересное."
 
 msgid "<25>{#f/11}{#v/0}* Until we meet again..."
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Ну, до встречи..."
 
 msgid "<25>{#f/8}{#v/0}* If you had just killed ONE more monster..."
-msgstr ""
+msgstr "<25>{#f/8}{#v/0}* Если бы ты убил ещё ОДНОГО монстра..."
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you made it through without killing anyone."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/6}{#v/0}* Значит, ты решил никого не убивать?"
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you spared the life of everyone you came "
 "across."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/6}{#v/0}* Ты пощадил жизни всех, кого встретил."
 
 msgid "<25>{#f/5}{#v/0}* I bet you feel really great."
-msgstr ""
+msgstr "<25>{#f/5}{#v/0}* Держу пари, ты чувствуешь себя просто великолепно."
 
 msgid "<25>{#f/2}{#v/1}* But what will you do if you meet a serial murderer?"
-msgstr ""
+msgstr "<25>{#f/2}{#v/1}* Но что будет, если ты встретишь безжалостного убийцу?"
 
 msgid "<25>{#f/9}{#v/0}* You'll die, and you'll die, and you'll die..."
-msgstr ""
+msgstr "<25>{#f/9}{#v/0}* И ты будешь умирать, раз за разом, снова и снова..."
 
 msgid "<25>{#f/5}{#v/0}* Eventually, you'll tire of trying."
-msgstr ""
+msgstr "<25>{#f/5}{#v/0}* В конце концов, ты устанешь пытаться."
 
 msgid "<25>{#f/11}{#v/0}* What then, huh?"
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* И что тогда?"
 
 msgid "<25>{#f/2}{#v/1}* Will you KILL out of frustration?"
-msgstr ""
+msgstr "<25>{#f/2}{#v/1}* УБЬЁШЬ ли ты от отчаяния?"
 
 msgid "<25>{#f/14}{#v/1}* Or will you simply GIVE UP?"
-msgstr ""
+msgstr "<25>{#f/14}{#v/1}* Или просто СДАШЬСЯ?"
 
 msgid "<25>{#f/11}{#v/0}* Hee hee hee..."
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Ха-ха-ха..."
 
 msgid "<25>{#f/7}{#v/0}* This is gonna be SO much fun."
-msgstr ""
+msgstr "<25>{#f/7}{#v/0}* Это будет ОЧЕНЬ уморительно."
 
 msgid "<25>{#f/9}{#v/0}* I'll be watching!"
-msgstr ""
+msgstr "<25>{#f/9}{#v/0}* А я буду созерцать!"
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you managed to stay out of a few measly "
