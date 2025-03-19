@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-17 02:13+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-03-19 13:13+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/ru/>\n"
 "Language: ru_RU\n"
@@ -135,7 +135,7 @@ msgid "Noclip"
 msgstr ""
 
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 msgid "SkipText"
 msgstr "ПропускТекста"
@@ -330,7 +330,7 @@ msgid "Duration"
 msgstr ""
 
 msgid "EXP"
-msgstr ""
+msgstr "ОП"
 
 msgid "Extent"
 msgstr ""
@@ -363,7 +363,7 @@ msgid "Group"
 msgstr ""
 
 msgid "HP"
-msgstr ""
+msgstr "ОЗ"
 
 msgid "Index"
 msgstr ""
@@ -396,7 +396,7 @@ msgid "Namespace"
 msgstr ""
 
 msgid "NONE"
-msgstr ""
+msgstr "ВЫКЛ"
 
 msgid "none"
 msgstr ""
@@ -1961,10 +1961,10 @@ msgid "Press [X] to Finish"
 msgstr ""
 
 msgid "Frisk"
-msgstr ""
+msgstr "Фриск"
 
 msgid "G"
-msgstr ""
+msgstr "М"
 
 msgid "\\u221e"
 msgstr ""
@@ -1973,7 +1973,7 @@ msgid "[PRESS Z OR ENTER]"
 msgstr ""
 
 msgid "LV"
-msgstr ""
+msgstr "УР"
 
 msgid ""
 "§mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz§aaaaaa§mystify=§"
@@ -2091,46 +2091,46 @@ msgid "§fill=#808080§ [ESC] - Quit / [ENTER] - Done"
 msgstr ""
 
 msgid "Return"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "File saved."
-msgstr ""
+msgstr "Файл сохранён."
 
 msgid "SETTINGS"
-msgstr ""
+msgstr "НАСТРОЙКИ"
 
 msgid "EXIT"
-msgstr ""
+msgstr "ВЫХОД"
 
 msgid "-> LANGUAGE & MUSIC"
-msgstr ""
+msgstr "-> ЯЗЫК И ЗВУКИ"
 
 msgid "LANGUAGE"
-msgstr ""
+msgstr "ЯЗЫК"
 
 msgid "ENGLISH"
 msgstr "РУССКИЙ"
 
 msgid "SOUND FX"
-msgstr ""
+msgstr "ЗВУКИ"
 
 msgid "MUSIC"
-msgstr ""
+msgstr "МУЗЫКА"
 
 msgid "FANCY GRAPHICS"
-msgstr ""
+msgstr "КРАСИВАЯ ГРАФИКА"
 
 msgid "-> GAMEPLAY & GRAPHICS"
-msgstr ""
+msgstr "-> ИГРОВОЙ ПРОЦЕСС И ГРАФИКА"
 
 msgid "CHARACTER RUNNING"
-msgstr ""
+msgstr "БЕГ ПЕРСОНАЖА"
 
 msgid "COLORED SPRITES"
-msgstr ""
+msgstr "ЦВЕТНЫЕ СПРАЙТЫ"
 
 msgid "FLASHING IMAGERY"
-msgstr ""
+msgstr "ЯРКИЕ ВСПЫШКИ"
 
 msgid "NORMAL"
 msgstr ""
@@ -2145,22 +2145,22 @@ msgid "DEADZONE"
 msgstr ""
 
 msgid "OPEN MOD FOLDER"
-msgstr ""
+msgstr "ОТКРЫТЬ ПАПКУ МОДОВ"
 
 msgid "RESTART"
 msgstr ""
 
 msgid "GAME BORDER"
-msgstr ""
+msgstr "РАМКИ"
 
 msgid "DYNAMIC"
-msgstr ""
+msgstr "ДИНАМИЧЕСКИЕ"
 
 msgid "SIMPLE"
 msgstr ""
 
 msgid "STAR"
-msgstr ""
+msgstr "КОСМОС"
 
 msgid "OUTLANDS"
 msgstr ""
@@ -2223,7 +2223,7 @@ msgid "NEW WORLD (WITH CUP)"
 msgstr ""
 
 msgid "§fill=#808080§(LOCKED)"
-msgstr ""
+msgstr "§fill=#808080§(НЕДОСТУПНО)"
 
 msgid "MOBILE CTRLS"
 msgstr ""
@@ -2458,16 +2458,16 @@ msgid ""
 msgstr ""
 
 msgid "ITEM"
-msgstr ""
+msgstr "ВЕЩИ"
 
 msgid "STAT"
-msgstr ""
+msgstr "ИНФ."
 
 msgid "CELL"
-msgstr ""
+msgstr "ТЕЛ."
 
 msgid "CONF"
-msgstr ""
+msgstr "НАСТ."
 
 msgid "--- Instruction ---"
 msgstr ""
@@ -2482,16 +2482,16 @@ msgid "Begin Game"
 msgstr ""
 
 msgid "AT"
-msgstr ""
+msgstr "АТК"
 
 msgid "DF"
-msgstr ""
+msgstr "ЗЩТ"
 
 msgid "GOLD"
-msgstr ""
+msgstr "МОНЕТЫ"
 
 msgid "NEXT"
-msgstr ""
+msgstr "ДО УР"
 
 msgid ""
 "§fill=#ff0§Warning:\n"
@@ -2512,7 +2512,7 @@ msgid "STATUS"
 msgstr ""
 
 msgid "\"$(x)\""
-msgstr ""
+msgstr "«$(x)»"
 
 msgid ""
 "<24>{#p/storyteller}Long ago, two species ruled the solar system: HUMANS and"
