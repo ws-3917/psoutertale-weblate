@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-17 15:02+0000\n"
-"PO-Revision-Date: 2025-03-19 00:09+0000\n"
+"PO-Revision-Date: 2025-03-19 13:13+0000\n"
 "Last-Translator: Mr R <roddypesce@gmail.com>\n"
 "Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/it/>\n"
@@ -791,116 +791,128 @@ msgid "<25>{#p/asriel1}{#f/15}* ...?"
 msgstr "<25>{#p/asriel1}{#f/15}* ...?"
 
 msgid "<32>{#p/basic}* ... it's you, Asriel."
-msgstr ""
+msgstr "<32>{#p/basic}* ... è grazie a te, Asriel."
 
 msgid "<32>* You're the one who's been keeping me alive."
-msgstr ""
+msgstr "<32>* É grazie a te che sono rimasto in vita per tutto questo tempo."
 
 msgid "<32>{#p/basic}* Think of it like... an unfulfilled promise."
-msgstr ""
+msgstr "<32>{#p/basic}* Puoi pensarla come... una promessa non mantenuta."
 
 msgid ""
 "<32>* Holding that grudge... thinking about you in the way that I did..."
 msgstr ""
+"<32>* Aver provato tutto quel rancore... aver pensato che tu avessi fatto la "
+"scelta sbagliata..."
 
 msgid ""
 "<32>* Knowing I could've been so much more for you than I ultimately was."
 msgstr ""
+"<32>* Aver saputo, nel profondo, che avrei potuto essere una persona molto "
+"migliore per te."
 
 msgid "<32>* All this time, that's what's been holding me back."
-msgstr ""
+msgstr "<32>* É questo che mi ha tenuto in vita per tutto questo tempo."
 
 msgid "<25>{#p/asriel1}{#f/23}* $(name)..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/23}* $(name)..."
 
 msgid ""
 "<32>{#p/basic}* Asriel.\n"
 "* My brother."
 msgstr ""
+"<32>{#p/basic}* Asriel.\n"
+"* Fratello mio."
 
 msgid "<32>* You deserve to know the truth."
-msgstr ""
+msgstr "<32>* Meriti di sapere la verità."
 
 msgid ""
 "<25>{*}{#p/asriel1}{#f/25}* Huh?\n"
 "* But you already- {%}"
 msgstr ""
+"<25>{*}{#p/asriel1}{#f/25}* Huh?\n"
+"* Ma me lo hai già- {%}"
 
 msgid "<32>{#p/basic}* I forgive you, too."
-msgstr ""
+msgstr "<32>{#p/basic}* Anche io ti perdono."
 
 msgid "<25>{#p/asriel1}{#f/30}{#i/4}* ...!"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/30}{#i/4}* ...!"
 
 msgid "<25>{#p/asriel1}{#f/26}{#i/4}* $(name)..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/26}{#i/4}* $(name)..."
 
 msgid "<32>{#p/basic}* Shh..."
-msgstr ""
+msgstr "<32>{#p/basic}* Shh..."
 
 msgid "<32>* It's alright."
-msgstr ""
+msgstr "<32>* Tranquillo."
 
 msgid "<32>* I've got you, okay?"
-msgstr ""
+msgstr "<32>* Sono qua con te, okay?"
 
 msgid "<25>{#p/asriel1}{#f/25}{#i/4}* I..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/25}{#i/4}* Io..."
 
 msgid "<32>{#p/basic}* I've got you, Asriel."
-msgstr ""
+msgstr "<32>{#p/basic}* Sono qua con te, Asriel."
 
 msgid "<32>{#p/basic}* ... I can feel it."
-msgstr ""
+msgstr "<32>{#p/basic}* ... Lo sento."
 
 msgid "<32>* Even after a hundred years have passed..."
-msgstr ""
+msgstr "<32>* Anche se sono passati centinaia di anni..."
 
 msgid "<32>* He's still in there, isn't he?"
-msgstr ""
+msgstr "<32>* Sei ancora qua dentro, non è vero?"
 
 msgid "<32>* Like a little angel..."
-msgstr ""
+msgstr "<32>* Come un angelo custode..."
 
 msgid "<32>* Watching over me, protecting me from my own bad choices..."
-msgstr ""
+msgstr "<32>* A vegliare su di me, proteggendomi dalle scelte sbagliate..."
 
 msgid "<32>* ... all so I could one day return him the favor."
-msgstr ""
+msgstr "<32>* ... tutto così che potessi un giorno ricambiare il favore."
 
 msgid "<32>{#p/basic}* It's all starting to make sense now."
-msgstr ""
+msgstr "<32>{#p/basic}* Ora tutto comincia ad avere un senso."
 
 msgid "<32>* I know what I have to do."
-msgstr ""
+msgstr "<32>* So cosa devo fare."
 
 msgid ""
 "<25>{*}{#p/asriel1}{#f/25}* Huh?\n"
 "* What are you... {^60}{%}"
 msgstr ""
+"<25>{*}{#p/asriel1}{#f/25}* Huh?\n"
+"* Di cosa stai... {^60}{%}"
 
 msgid "<25>{*}{#f/25}* No...!{^60}{%}"
-msgstr ""
+msgstr "<25>{*}{#f/25}* No...!{^60}{%}"
 
 msgid "<25>{*}{#f/26}* L... let me go!{^60}{%}"
-msgstr ""
+msgstr "<25>{*}{#f/26}* L... lasciami andare!{^60}{%}"
 
 msgid "<32>{*}{#p/basic}* Heh...{^60}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/basic}* Heh...{^60}{%}"
 
 msgid "<32>{*}* ... take care of Mom and Dad for me, okay?{^60}{%}"
-msgstr ""
+msgstr "<32>{*}* ... prenditi cura di Mamma e Papà al posto mio, okay?{^60}{%}"
 
 msgid "<25>{#p/asriel1}{#f/25}* Frisk, are you there?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/25}* Frisk, puoi sentirmi?"
 
 msgid "<25>{#f/22}* Please... wake up..."
-msgstr ""
+msgstr "<25>{#f/22}* Per favore... svegliati..."
 
 msgid ""
 "<25>{#p/asriel1}{#f/23}* I...\n"
 "* I don't want to lose you too..."
 msgstr ""
+"<25>{#p/asriel1}{#f/23}* Io...\n"
+"* Non voglio perdere pure te..."
 
 msgid "<25>{#p/asriel1}{#f/17}* ... there you are."
 msgstr ""
