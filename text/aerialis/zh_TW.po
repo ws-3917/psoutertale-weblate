@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-19 13:13+0000\n"
+"PO-Revision-Date: 2025-03-19 13:13+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://"
+"translate.ws3917.space/projects/ps-outertale/4-aerialis/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+#
 
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
 msgstr ""
@@ -2379,7 +2394,7 @@ msgid "<32>{#z02}* I'LL BE WATCHING YOUR EVERY MOVE."
 msgstr "<32>{#z02}* 我會在暗中陪伴你。"
 
 msgid "<32>{#z21}* ..."
-msgstr " <32>{#z21}* ...ゑ"
+msgstr "<32>{#z21}* ...ゑ"
 
 msgid "<32>{#z11}* WELL, TOODLES!"
 msgstr "<32>{#z11}* 好吧，回見！"
@@ -5124,7 +5139,7 @@ msgid "<25>{#f/7}* You just make up the rules as you go along!"
 msgstr "<25>{#f/7}* 隨心所欲，規則說改就改！"
 
 msgid "<25>{#f/9}* ... guess I shouldn't have expected anything else, though."
-msgstr "­<25>{#f/9}* ...對你真沒啥好期待的。"
+msgstr "<25>{#f/9}* ...對你真沒啥好期待的。"
 
 msgid "<25>{#f/11}* You've got a reputation for this sort of thing."
 msgstr "<25>{#f/11}* 在這點，你可是出了名的。"
@@ -8917,7 +8932,7 @@ msgid ""
 "<25>{#g/alphysHaveSomeCompassion}* ...\n"
 "* We're just trying to do the right thing."
 msgstr ""
-"­<25>{#g/alphysHaveSomeCompassion}* ...\n"
+"<25>{#g/alphysHaveSomeCompassion}* ...\n"
 "* 我們只是想做正確的事。"
 
 msgid ""
@@ -9588,8 +9603,6 @@ msgstr "<25>{#p/asriel2}{#f/8}* 只能換條路走了。"
 msgid "<32>{#p/human}* (Where would you like to go?)"
 msgstr "<32>{#p/human}* （你想去哪裡？）"
 
-msgid ""
-msgstr ""
 
 msgid "Floor L1"
 msgstr "左一層"
