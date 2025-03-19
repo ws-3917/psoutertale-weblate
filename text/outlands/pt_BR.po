@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-19 13:13+0000\n"
+"PO-Revision-Date: 2025-03-19 13:13+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Portuguese (Brazil) <https://translate.ws3917.space/projects/"
+"ps-outertale/1-outlands/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
@@ -4793,7 +4808,7 @@ msgid ""
 "<25>{#p/toriel}* There, there...\n"
 "* I will find another cell phone for you."
 msgstr ""
-"­<25>{#p/toriel}* Pronto, pronto...\n"
+"<25>{#p/toriel}* Pronto, pronto...\n"
 "* Eu vou encontrar outro celular pra você."
 
 msgid "<25>{#f/1}* Would that be alright?"
@@ -5785,7 +5800,7 @@ msgid "<32>* I once performed my own kind of musical here."
 msgstr "<32>* Uma vez eu fiz minha própria performance musical aqui."
 
 msgid "<32>* \"Silencio's Great Escape,\" it was called."
-msgstr "\"<32>* \"Silencio, A Grande Fuga,\" é como é chamado."
+msgstr "<32>* \"Silencio, A Grande Fuga,\" é como é chamado."
 
 msgid ""
 "<32>* Once it was over, I was gone before the crowd could even catch their "
