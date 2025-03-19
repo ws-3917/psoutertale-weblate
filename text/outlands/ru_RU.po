@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-18 11:54+0000\n"
-"Last-Translator: Zenry <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-19 00:09+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -186,19 +186,21 @@ msgstr ""
 
 msgid "<25>{#f/0}* I heard they were only just promoted to their positions."
 msgstr ""
-"<25>{#f/0}* Я слышала, что его только-только повысили на нынешнюю должность."
+"<25>{#f/0}* Я слышала, что их только-только повысили на нынешнюю должность."
 
 msgid ""
 "<25>{#f/1}* I also heard they are quite picky about their choice of "
 "weapons..."
-msgstr "<25>{#f/1}* Так же я слышала, что он очень придирчив в выборе оружия..."
+msgstr ""
+"<25>{#f/1}* Так же я слышала, что они очень придирчивы в выборе оружия..."
 
 msgid "<25>{#f/5}* Refuse to upgrade them despite better options on offer."
 msgstr ""
-"<25>{#f/5}* Он отказывается его улучшать не смотря на более хорошие варианты."
+"<25>{#f/5}* Они отказываются его улучшать не смотря на более хорошие "
+"варианты."
 
 msgid "<25>{#f/0}* Not that I want them to upgrade their weapons."
-msgstr "<25>{#f/0}* Не то чтобы я хотела чтобы он обновил оружие."
+msgstr "<25>{#f/0}* Не то чтобы я хотела чтобы они обновили оружие."
 
 msgid "<25>{#f/2}* I worry about you enough as it is!"
 msgstr "<25>{#f/2}* Мне не нужно больше поводов за тебя волноваться!"
@@ -207,20 +209,24 @@ msgid ""
 "<25>{#p/toriel}{#f/1}* A ghost, Lurksalot, recently spoke of some family "
 "business."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Призрак, Вездеброд, недавно говорил о каких-то "
+"семейных делах."
 
 msgid "<25>{#f/5}* It seems this has been on their mind for some time."
-msgstr ""
+msgstr "<25>{#f/5}* Кажется, у него это уже давно на уме."
 
 msgid "<25>{#f/0}* Thankfully, they say it should be resolved soon."
-msgstr ""
+msgstr "<25>{#f/0}* К счастью, он сказал, что всё скоро должно быть решено."
 
 msgid "<25>{#f/1}* And with the help of you, no less?"
-msgstr ""
+msgstr "<25>{#f/1}* И при этом с твоей помощью?"
 
 msgid ""
 "<25>{#f/0}* Well then.\n"
 "* I am very proud of you, little one."
 msgstr ""
+"<25>{#f/0}* Ну что ж.\n"
+"* Я очень горжусь тобой, малыш."
 
 msgid "<25>{#f/1}* They say their cousin tried to ask for your help, but..."
 msgstr ""
@@ -3114,14 +3120,14 @@ msgid ""
 "<25>{#p/twinkly}{#f/5}{#v/0}* Clever.\n"
 "* Verrrryy clever."
 msgstr ""
-"<25>{#p/twinkly}{#f/5}{#v/0}* Хорошо.\n"
-"* Ооочееень хорошо."
+"<25>{#p/twinkly}{#f/5}{#v/0}* Умно.\n"
+"* О-о-очень умно."
 
 msgid "<25>{#f/11}{#v/0}* You think you're really smart, don'tcha?"
-msgstr "<25>{#f/11}{#v/0}* Ты считаешь себя самым умным?"
+msgstr "<25>{#f/11}{#v/0}* Думаешь, ты самый хитрый?"
 
 msgid "<25>{#f/8}{#v/0}* If you had just killed a FEW more monsters..."
-msgstr "<25>{#f/8}{#v/0}* Если бы ты убил ещё несколько монстров..."
+msgstr "<25>{#f/8}{#v/0}* Если бы ты убил ещё пару монстров..."
 
 msgid "<25>{#f/9}{#v/0}* Well, maybe I shouldn't reveal my plans this early."
 msgstr "<25>{#f/9}{#v/0}* Хотя, думаю, мне не стоит раскрывать все карты сразу."
@@ -3132,57 +3138,58 @@ msgstr "<25>{#f/7}{#v/0}* Знаешь, $(name)..."
 msgid ""
 "<25>{#f/5}{#v/0}* It's only a matter of time before we're together again."
 msgstr ""
+"<25>{#f/5}{#v/0}* Это только вопрос времени, когда мы снова будем вместе."
 
 msgid "<25>{#f/6}{#v/0}* Try a little harder next time, and maybe..."
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* В следующий раз закончи начатое, и может..."
 
 msgid "<25>{#f/5}{#v/0}* You'll get to see something new."
-msgstr ""
+msgstr "<25>{#f/5}{#v/0}* Ты увидишь кое-что интересное."
 
 msgid "<25>{#f/11}{#v/0}* Until we meet again..."
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Ну, до встречи..."
 
 msgid "<25>{#f/8}{#v/0}* If you had just killed ONE more monster..."
-msgstr ""
+msgstr "<25>{#f/8}{#v/0}* Если бы ты убил ещё ОДНОГО монстра..."
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you made it through without killing anyone."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/6}{#v/0}* Значит, ты решил никого не убивать?"
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you spared the life of everyone you came "
 "across."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/6}{#v/0}* Ты пощадил жизни всех, кого встретил."
 
 msgid "<25>{#f/5}{#v/0}* I bet you feel really great."
-msgstr ""
+msgstr "<25>{#f/5}{#v/0}* Держу пари, ты чувствуешь себя просто великолепно."
 
 msgid "<25>{#f/2}{#v/1}* But what will you do if you meet a serial murderer?"
-msgstr ""
+msgstr "<25>{#f/2}{#v/1}* Но что будет, если ты встретишь безжалостного убийцу?"
 
 msgid "<25>{#f/9}{#v/0}* You'll die, and you'll die, and you'll die..."
-msgstr ""
+msgstr "<25>{#f/9}{#v/0}* И ты будешь умирать, раз за разом, снова и снова..."
 
 msgid "<25>{#f/5}{#v/0}* Eventually, you'll tire of trying."
-msgstr ""
+msgstr "<25>{#f/5}{#v/0}* В конце концов, ты устанешь пытаться."
 
 msgid "<25>{#f/11}{#v/0}* What then, huh?"
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* И что тогда?"
 
 msgid "<25>{#f/2}{#v/1}* Will you KILL out of frustration?"
-msgstr ""
+msgstr "<25>{#f/2}{#v/1}* УБЬЁШЬ ли ты от отчаяния?"
 
 msgid "<25>{#f/14}{#v/1}* Or will you simply GIVE UP?"
-msgstr ""
+msgstr "<25>{#f/14}{#v/1}* Или просто СДАШЬСЯ?"
 
 msgid "<25>{#f/11}{#v/0}* Hee hee hee..."
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Ха-ха-ха..."
 
 msgid "<25>{#f/7}{#v/0}* This is gonna be SO much fun."
-msgstr ""
+msgstr "<25>{#f/7}{#v/0}* Это будет ОЧЕНЬ уморительно."
 
 msgid "<25>{#f/9}{#v/0}* I'll be watching!"
-msgstr ""
+msgstr "<25>{#f/9}{#v/0}* А я буду созерцать!"
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you managed to stay out of a few measly "
@@ -8259,7 +8266,7 @@ msgid "<32>{#p/story}* Oculoux gnashes its teeth."
 msgstr "<32>{#p/story}* Зениций скрежечет зубами."
 
 msgid "<32>{#p/story}* Smells like eyedrops."
-msgstr "<32>{#p/story}* Пахнет слёзами."
+msgstr "<32>{#p/story}* Пахнет слезами."
 
 msgid "<32>{#p/story}* Oculoux has gone bloodshot."
 msgstr "<32>{#p/story}* Зениций налился кровью."
@@ -8509,7 +8516,7 @@ msgstr ""
 "* Романтическое напряжение достигло наивысшего уровня."
 
 msgid "<11>{#p/napstablook}{~}uh..."
-msgstr "<11>{#p/napstablook}{~}эм-м..."
+msgstr "<11>{#p/napstablook}{~}э-э..."
 
 msgid "<11>{#p/napstablook}{~}okay, i guess...?"
 msgstr "<11>{#p/napstablook}{~}хорошо, я полагаю?.."
@@ -8521,7 +8528,7 @@ msgid "<32>{#p/human}* (You try to console Napstablook.)"
 msgstr "<32>{#p/human}* (Вы попытались утешить Напстаблука.)"
 
 msgid "<32>{#p/human}* (You give Napstablook a patient smile.)"
-msgstr "<32>{#p/human}* (Вы терпеливо улыбнулись Напстаблуку.)"
+msgstr "<32>{#p/human}* (Вы любезно улыбнулись Напстаблуку.)"
 
 msgid "<32>{#p/human}* (You tell Napstablook a little joke.)"
 msgstr "<32>{#p/human}* (Вы рассказываете Напстаблуку небольшую шутку.)"
@@ -8536,7 +8543,7 @@ msgid "<11>{#p/napstablook}{~}heh heh..."
 msgstr "<11>{#p/napstablook}{~}ха-ха..."
 
 msgid "<11>{*}{#p/napstablook}{~}let me {#x1}try...{^20}{#x2}{^20}{%}"
-msgstr "<11>{*}{#p/napstablook}{~}дай {#x1}попробую...{^20}{#x2}{^20}{%}"
+msgstr "<11>{*}{#p/napstablook}{~}один {#x1}момент...{^20}{#x2}{^20}{%}"
 
 msgid "<11>{*}{#p/napstablook}{~}i call it {#x3}'dapper blook'{^40}{%}"
 msgstr "<11>{*}{#p/napstablook}{~}я называю это {#x3}«джентльблук»{^40}{%}"
@@ -8559,23 +8566,23 @@ msgstr "<11>{#p/napstablook}{~}ты не сожалеешь..."
 msgid ""
 "<11>{#p/napstablook}{~}umm... you do know you can't kill ghosts, right..."
 msgstr ""
-"<11>{#p/napstablook}{~}эм-м... ты ведь знаешь, что не можешь убить "
-"призраков, верно..."
+"<11>{#p/napstablook}{~}...ты ведь знаешь, что не можешь убить призраков, "
+"верно?"
 
 msgid "<11>{~}we're sorta incorporeal and all"
 msgstr "<11>{~}мы вроде как бестелесны и всё такое"
 
 msgid "<11>{~}i was just lowering my hp because i didn't want to be rude"
-msgstr "<11>{~}я просто понижал мои оз, потому что не хотел быть грубым"
+msgstr "<11>{~}я просто понижал свои оз, чтобы не показаться грубым"
 
 msgid "<11>{~}sorry... i just made this more awkward..."
-msgstr "<11>{~}извини... я сделал ситуацию более неловкой..."
+msgstr "<11>{~}извини... я сделал только хуже..."
 
 msgid "<11>{~}pretend you beat me..."
 msgstr "<11>{~}притворись, что одолел меня..."
 
 msgid "<11>{~}ooooooooo"
-msgstr "<11>{~}ууууууууу"
+msgstr "<11>{~}у-у-у-у-у"
 
 msgid "<32>{#p/human}* (You flirt with Napstablook.)"
 msgstr "<32>{#p/human}* (Вы заигрываете с Напстаблуком.)"
@@ -8588,10 +8595,10 @@ msgstr "<32>{#p/human}* (Вы делаете Напстаблуку искрен
 
 msgid ""
 "<32>{#p/human}* (You reassure Napstablook of your feelings towards them.)"
-msgstr "<32>{#p/human}* (Вы уверяете Напстаблуку о своих чувствах к нему.)"
+msgstr "<32>{#p/human}* (Вы признаётесь Напстаблуку в чувствах.)"
 
 msgid "<11>{#p/napstablook}{~}i'd just weigh you down"
-msgstr "<11>{#p/napstablook}{~}я буду лишь отягощать тебя"
+msgstr "<11>{#p/napstablook}{~}я буду обузой для тебя"
 
 msgid ""
 "<11>{#p/napstablook}{~}oh.....\n"
@@ -8601,7 +8608,7 @@ msgstr ""
 "я это уже слышал....."
 
 msgid "<11>{#p/napstablook}{~}uh... you really think so?"
-msgstr "<11>{#p/napstablook}{~}эм-м... ты действительно так думаешь?"
+msgstr "<11>{#p/napstablook}{~}ты... ты действительно так думаешь?"
 
 msgid "<11>{#p/napstablook}{~}oh, you're serious..."
 msgstr "<11>{#p/napstablook}{~}о, ты серьёзно..."
@@ -9906,71 +9913,81 @@ msgid ""
 "<25>{#p/toriel}{#f/0}* Ah, of course.\n"
 "* That must be where you crash-landed."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Ах, конечно.\n"
+"* Должно быть, именно тут ты совершил аварийную посадку."
 
 msgid "<25>{#f/0}* The other humans who came here landed there, too."
-msgstr ""
+msgstr "<25>{#f/0}* Другие люди, прибывшие сюда, тоже приземлялись тут."
 
 msgid "<25>{#f/1}* There must be something about the force field..."
-msgstr ""
+msgstr "<25>{#f/1}* Должно быть, что-то не так с силовым полем..."
 
 msgid ""
 "<25>{#f/0}* ... which always makes incoming craft fly in on this vector."
 msgstr ""
+"<25>{#f/0}* ...которое всегда заставляет приближающиеся корабли лететь по "
+"этому вектору."
 
 msgid "<25>{#p/toriel}{#f/1}* Is that where I first found you?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Это место, где я впервые нашла тебя?"
 
 msgid ""
 "<25>{#f/5}* That talking star who tormented you has been a pest for some "
 "time."
-msgstr ""
+msgstr "<25>{#f/5}* Эта говорящая звезда, мучившая тебя, уже конкретно надоела."
 
 msgid "<25>{#f/1}* I have tried to reason with him before, but..."
-msgstr ""
+msgstr "<25>{#f/1}* Я уже пыталась урезонить его, но..."
 
 msgid "<25>{#f/9}* My efforts never truly got anywhere."
-msgstr ""
+msgstr "<25>{#f/9}* Мои усилия ни к чему так и не привели."
 
 msgid "<25>{#f/5}* All alone out there, by yourself..."
-msgstr ""
+msgstr "<25>{#f/5}* Ты был там совсем один, сам по себе..."
 
 msgid "<25>{#f/0}* It is a good thing I was there to bring you in."
-msgstr ""
+msgstr "<25>{#f/0}* Хорошо, что я была там и привела тебя."
 
 msgid "<25>{#p/toriel}{#f/1}* The entrance to the Outlands..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Вход в Запределье..."
 
 msgid "<25>{#f/0}* Indeed, the area before this is not actually part of it."
-msgstr ""
+msgstr "<25>{#f/0}* На самом деле, область перед ним не является его частью."
 
 msgid "<25>{#f/5}* It is... more of an unmarked crash site."
-msgstr ""
+msgstr "<25>{#f/5}* Это скорее... неотмеченное место крушения."
 
 msgid ""
 "<25>{#f/1}* After the first human crashed directly INTO the Outlands..."
 msgstr ""
+"<25>{#f/1}* После того, как первый человек врезался ПРЯМО в Запределье..."
 
 msgid "<25>{#f/0}* A separate platform seemed an obvious addition."
-msgstr ""
+msgstr "<25>{#f/0}* Отдельная платформа казалась очевидным дополнением."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* The puzzle in this room works well for "
 "demonstrations."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Головоломка в этой комнате хорошо подходит для "
+"демонстраций."
 
 msgid "<25>{#f/1}* After all, why else would I build it?"
-msgstr ""
+msgstr "<25>{#f/1}* В конце концов, зачем бы я её вообще построила?"
 
 msgid "<25>{#f/5}* Unfortunately, not every human understood this."
-msgstr ""
+msgstr "<25>{#f/5}* К сожалению, не все люди понимали это."
 
 msgid ""
 "<25>{#f/3}* One of them even tried running at the security field directly..."
 msgstr ""
+"<25>{#f/3}* Один из них даже попытался бежать прямо на поле безопасности..."
 
 msgid ""
 "<25>{#f/0}* ... suffice it to say, the use of healing magic was required."
 msgstr ""
+"<25>{#f/0}* ...достаточно сказать, что потребовалось использование магии "
+"исцеления."
 
 msgid ""
 "<25>{#p/toriel}* If this puzzle is not my favorite, I do not know what is!"
@@ -11193,17 +11210,19 @@ msgstr ""
 "пространстве..."
 
 msgid "<25>{#f/0}* Which also implies the nearby presence of synth-bushes."
-msgstr ""
+msgstr "<25>{#f/0}* Что также подразумевает наличие синткустов поблизости."
 
 msgid "<25>{#f/3}* Those things are terrible to get stuck in..."
-msgstr ""
+msgstr "<25>{#f/3}* В подобных штуках ужасно застревать..."
 
 msgid "<25>{#f/4}* Getting you all itchy and scratchy..."
-msgstr ""
+msgstr "<25>{#f/4}* Из-за них ты можешь начать чесаться и зудеть..."
 
 msgid ""
 "<25>{#f/0}* Fortunately, I know you are smart enough not to run into them."
 msgstr ""
+"<25>{#f/0}* К счастью, я знаю, что ты достаточно умён, что бы не залезать в "
+"них."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* There truly is nothing like the chirp of that "
