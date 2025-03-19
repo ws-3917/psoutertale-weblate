@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 11:54+0000\n"
-"PO-Revision-Date: 2025-03-18 11:54+0000\n"
-"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"PO-Revision-Date: 2025-03-19 07:38+0000\n"
+"Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/5-citadel/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.10.2\n"
 
 #
-
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr "<32>{#p/human}* （一股暗流在你心中充盈。）"
 
@@ -15880,7 +15878,7 @@ msgstr ""
 
 msgid ""
 "<32>{#p/human}* (The noodles seem familiar to one of the Lost Souls...)"
-msgstr "<32>{#p/human}* （某个灵魂好像很熟悉这碗意面...）"
+msgstr "<32>{#p/human}* （某个灵魂好像很熟悉这盘意面...）"
 
 msgid "<11>{#p/undyne}{#e/undyne/20}Hey, that's Papyrus's spaghetti!"
 msgstr ""
@@ -15894,18 +15892,20 @@ msgstr ""
 "你肯定认得它。"
 
 msgid "<32>{#p/human}* (The snack seems familiar to one of the Lost Souls...)"
-msgstr "<32>{#p/human}* （某个灵魂好像很熟悉这块点心...）"
+msgstr "<32>{#p/human}* （某个灵魂好像很熟悉这包零食...）"
 
 msgid "<11>{#p/undyne}{#e/undyne/41}That must be the snack I got for you."
 msgstr ""
-"<11>{#p/undyne}{#e/undyne/41}那点心\n"
-"是我专门\n"
-"给你弄到的。"
+"<11>{#p/undyne}{#e/undyne/41}肯定是\n"
+"我拿给你\n"
+"那包了。\n"
+"自家制的\n"
+"最棒了！"
 
 msgid "<11>{#p/alphys}{#e/alphys/6}You do snacks now?"
 msgstr ""
-"<11>{#p/alphys}{#e/alphys/6}你会做\n"
-"点心了？"
+"<11>{#p/alphys}{#e/alphys/6}你啥时候\n"
+"开始做零食了？"
 
 msgid ""
 "<32>{#p/human}* (The mixture seems familiar to one of the Lost Souls...)"
@@ -18263,7 +18263,6 @@ msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/10}{@random=1.1/1.1}..."
 
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/12}{@random=1.1/1.1}永别了..."
-
 
 msgid "N/A"
 msgstr "无"
