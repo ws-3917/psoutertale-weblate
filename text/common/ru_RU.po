@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-18 11:54+0000\n"
-"Last-Translator: Zenry <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-19 13:13+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "6-common/ru/>\n"
 "Language: ru_RU\n"
@@ -5185,7 +5185,7 @@ msgid "<25>{#p/toriel}{#f/10}* ... very good."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/9}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/9}* ..."
 
 msgid ""
 "<25>{#p/toriel}{#f/10}* I suppose I cannot judge the citizens too harshly..."
@@ -11055,7 +11055,7 @@ msgid "* Charge"
 msgstr ""
 
 msgid "* Check"
-msgstr ""
+msgstr "* Осмотреть"
 
 msgid "* Cheer"
 msgstr ""
@@ -11070,7 +11070,7 @@ msgid "* Comfort"
 msgstr ""
 
 msgid "* Compliment"
-msgstr ""
+msgstr "* Комплимент"
 
 msgid "* Compose"
 msgstr ""
@@ -11139,7 +11139,7 @@ msgid "* Flash"
 msgstr ""
 
 msgid "* Flirt"
-msgstr ""
+msgstr "* Флиртовать"
 
 msgid "* Grin"
 msgstr ""
@@ -11169,7 +11169,7 @@ msgid "* Hope"
 msgstr ""
 
 msgid "* Hug"
-msgstr ""
+msgstr "* Обнять"
 
 msgid "* Hum"
 msgstr ""
@@ -11325,7 +11325,7 @@ msgid "* Sit"
 msgstr ""
 
 msgid "* Slap"
-msgstr ""
+msgstr "* Ударить"
 
 msgid "* Smile"
 msgstr ""
@@ -11349,7 +11349,7 @@ msgid "* Suggest"
 msgstr ""
 
 msgid "* Talk"
-msgstr ""
+msgstr "* Говорить"
 
 msgid "* Taunt"
 msgstr ""
@@ -11373,7 +11373,7 @@ msgid "* Infusion"
 msgstr ""
 
 msgid "* Threaten"
-msgstr ""
+msgstr "* Угрожать"
 
 msgid "* Tickle"
 msgstr ""
@@ -11385,7 +11385,7 @@ msgid "* Toriel"
 msgstr "* Ториэль"
 
 msgid "* Translate"
-msgstr ""
+msgstr "* Перевести"
 
 msgid "* Travel"
 msgstr ""
@@ -11427,54 +11427,57 @@ msgid ""
 "<32>{#p/story}* DUMMY - ATK 0 DEF 0\n"
 "* A ghost within the shell, they hope you're doing well."
 msgstr ""
+"<32>{#p/story}* МАНЕКЕН — АТК: 0 ЗЩТ: 0\n"
+"* Призрак в оболочке манекена. Он желает вам лучшего."
 
 msgid "<32>{#p/human}* (You flirt with the dummy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с манекеном.)"
 
 msgid "<32>{#p/basic}* It went exactly how you'd expect."
-msgstr ""
+msgstr "<32>{#p/basic}* Как и ожидалось, ничего не произошло."
 
 msgid "<32>* Toriel is trying not to laugh."
-msgstr ""
+msgstr "<32>* Ториэль с трудом сдерживает смех."
 
 msgid "<32>{#p/human}* (You hug the dummy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы обнимаете манекена.)"
 
 msgid "<32>{#p/human}* (You slap the dummy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы ударили манекена.)"
 
 msgid "<32>{#p/human}* (You talk to the dummy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заговорили с манекеном.)"
 
 msgid "<32>{#p/basic}* It doesn't seem much for conversation."
-msgstr ""
+msgstr "<32>{#p/basic}* Кажется, манекен не самый подходящий собеседник."
 
 msgid "<32>* Toriel is pleased with you."
-msgstr ""
+msgstr "<32>* Ториэль выглядит довольной."
 
 msgid "<32>{#p/basic}* The dummy grew tired of your aimless shenanigans."
 msgstr ""
+"<32>{#p/basic}* Манекена утомила эта бесконечная петля однотипных действий."
 
 msgid "<32>{#p/basic}* The dummy is blushing... somehow."
-msgstr ""
+msgstr "<32>{#p/basic}* Манекен покраснел... каким-то образом."
 
 msgid "* Dummy"
-msgstr ""
+msgstr "* Манекен"
 
 msgid "<32>{#p/basic}* Suddenly...!"
-msgstr ""
+msgstr "<32>{#p/basic}* Внезапно!.."
 
 msgid "<32>{#p/story}* You encountered the dummy."
-msgstr ""
+msgstr "<32>{#p/story}* Вы подошли к манекену."
 
 msgid "<32>{#p/story}* The dummy looks like it's already getting bored."
-msgstr ""
+msgstr "<32>{#p/story}* Кажется, что манекену уже сейчас становится скучно."
 
 msgid "<32>{#p/story}* The dummy looks like it's lost in itself."
-msgstr ""
+msgstr "<32>{#p/story}* Похоже, что от ваших действий манекен запутался в себе."
 
 msgid "<32>{#p/story}* The dummy looks like it's going to fall over."
-msgstr ""
+msgstr "<32>{#p/story}* Манекен готов провалиться сквозь землю."
 
 msgid "<09>{#p/basic}{#i/20}{~}.....{}"
 msgstr ""
