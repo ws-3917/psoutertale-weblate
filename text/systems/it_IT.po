@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 00:13+0000\n"
-"PO-Revision-Date: 2025-03-18 03:56+0000\n"
+"PO-Revision-Date: 2025-03-21 01:13+0000\n"
 "Last-Translator: Mr R <roddypesce@gmail.com>\n"
 "Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/it/>\n"
@@ -598,7 +598,7 @@ msgid ""
 "moved to a timeline slot."
 msgstr ""
 "Il tuo file di SALVATAGGIO\n"
-"dalla demo di OUTERTALE è stato\n"
+"della demo di OUTERTALE è stato\n"
 "spostato in un'altra timeline."
 
 msgid "Save this file?"
@@ -2026,7 +2026,7 @@ msgid "Frisk"
 msgstr "Frisk"
 
 msgid "G"
-msgstr "G"
+msgstr "ORO"
 
 msgid "\\u221e"
 msgstr "\\u221e"
@@ -2087,47 +2087,47 @@ msgid "KEYRING"
 msgstr "PORTACHIAVI"
 
 msgid "Is this name correct?"
-msgstr "È il nome corretto?"
+msgstr "Va bene questo nome?"
 
 msgid ""
 "A name has already\n"
 "been chosen."
 msgstr ""
-"Un nome è stato\n"
-"già scelto."
+"Un nome è già\n"
+"stato scelto."
 
 msgid "Go back"
-msgstr "Torna indietro"
+msgstr "Indietro"
 
 msgid "OUTERTALE V5.05 (c) 2025 SPACEY_432"
-msgstr ""
+msgstr "OUTERTALE V5.05 (c) 2025 SPACEY_432"
 
 msgid "* (HP fully restored.)"
-msgstr "* (PS ripristinati.)"
+msgstr "* (HP ripristinati.)"
 
 msgid "* (You recovered $(x) HP.)"
-msgstr "* (Hai recuperato $(x) PS.)"
+msgstr "* (Hai recuperato $(x) HP.)"
 
 msgid "* (You lost $(x) HP.)"
-msgstr "* (Hai perso $(x) PS.)"
+msgstr "* (Hai perso $(x) HP.)"
 
 msgid "* (HP fully depleted.)"
-msgstr "* (PS azzerati.)"
+msgstr "* (HP azzerati.)"
 
 msgid "* (You gained $(x) HP.)"
-msgstr "* (Hai guadagnato $(x) PS.)"
+msgstr "* (Hai guadagnato $(x) HP.)"
 
 msgid "USE"
 msgstr "USA"
 
 msgid "EQUIP"
-msgstr "EQUIP"
+msgstr "EQUIPPAGGIA"
 
 msgid "INFO"
 msgstr "INFO"
 
 msgid "DROP"
-msgstr "GETTA"
+msgstr "BUTTA"
 
 msgid "Continue"
 msgstr "Continua"
@@ -2142,13 +2142,13 @@ msgid "True Reset"
 msgstr "Il Vero Reset"
 
 msgid "Name the stranded human."
-msgstr "Nomina l'umano incagliato."
+msgstr "Nome del umano alla deriva."
 
 msgid "Quit"
 msgstr "Esci"
 
 msgid "Backspace"
-msgstr "Indietro"
+msgstr "Backspace"
 
 msgid "Done"
 msgstr "Fatto"
@@ -2157,7 +2157,7 @@ msgid "§fill=#808080§ [ESC] - Quit / [ENTER] - Done"
 msgstr "§fill=#808080§ [ESC] - Esci / [INVIO] - Fatto"
 
 msgid "Return"
-msgstr ""
+msgstr "Indietro"
 
 msgid "File saved."
 msgstr "File salvato."
@@ -2184,7 +2184,7 @@ msgid "MUSIC"
 msgstr "MUSICA"
 
 msgid "FANCY GRAPHICS"
-msgstr ""
+msgstr "GRAFICHE AVANZATE"
 
 msgid "-> GAMEPLAY & GRAPHICS"
 msgstr "-> GIOCO & GRAFICA"
@@ -2524,7 +2524,7 @@ msgid ""
 msgstr ""
 
 msgid "ITEM"
-msgstr "OGG"
+msgstr "OGGETTI"
 
 msgid "STAT"
 msgstr "STAT"
@@ -2542,10 +2542,10 @@ msgid "[Hold ESC] - Restart"
 msgstr "[Tieni ESC] - Riavvia"
 
 msgid "When HP is 0, you lose."
-msgstr "Perdi quando finisci i PS"
+msgstr "Quando i tuoi HP scendono a 0, perdi."
 
 msgid "Begin Game"
-msgstr "Inizia la partita"
+msgstr "Gioca"
 
 msgid "AT"
 msgstr "AT"
@@ -2569,13 +2569,13 @@ msgstr ""
 "non canon."
 
 msgid "KILLS"
-msgstr "UCCIS"
+msgstr "UCCISIONI"
 
 msgid "BULLY"
-msgstr "BULLI"
+msgstr "BULLIZZATI"
 
 msgid "FLIRT"
-msgstr "CORTEG"
+msgstr "CORTEGGIATI"
 
 msgid "STATUS"
 msgstr "STATO"
@@ -2598,8 +2598,8 @@ msgid ""
 "<24>After the MONSTERS' home planet was destroyed, HUMANS declared "
 "victory.{^35}{}"
 msgstr ""
-"<24>Dopo che il pianeta natale dei MOSTRI venne distrutto, gli UMANI furono "
-"i vincitori.{^35}{}"
+"<24>Dopo che il pianeta natale dei MOSTRI venne distrutto, gli UMANI ne "
+"uscirono vincitori.{^35}{}"
 
 msgid ""
 "<24>The remaining MONSTERS were banished to an abandoned outpost.{^35}{}"
@@ -2610,7 +2610,7 @@ msgid ""
 "<24>A powerful force field was erected, and the MONSTERS were sealed "
 "in.{^35}{}"
 msgstr ""
-"<24>Un potente campo di forza fu eretto, e i MOSTRI furono sigillati "
+"<24>Un potente campo di forza fu eretto, e i MOSTRI ne furono sigillati "
 "all'interno.{^35}{}"
 
 msgid "<24>Many years later.{^8}.{^8}.{^35}{}"
@@ -2625,7 +2625,7 @@ msgstr ""
 
 msgid "<24>Tales speak of a place from which spacecraft never return.{^35}{}"
 msgstr ""
-"<24>Le leggende dicono di un posto da dove le astronavi non fanno "
+"<24>Le leggende narrano di un posto da cui le astronavi non fanno "
 "ritorno.{^35}{}"
 
 msgid "<24>{^100}{}"
@@ -2638,34 +2638,34 @@ msgid "Resume Canon Timeline"
 msgstr "Riprendi Timeline Canonica"
 
 msgid "Start Canon Timeline"
-msgstr ""
+msgstr "Inizia Timeline Canonica"
 
 msgid "Other Slots"
-msgstr ""
+msgstr "Altri Slot"
 
 msgid "Bisect"
-msgstr ""
+msgstr "Dividi"
 
 msgid "Delete"
-msgstr ""
+msgstr "Cancella"
 
 msgid "[ESC] to Cancel / [ENTER] to Confirm"
-msgstr ""
+msgstr "[ESC] per Tornare Indietro / [ENTER] per Confermare"
 
 msgid "Press any button on your gamepad to open the keyboard."
-msgstr ""
+msgstr "Premi un qualsiasi pulsante per aprire la tastiera."
 
 msgid "Launch"
-msgstr ""
+msgstr "Avvia"
 
 msgid "Rename"
-msgstr ""
+msgstr "Rinomina"
 
 msgid "Create New"
-msgstr ""
+msgstr "Crea Nuovo"
 
 msgid "Enter Timeline Name"
-msgstr ""
+msgstr "Inserisci nome della Timeline"
 
 msgid "Are You Sure?"
-msgstr ""
+msgstr "Sei Sicuro?"
