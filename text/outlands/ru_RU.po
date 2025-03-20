@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 12:36+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-20 13:15+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -1835,9 +1835,8 @@ msgstr "<32>{#p/human}* (Вы заглядываете в рюкзак...)"
 msgid "<32>{#p/human}* (But there was nothing left to find within.)"
 msgstr "<32>{#p/human}* (Но там ничего не осталось.)"
 
-#, fuzzy
 msgid "<32>{#p/basic}* Nothing left to find here."
-msgstr "<32>{#p/basic}* Ничего полезного."
+msgstr "<32>{#p/basic}* Ничего полезного не осталось."
 
 msgid ""
 "<32>{#p/basic}* What's this?\n"
@@ -1849,9 +1848,8 @@ msgstr ""
 msgid "<32>{#s/equip}{#p/human}* (You got the Super Starwalker 2.)"
 msgstr "<32>{#s/equip}{#p/human}* (Вы получили комикс „Супер Старуокер 2“.)"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You're carrying too much to take that.)"
-msgstr "<32>{#p/human}* (Вы несёте слишком много чтобы взять это.)"
+msgstr "<32>{#p/human}* (Вы несёте слишком много груза.)"
 
 msgid ""
 "<32>{#p/human}* (If you sleep here now, you may miss something important.)"
@@ -2403,10 +2401,9 @@ msgstr "<25>{#f/10}* «„Я не нуждаюсь во сне“ — возра
 msgid "<25>{#f/5}* \"'I am sorry,' sighed the monster."
 msgstr "<25>{#f/5}* «„Мне жаль“ — вздохнула монстр»."
 
-#, fuzzy
 msgid ""
 "<25>{#f/5}* \"'I wish I had something to offer, but I have nothing left.'\""
-msgstr "<25>{#f/5}* «„Я бы хотела хоть что-то дать, но у меня ничего нет“»."
+msgstr "<25>{#f/5}* «„Я бы хотела хоть что-то дать, но сама ничего не имею“»."
 
 msgid "<25>{#f/9}* \"'I am just an old monster approaching her death.'\""
 msgstr "<25>{#f/9}* «„Я лишь монстр, что ждёт своей участи“»."
@@ -4769,9 +4766,8 @@ msgstr ""
 msgid "<32>{#p/basic}{#n1}* Back again, huh?"
 msgstr "<32>{#p/basic}{#n1}* Опять вернулся?"
 
-#, fuzzy
 msgid "<32>* Sorry bud, I've got nothin' left to sell."
-msgstr "<32>* Прости пацан, мне больше нечего тебе продать."
+msgstr "<32>* Прости пацан, больше мне нечего тебе продать."
 
 msgid "<32>{#p/human}{#n1!}* (You're carrying too much.)"
 msgstr "<32>{#p/human}{#n1!}* (Вы несёте слишком много.)"
@@ -4791,7 +4787,7 @@ msgid "<32>* If I was in charge, I'd make a spinoff about that sidekick..."
 msgstr "<32>* Будь моя воля, я бы снял спин-офф про того напарника..."
 
 msgid "<32>* Gumbert, I think?"
-msgstr "<32>* Как его там... Гумберт?"
+msgstr "<32>* Как его там... Гамберт?"
 
 msgid ""
 "<32>{#p/basic}{#n1}* Maybe now that we're free, they'll finally make that "
@@ -5023,31 +5019,25 @@ msgstr ""
 msgid "<32>{#p/human}* (The switch appears to be stuck.)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* The switch is stuck."
 msgstr "<32>{#p/basic}* Этот переключатель сломан."
 
-#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* My child, how did you get here!?"
-msgstr "<25>{#p/toriel}{#f/1}* Моё дитя, что ты тут делаешь!?"
+msgstr "<25>{#p/toriel}{#f/1}* Моё дитя, что ты здесь делаешь!?"
 
-#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Ah... there you are."
-msgstr "<25>{#p/toriel}{#f/1}* А... вот ты где!"
+msgstr "<25>{#p/toriel}{#f/1}* Вот ты где!"
 
-#, fuzzy
 msgid "<25>* Are you alright?"
-msgstr "25>* Ты в порядке?"
+msgstr "<25>* Ты в порядке?"
 
-#, fuzzy
 msgid ""
 "<25>{#p/toriel}* Not a scratch!\n"
 "* Impressive."
 msgstr ""
 "<25>{#p/toriel}* Ни единой царапины!\n"
-"* Впечатляет."
+"* Удивительно."
 
-#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/10}* Not a scratch...\n"
 "* Very well."
@@ -5055,17 +5045,14 @@ msgstr ""
 "<25>{#p/toriel}{#f/10}* Ни царапины...\n"
 "* Очень хорошо."
 
-#, fuzzy
 msgid "<25>{#p/toriel}{#f/4}* You look hurt..."
-msgstr "<25>{#p/toriel}{#f/4}* Ты выглядишь раненым..."
+msgstr "<25>{#p/toriel}{#f/4}* Похоже ты ранен..."
 
-#, fuzzy
 msgid "<25>{#f/10}* There, there, I will heal you."
-msgstr "<25>{#f/10}* Ничего страшного, я исцелю тебя."
+msgstr "<25>{#f/10}* Иди ко мне, я подлечу тебя."
 
-#, fuzzy
 msgid "<25>{#p/toriel}{#f/9}* You have been hurt."
-msgstr "<25>{#p/toriel}{#f/9}* Похоже, ты ранен."
+msgstr "<25>{#p/toriel}{#f/9}* Тебя ранили?"
 
 #, fuzzy
 msgid "<25>{#f/10}* Please, allow me to heal your injuries."
@@ -5386,10 +5373,12 @@ msgstr ""
 "* Приятно познакомиться."
 
 msgid "<32>* The name's Silencio... well, that's what they call me, anyway."
-msgstr "<32>* Звать меня Тихоня... Не путать с тихонями, это немножко другое."
+msgstr ""
+"<32>* Звать меня Тихон...\n"
+"* Не путать с тихонями, я совсем на них не похож."
 
 msgid "<32>* You wanna know why they call me that?"
-msgstr "<32>* Ты хочешь знать, почему меня так назвали?"
+msgstr "<32>* Хочешь знать, почему меня так назвали?"
 
 msgid "<32>* I'm like a space ninja, silent as the most silent of stars."
 msgstr "<32>* Я вроде космического ниндзя, невидимый, словно тёмная материя."
@@ -7347,9 +7336,9 @@ msgid ""
 "<32>{#p/human}* (This cactus seems to remind you of someone you once knew.)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* Finally, a houseplant we can all relate to."
-msgstr "<32>{#p/basic}* Ты можешь ассоциировать себя с этим кактусом."
+msgstr ""
+"<32>{#p/basic}* Наконец-то растение, с которым можно себя ассоциировать."
 
 msgid ""
 "<32>{#p/basic}* Ah, the cactus.\n"
