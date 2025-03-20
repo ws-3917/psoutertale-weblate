@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-20 12:36+0000\n"
+"PO-Revision-Date: 2025-03-20 13:15+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "4-aerialis/ru/>\n"
@@ -68,8 +68,9 @@ msgstr "Нет"
 msgid "<32>{#p/human}* (You decide not to smash.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (You take a swing...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы разбиваете пирог...)"
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr ""
@@ -7811,11 +7812,13 @@ msgid ""
 "contents.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a bookshelf."
-msgstr ""
+msgstr "<32>{#p/basic}* Книжный шкаф."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pick out a book...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы берёте книгу...)"
 
 msgid "<32>{#p/basic}* \"A monster's body is a reflection of its SOUL.\""
 msgstr ""
@@ -7843,8 +7846,9 @@ msgid ""
 "of a plane.\""
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы ставите книгу обратно на полку.)"
 
 msgid ""
 "<32>{#p/basic}* \"So you wanna design a robot, huh? Well, Fabulous Faraday's"
