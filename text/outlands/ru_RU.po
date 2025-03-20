@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 10:36+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-03-20 10:38+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -2401,9 +2401,10 @@ msgstr "<25>{#f/10}* «„Я не нуждаюсь во сне“ — возра
 msgid "<25>{#f/5}* \"'I am sorry,' sighed the monster."
 msgstr "<25>{#f/5}* «„Мне жаль“ — вздохнула монстр»."
 
+#, fuzzy
 msgid ""
 "<25>{#f/5}* \"'I wish I had something to offer, but I have nothing left.'\""
-msgstr "<25>{#f/5}* «„Я хотела бы хоть что-то дать, но ничего не имею“»."
+msgstr "<25>{#f/5}* «„Я бы хотела хоть что-то дать, но у меня ничего нет“»."
 
 msgid "<25>{#f/9}* \"'I am just an old monster approaching her death.'\""
 msgstr "<25>{#f/9}* «„Я лишь монстр, что ждёт своей участи“»."
@@ -4766,8 +4767,9 @@ msgstr ""
 msgid "<32>{#p/basic}{#n1}* Back again, huh?"
 msgstr "<32>{#p/basic}{#n1}* Опять вернулся?"
 
+#, fuzzy
 msgid "<32>* Sorry bud, I've got nothin' left to sell."
-msgstr "<32>* Прости пацан, мне нечего тебе продать."
+msgstr "<32>* Прости пацан, мне больше нечего тебе продать."
 
 msgid "<32>{#p/human}{#n1!}* (You're carrying too much.)"
 msgstr "<32>{#p/human}{#n1!}* (Вы несёте слишком много.)"
