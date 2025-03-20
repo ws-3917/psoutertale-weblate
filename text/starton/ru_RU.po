@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-20 13:15+0000\n"
+"PO-Revision-Date: 2025-03-20 16:09+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -4731,9 +4731,8 @@ msgstr ""
 msgid "<32>{#p/basic}* Complex manuals and children's books."
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/human}* (You pick out a book...)"
-msgstr "<32>{#p/human}* (Вы берёте книгу...)"
+msgstr "<32>{#p/human}* (Вы берёте одну из книг...)"
 
 msgid ""
 "<32>{#p/basic}* \"The cornerstone of a puzzle's interactive value is the "
@@ -4753,7 +4752,6 @@ msgstr ""
 msgid "<32>* \"The player remains focused and on task until the very end.\""
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
 msgstr "<32>{#p/human}* (Вы ставите книгу обратно на полку.)"
 
@@ -9990,7 +9988,6 @@ msgid ""
 " time.)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* It's a bookshelf."
 msgstr "<32>{#p/basic}* Книжный шкаф."
 
