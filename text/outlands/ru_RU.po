@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 14:43+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-03-20 16:09+0000\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -269,23 +269,35 @@ msgid ""
 "* Nobody is going to cast you out into space."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* Sans tells me the \"rec center\" is a favored "
 "location of his."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Санс говорил, что «центр культуры» — его любимое "
+"место."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Art classes, music clubs, libraries..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Художественные занятия, музыкальные клубы, "
+"библиотеки..."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/5}* It is a shame much of the area is unsafe for young "
 "children."
 msgstr ""
+"<25>{#p/toriel}{#f/5}* Жаль, что большая часть этого центра небезопасна для "
+"маленьких детей."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/3}* Could they not put a little more effort into being "
 "accommodating?"
 msgstr ""
+"<25>{#p/toriel}{#f/3}* Разве они не могли постараться чуть больше, дабы быть "
+"любезней?"
 
 msgid ""
 "<25>{#p/toriel}{#f/2}* Those mediums can offer valuable transformative "
