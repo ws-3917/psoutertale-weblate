@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-20 14:42+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -4073,8 +4073,9 @@ msgstr ""
 msgid "<25>{#p/toriel}* Good morning, little one."
 msgstr "<25>{#p/toriel}* Доброе утро, моё дитя."
 
+#, fuzzy
 msgid "<25>{#f/0}* Still, I have done my best to salvage it for you."
-msgstr ""
+msgstr "<25>{#f/0}* Я сделала всё возможное, чтобы сохранить его для тебя."
 
 msgid "<25>{#f/1}* The stars do look pretty today, do they not?"
 msgstr ""
@@ -4121,8 +4122,9 @@ msgstr ""
 msgid "<25>{#f/1}* It is rather worrying..."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#f/0}* Anyhoo, I will be in the living room if you need me."
-msgstr ""
+msgstr "<25>{#f/0}* Если тебе что-то понадобится, я буду в гостиной."
 
 msgid "<25>{#p/toriel}{#f/10}* ..."
 msgstr ""
@@ -7765,8 +7767,11 @@ msgid ""
 "countertop."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* The ghost of a pie once smashed haunts the countertop."
 msgstr ""
+"<32>{#p/basic}* Призрак пирога, который ты когда-то разбил, преследует "
+"столешницу."
 
 msgid "<32>{#p/basic}* No amount of passed time will fix this atrocity."
 msgstr ""
