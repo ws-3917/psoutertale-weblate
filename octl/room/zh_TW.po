@@ -1,70 +1,86 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-20 06:52+0000\n"
+"Last-Translator: onezhazha <1561536469@qq.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://"
+"translate.ws3917.space/projects/oceantale/1-room/zh_Hant/>\n"
 "Language: zh_TW\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.2\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "* Это всё странно..."
-msgstr ""
+msgstr "* 一切都好奇怪..."
 
 msgid "* Этого не может быть..."
-msgstr ""
+msgstr "* 这不可能啊..."
 
 msgid ""
 "* Никто не мог просто\n"
 "  так упасть с обрыва! \n"
 "* Я не верю в эту историю!"
 msgstr ""
+"* 怎么会有人就那样\n"
+"  掉下悬崖呢！\n"
+"* 我才不信呢！"
 
 msgid "* Этот обрыв уникальный?"
-msgstr ""
+msgstr "* 是因为那个悬崖很特殊吗？"
 
 msgid ""
 "* Я... Я обязана пойти\n"
 "  туда и узнать что\n"
 "  там!"
 msgstr ""
+"* 我...我一定要亲自去\n"
+"  调查清楚！"
 
 msgid ""
 "* Хей, Фрида, ты ещё\n"
 "  не спишь?"
 msgstr ""
+"* 嘿，Frida，\n"
+"  你还没睡？"
 
 msgid "* Да..."
-msgstr ""
+msgstr "* 是啊..."
 
 msgid "* Опять ешь ночью?"
-msgstr ""
+msgstr "* 还想吃点夜宵吗？"
 
 msgid "* Нет."
-msgstr ""
+msgstr "* 不用了。"
 
 msgid "* Ладно."
-msgstr ""
+msgstr "* 行。"
 
 msgid ""
 "* Если что-то будет нужно, \n"
 "  я в своей комнате."
 msgstr ""
+"* 如果有什么事的话，\n"
+"  来我房间找我就行。"
 
 msgid "* Хорошо."
-msgstr ""
+msgstr "* 我知道了。"
 
 msgid "* Мягкий диван."
-msgstr ""
+msgstr "* 这个沙发很软。"
 
 msgid ""
 "* На нём комфортно\n"
 "  сидеть."
-msgstr ""
+msgstr "* 坐上去非常舒服。"
 
 msgid "* Я обожаю холодильник."
-msgstr ""
+msgstr "* 我喜欢这个冰箱。"
 
 msgid ""
 "* К сожалению, он почти\n"
 "  всегда пуст."
-msgstr ""
+msgstr "* 不过，它总是空的。"
 
 msgid "* Ой, это лазанья?"
 msgstr ""
