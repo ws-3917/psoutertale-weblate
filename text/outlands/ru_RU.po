@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-20 13:15+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -3925,8 +3925,9 @@ msgstr ""
 msgid "<25>{#f/1}* I will leave them here on the table..."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* You wouldn't like what's in the fridge."
-msgstr ""
+msgstr "<32>{#p/basic}* Тебе не понравится содержимое холодильника."
 
 msgid "<32>{#p/basic}* There is a brand-name chocolate bar in the fridge."
 msgstr ""
@@ -6885,8 +6886,9 @@ msgid ""
 "various grooves and ridges.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a cutting board."
-msgstr ""
+msgstr "<32>{#p/basic}* Это разделочная доска."
 
 msgid ""
 "<32>{#p/basic}* Toriel's cutting board.\n"
@@ -6916,8 +6918,9 @@ msgid ""
 "this very day."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* There are clumps of white fur stuck in the drain."
-msgstr ""
+msgstr "<32>{#p/basic}* В стоке застряли комки белого меха."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* I have to wonder why she thought buying this would "
@@ -6948,8 +6951,9 @@ msgid ""
 "* No one is going to use it."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's just a stovetop."
-msgstr ""
+msgstr "<32>{#p/basic}* Простая плита."
 
 msgid ""
 "<32>{#p/basic}* The stovetop is very clean.\n"
@@ -6967,8 +6971,9 @@ msgstr ""
 msgid "<32>{#p/basic}* Rather symbolically, the trash can has been emptied."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* There is a crumpled up recipe for Starling Tea."
-msgstr ""
+msgstr "<32>{#p/basic}* В мусорке лежит рецепт чая из звездоцвета."
 
 msgid "<32>{#p/human}* (You note the fairly large size of the dining chair.)"
 msgstr ""
@@ -6976,79 +6981,111 @@ msgstr ""
 msgid "<32>{#p/basic}* A larger dining chair."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
 "* Fit for a queen."
 msgstr ""
+"<32>{#p/basic}* Один из обеденных стульев Ториэль.\n"
+"* Подходит для королевы."
 
 msgid ""
 "<32>{#p/human}* (The books on this bookshelf consist of snail facts, family "
 "recipes, and gardening tips.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a bookshelf."
-msgstr ""
+msgstr "<32>{#p/basic}* Книжный шкаф."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pick out a book...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы берёте книгу...)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Did you know that snails have a chainsaw-like tongue "
 "called a radula?\""
 msgstr ""
+"<32>{#p/basic}* «Знаете ли вы, что у улиток есть похожий на бензопилу язык, "
+"который называется радула?»"
 
+#, fuzzy
 msgid "<32>* \"Not many folks know about that one.\""
-msgstr ""
+msgstr "<32>* «Немногие знают об этом»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Another neat thing about 'em is how their digestive systems flip as "
 "they mature.\""
 msgstr ""
+"<32>* «Еще один факт о них - как меняется их пищеварительная система по мере "
+"взросления»."
 
+#, fuzzy
 msgid "<32>* \"Oh, and did I mention...\""
-msgstr ""
+msgstr "<32>* «Ой, а я упоминал...»"
 
+#, fuzzy
 msgid "<32>* \"Snails Talk. {^10}Really. {^10}Slowly.\""
-msgstr ""
+msgstr "<32>* «Улитки говорят. {^10}Очень. {^10}Медленно»."
 
+#, fuzzy
 msgid "<32>* \"Just kiddin', snails don't talk.\""
-msgstr ""
+msgstr "<32>* «Шучу, улитки не умеют говорить»."
 
+#, fuzzy
 msgid ""
 "<32>* \"I mean, could you imagine a world with talking snails?\"\n"
 "* \"I know I couldn't.\""
 msgstr ""
+"<32>* «Вы бы могли представить себе мир, где улитки умеют разговаривать?»\n"
+"* «Я знаю, что не смогли бы»."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы ставите книгу обратно на полку.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* \"Dreemurr Family Recipes: Snail Pie\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Рецепты семьи Дримурр: улиточный пирог»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Snail Pie is a coveted tradition among members of the Dreemurr "
 "family line.\""
-msgstr ""
+msgstr "<32>* «Улиточный пирог — давняя традиция семьи Дримурр»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Making it is a simple process, and can be broken down into five "
 "steps.\""
 msgstr ""
+"<32>* «Пирог готовится очень просто, чей процесс можно разделить на пять "
+"шагов»."
 
+#, fuzzy
 msgid ""
 "<32>* \"First, prepare the bottom crust by laying it on top of a pie "
 "plate.\""
 msgstr ""
+"<32>* «Сначала подготовьте нижнюю корочку, положив её на тарелку сверху»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Next, whisk evaporated milk, eggs, and spices together in a bowl "
 "until smooth.\""
 msgstr ""
+"<32>* «Затем взбейте в миске сгущённое молоко, яйца и специи до состояния "
+"однородности»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Then, take several well-aged snails, and thoroughly incorporate into"
 " the mixture.\""
 msgstr ""
+"<32>* «Затем возьмите несколько полностью созревших улиток и аккуратно "
+"добавьте их в смесь»."
 
 msgid "<32>* \"After that, pour the contents of the bowl into the bottom crust.\""
 msgstr ""
@@ -7089,15 +7126,21 @@ msgstr ""
 msgid "<32>{#p/basic}* A smaller dining chair."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
 "* Fit for a demon."
 msgstr ""
+"<32>{#p/basic}* Один из обеденных стульев Ториэль.\n"
+"* Подходит для демона."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
 "* Fit for a prince."
 msgstr ""
+"<32>{#p/basic}* Один из обеденных стульев Ториэль.\n"
+"* Подходит для принца."
 
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
@@ -7114,10 +7157,13 @@ msgstr ""
 msgid "<32>{#p/human}* (The plant appears to be decorative in nature.)"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* A decorative plant.\n"
 "* Nothing more."
 msgstr ""
+"<32>{#p/basic}* Декоративное растение.\n"
+"* Ничего более."
 
 msgid "<32>{#p/basic}* A decorative plant on Toriel's dining table."
 msgstr ""
@@ -7185,8 +7231,9 @@ msgid ""
 "<25>{#p/asriel1}{#f/20}* Please don't make a musical instrument out of me."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* Fire pokers."
-msgstr ""
+msgstr "<32>{#p/basic}* Ступа с кочергами."
 
 msgid ""
 "<32>{#p/basic}* They're just fire pokers...\n"
@@ -7225,10 +7272,13 @@ msgstr ""
 msgid "<32>{#p/basic}* A king-sized dining chair."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
 "* Fit for a king."
 msgstr ""
+"<32>{#p/basic}* Один из обеденных стульев Ториэль.\n"
+"* Подходит для короля."
 
 msgid ""
 "<32>{#p/human}* (The bed seems a lot smaller than it might have used to.)"
@@ -7711,14 +7761,17 @@ msgstr ""
 msgid "<32>{#p/basic}* There is simply nothing more to be done here."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* The size of the pie does not intimidate you at all."
-msgstr ""
+msgstr "<32>{#p/basic}* Тебя совершенно не пугает размер этого пирога."
 
+#, fuzzy
 msgid "<32>{#p/basic}* In fact, it might even be intimidated by you..."
-msgstr ""
+msgstr "<32>{#p/basic}* Даже наоборот, это пирог боится тебя..."
 
+#, fuzzy
 msgid "* (Smash the pie?)"
-msgstr ""
+msgstr "* (Разбить пирог?)"
 
 msgid ""
 "<32>{#p/basic}* The size of the pie intimidates you too much to eat it."
@@ -7727,11 +7780,13 @@ msgstr ""
 msgid "<32>{#p/human}* (You decide not to smash.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (You take a swing...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы разбиваете пирог...)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's been utterly destroyed."
-msgstr ""
+msgstr "<32>{#p/basic}* Пирог был полностью уничтожен."
 
 msgid ""
 "<25>{#p/toriel}* Unlike the puzzle beforehand, this one is a little "
