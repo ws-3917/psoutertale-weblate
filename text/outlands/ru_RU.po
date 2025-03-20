@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-20 10:07+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -5329,13 +5329,11 @@ msgstr ""
 "<32>{#p/basic}{#n1}* Привет!\n"
 "* Приятно познакомиться."
 
-#, fuzzy
 msgid "<32>* The name's Silencio... well, that's what they call me, anyway."
-msgstr "<32>* Меня зовут Тихоня... Не путай с тихонями, это немножко другое."
+msgstr "<32>* Звать меня Тихоня... Не путать с тихонями, это немножко другое."
 
-#, fuzzy
 msgid "<32>* You wanna know why they call me that?"
-msgstr "<32>* Ты хочешь знать, почему меня зовут?"
+msgstr "<32>* Ты хочешь знать, почему меня так назвали?"
 
 #, fuzzy
 msgid "<32>* I'm like a space ninja, silent as the most silent of stars."
@@ -6233,7 +6231,6 @@ msgid ""
 "* Ribbit."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
 "* (Hello, human...)"
