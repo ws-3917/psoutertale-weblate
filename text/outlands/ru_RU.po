@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-20 09:51+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -4796,23 +4796,20 @@ msgstr ""
 "<32>{#p/basic}{#n1}* Возможно, теперь, когда мы свободны, они наконец-то "
 "сделают тот перезапуск, который планировали."
 
-#, fuzzy
 msgid ""
 "<32>* What was it called?\n"
 "* Oh, I've already forgotten..."
 msgstr ""
-"<32>* Супер Ставлюкер?\n"
+"<32>* Невозможный Ставлюкер?\n"
 "* Или как там его..."
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Now what was THAT racket?"
-msgstr "<32>{#p/basic}{#n1}* Что это был за грохот?"
+msgstr "<32>{#p/basic}{#n1}* Что за грохот?"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* Er, sorry, my eyesight's not what it used to be..."
 msgstr ""
-"<32>{#p/basic}{#n1}* Ох, прости, моё зрение уже не такое, как в молодости..."
+"<32>{#p/basic}{#n1}* Прости старика, моё зрение уже не то, что в молодости..."
 
 msgid ""
 "<32>{#p/basic}{#n1}* Huh?\n"
@@ -4823,32 +4820,27 @@ msgstr ""
 "* Опять?\n"
 "* Тьфу, молодёжь..."
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Kids these days..."
 msgstr "<32>{#p/basic}{#n1}* А вот в моё время..."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* Huh?\n"
 "* Was that my Super Starwalker comic strip?"
 msgstr ""
 "<32>{#p/basic}{#n1}* А?\n"
-"* Это был мой комикс про Супер-Старуокера?"
+"* Это был мой комикс про невероятного Старуокера?"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* ... and here I thought I'd gotten rid of that thing."
 msgstr "<32>{#p/basic}{#n1}* А я-то думал, что избавился от этой штуки..."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* If... if you d-do that again... I-I'm gonna have to "
 "stop you!"
 msgstr ""
 "<32>{#p/basic}{#n1}* Если... если ты сделаешь это снова... Мне придётся "
-"остановить тебя!"
+"силой остановить тебя!"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* N-no...\n"
 "* Not again..."
@@ -5330,12 +5322,11 @@ msgid ""
 "breath."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* Hey there.\n"
 "* Nice to meet you."
 msgstr ""
-"<32>{#p/basic}{#n1}* Привет.\n"
+"<32>{#p/basic}{#n1}* Привет!\n"
 "* Приятно познакомиться."
 
 #, fuzzy
@@ -6186,13 +6177,12 @@ msgstr ""
 msgid "<32>* Not that it ever did in the first place."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* To think the only thing between you and the endless expanse "
 "is a sheet of glass..."
 msgstr ""
-"2>{#p/basic}* Мысли о том, что между тобой и открытым космосом только тонкий "
-"лист стекла..."
+"<32>{#p/basic}* Одна мысль о том, что между тобой и открытым космосом лишь "
+"тонкий лист стекла..."
 
 #, fuzzy
 msgid "<32>* Despite all common sense, this doesn't seem to bother you."
