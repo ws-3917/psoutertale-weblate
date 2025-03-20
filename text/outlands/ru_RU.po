@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-19 19:13+0000\n"
+"PO-Revision-Date: 2025-03-20 10:07+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -470,7 +470,7 @@ msgid ""
 "* Mister \"just go be with the people who love you.\""
 msgstr ""
 "<33>{#p/basic}* Ха-ха... кто бы говорил.\n"
-"* Мистер «Просто будь с теми, кто тебя любит.»"
+"* Мистер «Просто будь с теми, кто тебя любит»."
 
 msgid "<32>* But you deserve to know the truth about me, Asriel..."
 msgstr "<32>* Но ты заслуживаешь знать правду обо мне, Азриэль..."
@@ -1099,10 +1099,10 @@ msgid "<26>{#f/15}* They just kept saying..."
 msgstr "<26>{#f/15}* Она просто продолжала говорить..."
 
 msgid "<25>{#f/15}* \"... warm...\""
-msgstr "<25>{#f/15}* «... тёплый.»"
+msgstr "<25>{#f/15}* «... тёплый»."
 
 msgid "<25>{#f/15}* \"... fluffy...\""
-msgstr "<25>{#f/15}* «... пушистый.»"
+msgstr "<25>{#f/15}* «... пушистый»."
 
 msgid "<25>{#f/20}* I would have complained about it, but..."
 msgstr "<25>{#f/20}* Я хотел пожаловаться ей на это, но..."
@@ -1563,7 +1563,7 @@ msgstr ""
 "несколько лет.)"
 
 msgid "<32>{#p/asriel1}{#v/2}* \"Azzys Diary, K-506.03.\""
-msgstr "<32>{#p/asriel1}{#v/2}* «Дневник Аззи, К-506.03.»"
+msgstr "<32>{#p/asriel1}{#v/2}* «Дневник Аззи, К-506.03»."
 
 msgid ""
 "<32>* \"My old diary was in a box of toys And i wanted to put more in it.\""
@@ -4723,108 +4723,130 @@ msgid ""
 "<32>{#p/basic}{#n1}* Interested in buyin' my limited edition Super "
 "Starwalker comic strip?"
 msgstr ""
+"<32>{#p/basic}{#n1}* Как насчёт того, чтобы приобрести ограниченное издание "
+"невероятного Старуокера?"
 
 msgid "<32>* All I'm askin' for is 5G."
-msgstr ""
+msgstr "<32>* Всё, о чём я прошу — 5 М."
 
 msgid "<32>* All I'm askin' for is 10G."
-msgstr ""
+msgstr "<32>* Продам тебе за 10 М."
 
 msgid "<32>{#p/human}{#n1!}* (You don't have enough G.)"
-msgstr ""
+msgstr "<32>{#p/human}{#n1!}* (У вас недостаточно М.)"
 
 msgid "<32>{#p/basic}{#n1}* I'll be honest, that don't look like 5G..."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Что-то это не похоже на 5 М..."
 
 msgid "<32>{#p/basic}{#n1}* I'll be honest, that don't look like 10G..."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Что-то это не похоже на 10 М..."
 
 msgid "<32>{#p/basic}{#n1}* Not interested, huh?"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Не интересует?"
 
 msgid ""
 "<32>* Well, that's fine.\n"
 "* I'll just find someone else..."
 msgstr ""
+"<32>* Ну и ладно.\n"
+"* Я найду другого покупателя..."
 
 msgid "<32>{#s/equip}{#p/human}{#n1!}* (You got the Super Starwalker 1.)"
 msgstr ""
+"<32>{#s/equip}{#p/human}{#n1!}* (Вы получили один экземпляр «Невероятного "
+"Старуокера».)"
 
 msgid ""
 "<32>{#p/basic}{#n1}* Splendid!\n"
 "* Enjoy the comic strip."
 msgstr ""
+"<32>{#p/basic}{#n1}* Спасибо за покупку!\n"
+"* Наслаждайся комиксом."
 
 msgid "<32>{#p/basic}{#n1}* Back again, huh?"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Опять вернулся?"
 
 msgid "<32>* Sorry bud, I've got nothin' left to sell."
-msgstr ""
+msgstr "<32>* Прости пацан, мне нечего тебе продать."
 
 msgid "<32>{#p/human}{#n1!}* (You're carrying too much.)"
-msgstr ""
+msgstr "<32>{#p/human}{#n1!}* (Вы несёте слишком много.)"
 
 msgid "<32>{#p/basic}{#n1}* Them pockets of yours are lookin' kinda full..."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Пацан, твои карманы переполнены..."
 
 msgid "<32>{#p/basic}{#n1}* I heard they're rebooting the comic franchise..."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Я слышал, они перезапускают франшизу комиксов..."
 
 msgid ""
 "<32>* The new main character is some snake fella with sunglasses or "
 "something."
-msgstr ""
+msgstr "<32>* Новый главный герой — какой-то парень похожий на змею что ли."
 
 msgid "<32>* If I was in charge, I'd make a spinoff about that sidekick..."
-msgstr ""
+msgstr "<32>* Будь моя воля, я бы снял спин-офф про того напарника..."
 
 msgid "<32>* Gumbert, I think?"
-msgstr ""
+msgstr "<32>* Как его там... Гумберт?"
 
 msgid ""
 "<32>{#p/basic}{#n1}* Maybe now that we're free, they'll finally make that "
 "reboot they were planning."
 msgstr ""
+"<32>{#p/basic}{#n1}* Возможно, теперь, когда мы свободны, они наконец-то "
+"сделают тот перезапуск, который планировали."
 
 msgid ""
 "<32>* What was it called?\n"
 "* Oh, I've already forgotten..."
 msgstr ""
+"<32>* Невозможный Ставлюкер?\n"
+"* Или как там его..."
 
 msgid "<32>{#p/basic}{#n1}* Now what was THAT racket?"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Что за грохот?"
 
 msgid ""
 "<32>{#p/basic}{#n1}* Er, sorry, my eyesight's not what it used to be..."
 msgstr ""
+"<32>{#p/basic}{#n1}* Прости старика, моё зрение уже не то, что в молодости..."
 
 msgid ""
 "<32>{#p/basic}{#n1}* Huh?\n"
 "* It happened again?\n"
 "* Tch, kids these days..."
 msgstr ""
+"<32>{#p/basic}{#n1}* Хм?..\n"
+"* Опять?\n"
+"* Тьфу, молодёжь..."
 
 msgid "<32>{#p/basic}{#n1}* Kids these days..."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* А вот в моё время..."
 
 msgid ""
 "<32>{#p/basic}{#n1}* Huh?\n"
 "* Was that my Super Starwalker comic strip?"
 msgstr ""
+"<32>{#p/basic}{#n1}* А?\n"
+"* Это был мой комикс про невероятного Старуокера?"
 
 msgid ""
 "<32>{#p/basic}{#n1}* ... and here I thought I'd gotten rid of that thing."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* А я-то думал, что избавился от этой штуки..."
 
 msgid ""
 "<32>{#p/basic}{#n1}* If... if you d-do that again... I-I'm gonna have to "
 "stop you!"
 msgstr ""
+"<32>{#p/basic}{#n1}* Если... если ты сделаешь это снова... Мне придётся "
+"силой остановить тебя!"
 
 msgid ""
 "<32>{#p/basic}{#n1}* N-no...\n"
 "* Not again..."
 msgstr ""
+"<32>{#p/basic}{#n1}* Н-нет...\n"
+"* Только не снова..."
 
 msgid ""
 "<32>{#p/basic}{#n1}* I'm sad.\n"
@@ -5304,30 +5326,39 @@ msgid ""
 "<32>{#p/basic}{#n1}* Hey there.\n"
 "* Nice to meet you."
 msgstr ""
+"<32>{#p/basic}{#n1}* Привет!\n"
+"* Приятно познакомиться."
 
 msgid "<32>* The name's Silencio... well, that's what they call me, anyway."
-msgstr ""
+msgstr "<32>* Звать меня Тихоня... Не путать с тихонями, это немножко другое."
 
 msgid "<32>* You wanna know why they call me that?"
-msgstr ""
+msgstr "<32>* Ты хочешь знать, почему меня так назвали?"
 
+#, fuzzy
 msgid "<32>* I'm like a space ninja, silent as the most silent of stars."
-msgstr ""
+msgstr "<32>* Я космический ниндзя, невидимый, словно тёмная материя."
 
+#, fuzzy
 msgid "<32>* I can slip out of any danger, no exceptions."
-msgstr ""
+msgstr "<32>* Я могу выйти сухим из воды в любой ситуации."
 
+#, fuzzy
 msgid ""
 "<32>* Don't believe me?\n"
 "* Try something funny, and you'll see how fast I run."
 msgstr ""
+"<32>* Не веришь?\n"
+"* Сделай что-либо весёлое — и я исчезну."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* Oh, yeah, I guess I'm free to leave the galaxy now."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Похоже, теперь я могу спокойно покинуть галактику."
 
+#, fuzzy
 msgid "<32>* ... but maybe I'll stay."
-msgstr ""
+msgstr "<32>* ... но, наверное, я останусь здесь."
 
 msgid "<32>{#p/basic}{#n1}* You might even say, that performance of mine..."
 msgstr ""
@@ -5335,11 +5366,13 @@ msgstr ""
 msgid "<32>* Was \"breathtaking.\""
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* What are you still talking to me for, huh?"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Зачем ты продолжаешь разговаривать со мной?"
 
+#, fuzzy
 msgid "<32>* I've already said everything I'm willing to."
-msgstr ""
+msgstr "<32>* Я уже сказал всё, что хотел."
 
 msgid "<32>{#p/human}* (You peek inside.)"
 msgstr ""
@@ -6131,7 +6164,7 @@ msgid ""
 "through.\""
 msgstr ""
 "<32>{#p/basic}* «Даже спотыкаясь, вы встаёте и продолжаете путь к вашей "
-"цели.»"
+"цели»."
 
 msgid "<32>{#p/human}* (You stare happily into the cosmos beyond...)"
 msgstr ""
@@ -6148,9 +6181,11 @@ msgid ""
 "<32>{#p/basic}* To think the only thing between you and the endless expanse "
 "is a sheet of glass..."
 msgstr ""
+"<32>{#p/basic}* Одна мысль о том, что между тобой и открытым космосом лишь "
+"тонкий лист стекла..."
 
 msgid "<32>* Despite all common sense, this doesn't seem to bother you."
-msgstr ""
+msgstr "<32>* Вопреки здравому смыслу, судя по всему, вас это не особо волнует."
 
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
@@ -6200,6 +6235,8 @@ msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
 "* (Hello, human...)"
 msgstr ""
+"<32>{#p/basic}* Квак-квак.\n"
+"* (Приветствую, человек...)"
 
 msgid "<32>* (Have you heard from my friend?)"
 msgstr ""
@@ -6240,83 +6277,123 @@ msgid ""
 "* Ribbit."
 msgstr ""
 
+#, fuzzy
 msgid "<32>* (Have you ever tried checking your ITEMs?)"
-msgstr ""
+msgstr "<32>* (Вы пробовали проверять ваши ВЕЩИ?)"
 
+#, fuzzy
 msgid "<32>* (If you've picked up anything, that's where you'll find it.)"
-msgstr ""
+msgstr "<32>* (Если что-то подберёте, то сможете найти это именно там)."
 
+#, fuzzy
 msgid "<32>* (What do I have in my ITEMs, you ask?)"
-msgstr ""
+msgstr "<32>* (Что у меня в ВЕЩАХ, спросите вы?)"
 
+#, fuzzy
 msgid ""
 "<32>* (Oh, you're silly... monsters don't have ITEMs!)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (Ох, глупыш... у монстров нет ВЕЩЕЙ!)\n"
+"* Квак."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
 "* (Thank you for always showing mercy to us monsters.)"
 msgstr ""
+"<32>{#p/basic}* Квак-квак.\n"
+"* (Благодарю за твоё милосердие к нашему народу)."
 
+#, fuzzy
 msgid "<32>* (I know I gave you advice on how to beat people up safely...)"
 msgstr ""
+"<32>* (Я знаю, что давал тебе советы, как «безопасно» избивать монстров...)"
 
+#, fuzzy
 msgid "<32>* (But that didn't mean I wanted you to do it.)"
-msgstr ""
+msgstr "<32>* (Но это не значит, что я хотел этого)."
 
+#, fuzzy
 msgid ""
 "<32>* (You are a kind human indeed.)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (Ты и в правду добрый человек).\n"
+"* Квак."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
 "* (Thank you for keeping the beatings to a minimum.)"
 msgstr ""
+"<32>{#p/basic}* Квак-ква.\n"
+"* (Спасибо что не сильно причинял нам вред)."
 
+#, fuzzy
 msgid ""
 "<32>* (You aren't too terrible, at least for a human.)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (Ты не так уж и плох, по сравнению с другими людьми).\n"
+"* Квак."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
 "* (So you have proven to be a formidable threat.)"
 msgstr ""
+"<32>{#p/basic}* Квак-квак.\n"
+"* (Ты доказал что представляешь серьёзную угрозу)."
 
+#, fuzzy
 msgid "<32>* (Yet, somehow, I'm still not afraid of you...)"
-msgstr ""
+msgstr "<32>* (Я всё же я почему-то не боюсь тебя...)"
 
+#, fuzzy
 msgid ""
 "<32>* (Perhaps at the end, you offered mercy when you could have attacked.)"
-msgstr ""
+msgstr "<32>* (Возможно, в последний момент вы предложили пощаду вместо атаки.)"
 
+#, fuzzy
 msgid ""
 "<32>* (I do appreciate the restraint you have shown.)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (Я ценю вашу сдержанность, человек).\n"
+"* Квак."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
 "* (If you beat up a monster until it's almost dead...)"
 msgstr ""
+"<32>{#p/basic}* Квак-квак.\n"
+"* (Если атаковать монстра до полусмерти...)"
 
+#, fuzzy
 msgid "<32>* (Its name will turn blue.)"
-msgstr ""
+msgstr "<32>* (Его имя станет синим)."
 
+#, fuzzy
 msgid ""
 "<32>* (Weird, right?)\n"
 "* (But I heard humans turn blue when they get beat up, too.)"
 msgstr ""
+"<32>* (Удивительно, да?)\n"
+"* (Но я слышал, что люди тоже синеют, когда их бьют)."
 
+#, fuzzy
 msgid "<32>* (So, I suppose you can relate to that.)"
-msgstr ""
+msgstr "<32>* (Так что, думаю, вы понимаете меня)."
 
+#, fuzzy
 msgid ""
 "<32>* (Well, thank you for listening to my head-talk.)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (В любом случае, спасибо, что выслушали меня.)\n"
+"* Квак."
 
 msgid "<32>{#p/human}* (You stare deeply into the cosmos beyond...)"
 msgstr ""
@@ -6382,10 +6459,13 @@ msgid ""
 "steak sale.)"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Be sure to catch a slice of Glyde's Signature Steak (TM) "
 "in the activities room!\""
 msgstr ""
+"<32>{#p/basic}* «Обязательно попробуйте Фирменный стейк Глайда (TM) в "
+"комнате развлечений!»"
 
 msgid ""
 "<25>{#p/asriel1}{#f/20}* Yeah... Toriel was never one to keep these in one "
@@ -7440,7 +7520,7 @@ msgid ""
 "forward.\""
 msgstr ""
 "<32>{#p/basic}* «Хорошая командная работа требует доверия и доброты...\n"
-"[ADD]<32>{#p/basic}* ...если вы хотите пройти дальше.»"
+"[ADD]<32>{#p/basic}* ...если вы хотите пройти дальше»."
 
 msgid "<26>{#p/asriel2}{#f/8}* How grossly sentimental."
 msgstr ""
@@ -7660,7 +7740,7 @@ msgstr "<25>{#p/twinkly}{#f/6}* Тебе нечем заняться?"
 msgid ""
 "<25>{#p/twinkly}{#f/6}* Resetting right after you've taken your first hit, "
 "huh?"
-msgstr "<25>{#p/twinkly}{#f/6}* Сбрасываешь сразу после первой раны?"
+msgstr "<25>{#p/twinkly}{#f/6}* Сбрасываешь сразу после первого ранения?"
 
 msgid "<25>{#f/7}* How pathetic."
 msgstr "<25>{#f/7}* Какая жалость."
@@ -7813,7 +7893,7 @@ msgid "<20>{*}{#x2}{#f/10}Here, have some more.{^20}{*}{#x1}{%}"
 msgstr "<20>{*}{#x2}{#f/10}Вот, лови ещё.{^20}{*}{#x1}{%}"
 
 msgid "<20>{*}{#f/12}What the-... are you braindead or something??"
-msgstr "<20>{*}{#f/12}Какого-... ты совсем безмозглый?!"
+msgstr "<20>{*}{#f/12}Какого... Ты совсем тупой?!"
 
 msgid "<20>{*}{#x2}RUN. INTO. THE. BULLETS!!!{^20}{*}{#x1}{^999}"
 msgstr "<20>{*}{#x2}МЧИСЬ. НА. ПУЛИ!!!{^20}{*}{#x1}{^999}"
@@ -7828,7 +7908,7 @@ msgid "<20>In this world, it's KILL or BE killed."
 msgstr "<20>В этом мире, УБЕЙ или БУДЕШЬ убит."
 
 msgid "<20>Imagine, a SOUL like yours crash-landing on my doorstep..."
-msgstr "<20>Представь, до ДУШИ, подобной твоей, мне как рукой подать..."
+msgstr "<20>Представь себе, до ДУШИ, как у тебя, мне рукой подать..."
 
 msgid "<20>Did you really think I'd pass up such a golden opportunity?"
 msgstr "<20>Думаешь, я упущу журавля в небе?"
@@ -7840,7 +7920,7 @@ msgid "<20>You just wanted to torment little old Twinkly, didn'tcha?"
 msgstr "<20>Хотелось поиздеваться над бедным Светиком?"
 
 msgid "<20>Golly... you must have no idea who you're messing with."
-msgstr "<20>Божечки... ты не понимаешь, с кем имеешь дело."
+msgstr "<20>Божечки... Ты не понимаешь, с кем имеешь дело."
 
 msgid "<20>{#f/11}Hee hee hee..."
 msgstr "<20>{#f/11}Хи-хи-хи..."
@@ -8296,7 +8376,7 @@ msgid "<08>{#p/basic}{~}What? N-no way!"
 msgstr "<08>{#p/basic}{~}Что? Не-неправда!"
 
 msgid "<32>{#p/story}* Oculoux is watering."
-msgstr "<32>{#p/story}* Зениций слезится."
+msgstr "<32>{#p/story}* Зениций слезоточит."
 
 msgid "<08>{#p/basic}{~}I've got my eye on you."
 msgstr "<08>{#p/basic}{~}Глаз с тебя не спущу."
