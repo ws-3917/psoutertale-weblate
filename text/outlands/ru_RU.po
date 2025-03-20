@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 14:42+0000\n"
+"PO-Revision-Date: 2025-03-20 14:43+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -228,15 +228,11 @@ msgstr ""
 "<25>{#f/0}* Ну что ж.\n"
 "* Я очень горжусь тобой, малыш."
 
-#, fuzzy
 msgid "<25>{#f/1}* They say their cousin tried to ask for your help, but..."
-msgstr ""
-"<25>{#f/1}* Он сказал, что его родственник попытался попросить тебя о "
-"помощи, но..."
+msgstr "<25>{#f/1}* Он сказал, что его родственник просил твоей помощи, но..."
 
-#, fuzzy
 msgid "<25>{#f/5}* You were unavailable at the time."
-msgstr "<25>{#f/5}* Ты был недоступен в тот момент времени."
+msgstr "<25>{#f/5}* Ты был недоступен."
 
 #, fuzzy
 msgid "<25>{#f/1}* ... you did have a good reason, did you not?"
