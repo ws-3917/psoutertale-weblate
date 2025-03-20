@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-20 07:27+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -4719,22 +4719,19 @@ msgstr ""
 msgid "{#n1!}* (Buy the Super Starwalker 1 for 10G?)"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* Interested in buyin' my limited edition Super "
 "Starwalker comic strip?"
 msgstr ""
-"<32>{#p/basic}{#n1}* Как насчет того, чтобы приобрести уникальную версию "
-"Супер Старуокера?"
+"<32>{#p/basic}{#n1}* Как насчёт того, чтобы приобрести ограниченное издание "
+"невероятного Старуокера?"
 
 msgid "<32>* All I'm askin' for is 5G."
 msgstr "<32>* Всё, о чём я прошу — 5 М."
 
-#, fuzzy
 msgid "<32>* All I'm askin' for is 10G."
 msgstr "<32>* Продам тебе за 10 М."
 
-#, fuzzy
 msgid "<32>{#p/human}{#n1!}* (You don't have enough G.)"
 msgstr "<32>{#p/human}{#n1!}* (У вас недостаточно М.)"
 
@@ -8320,7 +8317,7 @@ msgid "<08>{#p/basic}{~}What? N-no way!"
 msgstr "<08>{#p/basic}{~}Что? Не-неправда!"
 
 msgid "<32>{#p/story}* Oculoux is watering."
-msgstr "<32>{#p/story}* Зениций намок и обмяк."
+msgstr "<32>{#p/story}* Зениций слезоточит."
 
 msgid "<08>{#p/basic}{~}I've got my eye on you."
 msgstr "<08>{#p/basic}{~}Глаз с тебя не спущу."
