@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 09:41+0000\n"
+"PO-Revision-Date: 2025-03-20 09:51+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -5342,26 +5342,34 @@ msgstr ""
 msgid "<32>* The name's Silencio... well, that's what they call me, anyway."
 msgstr "<32>* Меня зовут Тихоня... Не путай с тихонями, это немножко другое."
 
+#, fuzzy
 msgid "<32>* You wanna know why they call me that?"
-msgstr ""
+msgstr "<32>* Ты хочешь знать, почему меня зовут?"
 
+#, fuzzy
 msgid "<32>* I'm like a space ninja, silent as the most silent of stars."
-msgstr ""
+msgstr "<32>* Я космический ниндзя, невидимый, словно тёмная материя."
 
+#, fuzzy
 msgid "<32>* I can slip out of any danger, no exceptions."
-msgstr ""
+msgstr "<32>* Я могу выйти сухим из воды в любой ситуации."
 
+#, fuzzy
 msgid ""
 "<32>* Don't believe me?\n"
 "* Try something funny, and you'll see how fast I run."
 msgstr ""
+"<32>* Не веришь?\n"
+"* Сделай что-либо весёлое — и я исчезну."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* Oh, yeah, I guess I'm free to leave the galaxy now."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Похоже, теперь я могу спокойно покинуть галактику."
 
+#, fuzzy
 msgid "<32>* ... but maybe I'll stay."
-msgstr ""
+msgstr "<32>* ... но, наверное, я останусь здесь."
 
 msgid "<32>{#p/basic}{#n1}* You might even say, that performance of mine..."
 msgstr ""
