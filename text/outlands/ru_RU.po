@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 10:07+0000\n"
+"PO-Revision-Date: 2025-03-20 10:36+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -5019,8 +5019,9 @@ msgstr ""
 msgid "<32>{#p/human}* (The switch appears to be stuck.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* The switch is stuck."
-msgstr ""
+msgstr "<32>{#p/basic}* Этот переключатель сломан."
 
 msgid "<25>{#p/toriel}{#f/1}* My child, how did you get here!?"
 msgstr ""
@@ -5335,23 +5336,19 @@ msgstr "<32>* Звать меня Тихоня... Не путать с тихо�
 msgid "<32>* You wanna know why they call me that?"
 msgstr "<32>* Ты хочешь знать, почему меня так назвали?"
 
-#, fuzzy
 msgid "<32>* I'm like a space ninja, silent as the most silent of stars."
-msgstr "<32>* Я космический ниндзя, невидимый, словно тёмная материя."
+msgstr "<32>* Я вроде космического ниндзя, невидимый, словно тёмная материя."
 
-#, fuzzy
 msgid "<32>* I can slip out of any danger, no exceptions."
 msgstr "<32>* Я могу выйти сухим из воды в любой ситуации."
 
-#, fuzzy
 msgid ""
 "<32>* Don't believe me?\n"
 "* Try something funny, and you'll see how fast I run."
 msgstr ""
 "<32>* Не веришь?\n"
-"* Сделай что-либо весёлое — и я исчезну."
+"* Сделай что-либо весёлое и я исчезну."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* Oh, yeah, I guess I'm free to leave the galaxy now."
 msgstr "<32>{#p/basic}{#n1}* Похоже, теперь я могу спокойно покинуть галактику."
@@ -6060,11 +6057,13 @@ msgstr ""
 msgid "<32>{#p/human}* (This device seems to be a few decades out of date.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* A useless device of little importance to anyone."
-msgstr ""
+msgstr "<32>{#p/basic}* Бессмысленное и бесполезное устройство."
 
+#, fuzzy
 msgid "<32>{#p/basic}* An old fuel injection device."
-msgstr ""
+msgstr "<32>{#p/basic}* Старый топливный инжектор."
 
 msgid "<32>{#p/human}* (The sign warns of unexpected appliance malfunctions.)"
 msgstr ""
@@ -6076,12 +6075,16 @@ msgstr ""
 "<32>{#p/basic}* «Обратите внимание, что состояние приборов может быть хуже, "
 "чем кажется»."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a DJ set."
-msgstr ""
+msgstr "<32>{#p/basic}* Это стол диджея."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* A fancy DJ set, which is surprisingly not in use right now."
 msgstr ""
+"<32>{#p/basic}* Модный диджейский стол, который как ни странно, сейчас не "
+"используется."
 
 msgid ""
 "<32>{#p/basic}* A fancy DJ set, equipped with knobs and sliders galore."
@@ -6431,19 +6434,24 @@ msgstr ""
 msgid "<32>{#p/human}* (The sign describes the value of patience in space.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* \"The final frontier is a deep dark sea.\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Последний рубеж - глубокое тёмное море»."
 
 msgid ""
 "<32>* \"Navigating its waters should NEVER require solving badly designed "
 "puzzles!\""
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Before charging into the {@fill=#ff993d}great "
 "unknown{@fill=#fff}, you must wait for its {@fill=#00a2e8}currents to "
 "align{@fill=#fff}.\""
 msgstr ""
+"<32>{#p/basic}* «Прежде чем отправиться в {@fill=#ff993d}великую "
+"неизвестность{@fill=#fff}, вы должны подождать пока её {@fill=#00a2e8}"
+"течение успокоиться{@fill=#fff}»."
 
 msgid "<32>{#p/human}* (You stare reflectively into the cosmos beyond...)"
 msgstr ""
