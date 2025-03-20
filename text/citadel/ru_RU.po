@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-20 12:35+0000\n"
+"PO-Revision-Date: 2025-03-20 13:15+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
@@ -9171,11 +9171,13 @@ msgid ""
 "belonging to Asgore.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a bookshelf."
-msgstr ""
+msgstr "<32>{#p/basic}* Книжный шкаф."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pick out a book...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы берёте книгу...)"
 
 msgid "<32>{#p/basic}* This book is labelled \"Grand Library Brochure.\""
 msgstr ""
@@ -9205,39 +9207,53 @@ msgid ""
 "  ten books will be 1/2KT on us.\""
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы ставите книгу обратно на полку.)"
 
 msgid "<32>{#p/basic}* This book has been signed by \"Toriel Dreemurr.\""
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* \"Dreemurr Family Recipes: Snail Pie\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Рецепты семьи Дримурр: улиточный пирог»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Snail Pie is a coveted tradition among members of the Dreemurr "
 "family line.\""
-msgstr ""
+msgstr "<32>* «Улиточный пирог — давняя традиция семьи Дримурр»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Making it is a simple process, and can be broken down into five "
 "steps.\""
 msgstr ""
+"<32>* «Пирог готовится очень просто, чей процесс можно разделить на пять "
+"шагов»."
 
+#, fuzzy
 msgid ""
 "<32>* \"First, prepare the bottom crust by laying it on top of a pie "
 "plate.\""
 msgstr ""
+"<32>* «Сначала подготовьте нижнюю корочку, положив её на тарелку сверху»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Next, whisk evaporated milk, eggs, and spices together in a bowl "
 "until smooth.\""
 msgstr ""
+"<32>* «Затем взбейте в миске сгущённое молоко, яйца и специи до состояния "
+"однородности»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Then, take several well-aged snails, and thoroughly incorporate into"
 " the mixture.\""
 msgstr ""
+"<32>* «Затем возьмите несколько полностью созревших улиток и аккуратно "
+"добавьте их в смесь»."
 
 msgid "<32>* \"After that, pour the contents of the bowl into the bottom crust.\""
 msgstr ""
