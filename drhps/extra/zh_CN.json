@@ -2,7 +2,7 @@
     "Discord_Controller": {
         "State": "[Hypoaster埋头工作中]",
         "Details": "* 多来点猜想吧！！",
-        "LargeText": "三角符文 - 猜想",
+        "LargeText": "三角符文 - 猜想模拟器",
         "SmallText": "在unity编辑器中，没有泄漏！嘻嘻！"
     },
     "GonerMenu_Settings_RevertKeybindings": {
@@ -16,7 +16,7 @@
     },
     "NewMainMenu_ConsoleMenu": {
         "CheckUpdateScreenText": "<b>>请选择一个条目</b>\n\n",
-        "array": "\"猜想集\",\"查看日志\",\"赌博\",\"设置\",\"制作人员\",\"Discord\",\"退出\""
+        "array": "\"模拟猜想\",\"查看日志\",\"赌博\",\"设置\",\"制作人员\",\"额外内容\",\"Discord\",\"退出\""
     },
     "NewMainMenu_DiscordSubMenu": {
         "CheckUpdateScreenText": "<b>在浏览器中\n打开链接？</b>"
