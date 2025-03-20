@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-20 06:52+0000\n"
+"PO-Revision-Date: 2025-03-20 06:55+0000\n"
 "Last-Translator: onezhazha <1561536469@qq.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://"
 "translate.ws3917.space/projects/oceantale/1-room/zh_Hant/>\n"
 "Language: zh_TW\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.10.2\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 msgid "* Это всё странно..."
 msgstr "* 一切都好奇怪..."
@@ -83,65 +83,67 @@ msgid ""
 msgstr "* 不过，它总是空的。"
 
 msgid "* Ой, это лазанья?"
-msgstr ""
+msgstr "* 这是千层面吗？"
 
 msgid "* Она такая твёрдая..."
-msgstr ""
+msgstr "* 真的好硬..."
 
 msgid "* Это точно лазанья?"
-msgstr ""
+msgstr "* 这真的还是千层面吗？"
 
 msgid "* Ладно, нужно взять."
-msgstr ""
+msgstr "* 管它呢，我可要带上。"
 
 msgid ""
 "* Теперь у меня есть\n"
 "  твёрдая лазанья."
-msgstr ""
+msgstr "* 我得到了巨硬千层面。"
 
 msgid "* Это мой папа."
-msgstr ""
+msgstr "* 这是我的爸爸。"
 
 msgid ""
 "* Фрида, нуждаешься\n"
 "  в чём-то?"
-msgstr ""
+msgstr "* Frida，有什么事吗？"
 
 msgid "* Нет, всё хорошо."
-msgstr ""
+msgstr "* 没事。"
 
 msgid "* Ты выглядишь сонной..."
-msgstr ""
+msgstr "* 你看上去很困了..."
 
 msgid "* Может, пойдёшь спать?"
-msgstr ""
+msgstr "* 不如你先去睡吧？"
 
 msgid "* Да, пожалуй..."
-msgstr ""
+msgstr "* 好吧..."
 
 msgid ""
 "* Спокойной ночи, люблю\n"
 "  тебя."
-msgstr ""
+msgstr "* 晚安，爱你哦。"
 
 msgid "* Это моя кровать."
-msgstr ""
+msgstr "* 这是我的床。"
 
 msgid ""
 "* Она очень мягкая и\n"
 "  удобная."
-msgstr ""
+msgstr "* 又软又舒服。"
 
 msgid ""
 "* Шкаф, в котором моя\n"
 "  одежда."
-msgstr ""
+msgstr "* 我的衣柜里面全都是衣服。"
 
 msgid ""
 "* Моя мама - дизайнер, \n"
 "  поэтому у меня много\n"
 "  крутых вещей."
 msgstr ""
+"* 我的妈妈是个设计师，\n"
+"  她给我做了很多很酷的衣服。"
 
 msgid ""
 "* Жаль, что она сейчас\n"
