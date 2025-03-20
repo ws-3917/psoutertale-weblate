@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-20 13:58+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-20 16:09+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
 "Language: ru_RU\n"
@@ -9170,13 +9170,11 @@ msgid ""
 "belonging to Asgore.)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* It's a bookshelf."
 msgstr "<32>{#p/basic}* Книжный шкаф."
 
-#, fuzzy
 msgid "<32>{#p/human}* (You pick out a book...)"
-msgstr "<32>{#p/human}* (Вы берёте книгу...)"
+msgstr "<32>{#p/human}* (Вы берёте одну из книг...)"
 
 msgid "<32>{#p/basic}* This book is labelled \"Grand Library Brochure.\""
 msgstr ""
@@ -9206,24 +9204,20 @@ msgid ""
 "  ten books will be 1/2KT on us.\""
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
 msgstr "<32>{#p/human}* (Вы ставите книгу обратно на полку.)"
 
 msgid "<32>{#p/basic}* This book has been signed by \"Toriel Dreemurr.\""
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* \"Dreemurr Family Recipes: Snail Pie\""
 msgstr "<32>{#p/basic}* «Рецепты семьи Дримурр: улиточный пирог»."
 
-#, fuzzy
 msgid ""
 "<32>* \"Snail Pie is a coveted tradition among members of the Dreemurr "
 "family line.\""
 msgstr "<32>* «Улиточный пирог — давняя традиция семьи Дримурр»."
 
-#, fuzzy
 msgid ""
 "<32>* \"Making it is a simple process, and can be broken down into five "
 "steps.\""
@@ -9231,46 +9225,39 @@ msgstr ""
 "<32>* «Готовка пирога — очень простой процесс, его можно разделить на пять "
 "шагов»."
 
-#, fuzzy
 msgid ""
 "<32>* \"First, prepare the bottom crust by laying it on top of a pie "
 "plate.\""
 msgstr ""
-"<32>* «Сначала подготовьте нижнюю корочку, положив её на тарелку сверху»."
+"<32>* «Сначала подготовьте нижнюю корочку, положив её сверху на тарелку»."
 
-#, fuzzy
 msgid ""
 "<32>* \"Next, whisk evaporated milk, eggs, and spices together in a bowl "
 "until smooth.\""
 msgstr ""
-"<32>* «Затем взбейте в миске сгущённое молоко, яйца и специи до состояния "
-"однородности»."
+"<32>* «Затем взбейте в миске сгущённое молоко, яйца и специи до однородного "
+"состояния»."
 
-#, fuzzy
 msgid ""
 "<32>* \"Then, take several well-aged snails, and thoroughly incorporate into"
 " the mixture.\""
 msgstr ""
-"<32>* «Потом возьмите несколько полностью созревших улиток и аккуратно "
+"<32>* «Потом возьмите несколько полностью созревших улиток, и аккуратно "
 "добавьте их в смесь»."
 
-#, fuzzy
 msgid "<32>* \"After that, pour the contents of the bowl into the bottom crust.\""
-msgstr "<32>* «После чего вылейте содержимое миски на нижнюю корочку»."
+msgstr "<32>* «После чего вылейте содержимое миски на основу пирога»."
 
-#, fuzzy
 msgid ""
 "<32>* \"Last, prepare the top crust by cutting sheet into strips and forming"
 " a lattice.\""
 msgstr ""
-"<32>* «А для верхней корочки нарежьте тесто на полоски и выложите их в форме "
-"решётки»."
+"<32>* «А для верхней корочки нарежьте тесто на полоски, и выложите их в "
+"форме решётки»."
 
-#, fuzzy
 msgid "<32>* \"Then just bake the pie!\""
-msgstr "<32>* «А теперь положите это в духовку»."
+msgstr "<32>* «Затем поместите пирог в духовку»."
 
-#, fuzzy
 msgid ""
 "<32>* \"Once the pie is ready, take it out of the oven, let it cool, and "
 "serve!\""
@@ -9551,9 +9538,8 @@ msgstr ""
 msgid "<25>{#p/asriel1}{#f/23}* ... oh, Dad..."
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* \"Room under renovations.\""
-msgstr "<32>{#p/basic}* «Комната в стадии ремонта»."
+msgstr "<32>{#p/basic}* «Комната на ремонте»."
 
 msgid "<25>{#p/asriel1}{#f/24}* It's us..."
 msgstr ""
@@ -9564,7 +9550,6 @@ msgstr ""
 msgid "<32>* ... is it really you?"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* It's you."
 msgstr "<32>{#p/basic}* Это ты."
 
@@ -9646,9 +9631,8 @@ msgstr ""
 msgid "<32>{#p/basic}* A cabinet full of clothes."
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* A cabinet full of blue and yellow striped shirts."
-msgstr "<32>{#p/basic}* Шкаф, наполненный сине-жёлтыми полосатыми рубашками."
+msgstr "<32>{#p/basic}* Шкаф наполнен сине-жёлтыми полосатыми рубашками."
 
 msgid "<32>{#p/basic}* Some things never change..."
 msgstr ""
