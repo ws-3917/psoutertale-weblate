@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 07:27+0000\n"
+"PO-Revision-Date: 2025-03-20 09:41+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -4735,70 +4735,57 @@ msgstr "<32>* Продам тебе за 10 М."
 msgid "<32>{#p/human}{#n1!}* (You don't have enough G.)"
 msgstr "<32>{#p/human}{#n1!}* (У вас недостаточно М.)"
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* I'll be honest, that don't look like 5G..."
-msgstr "<32>{#p/basic}{#n1}* Что-то это не похоже на 5 М..."
+msgstr "<32>{#p/basic}{#n1}* Что-то это не похоже на 5 М..."
 
 msgid "<32>{#p/basic}{#n1}* I'll be honest, that don't look like 10G..."
 msgstr "<32>{#p/basic}{#n1}* Что-то это не похоже на 10 М..."
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Not interested, huh?"
 msgstr "<32>{#p/basic}{#n1}* Не интересует?"
 
-#, fuzzy
 msgid ""
 "<32>* Well, that's fine.\n"
 "* I'll just find someone else..."
 msgstr ""
 "<32>* Ну и ладно.\n"
-"* Я просто поищу кого-нибудь другого..."
+"* Я найду другого покупателя..."
 
-#, fuzzy
 msgid "<32>{#s/equip}{#p/human}{#n1!}* (You got the Super Starwalker 1.)"
-msgstr "<32>{#s/equip}{#p/human}{#n1!}* (Вы получили Супер-Старуокер 1.)"
+msgstr ""
+"<32>{#s/equip}{#p/human}{#n1!}* (Вы получили один экземпляр «Невероятного "
+"Старуокера».)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* Splendid!\n"
 "* Enjoy the comic strip."
 msgstr ""
-"<32>{#p/basic}{#n1}* Отлично!\n"
+"<32>{#p/basic}{#n1}* Спасибо за покупку!\n"
 "* Наслаждайся комиксом."
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Back again, huh?"
 msgstr "<32>{#p/basic}{#n1}* Опять вернулся?"
 
-#, fuzzy
 msgid "<32>* Sorry bud, I've got nothin' left to sell."
 msgstr "<32>* Прости пацан, мне нечего тебе продать."
 
-#, fuzzy
 msgid "<32>{#p/human}{#n1!}* (You're carrying too much.)"
 msgstr "<32>{#p/human}{#n1!}* (Вы несёте слишком много.)"
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Them pockets of yours are lookin' kinda full..."
 msgstr "<32>{#p/basic}{#n1}* Пацан, твои карманы переполнены..."
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* I heard they're rebooting the comic franchise..."
 msgstr "<32>{#p/basic}{#n1}* Я слышал, они перезапускают франшизу комиксов..."
 
-#, fuzzy
 msgid ""
 "<32>* The new main character is some snake fella with sunglasses or "
 "something."
-msgstr ""
-"<32>* Новый главный герой — какой-то парень похожий на змею или что-то в "
-"этом роде."
+msgstr "<32>* Новый главный герой — какой-то парень похожий на змею что ли."
 
-#, fuzzy
 msgid "<32>* If I was in charge, I'd make a spinoff about that sidekick..."
 msgstr "<32>* Будь моя воля, я бы снял спин-офф про того напарника..."
 
-#, fuzzy
 msgid "<32>* Gumbert, I think?"
 msgstr "<32>* Как его там... Гумберт?"
 
