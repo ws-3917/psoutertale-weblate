@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 10:07+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-03-20 10:36+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -5019,8 +5019,9 @@ msgstr ""
 msgid "<32>{#p/human}* (The switch appears to be stuck.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* The switch is stuck."
-msgstr ""
+msgstr "<32>{#p/basic}* Этот переключатель сломан."
 
 msgid "<25>{#p/toriel}{#f/1}* My child, how did you get here!?"
 msgstr ""
@@ -6060,11 +6061,13 @@ msgstr ""
 msgid "<32>{#p/human}* (This device seems to be a few decades out of date.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* A useless device of little importance to anyone."
-msgstr ""
+msgstr "<32>{#p/basic}* Бессмысленное и бесполезное устройство."
 
+#, fuzzy
 msgid "<32>{#p/basic}* An old fuel injection device."
-msgstr ""
+msgstr "<32>{#p/basic}* Старый топливный инжектор."
 
 msgid "<32>{#p/human}* (The sign warns of unexpected appliance malfunctions.)"
 msgstr ""
@@ -6076,12 +6079,16 @@ msgstr ""
 "<32>{#p/basic}* «Обратите внимание, что состояние приборов может быть хуже, "
 "чем кажется»."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a DJ set."
-msgstr ""
+msgstr "<32>{#p/basic}* Это стол диджея."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* A fancy DJ set, which is surprisingly not in use right now."
 msgstr ""
+"<32>{#p/basic}* Модный диджейский стол, который как ни странно, сейчас не "
+"используется."
 
 msgid ""
 "<32>{#p/basic}* A fancy DJ set, equipped with knobs and sliders galore."
@@ -6431,19 +6438,24 @@ msgstr ""
 msgid "<32>{#p/human}* (The sign describes the value of patience in space.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* \"The final frontier is a deep dark sea.\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Последний рубеж - глубокое тёмное море»."
 
 msgid ""
 "<32>* \"Navigating its waters should NEVER require solving badly designed "
 "puzzles!\""
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Before charging into the {@fill=#ff993d}great "
 "unknown{@fill=#fff}, you must wait for its {@fill=#00a2e8}currents to "
 "align{@fill=#fff}.\""
 msgstr ""
+"<32>{#p/basic}* «Прежде чем отправиться в {@fill=#ff993d}великую "
+"неизвестность{@fill=#fff}, вы должны подождать пока её {@fill=#00a2e8}"
+"течение успокоиться{@fill=#fff}»."
 
 msgid "<32>{#p/human}* (You stare reflectively into the cosmos beyond...)"
 msgstr ""
