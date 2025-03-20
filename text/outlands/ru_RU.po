@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-20 18:19+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -259,10 +259,13 @@ msgstr ""
 msgid "<25>{#f/5}* ..."
 msgstr "<25>{#f/5}* ..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Do not worry, my child.\n"
 "* Nobody is going to cast you out into space."
 msgstr ""
+"<25>{#f/0}* Не волнуйся, моё дитя.\n"
+"* Никто не вышвырнет тебя в космос."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* Sans tells me the \"rec center\" is a favored "
@@ -10197,62 +10200,85 @@ msgstr ""
 "<25>{#f/0}* ...достаточно сказать, что потребовалось использование магии "
 "исцеления."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}* If this puzzle is not my favorite, I do not know what is!"
 msgstr ""
+"<25>{#p/toriel}* Если эта головоломка не моя любимая, то я не знаю, какая "
+"ещё!"
 
+#, fuzzy
 msgid "<25>* The way it teaches collaboration is a most valuable quality."
 msgstr ""
+"<25>* То, как она учит сотрудничеству — является очень ценным качеством."
 
+#, fuzzy
 msgid "<25>{#f/1}* Since my dream job IS to become a teacher..."
-msgstr ""
+msgstr "<25>{#f/1}* Поскольку моя мечта — стать учителем..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* I am always looking for ways to impart these important lessons."
-msgstr ""
+msgstr "<25>{#f/0}* Я всегда ищу способы научить этим важным урокам."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* The training room...?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Комната для тренировок?.."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Hee hee, I am still proud of the way you handled that lesson."
-msgstr ""
+msgstr "<25>{#f/0}* Хе-хе, я до сих пор горжусь тем, как ты усвоил тот урок."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* A friendly conversation is preferable to the alternative..."
-msgstr ""
+msgstr "<25>{#f/1}* Дружеский разговор будет предпочтительнее иного способа..."
 
+#, fuzzy
 msgid "<25>{#f/0}* And not just because it helps you make friends!"
-msgstr ""
+msgstr "<25>{#f/0}* И не только потому, что это поможет тебе завести друзей!"
 
+#, fuzzy
 msgid ""
 "<25>{#f/5}* Although you did not handle that lesson in the way I intended..."
-msgstr ""
+msgstr "<25>{#f/5}* Хоть ты и не усвоил тот урок так, как я предполагала..."
 
+#, fuzzy
 msgid "<25>{#f/0}* At the very least, you avoided the conflict."
-msgstr ""
+msgstr "<25>{#f/0}* По крайней мере, ты смог избежать конфликта."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Considering the alternatives, it was... a preferable outcome."
-msgstr ""
+msgstr "<25>{#f/0}* Учитывая иные способы... это был предпочтительный исход."
 
+#, fuzzy
 msgid "<25>{#f/0}* ... hmm."
-msgstr ""
+msgstr "<25>{#f/0}* ... хмм."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Truthfully, I still do not know how to react to what happened."
 msgstr ""
+"<25>{#f/0}* Честно говоря, я всё ещё не знаю, как реагировать на "
+"произошедшее."
 
+#, fuzzy
 msgid "<25>{#f/1}* It was mesmerising to watch, though..."
-msgstr ""
+msgstr "<25>{#f/1}* Однако, это было завораживающее зрелище..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/3}* Just the two of you...\n"
 "* Staring at each other..."
 msgstr ""
+"<25>{#f/3}* Только вы двое...\n"
+"* Пялились друг на друга..."
 
+#, fuzzy
 msgid "<25>{#f/1}* I cannot say I expected what happened, but..."
-msgstr ""
+msgstr "<25>{#f/1}* Не могу сказать, что я ожидала произошедшего, но..."
 
 msgid "<25>{#f/0}* It was still endearing nonetheless."
 msgstr ""
