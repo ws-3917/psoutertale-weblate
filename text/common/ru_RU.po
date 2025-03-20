@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-20 13:30+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-20 16:09+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "6-common/ru/>\n"
 "Language: ru_RU\n"
@@ -10452,20 +10452,18 @@ msgid ""
 "* Let's just stop reading here."
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* \"Howdy, fellow gardeners.\""
 msgstr "<32>{#p/basic}* «Приветик, друзья-садоводы»."
 
-#, fuzzy
 msgid ""
 "<32>* \"When it comes to Starling flowers, the line between growth and "
 "stagnation...\""
 msgstr ""
-"<32>* «Когда речь заходит о звездоцветах, черта между ростом и стагнацией...»"
+"<32>* «Когда речь заходит о звездоцветах, есть тонкая грань между ростом и "
+"стагнацией...»"
 
-#, fuzzy
 msgid "<32>* \"Is access to open space.\""
-msgstr "<32>* «Проходит через доступ к открытому космосу»."
+msgstr "<32>* «И проходит она прямо через доступ к открытому космосу»."
 
 msgid "<32>* \"That is why they were commonly grown in Aerialis...\""
 msgstr ""
@@ -10659,7 +10657,6 @@ msgid ""
 "once it's ready...)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
 msgstr "<32>{#p/human}* (Вы ставите книгу обратно на полку.)"
 
