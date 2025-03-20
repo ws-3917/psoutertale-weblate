@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 13:15+0000\n"
+"PO-Revision-Date: 2025-03-20 13:30+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -7087,35 +7087,48 @@ msgstr ""
 "<32>* «Затем возьмите несколько полностью созревших улиток и аккуратно "
 "добавьте их в смесь»."
 
+#, fuzzy
 msgid "<32>* \"After that, pour the contents of the bowl into the bottom crust.\""
-msgstr ""
+msgstr "<32>* «После этого вылейте содержимое миски на нижнюю корочку»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Last, prepare the top crust by cutting sheet into strips and forming"
 " a lattice.\""
 msgstr ""
+"<32>* «А для верхней корочки нарежьте тесто на полоски и выложите их в форме "
+"решётки»."
 
+#, fuzzy
 msgid "<32>* \"Then just bake the pie!\""
-msgstr ""
+msgstr "<32>* «А теперь просто положите это в духовку!»"
 
+#, fuzzy
 msgid ""
 "<32>* \"Once the pie is ready, take it out of the oven, let it cool, and "
 "serve!\""
 msgstr ""
+"<32>* «После готовности выньте пирог из духовки, дайте остыть и подавайте "
+"его на стол»."
 
+#, fuzzy
 msgid "<32>{#p/basic}* \"Howdy, fellow gardeners.\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Приветик, друзья-садоводы»."
 
+#, fuzzy
 msgid ""
 "<32>* \"When it comes to Starling flowers, the line between growth and "
 "stagnation...\""
 msgstr ""
+"<32>* «Когда речь заходит о звездоцветах, черта между ростом и стагнацией...»"
 
+#, fuzzy
 msgid "<32>* \"Is access to open space.\""
-msgstr ""
+msgstr "<32>* «Проходит через доступ к открытому космосу»."
 
+#, fuzzy
 msgid "<32>* \"That is why they are commonly grown in Aerialis...\""
-msgstr ""
+msgstr "<32>* «Вот почему их обычно выращивают в Стратополисе...»"
 
 msgid "<32>* \"It is the most open area of the outpost.\""
 msgstr ""
