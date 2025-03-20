@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 09:53+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-03-20 10:07+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -5368,11 +5368,13 @@ msgstr ""
 msgid "<32>* Was \"breathtaking.\""
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* What are you still talking to me for, huh?"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Зачем ты продолжаешь разговаривать со мной?"
 
+#, fuzzy
 msgid "<32>* I've already said everything I'm willing to."
-msgstr ""
+msgstr "<32>* Я уже сказал всё, что хотел."
 
 msgid "<32>{#p/human}* (You peek inside.)"
 msgstr ""
