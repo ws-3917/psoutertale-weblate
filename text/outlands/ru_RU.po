@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-21 10:06+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -3727,63 +3727,49 @@ msgstr ""
 msgid "<25>{#f/5}{#v/0}* I'll be waiting."
 msgstr ""
 
-#, fuzzy
 msgid "<25>{#p/toriel}{#f/13}* You wish to return \"home,\" do you not?"
-msgstr "<25>{#p/toriel}{#f/13}* Ты хочешь вернуться «домой»... правильно?"
+msgstr "<25>{#p/toriel}{#f/13}* Ты так сильно хочешь вернуться «домой»?.."
 
-#, fuzzy
 msgid "<25>{#f/9}* ..."
 msgstr "<25>{#f/9}* ..."
 
-#, fuzzy
 msgid "<25>{#f/9}* If you leave here, I will not be able to protect you."
-msgstr "<25>{#f/9}* Если ты уйдёшь отсюда, я не смогу защитить тебя."
+msgstr "<25>{#f/9}* Если ты уйдёшь, я не смогу защитить тебя."
 
-#, fuzzy
 msgid ""
 "<25>{#f/9}* I will not be able to save you from the dangers that lie ahead."
-msgstr "<25>{#f/9}* Я не смогу уберечь тебя от угроз, которые ждут впереди."
+msgstr "<25>{#f/9}* Я не смогу уберечь тебя от того, что ждёт тебя впереди."
 
-#, fuzzy
 msgid "<25>{#f/13}* So, please, little one..."
 msgstr "<25>{#f/13}* Поэтому, прошу, дитя..."
 
-#, fuzzy
 msgid "<25>{#f/9}* Go back the other way."
 msgstr "<25>{#f/9}* Вернись домой."
 
-#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/13}* Every human that ends up here meets the same fate."
 msgstr ""
-"<25>{#p/toriel}{#f/13}* Все люди, оказавшиеся здесь, встречают один и тот же "
-"конец."
+"<25>{#p/toriel}{#f/13}* Все люди, покидавшие Запределье, заканчивали "
+"одинаково."
 
-#, fuzzy
 msgid "<25>{#f/9}* I have seen it repeat time and time again."
-msgstr "<25>{#f/9}* Я видела, как это повторяется раз за разом."
+msgstr "<25>{#f/9}* Это повторялось раз за разом."
 
-#, fuzzy
 msgid "<25>{#f/13}* They come."
 msgstr "<25>{#f/13}* Они приходят."
 
-#, fuzzy
 msgid "<25>{#f/13}* They leave."
 msgstr "<25>{#f/13}* Они уходят."
 
-#, fuzzy
 msgid "<25>{#f/9}* ... they die."
-msgstr "<25>{#f/9}* ...они умирают."
+msgstr "<25>{#f/9}* ...Они умирают."
 
-#, fuzzy
 msgid "<25>{#f/13}* My child..."
 msgstr "<25>{#f/13}* Моё дитя..."
 
-#, fuzzy
 msgid "<25>{#f/13}* If you leave the Outlands..."
 msgstr "<25>{#f/13}* Если ты покинешь Запределье..."
 
-#, fuzzy
 msgid ""
 "<25>{#f/9}* They...\n"
 "* {@fill=#f00}ASGORE{@fill=#fff}...\n"
@@ -3793,48 +3779,38 @@ msgstr ""
 "* Нет... {@fill=#f00}АЗГОР{@fill=#fff}.\n"
 "* {@fill=#f00}АЗГОР{@fill=#fff} заберёт твою ДУШУ."
 
-#, fuzzy
 msgid "<25>{#f/13}* I did not want to say this, but..."
 msgstr "<25>{#f/13}* Я не хотела этого говорить, но..."
 
-#, fuzzy
 msgid "<25>{#f/11}* I cannot allow you to continue this way."
 msgstr "<25>{#f/11}* Я не могу позволить тебе пройти дальше."
 
-#, fuzzy
 msgid "<25>{#f/9}* For your own sake, child..."
 msgstr "<25>{#f/9}* Ради твоего же блага, дитя..."
 
-#, fuzzy
 msgid "<25>{#f/9}* Do not follow me into the next room."
-msgstr "<25>{#f/9}* Прошу тебя, прекрати следовать за мной."
+msgstr "<25>{#f/9}* Прошу, не следуй за мной."
 
 msgid "<25>{#p/toriel}{#p/toriel}{#f/13}* ..."
 msgstr "<25>{#p/toriel}{#p/toriel}{#f/13}* ..."
 
-#, fuzzy
 msgid "<25>{#f/10}* ... of course."
-msgstr "<25>{#f/10}* ...впрочем, ясно."
+msgstr "<25>{#f/10}* ...Понятно."
 
-#, fuzzy
 msgid "<25>{#f/9}* Perhaps it was always meant to come to this."
-msgstr "<25>{#f/9}* Возможно, это было неизбежно."
+msgstr "<25>{#f/9}* Похоже, это было неизбежно."
 
-#, fuzzy
 msgid "<25>{#f/9}* Perhaps I was foolish to think you would be any different."
-msgstr "<25>{#f/9}* Возможно, я ошибалась, когда думала, что ты будешь другим."
+msgstr "<25>{#f/9}* Я думала, что ты другой... Похоже, я ошибалась."
 
-#, fuzzy
 msgid "<25>{#f/13}* I am afraid there is little choice now."
-msgstr "<25>{#f/13}* Похоже, выбора нет."
+msgstr "<25>{#f/13}* Выбора нет."
 
-#, fuzzy
 msgid "<25>{#f/13}* Forgive me, my child..."
-msgstr "<25>{#f/13}* Моё дитя, послушай меня..."
+msgstr "<25>{#f/13}* Прости меня, дитя..."
 
-#, fuzzy
 msgid "<25>{#f/11}* But I cannot allow you to leave."
-msgstr "<25>{#f/11}* Я не могу позволить тебе пройти дальше."
+msgstr "<25>{#f/11}* Но дальше я тебя не пропущу."
 
 msgid ""
 "<32>{#p/twinkly}{#f/19}* After you sleep at Mommy's house, she goes out for "
