@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-21 06:38+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-21 09:46+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -259,7 +259,6 @@ msgstr ""
 msgid "<25>{#f/5}* ..."
 msgstr "<25>{#f/5}* ..."
 
-#, fuzzy
 msgid ""
 "<25>{#f/0}* Do not worry, my child.\n"
 "* Nobody is going to cast you out into space."
@@ -2182,7 +2181,6 @@ msgstr ""
 msgid "<25>{#f/4}* This child..."
 msgstr "<25>{#f/4}* Этот ребёнок..."
 
-#, fuzzy
 msgid ""
 "<25>{#f/0}* No, little one.\n"
 "* I will not prepare another breakfast."
@@ -2460,7 +2458,6 @@ msgstr "<25>{#f/1}* Надеюсь, тебе понравилось..."
 msgid "<25>{#f/0}{#n1}* Well, that is all."
 msgstr "<25>{#f/0}{#n1}* Вот и всё."
 
-#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}{#n1}* Home...?\n"
 "* Could you be a little more specific?"
@@ -3938,17 +3935,14 @@ msgid ""
 "* I have prepared a plate of fried snails for you."
 msgstr ""
 
-#, fuzzy
 msgid "<25>{#p/toriel}* Breakfast is ready!"
 msgstr "<25>{#p/toriel}* Завтрак готов!"
 
-#, fuzzy
 msgid "<26>* I have prepared a plate of fried snails for you."
-msgstr "<26>* Я приготовила для тебя тарелку жареных улиток."
+msgstr "<26>* Я приготовила тебе жареных улиток."
 
-#, fuzzy
 msgid "<25>{#f/1}* I will leave them here on the table..."
-msgstr "<25>{#f/1}* Я оставлю их здесь, на столе."
+msgstr "<25>{#f/1}* Оставлю их на столе."
 
 msgid "<32>{#p/basic}* You wouldn't like what's in the fridge."
 msgstr "<32>{#p/basic}* Содержимое холодильника тебе вряд ли понравится."
@@ -10232,9 +10226,8 @@ msgid ""
 "<25>{#f/0}* I am always looking for ways to impart these important lessons."
 msgstr "<25>{#f/0}* Я всегда ищу способы научить этим важным урокам."
 
-#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* The training room...?"
-msgstr "<25>{#p/toriel}{#f/1}* Комната для тренировок?.."
+msgstr "<25>{#p/toriel}{#f/1}* Тренировочная комната?.."
 
 #, fuzzy
 msgid ""
