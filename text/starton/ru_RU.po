@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-21 12:42+0000\n"
+"PO-Revision-Date: 2025-03-22 02:24+0000\n"
 "Last-Translator: Lazarus <lazarusofficial2@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #
 msgid ""
@@ -82,7 +82,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#f/1}* I hope you see something cool with it, though!"
-msgstr "<25>{#f/1}* Надеюсь, ты там ещё чё нить крутое увидишь!"
+msgstr "<25>{#f/1}* Надеюсь, ты там ещё чё-нить крутое увидишь!"
 
 #, fuzzy
 msgid "<25>{#p/kidd}{#f/1}* I'll be in town!"
