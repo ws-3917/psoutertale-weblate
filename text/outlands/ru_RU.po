@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-21 12:42+0000\n"
-"Last-Translator: Lazarus <lazarusofficial2@gmail.com>\n"
+"PO-Revision-Date: 2025-03-22 02:24+0000\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #
 msgid ""
@@ -2842,16 +2842,16 @@ msgid ""
 msgstr "<25>{#p/toriel}{#f/1}* Что тебе сделали эти бедные жареные улитки?"
 
 msgid "<32>{#p/basic}{#n1}* Aww c'mon! ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Да ладно тебе! ;)"
 
 msgid "<32>* I poured my heart into that! ;)"
-msgstr ""
+msgstr "<32>* Я вложил своё сердце туда! ;)"
 
 msgid "<32>{#p/basic}{#n1}* Seriously!? ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Серьёзно!? ;)"
 
 msgid "<32>* That steak was utterly priceless! ;)"
-msgstr ""
+msgstr "<32>* Стейк на самом деле бесценен! ;)"
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* Your next lesson involves encounters with other "
@@ -3239,66 +3239,71 @@ msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you managed to stay out of a few measly "
 "people's way."
 msgstr ""
+"<25>{#p/twinkly}{#f/6}{#v/0}* Так ты не вмешался в судьбы немногих монстров."
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you spared the life of a few measly people."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/6}{#v/0}* Так ты пощадил лишь немногих."
 
 msgid "<25>{#f/11}{#v/0}* But what about the others, huh?"
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* А что насчёт остальных?"
 
 msgid ""
 "<25>{#f/7}{#v/0}* Froggit, Flutterlyte, Gelatini, Silente, Oculoux, Mushy..."
 msgstr ""
+"<25>{#f/7}{#v/0}* Квакушёнок, летяга, пожелейка, тихоня, зениций, "
+"Кольтовичок..."
 
 msgid "<25>{#f/6}{#v/0}* Don'tcha think any of them have families?"
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Думаешь, у них нет семей?"
 
 msgid "<25>{#f/8}{#v/0}* Don'tcha think any of them have friends?"
-msgstr ""
+msgstr "<25>{#f/8}{#v/0}* Думаешь, у них нет друзей?"
 
 msgid "<25>{#f/5}{#v/0}* Each one could've been someone else's Toriel."
-msgstr ""
+msgstr "<25>{#f/5}{#v/0}* У каждого могла быть своя «Ториэль»."
 
 msgid "<25>{#f/5}{#v/0}* ..."
-msgstr ""
+msgstr "<25>{#f/5}{#v/0}* ..."
 
 msgid "<25>{#f/7}{#v/0}* Selfish brat."
-msgstr ""
+msgstr "<25>{#f/7}{#v/0}* Эгоистичное отребье."
 
 msgid "<25>{#f/0}{#v/1}* Monsters are dead because of you."
-msgstr ""
+msgstr "<25>{#f/0}{#v/1}* Монстры мертвы по твоей воле."
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you managed to stay out of one person's "
 "way."
 msgstr ""
+"<25>{#p/twinkly}{#f/6}{#v/0}* Так ты не вмешался в судьбу лишь одного "
+"монстра."
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you spared the life of a single person."
-msgstr ""
+msgstr "<25>{#p/twinkly}{#f/6}{#v/0}* Так ты пощадил лишь одного монстра."
 
 msgid "<25>{#f/11}{#v/0}* But what about everyone else, huh?"
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* А что насчёт всех остальных?"
 
 msgid "<25>{#f/0}{#v/0}* They're all gone now."
-msgstr ""
+msgstr "<25>{#f/0}{#v/0}* Те стали прахом."
 
 msgid "<25>{#f/11}{#v/0}* What's Toriel gonna do when she finds out, huh?"
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Что будет с Ториэль, когда она наконец-то узнает?"
 
 msgid "<25>{#f/2}{#v/1}* What if she KILLS herself out of grief?"
-msgstr ""
+msgstr "<25>{#f/2}{#v/1}* Сведёт концы с жизнью из-за горя?"
 
 msgid ""
 "<25>{#f/11}{#v/0}* If you think you're saving her just by SPARING her..."
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Если ты думаешь, что спасёшь её через ПОЩАДУ..."
 
 msgid "<25>{#f/7}{#v/0}* Then you're even dumber than I thought."
-msgstr ""
+msgstr "<25>{#f/7}{#v/0}* ...тогда ты ещё глупее, чем я думал."
 
 msgid "<25>{#f/9}* Well, see ya!"
-msgstr ""
+msgstr "<25>{#f/9}* Ладно, увидимся!"
 
 msgid ""
 "<25>{#p/twinkly}{#f/6}{#v/0}* So you managed to stay out of almost "
