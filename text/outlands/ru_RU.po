@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-21 05:00+0000\n"
+"PO-Revision-Date: 2025-03-21 06:38+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -1869,8 +1869,7 @@ msgstr "<32>{#p/human}* (Вы несёте слишком много груза.
 
 msgid ""
 "<32>{#p/human}* (If you sleep here now, you may miss something important.)"
-msgstr ""
-"<32>{#p/human}* (Если вы ляжете спать здесь, то пропустите нечто важное.)"
+msgstr "<32>{#p/human}* (Если вы ляжете спать, то пропустите нечто важное.)"
 
 msgid "* (Go to sleep?)"
 msgstr "* (Лечь спать?)"
@@ -2183,10 +2182,13 @@ msgstr ""
 msgid "<25>{#f/4}* This child..."
 msgstr "<25>{#f/4}* Этот ребёнок..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* No, little one.\n"
 "* I will not prepare another breakfast."
 msgstr ""
+"<25>{#f/0}* Нет, малыш.\n"
+"* Я не буду готовить другой завтрак."
 
 msgid "<25>{#p/toriel}{#n1}* I have already served breakfast, little one."
 msgstr "<25>{#p/toriel}{#n1}* Я уже приготовила завтрак, дитя моё."
@@ -2458,12 +2460,13 @@ msgstr "<25>{#f/1}* Надеюсь, тебе понравилось..."
 msgid "<25>{#f/0}{#n1}* Well, that is all."
 msgstr "<25>{#f/0}{#n1}* Вот и всё."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}{#n1}* Home...?\n"
 "* Could you be a little more specific?"
 msgstr ""
-"<25>{#p/toriel}{#f/1}{#n1}* Дом...?\n"
-"* Можешь сказать поточнее?"
+"<25>{#p/toriel}{#f/1}{#n1}* Дом?..\n"
+"* Что ты имеешь в виду?"
 
 msgid "* (What do you say?)"
 msgstr "* (Что вы скажете?)"
@@ -3861,10 +3864,13 @@ msgstr ""
 msgid "<25>{*}{#p/twinkly}{#f/8}* ..."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* After you sleep at Toriel's home, she destroys the bridge to"
 " the outpost."
 msgstr ""
+"<32>{#p/basic}* Пока вы спали в доме Ториэль, она разрушила мост к другим "
+"частям аванпоста."
 
 msgid ""
 "<32>{#p/basic}* After you return to Toriel's home, she destroys the bridge "
@@ -3932,14 +3938,17 @@ msgid ""
 "* I have prepared a plate of fried snails for you."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#p/toriel}* Breakfast is ready!"
-msgstr ""
+msgstr "<25>{#p/toriel}* Завтрак готов!"
 
+#, fuzzy
 msgid "<26>* I have prepared a plate of fried snails for you."
-msgstr ""
+msgstr "<26>* Я приготовила для тебя тарелку жареных улиток."
 
+#, fuzzy
 msgid "<25>{#f/1}* I will leave them here on the table..."
-msgstr ""
+msgstr "<25>{#f/1}* Я оставлю их здесь, на столе."
 
 msgid "<32>{#p/basic}* You wouldn't like what's in the fridge."
 msgstr "<32>{#p/basic}* Содержимое холодильника тебе вряд ли понравится."
@@ -6040,8 +6049,9 @@ msgid ""
 "* It is active."
 msgstr ""
 
+#, fuzzy
 msgid "<26>{#p/toriel}{#f/1}* Patience, my child!"
-msgstr ""
+msgstr "<26>{#p/toriel}{#f/1}* Потерпи, моё дитя!"
 
 msgid "<26>{#p/toriel}{#f/1}* This may take a while..."
 msgstr ""
