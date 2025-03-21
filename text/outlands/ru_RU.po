@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-21 09:46+0000\n"
+"PO-Revision-Date: 2025-03-21 10:06+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -1314,8 +1314,9 @@ msgstr "<32>{#p/human}* (Вы ощущаете живительную тепло
 msgid "* (Crawl inside?)"
 msgstr "* (Залезть внутрь?)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* An ordinary fireplace."
-msgstr "<32>{#p/basic}* Обыкновенный камин."
+msgstr "<32>{#p/basic}* Обычный камин."
 
 msgid ""
 "<32>{#p/basic}* Toriel's fireplace.\n"
@@ -1461,10 +1462,10 @@ msgstr "<32>{#p/basic}{#n1}* Нет... нет!"
 msgid "<32>* G-get away from me!"
 msgstr "<32>* О-отойди от меня!"
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel2}{#f/5}* ... but that's okay, I know you'll be there on time!"
-msgstr ""
-"<25>{#p/asriel2}{#f/5}* ... но ничего страшного, я знаю, ты придёшь вовремя!"
+msgstr "<25>{#p/asriel2}{#f/5}* ...не волнуйся, я знаю, ты придёшь вовремя!"
 
 msgid "<25>{#p/asriel2}{#f/1}* You wouldn't want to let me down, would you?"
 msgstr "<25>{#p/asriel2}{#f/1}* Ты ведь не хочешь меня подвести, правда?"
@@ -1483,11 +1484,12 @@ msgstr ""
 "<25>{#p/asriel2}{#f/1}* Но не волнуйся...\n"
 "* Ты скоро узнаешь почему."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel2}{#f/2}* ... hee hee hee.\n"
 "* I'll be waiting for you up ahead."
 msgstr ""
-"<25>{#p/asriel2}{#f/2}* ... ха-ха-ха.\n"
+"<25>{#p/asriel2}{#f/2}* ...ха-ха-ха.\n"
 "* Я буду ждать тебя впереди."
 
 msgid "<25>{#p/asriel2}{#f/4}* I'll be waiting for you up ahead."
@@ -1496,8 +1498,9 @@ msgstr "<25>{#p/asriel2}{#f/4}* Я буду ждать тебя впереди."
 msgid "<25>{#p/asriel2}{#f/1}* Ready, $(name)?"
 msgstr "<25>{#p/asriel2}{#f/1}* $(name), ты готова?"
 
+#, fuzzy
 msgid "<25>{#f/2}* 'Cause once we move forward, there's no turning back."
-msgstr "<25>{#f/2}* Ведь если мы пойдём вперёд, пути назад уже не будет."
+msgstr "<25>{#f/2}* Ведь если мы продолжим, пути назад уже не будет."
 
 msgid "* (Follow Him?)"
 msgstr "* (Следовать за ним?)"
@@ -6638,10 +6641,13 @@ msgid ""
 "* If you can't draw, I'll just teach you."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* A forgettable drawing.\n"
 "* Nothing like the original."
 msgstr ""
+"<32>{#p/basic}* Незабываемый рисунок.\n"
+"* Ничто не заменит оригинал."
 
 msgid ""
 "<32>{#p/basic}* A children's drawing, depicting a giant monster with rainbow"
@@ -6961,8 +6967,9 @@ msgstr "<32>{#p/basic}* В мусорке лежит рецепт чая из з
 msgid "<32>{#p/human}* (You note the fairly large size of the dining chair.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* A larger dining chair."
-msgstr ""
+msgstr "<32>{#p/basic}* Большой обеденный стул."
 
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
@@ -7095,8 +7102,9 @@ msgstr "<32>* «Это самая просторная часть аванпос
 msgid "<32>{#p/human}* (You note the small size of the dining chair.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* A smaller dining chair."
-msgstr ""
+msgstr "<32>{#p/basic}* Маленький обеденный стул."
 
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
@@ -7237,8 +7245,9 @@ msgstr ""
 msgid "<32>{#p/human}* (You note the exceptional size of the dining chair.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* A king-sized dining chair."
-msgstr ""
+msgstr "<32>{#p/basic}* Обеденный стул королевских размеров."
 
 msgid ""
 "<32>{#p/basic}* One of Toriel's dining chairs.\n"
@@ -7683,8 +7692,9 @@ msgstr ""
 msgid "<32>{#p/basic}* No amount of passed time will fix this atrocity."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* You feel strongly that you should leave this alone."
-msgstr ""
+msgstr "<32>{#p/basic}* Ты чувствуешь, что лучше не трогать этот пирог."
 
 msgid ""
 "<32>{#p/basic}* You might have been a bully, but the pie remains untouched."
@@ -9069,9 +9079,9 @@ msgstr "<20>{#f/1}Будет стёрт в пыль."
 msgid "<20>{#p/asriel2}{#f/3}Welcome back, $(name)."
 msgstr "<20>{#p/asriel2}{#f/3}С возращением, $(name)."
 
+#, fuzzy
 msgid "<20>{#f/1}Ready to pick up where we last left off?"
-msgstr ""
-"<20>{#f/1}Продолжим с того места, на котором мы остановились в прошлый раз?"
+msgstr "<20>{#f/1}Продолжим с того, на чём закончили?"
 
 msgid "<20>{#p/asriel2}{#f/3}Well then."
 msgstr "<20>{#p/asriel2}{#f/3}Ну что ж."
@@ -9079,8 +9089,9 @@ msgstr "<20>{#p/asriel2}{#f/3}Ну что ж."
 msgid "<20>{#f/3}..."
 msgstr "<20>{#f/3}..."
 
+#, fuzzy
 msgid "<20>{#f/4}Let's just get going."
-msgstr "<20>{#f/4}Давай просто продолжим."
+msgstr "<20>{#f/4}Давай продолжим."
 
 msgid "<32>{#p/basic}* Maybe because I'm the only one you'll listen to."
 msgstr ""
@@ -11684,16 +11695,15 @@ msgstr ""
 "<32>{#p/human}* (Даже на пороге этот маленький домик наполняет вас "
 "решимостью.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (Even when visiting, this house fills you with "
 "determination.)"
-msgstr ""
-"<32>{#p/human}* (Даже на пороге этот дом наполняет вас решительностью.)"
+msgstr "<32>{#p/human}* (Даже на пороге этот дом наполняет вас решимостью.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (This cute little home fills you with determination.)"
-msgstr ""
-"<32>{#p/human}* (Этот маленький, миленький домик наполняет вас "
-"решительностью.)"
+msgstr "<32>{#p/human}* (Этот маленький и милый дом наполняет вас решимостью.)"
 
 msgid ""
 "<32>{#p/human}* (A house amidst the metallic walls fills you with "
