@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-21 10:06+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-03-21 11:27+0000\n"
+"Last-Translator: David <geniusssss2008@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -297,74 +297,99 @@ msgid ""
 "experiences!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* Everyone I know is upset about a cancelled \"grand "
 "finale.\""
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Все, кого я знаю, разочарованы отменой «грандиозного "
+"финала»."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/0}* They say it would have been quite the fight."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/0}* Они сказали,что это было бы то ещё зрелище."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* While I am relieved you did not have to take on such "
 "a battle..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* И хоть я и рада, что тебе не пришлось участвовать в "
+"этом..."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/5}* I cannot help but worry for what awaits you now."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* Мне страшно представить, что ждёт тебя далее."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* Everyone I know has been talking about a \"grand "
 "finale.\""
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Все, кого я знаю, говорят о \"грандиозном финале\"."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* They say Mettaton gave his life for the good of the "
 "show..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Они говорят, что Меттатон отдал свою жизнь во имя "
+"шоу..."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/0}* But I know better."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/0}* Но я лучше знаю."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* After all, robots can be repaired, can they not?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Роботов же можно починить, верно?"
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* They say watching you and Mettaton really made them "
 "happy."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/0}* Им было весело наблюдать за тобой и Меттатоном."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* While I am glad that you appear to have had a good "
 "time..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Хоть я и рада, что ты хорошо проводишь время..."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* Are you still doing alright out there, little one?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Дитя, всё ли у тебя хорошо?"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/5}* You have probably been to the Citadel by now."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* Наверняка ты уже был в Цитадели."
 
 msgid "<25>{#p/toriel}{#f/9}* ..."
 msgstr "<25>{#p/toriel}{#f/9}* ..."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/10}* Be good, won't you?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/10}* Будь послушным, хорошо?"
 
+#, fuzzy
 msgid ""
 "<26>{#p/toriel}{#f/5}* I apologize, little one.\n"
 "* I have once again turned off my phone."
 msgstr ""
+"<26>{#p/toriel}{#f/5}* Прости, малыш.\n"
+"* Я снова выключила телефон."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/9}* Please, leave me here for the time being."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/9}* Прошу, оставь меня здесь."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/10}* I will return to you and the others in due time."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/10}* Я вскоре вернусь к тебе и остальным."
 
 msgid ""
 "<32>{#p/basic}* There is a door here.\n"
@@ -373,11 +398,13 @@ msgstr ""
 "<32>{#p/basic}* Здесь находится дверь.\n"
 "* Она закрыта."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Perhaps there's a key somewhere...?"
-msgstr ""
+msgstr "<32>{#p/basic}* Возможно, где-то тут есть ключ?.."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You use the Secret Key.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы использовали секретный ключ.)"
 
 msgid "* (Exit the Outlands?)"
 msgstr "* (Покинуть Запределье?)"
