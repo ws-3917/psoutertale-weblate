@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-22 16:02+0000\n"
+"PO-Revision-Date: 2025-03-22 16:38+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -4932,13 +4932,11 @@ msgstr ""
 msgid "<32>* ... turned out to be you."
 msgstr "<32>* ...Оказался тобой."
 
-#, fuzzy
 msgid ""
 "<32>* You saved us in the end, but why resort to such violence along the "
 "way?"
 msgstr "<32>* Хоть ты и спас нас, но зачем надо было всех избивать?"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* I'm sad.\n"
 "* Musicians these days are way too hard on themselves..."
@@ -4946,26 +4944,20 @@ msgstr ""
 "<32>{#p/basic}{#n1}* Мне грустно.\n"
 "* Музыканты в наше время слишком самокритичны..."
 
-#, fuzzy
 msgid "<32>* Personally, I really liked that tune of theirs."
-msgstr "<32>* Но лично я очень люблю его треки."
+msgstr "<32>* Хотя лично мне нравятся его треки."
 
-#, fuzzy
 msgid "<32>* It's a shame we'll probably never get to hear it again."
-msgstr "<32>* Жаль, что мы, вероятно, больше никогда не услышим его музыку."
+msgstr "<32>* Жаль, что возможно мы больше никогда не услышим его музыку."
 
-#, fuzzy
 msgid ""
 "<32>{#n1!}{#n2}* At least you still have steak to keep you company, right? "
 ";)"
-msgstr ""
-"<32>{#n1!}{#n2}* Теперь у тебя есть стейк, чтобы составить нам компанию. ;)"
+msgstr "<32>{#n1!}{#n2}* Теперь у тебя есть стейк за компанию ;)"
 
-#, fuzzy
 msgid "<32>{#n2!}{#n1}* ... not this again."
-msgstr "<32>{#n2!}{#n1}* ...только не снова."
+msgstr "<32>{#n2!}{#n1}* ...Только не снова."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* I'm sad.\n"
 "* The food these days just gets worse and worse..."
@@ -4973,35 +4965,29 @@ msgstr ""
 "<32>{#p/basic}{#n1}* Мне грустно.\n"
 "* Качество еды в наши дни всё хуже и хуже..."
 
-#, fuzzy
 msgid "<32>* I was promised something \"real,\" but all I got was a cheap copy."
 msgstr ""
-"<32>* Они говорят, что их еда «настоящая», но всё, что я получила, — дешёвая "
-"синтетика."
+"<32>* Они говорят, что их еда «настоящая», но всё, что я получила, — дешёвая "
+"химоза."
 
-#, fuzzy
 msgid ""
 "<32>{#n1!}{#n2}* Hey! ;)\n"
 "* Quit bad-mouthing my shop in front of the customers! ;)"
 msgstr ""
 "<32>{#n1!}{#n2}* Эй! ;)\n"
-"* Перестань нести чушь про мой магазин перед клиентами! ;)"
+"* Перестань гнать на мой магазин перед клиентами! ;)"
 
-#, fuzzy
 msgid "<32>* Besides, what if your sense of taste is to blame ;)"
-msgstr "<32>* К тому же, у тебя просто нет вкуса. ;)"
+msgstr "<32>* И вообще, у тя просто нет вкуса ;)"
 
-#, fuzzy
 msgid "<32>{#n2!}{#n1}* ... typical."
-msgstr "<32>{#n2!}{#n1}* ...как всегда."
+msgstr "<32>{#n2!}{#n1}* ...Как обычно."
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* ... it isn't what it is?"
-msgstr "<32>{#p/basic}{#n1}* ...разве я не права?"
+msgstr "<32>{#p/basic}{#n1}* ...Разве я не права?"
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* ... it is what it is."
-msgstr "<32>{#p/basic}{#n1}* ...что есть, то есть."
+msgstr "<32>{#p/basic}{#n1}* ...Что есть, то есть."
 
 msgid "<32>{#p/human}* (You got the Burnt Pie.)"
 msgstr ""
@@ -5533,9 +5519,8 @@ msgstr ""
 msgid "<32>{#p/human}* (You can't help but wonder where you'd be without it.)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* You can't stop looking at the socks."
-msgstr "<32>{#p/basic}* Вы не можете перестать смотреть на носки."
+msgstr "<32>{#p/basic}* Вы не в силах оторвать взгляд от носков."
 
 msgid ""
 "<32>{#p/basic}* You came all this way just to revisit Toriel's sock "
@@ -5548,17 +5533,14 @@ msgstr ""
 msgid "<32>* ... I guess that makes sense."
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Sup, lassy ;)"
-msgstr "<32>{#p/basic}{#n1}* Здаров, парнишка. ;)"
+msgstr "<32>{#p/basic}{#n1}* Здаров, парнишка ;)"
 
-#, fuzzy
 msgid "<32>* It was good seeyin' ya at the show, ya know? ;)"
-msgstr "<32>* Было круто увидеть тебя на дискотеке, в курсе? ;)"
+msgstr "<32>* Было круто увидеть тебя на дискотеке ;)"
 
-#, fuzzy
 msgid "<32>* You did a real bang-up job ;)"
-msgstr "<32>* Ты проделал мощную работу. ;)"
+msgstr "<32>* Ты задал там жару ;)"
 
 msgid ""
 "<32>* If one thing's for sure, I think that calls for a special offer ;)"
@@ -5836,11 +5818,9 @@ msgstr "<25>{#p/toriel}{#f/1}* Терминал с паролем от двер�
 msgid "<25>{#p/toriel}{#npc/a}{#f/2}* ...!"
 msgstr "<25>{#p/toriel}{#npc/a}{#f/2}* !.."
 
-#, fuzzy
 msgid "<25>{#f/5}* What are you doing out here, my ch..."
 msgstr "<25>{#f/5}* Что ты здесь делаешь, моё ди..."
 
-#, fuzzy
 msgid "<25>{#f/9}* ... child..."
 msgstr "<25>{#f/9}* ...дитя."
 
