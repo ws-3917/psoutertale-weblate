@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-22 16:01+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10579,10 +10579,11 @@ msgstr ""
 
 #, fuzzy
 msgid "<25>{#f/10}* But, if you can do it like THAT again..."
-msgstr "<25>{#f/10}* Но, если сделаешь ЭТО опять..."
+msgstr "<25>{#f/10}* Но, если ты сделаешь ЭТО опять..."
 
+#, fuzzy
 msgid "<25>{#f/0}* There is no telling what you can accomplish this way."
-msgstr ""
+msgstr "<25>{#f/0}* ...То неизвестно, чего ты этим добьёшься."
 
 msgid "<25>{#p/toriel}{#f/0}* Oh, right, about that."
 msgstr ""
