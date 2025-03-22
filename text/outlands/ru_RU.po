@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-22 16:01+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"PO-Revision-Date: 2025-03-22 16:02+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -4922,17 +4922,15 @@ msgstr ""
 msgid "<32>* ... wait, that might actually be kind of cool."
 msgstr "<32>* ...Погоди, может быть это даже круто."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* I'm sad.\n"
 "* The bully who came through here earlier..."
 msgstr ""
 "<32>{#p/basic}{#n1}* Мне грустно.\n"
-"* Хулиган, который проходил тут раньше..."
+"* Хулиган, проходивший тут раньше..."
 
-#, fuzzy
 msgid "<32>* ... turned out to be you."
-msgstr "<32>* ...оказался тобой."
+msgstr "<32>* ...Оказался тобой."
 
 #, fuzzy
 msgid ""
