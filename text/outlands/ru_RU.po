@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-22 15:02+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10594,19 +10594,25 @@ msgstr "<25>{#f/1}* Хотя это казалось таким очевидны
 msgid "<25>{#f/7}* ..."
 msgstr "<25>{#f/7}* ..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/8}* Hahaha!\n"
 "* Ah, I cannot help but laugh!"
 msgstr ""
+"<25>{#f/8}* Ха-ха-ха!\n"
+"* Это было забавно!"
 
+#, fuzzy
 msgid "<25>{#f/6}* The shamelessness with which you chose to flirt..."
-msgstr ""
+msgstr "<25>{#f/6}* Ты так бесстыдно начал флиртовать..."
 
+#, fuzzy
 msgid "<25>{#f/1}* Certainly took me by surprise!"
-msgstr ""
+msgstr "<25>{#f/1}* Я этого определённо не ожидала!"
 
+#, fuzzy
 msgid "<25>{#f/0}* Listen to me, my child."
-msgstr ""
+msgstr "<25>{#f/0}* Послушай меня, дитя."
 
 msgid "<25>{#f/9}* Flirting with your adversaries may not always be ideal."
 msgstr ""
