@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-22 20:13+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10506,23 +10506,31 @@ msgstr "<25>{#f/10}* Но, если ты сделаешь ЭТО опять..."
 msgid "<25>{#f/0}* There is no telling what you can accomplish this way."
 msgstr "<25>{#f/0}* ...То неизвестно, чего ты этим добьёшься."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/0}* Oh, right, about that."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/0}* Ой, кстати, насчёт этого."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* I recently discovered that a ghost was hiding in the "
 "dummy."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Недавно я выяснила, что в этом манекене прятался "
+"призрак."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* They seemed bothered about something, but..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Кажется, он выглядел обеспокоенным чем-то..."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* After a little talk, I helped to calm them down."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Немного поговорив с ним, я помогла ему успокоиться."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Hmm... I wonder where Lurksalot is now?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Интересно... где сейчас Вездеброд?"
 
 msgid "<25>{#f/5}* In times like this, it is important that we show respect."
 msgstr ""
