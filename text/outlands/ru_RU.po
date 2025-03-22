@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-23 06:22+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -6046,7 +6046,7 @@ msgid "<25>{#f/22}* I did the right thing."
 msgstr "<25>{#f/22}* Я поступил правильно."
 
 msgid "<25>{#f/13}* If we'd killed those humans..."
-msgstr "<25>{#f/13}* Убей мы тех людей..."
+msgstr "<25>{#f/13}* Убей мы тех людей в тот день..."
 
 msgid "<25>{#f/15}* We would have had to wage war against all of humanity."
 msgstr ""
@@ -6058,84 +6058,68 @@ msgstr "<25>{#f/17}* Но в конце концов мы свободны."
 msgid "<25>{#f/17}* Even the others who came here made it out alive."
 msgstr ""
 
-#, fuzzy
 msgid "<25>{#f/15}* But, $(name)..."
-msgstr "<25>{#f/15}* Но, $(name)..."
+msgstr "<25>{#f/15}* Но $(name)..."
 
-#, fuzzy
 msgid ""
 "<25>{#f/16}* ... I can't say for certain what happened to them after we "
 "died."
-msgstr "<25>{#f/16}* ...Я не знаю что случилось с ней после нашей смерти."
+msgstr "<25>{#f/16}* ...Я не знаю, что с ней стало после нашей смерти."
 
-#, fuzzy
 msgid "<25>{#f/15}* Nothing was ever found... not even their SOUL."
 msgstr "<25>{#f/15}* От неё ничего не осталось... даже ДУШИ."
 
-#, fuzzy
 msgid ""
 "<25>{#f/15}* So... I can't help but wonder if they're... still out there."
-msgstr "<25>{#f/15}* Но всё-же... мне интересно, осталась ли она... там."
+msgstr "<25>{#f/15}* И всё-же... мне интересно, осталась ли она... где-то там."
 
-#, fuzzy
 msgid "<25>{#p/asriel1}{#f/17}* Frisk, thank you for listening to me."
-msgstr "<25>{#p/asriel1}{#f/17}* Спасибо что выслушал меня, Фриск."
+msgstr "<25>{#p/asriel1}{#f/17}* Спасибо, что выслушал, Фриск."
 
-#, fuzzy
 msgid "<25>{#f/17}* You should really go be with your friends now, okay?"
-msgstr "<25>{#f/17}* Я думаю, тебе нужно идти к твоим друзьям."
+msgstr "<25>{#f/17}* Думаю, твои друзья тебя уже заждались."
 
-#, fuzzy
 msgid "<25>{#f/13}* Oh, and, please..."
 msgstr "<25>{#f/13}* И ещё, пожалуйста..."
 
-#, fuzzy
 msgid "<25>{#f/20}* In the future, if you, uh, see me..."
-msgstr "<25>{#f/20}* В будущем, если ты, эм, увидишь меня..."
+msgstr "<25>{#f/20}* Если в будущем ты встретишь Светика..."
 
-#, fuzzy
 msgid "<25>{#f/15}* ... don't think of it as me, okay?"
-msgstr "<25>{#f/15}* ...не думай обо мне как о той звезде, хорошо?"
+msgstr "<25>{#f/15}* ...Не думай о нём, как обо мне, хорошо?"
 
-#, fuzzy
 msgid "<25>{#f/16}* I just want you to remember me like... this."
-msgstr "<25>{#f/16}* Я хочу чтобы ты запомнил меня... таким."
+msgstr "<25>{#f/16}* Я хочу, чтобы ты запомнил меня... таким, какой я сейчас."
 
-#, fuzzy
 msgid "<25>{#f/17}* Someone that was your friend for a little while."
-msgstr "<25>{#f/17}* Как того, кто был твоим другом, пусть и не надолго."
+msgstr "<25>{#f/17}* Как своего друга, пусть и дружили мы не долго."
 
-#, fuzzy
 msgid "<32>{|}{#p/human}* (You tell Asriel you really- {%}"
-msgstr "<32>{|}{#p/human}* (Вы говорите Азриэлю, что вы правда- {%}"
+msgstr "<32>{|}{#p/human}* (Вы говорите Азриэлю, что вам правда... {%}"
 
-#, fuzzy
 msgid "<25>{#p/asriel1}{#f/23}* Frisk, it's okay."
-msgstr "<25>{#p/asriel1}{#f/23}* Не волнуйся."
+msgstr "<25>{#p/asriel1}{#f/23}* Не волнуйся, Фриск."
 
-#, fuzzy
 msgid "<25>{#f/22}* You don't have to save everyone to be a good person."
-msgstr "<25>{#f/22}* Что бы быть хорошим, не нужно спасать всех."
+msgstr ""
+"<25>{#f/22}* Чтобы быть хорошим человеком далеко не обязательно спасать весь "
+"мир."
 
-#, fuzzy
 msgid "<25>{#f/13}* Besides... even if I could keep this form..."
-msgstr "<25>{#f/13}* Кроме того... если бы я мог сохранить эту форму..."
+msgstr "<25>{#f/13}* Кроме того... Даже если бы я мог сохранить эту форму..."
 
-#, fuzzy
 msgid ""
 "<25>{#f/15}* I don't know if I could move on from what happened in the past."
-msgstr "<25>{#f/15}* Я не знаю, смогу ли я забыть о том, что было в прошлом."
+msgstr ""
+"<25>{#f/15}* Не знаю, способен ли я отпустить прошлое и двигаться дальше."
 
-#, fuzzy
 msgid ""
 "<25>{#f/17}* ... just promise me you'll take care of yourself, alright?"
-msgstr "<25>{#f/17}* ...просто пообещай, что позаботишься о себе, хорошо?"
+msgstr "<25>{#f/17}* ...Пообещай мне, что будешь в порядке, хорошо?"
 
-#, fuzzy
 msgid "<25>{#f/15}* Well, see you."
 msgstr "<25>{#f/15}* Ну, до встречи."
 
-#, fuzzy
 msgid "<25>{#p/asriel1}{#f/13}* Frisk..."
 msgstr "<25>{#p/asriel1}{#f/13}* Фриск..."
 
@@ -6359,7 +6343,6 @@ msgstr ""
 "<32>{#p/basic}* Квак-квак.\n"
 "* (Ох...)"
 
-#, fuzzy
 msgid "<32>* (My \"friend\" doesn't really like being kind to me.)"
 msgstr "<32>* (Мои «друзья» не очень-то добры ко мне.)"
 
