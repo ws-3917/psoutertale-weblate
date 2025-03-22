@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-22 14:20+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10535,7 +10535,7 @@ msgstr "<25>{#f/1}* Дружеский разговор будет предпо�
 
 #, fuzzy
 msgid "<25>{#f/0}* And not just because it helps you make friends!"
-msgstr "<25>{#f/0}* И не только потому, что это поможет тебе завести друзей!"
+msgstr "<25>{#f/0}* И не только потому, что ты сможешь завести друзей!"
 
 #, fuzzy
 msgid ""
@@ -10544,12 +10544,12 @@ msgstr "<25>{#f/5}* Хоть ты и не усвоил тот урок так, �
 
 #, fuzzy
 msgid "<25>{#f/0}* At the very least, you avoided the conflict."
-msgstr "<25>{#f/0}* По крайней мере, ты смог избежать конфликта."
+msgstr "<25>{#f/0}* По крайней мере, ты избежал конфликта."
 
 #, fuzzy
 msgid ""
 "<25>{#f/0}* Considering the alternatives, it was... a preferable outcome."
-msgstr "<25>{#f/0}* Учитывая иные способы... это был предпочтительный исход."
+msgstr "<25>{#f/0}* Учитывая альтернативы... это был предпочтительный исход."
 
 msgid "<25>{#f/0}* ... hmm."
 msgstr "<25>{#f/0}* ...Хм-м."
@@ -10577,17 +10577,22 @@ msgstr ""
 msgid "<25>{#f/1}* I cannot say I expected what happened, but..."
 msgstr "<25>{#f/1}* Не могу сказать, что я ожидала произошедшего, но..."
 
+#, fuzzy
 msgid "<25>{#f/0}* It was still endearing nonetheless."
-msgstr ""
+msgstr "<25>{#f/0}* Это было очаровательно."
 
+#, fuzzy
 msgid "<25>{#f/0}* Surprisingly, you are the first human to try the approach."
 msgstr ""
+"<25>{#f/0}* Удивительно, что ты первый человек, кто попробовал такой подход."
 
+#, fuzzy
 msgid "<25>{#f/1}* And it seemed such an obvious solution in hindsight..."
-msgstr ""
+msgstr "<25>{#f/1}* Хотя это казалось таким очевидным решением..."
 
+#, fuzzy
 msgid "<25>{#f/7}* ..."
-msgstr ""
+msgstr "<25>{#f/7}* ..."
 
 msgid ""
 "<25>{#f/8}* Hahaha!\n"
