@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-20 13:58+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-03-22 20:13+0000\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/ru/>\n"
 "Language: ru_RU\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #
 msgid "(You take a deep breath.)"
@@ -1701,22 +1701,28 @@ msgid "MUSHKETEER"
 msgstr ""
 
 msgid "Balgamlı Kedi & Ghostly"
-msgstr ""
+msgstr "Balgamlı Kedi & Ghostly"
 
 msgid ""
 "One Mushroom\n"
 "Army"
 msgstr ""
+"Один в поле\n"
+"грибочек"
 
 msgid ""
 "Hardened Warrior\n"
 "Seeking Peace"
 msgstr ""
+"Опытный воин\n"
+"что ищет покоя"
 
 msgid ""
 "Defeated By The\n"
 "Power Of Love"
 msgstr ""
+"Побеждён\n"
+"силой любви"
 
 msgid ""
 "Scared\n"
@@ -1724,46 +1730,46 @@ msgid ""
 msgstr ""
 
 msgid "PAPYRUS"
-msgstr ""
+msgstr "ПАПИРУС"
 
 msgid "ProctorDorkchop02 & MattSpriteMaster"
-msgstr ""
+msgstr "ProctorDorkchop02 & MattSpriteMaster"
 
 msgid "SANS"
-msgstr ""
+msgstr "САНС"
 
 msgid "ProctorDorkchop02 & Fired"
-msgstr ""
+msgstr "ProctorDorkchop02 & Fired"
 
 msgid "UNDYNE"
-msgstr ""
+msgstr "АНДАЙН"
 
 msgid "ALPHYS"
-msgstr ""
+msgstr "АЛЬФИС"
 
 msgid "MEW MEW"
-msgstr ""
+msgstr "МЯУ-МЯУ"
 
 msgid "NAPSTABLOOK"
-msgstr ""
+msgstr "НАПСТАБЛУК"
 
 msgid "METTATON"
-msgstr ""
+msgstr "МЕТТАТОН"
 
 msgid "TORIEL"
-msgstr ""
+msgstr "ТОРИЭЛЬ"
 
 msgid "ASGORE"
-msgstr ""
+msgstr "АЗГОР"
 
 msgid "MONSTER KID"
-msgstr ""
+msgstr "МОНСТРЁНОК"
 
 msgid "ASRIEL"
-msgstr ""
+msgstr "АЗРИЭЛЬ"
 
 msgid "Medi0creking & MattSpriteMaster"
-msgstr ""
+msgstr "Medi0creking & MattSpriteMaster"
 
 msgid "[↑ or ↓] to Select / [Z or ENTER] to Confirm"
 msgstr ""
@@ -1781,40 +1787,40 @@ msgid "§fill=#808080§Press [Z or ENTER] to Continue"
 msgstr ""
 
 msgid "Quitting"
-msgstr ""
+msgstr "Выходим"
 
 msgid "Quitting."
-msgstr ""
+msgstr "Выходим."
 
 msgid "Quitting.."
-msgstr ""
+msgstr "Выходим.."
 
 msgid "Thank you for playing Outertale."
-msgstr ""
+msgstr "Спасибо за игру в «Outertale»."
 
 msgid "Working on this project has been an honor,"
-msgstr ""
+msgstr "Работать над этим проектом было честью"
 
 msgid "and a pleasure on my part."
-msgstr ""
+msgstr "и удовольствием с моей стороны."
 
 msgid "When I started this journey, I never"
-msgstr ""
+msgstr "Когда я начал этот проект, я никогда"
 
 msgid "thought I'd get this far, but here we"
-msgstr ""
+msgstr "не думал, что зайду так далеко, но"
 
 msgid "are anyway, at the end."
-msgstr ""
+msgstr "мы здесь, в самом конце."
 
 msgid "For me, UNDERTALE was a life-changing"
-msgstr ""
+msgstr "Для меня UNDERTALE был опытом, меняющим"
 
 msgid "experience, and one that was very hard to"
-msgstr ""
+msgstr "жизнь, и это очень сложно «отпустить»"
 
 msgid "let go of after I first played it."
-msgstr ""
+msgstr "после первого прохождения."
 
 msgid "So, with OUTERTALE, I wanted to give you"
 msgstr ""
