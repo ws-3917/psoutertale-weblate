@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-22 02:24+0000\n"
+"PO-Revision-Date: 2025-03-22 06:32+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -1864,7 +1864,7 @@ msgid "<32>* \"I want you to know that you're the best, $(name).\""
 msgstr "<32>* «$(name), я хочу, чтобы ты знала, ты самая лучшая»."
 
 msgid "<32>{#p/human}* (It sounds like someone is crying...)"
-msgstr "<32>{#p/human}* (Вы слышите, как кто-то плачет...)"
+msgstr "<32>{#p/human}* (Вы слышите чей-то плач...)"
 
 msgid "<32>{#p/basic}* There's a backpack strung up on this coat rack."
 msgstr "<32>{#p/basic}* На вешалке висит рюкзак."
@@ -4907,70 +4907,101 @@ msgstr ""
 "<32>{#p/basic}{#n1}* Н-нет...\n"
 "* Только не снова..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* I'm sad.\n"
 "* They took the DJ table to use for some tacky show later."
 msgstr ""
+"<32>{#p/basic}{#n1}* Мне грустно.\n"
+"* Они забрали стол диджея, чтобы потом использовать его для какого-то "
+"глупого шоу."
 
+#, fuzzy
 msgid "<32>* ... wait, that might actually be kind of cool."
-msgstr ""
+msgstr "<32>* ...погоди, может быть это даже круто."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* I'm sad.\n"
 "* The bully who came through here earlier..."
 msgstr ""
+"<32>{#p/basic}{#n1}* Мне грустно.\n"
+"* Хулиган, который проходил тут раньше..."
 
+#, fuzzy
 msgid "<32>* ... turned out to be you."
-msgstr ""
+msgstr "<32>* ...оказался тобой."
 
+#, fuzzy
 msgid ""
 "<32>* You saved us in the end, but why resort to such violence along the "
 "way?"
-msgstr ""
+msgstr "<32>* Хоть ты и спас нас, но зачем надо было всех избивать?"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* I'm sad.\n"
 "* Musicians these days are way too hard on themselves..."
 msgstr ""
+"<32>{#p/basic}{#n1}* Мне грустно.\n"
+"* Музыканты в наше время слишком самокритичны..."
 
+#, fuzzy
 msgid "<32>* Personally, I really liked that tune of theirs."
-msgstr ""
+msgstr "<32>* Но лично я очень люблю его треки."
 
+#, fuzzy
 msgid "<32>* It's a shame we'll probably never get to hear it again."
-msgstr ""
+msgstr "<32>* Жаль, что мы, вероятно, больше никогда не услышим его музыку."
 
+#, fuzzy
 msgid ""
 "<32>{#n1!}{#n2}* At least you still have steak to keep you company, right? "
 ";)"
 msgstr ""
+"<32>{#n1!}{#n2}* Теперь у тебя есть стейк, чтобы составить нам компанию. ;)"
 
+#, fuzzy
 msgid "<32>{#n2!}{#n1}* ... not this again."
-msgstr ""
+msgstr "<32>{#n2!}{#n1}* ...только не снова."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1}* I'm sad.\n"
 "* The food these days just gets worse and worse..."
 msgstr ""
+"<32>{#p/basic}{#n1}* Мне грустно.\n"
+"* Качество еды в наши дни всё хуже и хуже..."
 
+#, fuzzy
 msgid "<32>* I was promised something \"real,\" but all I got was a cheap copy."
 msgstr ""
+"<32>* Они говорят, что их еда «настоящая», но всё, что я получила, — дешёвая "
+"синтетика."
 
+#, fuzzy
 msgid ""
 "<32>{#n1!}{#n2}* Hey! ;)\n"
 "* Quit bad-mouthing my shop in front of the customers! ;)"
 msgstr ""
+"<32>{#n1!}{#n2}* Эй! ;)\n"
+"* Перестань нести чушь про мой магазин перед клиентами! ;)"
 
+#, fuzzy
 msgid "<32>* Besides, what if your sense of taste is to blame ;)"
-msgstr ""
+msgstr "<32>* К тому же, у тебя просто нет вкуса. ;)"
 
+#, fuzzy
 msgid "<32>{#n2!}{#n1}* ... typical."
-msgstr ""
+msgstr "<32>{#n2!}{#n1}* ...как всегда."
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* ... it isn't what it is?"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* ...разве я не права?"
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* ... it is what it is."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* ...что есть, то есть."
 
 msgid "<32>{#p/human}* (You got the Burnt Pie.)"
 msgstr ""
@@ -5849,7 +5880,7 @@ msgstr "<25>{#f/15}* Я не могу пойти с тобой."
 #, fuzzy
 msgid ""
 "<25>{#p/asriel1}{#f/16}* I don't want to break their hearts all over again."
-msgstr "<25>{#p/asriel1}{#f/16}* Я не хочу ранить их сердца опять."
+msgstr "<25>{#p/asriel1}{#f/16}* Я не хочу снова ранить их сердца."
 
 #, fuzzy
 msgid "<25>{#f/13}* It's better if they never see me at all."
@@ -5917,11 +5948,11 @@ msgstr "<25>{#f/23}* ..."
 
 #, fuzzy
 msgid "<25>{#f/23}* You don't have to be alone anymore, okay?"
-msgstr "<25>{#f/23}* Тебе больше не одинок."
+msgstr "<25>{#f/23}* Ты больше не одинок."
 
 #, fuzzy
 msgid "<25>{#f/17}* You've made so many wonderful friends here..."
-msgstr "<25>{#f/17}* Здесь ты завёл себе прекрасных друзей..."
+msgstr "<25>{#f/17}* Ты завёл себе прекрасных друзей..."
 
 #, fuzzy
 msgid "<25>{#f/17}* They'll look out for you, okay?"
@@ -5949,7 +5980,7 @@ msgstr "<25>{#f/15}* $(name) ненавидела человечество."
 
 #, fuzzy
 msgid "<25>{#f/16}* Why, they never said."
-msgstr "<25>{#f/16}* Она никогда не говорила почему."
+msgstr "<25>{#f/16}* Она никогда не говорила почему..."
 
 #, fuzzy
 msgid "<25>{#f/15}* But they felt very strongly about that."
@@ -5967,163 +5998,217 @@ msgstr ""
 msgid "<25>{#f/15}* In fact, though you have similar, uh, fashion choices..."
 msgstr "<25>{#f/15}* Хотя у вас немного похожие... предпочтения в стиле."
 
+#, fuzzy
 msgid ""
 "<25>{#f/13}* I don't know why I ever acted like you were the same person."
-msgstr ""
+msgstr "<25>{#f/13}* Не знаю почему я вёл себя так, как будто вы одно и тоже."
 
+#, fuzzy
 msgid ""
 "<25>{#f/15}* Maybe...\n"
 "* The truth is..."
 msgstr ""
+"<25>{#f/15}* Может...\n"
+"* На самом деле..."
 
+#, fuzzy
 msgid "<25>{#f/16}* $(name) just wasn't who I wanted them to be."
-msgstr ""
+msgstr "<25>{#f/16}* $(name) просто была не такой, какой я хотел её видеть."
 
+#, fuzzy
 msgid "<25>{#f/13}* While, Frisk..."
-msgstr ""
+msgstr "<25>{#f/13}* Знаешь..."
 
+#, fuzzy
 msgid "<25>{#f/17}* You're the kind of friend I've always wanted to have."
-msgstr ""
+msgstr "<25>{#f/17}* Ты тот друг, который мне всегда был нужен."
 
+#, fuzzy
 msgid "<25>{#f/20}* So maybe I was kind of projecting a little."
-msgstr ""
+msgstr "<25>{#f/20}* Так что, возможно, я проецировал её на тебя."
 
+#, fuzzy
 msgid ""
 "<25>{#f/17}* Let's be honest.\n"
 "* I did some weird stuff as a star."
 msgstr ""
+"<25>{#f/17}* Буду честен.\n"
+"* Я делал ужасный вещи, когда был в форме звезды."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel1}{#f/13}* There's one last thing I feel like I should tell "
 "you."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Наверное, я должен сказать тебе ещё кое-что."
 
+#, fuzzy
 msgid "<25>{#f/15}* When $(name) and I combined our SOULs together..."
-msgstr ""
+msgstr "<25>{#f/15}* Когда я и $(name) соединили свои ДУШИ..."
 
+#, fuzzy
 msgid "<25>{#f/16}* The control over our body was actually split between us."
-msgstr ""
+msgstr "<25>{#f/16}* Контроль над нашими телами был разделён."
 
+#, fuzzy
 msgid "<25>{#f/15}* They were the one that picked up their own empty body."
-msgstr ""
+msgstr "<25>{#f/15}* Она сама подняла своё пустое тело."
 
+#, fuzzy
 msgid "<25>{#f/13}* And then, when we made it to the planet's remains..."
-msgstr ""
+msgstr "<25>{#f/13}* А потом, когда мы добрались до руин старого мира..."
 
+#, fuzzy
 msgid "<25>{#f/13}* They were the one that wanted to..."
-msgstr ""
+msgstr "<25>{#f/13}* Она хотела..."
 
+#, fuzzy
 msgid "<25>{#f/16}* ... to use our full power."
-msgstr ""
+msgstr "<25>{#f/16}* ...использовать всю нашу силу."
 
+#, fuzzy
 msgid "<25>{#f/13}* It took everything I had to resist it."
-msgstr ""
+msgstr "<25>{#f/13}* Я сделал всё, чтобы не дать ей контроль."
 
+#, fuzzy
 msgid "<25>{#f/15}* And then, because of me, we..."
-msgstr ""
+msgstr "<25>{#f/15}* А потом, из-за меня, мы..."
 
+#, fuzzy
 msgid "<25>{#f/22}* Well, that's why I ended up the way I did."
-msgstr ""
+msgstr "<25>{#f/22}* Впрочем, ты знаешь, что было дальше."
 
+#, fuzzy
 msgid "<25>{#f/23}* ... Frisk."
-msgstr ""
+msgstr "<25>{#f/23}* ...Фриск."
 
+#, fuzzy
 msgid "<25>{#f/17}* This whole time, I've blamed myself for that decision."
-msgstr ""
+msgstr "<25>{#f/17}* Всё это время я винил себя за это решение."
 
+#, fuzzy
 msgid "<25>{#f/13}* It's why I adopted that horrible view of the world."
 msgstr ""
+"<25>{#f/13}* Это причина, по которой я начал придерживаться этой философии..."
 
+#, fuzzy
 msgid "<25>{#f/13}* \"Kill or be killed.\""
-msgstr ""
+msgstr "<25>{#f/13}* «Убей или будь убит»."
 
+#, fuzzy
 msgid ""
 "<25>{#f/17}* But now...\n"
 "* After meeting you..."
 msgstr ""
+"<25>{#f/17}* Но...\n"
+"* Благодаря тебе..."
 
+#, fuzzy
 msgid "<25>{#f/23}* Frisk, I don't regret that decision anymore."
-msgstr ""
+msgstr "<25>{#f/23}* Я больше не сожалею о том, что сделал этот выбор."
 
+#, fuzzy
 msgid "<25>{#f/22}* I did the right thing."
-msgstr ""
+msgstr "<25>{#f/22}* Я поступил правильно."
 
+#, fuzzy
 msgid "<25>{#f/13}* If we'd killed those humans..."
-msgstr ""
+msgstr "<25>{#f/13}* Если бы мы убили тех людей..."
 
+#, fuzzy
 msgid "<25>{#f/15}* We would have had to wage war against all of humanity."
-msgstr ""
+msgstr "<25>{#f/15}* То всё человечество начало против нас новую войну."
 
+#, fuzzy
 msgid "<25>{#f/17}* And in the end, everyone went free, right?"
-msgstr ""
+msgstr "<25>{#f/17}* Однако, в итоге, мы свободны."
 
 msgid "<25>{#f/17}* Even the others who came here made it out alive."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#f/15}* But, $(name)..."
-msgstr ""
+msgstr "<25>{#f/15}* Но, $(name)..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/16}* ... I can't say for certain what happened to them after we "
 "died."
-msgstr ""
+msgstr "<25>{#f/16}* ...Я не знаю что случилось с ней после нашей смерти."
 
+#, fuzzy
 msgid "<25>{#f/15}* Nothing was ever found... not even their SOUL."
-msgstr ""
+msgstr "<25>{#f/15}* От неё ничего не осталось... даже ДУШИ."
 
+#, fuzzy
 msgid ""
 "<25>{#f/15}* So... I can't help but wonder if they're... still out there."
-msgstr ""
+msgstr "<25>{#f/15}* Но всё-же... мне интересно, осталась ли она... там."
 
+#, fuzzy
 msgid "<25>{#p/asriel1}{#f/17}* Frisk, thank you for listening to me."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/17}* Спасибо что выслушал меня, Фриск."
 
+#, fuzzy
 msgid "<25>{#f/17}* You should really go be with your friends now, okay?"
-msgstr ""
+msgstr "<25>{#f/17}* Я думаю, тебе нужно идти к твоим друзьям."
 
+#, fuzzy
 msgid "<25>{#f/13}* Oh, and, please..."
-msgstr ""
+msgstr "<25>{#f/13}* И ещё, пожалуйста..."
 
+#, fuzzy
 msgid "<25>{#f/20}* In the future, if you, uh, see me..."
-msgstr ""
+msgstr "<25>{#f/20}* В будущем, если ты, эм, увидишь меня..."
 
+#, fuzzy
 msgid "<25>{#f/15}* ... don't think of it as me, okay?"
-msgstr ""
+msgstr "<25>{#f/15}* ...не думай обо мне как о той звезде, хорошо?"
 
+#, fuzzy
 msgid "<25>{#f/16}* I just want you to remember me like... this."
-msgstr ""
+msgstr "<25>{#f/16}* Я хочу чтобы ты запомнил меня... таким."
 
+#, fuzzy
 msgid "<25>{#f/17}* Someone that was your friend for a little while."
-msgstr ""
+msgstr "<25>{#f/17}* Как того, кто был твоим другом, пусть и не надолго."
 
+#, fuzzy
 msgid "<32>{|}{#p/human}* (You tell Asriel you really- {%}"
-msgstr ""
+msgstr "<32>{|}{#p/human}* (Вы говорите Азриэлю, что вы правда- {%}"
 
+#, fuzzy
 msgid "<25>{#p/asriel1}{#f/23}* Frisk, it's okay."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/23}* Не волнуйся."
 
+#, fuzzy
 msgid "<25>{#f/22}* You don't have to save everyone to be a good person."
-msgstr ""
+msgstr "<25>{#f/22}* Что бы быть хорошим, не нужно спасать всех."
 
+#, fuzzy
 msgid "<25>{#f/13}* Besides... even if I could keep this form..."
-msgstr ""
+msgstr "<25>{#f/13}* Кроме того... если бы я мог сохранить эту форму..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/15}* I don't know if I could move on from what happened in the past."
-msgstr ""
+msgstr "<25>{#f/15}* Я не знаю, смогу ли я забыть о том, что было в прошлом."
 
+#, fuzzy
 msgid ""
 "<25>{#f/17}* ... just promise me you'll take care of yourself, alright?"
-msgstr ""
+msgstr "<25>{#f/17}* ...просто пообещай, что позаботишься о себе, хорошо?"
 
+#, fuzzy
 msgid "<25>{#f/15}* Well, see you."
-msgstr ""
+msgstr "<25>{#f/15}* Ну, до встречи."
 
+#, fuzzy
 msgid "<25>{#p/asriel1}{#f/13}* Frisk..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Фриск..."
 
+#, fuzzy
 msgid "<25>{#f/15}* Don't you have anything better to do?"
-msgstr ""
+msgstr "<25>{#f/15}* Тебе заняться больше нечем?"
 
 msgid ""
 "<33>{#p/basic}* There is a security field here.\n"
@@ -6204,7 +6289,7 @@ msgstr "<32>{#p/basic}* Это диджейский пульт."
 msgid ""
 "<32>{#p/basic}* A fancy DJ set, which is surprisingly not in use right now."
 msgstr ""
-"<32>{#p/basic}* Модный диджейский пульт. Как ни странно, прямо сейчас он не "
+"<32>{#p/basic}* Модный диджейский стол, который как ни странно, сейчас не "
 "используется."
 
 msgid ""
@@ -6508,11 +6593,13 @@ msgid ""
 "lookout areas."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* Why does it feel like some of these rooms..."
-msgstr ""
+msgstr "<32>{#p/basic}* Вам кажется, что из некоторых комнат..."
 
+#, fuzzy
 msgid "<32>* ... were just made solely to be lookout areas?"
-msgstr ""
+msgstr "<32>* ...были сделаны как смотровые площадки?"
 
 msgid ""
 "<32>{#p/human}* (The sign describes puzzle- solving as an unnecessary part "
@@ -6559,8 +6646,9 @@ msgstr ""
 msgid "<32>{#p/basic}* It sure... was... a nice view."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It sure is a nice view."
-msgstr ""
+msgstr "<32>{#p/basic}* Очень красивый вид."
 
 msgid ""
 "<32>{#p/human}* (The sign appears to be an advertisement for a now- defunct "
@@ -8192,11 +8280,13 @@ msgstr ""
 msgid "* (Read the next page?)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (But there were no further pages to be read.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Но дальше нечего было читать.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You put the manifest back where it belongs.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы кладёте дневник обратно на место.)"
 
 msgid ""
 "<32>{#p/human}* (You place your hands on the dummy.)\n"
