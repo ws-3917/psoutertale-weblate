@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-22 06:32+0000\n"
+"PO-Revision-Date: 2025-03-22 12:14+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -1356,10 +1356,11 @@ msgstr "<32>* Вы могли бы в него залезть."
 msgid "<32>{#p/human}* (You chose not to crawl in.)"
 msgstr "<32>{#p/human}* (Вы не решаетесь залезать.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You crawl into the fireplace and let its warmth engulf "
 "you.)"
-msgstr "<32>{#p/human}* (Вы залезаете, и тепло накрывает вас.)"
+msgstr "<32>{#p/human}* (Вы залезаете, и тепло окутывает вас.)"
 
 msgid "<32>{#p/human}* (You are very comfortable.)"
 msgstr "<32>{#p/human}* (Вам очень уютно.)"
@@ -3986,17 +3987,21 @@ msgstr "<25>{#f/1}* Оставлю их на столе."
 msgid "<32>{#p/basic}* You wouldn't like what's in the fridge."
 msgstr "<32>{#p/basic}* Содержимое холодильника тебе вряд ли понравится."
 
+#, fuzzy
 msgid "<32>{#p/basic}* There is a brand-name chocolate bar in the fridge."
-msgstr ""
+msgstr "<32>{#p/basic}* Внутри холодильника лежит фирменный шоколад."
 
+#, fuzzy
 msgid "<32>* Do you want it?"
-msgstr ""
+msgstr "<32>* Хотите попробовать?"
 
+#, fuzzy
 msgid "* (Take the Chocolate Bar?)"
-msgstr ""
+msgstr "* (Взять шоколадную плитку?)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You decide not to take anything.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы решили не брать.)"
 
 msgid "<32>{#p/human}* (You got the Chocolate Bar.)"
 msgstr ""
@@ -5533,8 +5538,9 @@ msgstr ""
 msgid "<32>{#p/human}* (You can't help but wonder where you'd be without it.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* You can't stop looking at the socks."
-msgstr ""
+msgstr "<32>{#p/basic}* Вы не можете перестать смотреть на носки."
 
 msgid ""
 "<32>{#p/basic}* You came all this way just to revisit Toriel's sock "
@@ -5547,14 +5553,17 @@ msgstr ""
 msgid "<32>* ... I guess that makes sense."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Sup, lassy ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Здаров, парнишка. ;)"
 
+#, fuzzy
 msgid "<32>* It was good seeyin' ya at the show, ya know? ;)"
-msgstr ""
+msgstr "<32>* Было круто увидеть тебя на дискотеке, в курсе? ;)"
 
+#, fuzzy
 msgid "<32>* You did a real bang-up job ;)"
-msgstr ""
+msgstr "<32>* Ты проделал мощную работу. ;)"
 
 msgid ""
 "<32>* If one thing's for sure, I think that calls for a special offer ;)"
@@ -6418,27 +6427,39 @@ msgstr ""
 msgid "<32>{#p/basic}* ... Asriel..."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
 "* (Sigh...)"
 msgstr ""
+"<32>{#p/basic}* Квак-квак.\n"
+"* (Ох...)"
 
+#, fuzzy
 msgid "<32>* (My \"friend\" doesn't really like being kind to me.)"
-msgstr ""
+msgstr "<32>* (Мои «друзья» не очень-то добры ко мне.)"
 
+#, fuzzy
 msgid "<32>* (If given the option, they choose to hurt me instead.)"
-msgstr ""
+msgstr "<32>* (Если дать им выбор, они выбирают причинить мне боль.)"
 
+#, fuzzy
 msgid ""
 "<32>* (That's right.......)\n"
 "* (Hurting me............)\n"
 "* (................)"
 msgstr ""
+"<32>* (Именно так........)\n"
+"* (Мне больно............)\n"
+"* (................)"
 
+#, fuzzy
 msgid ""
 "<32>* (At least you're kind to me.)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (Хотя бы ты добр ко мне.)\n"
+"* Квак."
 
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
@@ -6447,44 +6468,64 @@ msgstr ""
 "<32>{#p/basic}* Квак-квак.\n"
 "* (Приветствую, человек...)"
 
+#, fuzzy
 msgid "<32>* (Have you heard from my friend?)"
-msgstr ""
+msgstr "<32>* (Вы слышали о моём друге?)"
 
+#, fuzzy
 msgid "<32>* (They were standing here a few days ago, just to my left...)"
-msgstr ""
+msgstr "<32>* (Несколько дней назад он стоял чуть левее меня...)"
 
+#, fuzzy
 msgid "<32>* (But some time after your arrival, they disappeared.)"
-msgstr ""
+msgstr "<32>* (Но когда вы появились, он таинственным образом исчез.)"
 
+#, fuzzy
 msgid "<32>* (They did say they'd leave if you hurt anyone...)"
 msgstr ""
+"<32>* (Он сказал, что навсегда уйдёт, если вы причините кому-нибудь вред...)"
 
+#, fuzzy
 msgid ""
 "<32>* (Which is confusing, since you definitely haven't done that.)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (Это немного странно, учитывая что вы не способны на такое.)\n"
+"* Квак."
 
+#, fuzzy
 msgid ""
 "<32>* (Maybe next time, you could try being a little nicer?)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (Может, в следующий раз ты попробуешь быть немного добрее?)\n"
+"* Квак."
 
+#, fuzzy
 msgid "<32>* (My friend is the happiest they've ever been.)"
-msgstr ""
+msgstr "<32>* (Мой друг — самый счастливый из всех, кого я знаю.)"
 
+#, fuzzy
 msgid "<32>* (They said they'd leave if you hurt anyone, but you haven't.)"
 msgstr ""
+"<32>* (Он сказал, что уйдёт, если ты навредишь кому-нибудь, но ты ведь этого "
+"не делал.)"
 
+#, fuzzy
 msgid "<32>* (In fact, they've decided to stay to my left forever.)"
-msgstr ""
+msgstr "<32>* (По правде говоря, он решил навсегда остаться стоять левее меня.)"
 
+#, fuzzy
 msgid "<32>* (As for that \"friend\" of theirs who always tried to hurt them...)"
-msgstr ""
+msgstr "<32>* (По поводу того «друга», что пытался причинить ему вред...)"
 
+#, fuzzy
 msgid ""
 "<32>* (Oh, he seems to have turned himself into a goat.)\n"
 "* Ribbit."
 msgstr ""
+"<32>* (Он превратился в козла.)\n"
+"* Квак."
 
 msgid "<32>* (Have you ever tried checking your ITEMs?)"
 msgstr "<32>* (Вы пробовали проверять ваши ВЕЩИ?)"
@@ -6804,12 +6845,15 @@ msgstr ""
 "<32>{#p/basic}* Это диван.\n"
 "* Ты ожидал чего-то другого?"
 
+#, fuzzy
 msgid "<32>{#p/basic}* A comfortable-looking couch."
-msgstr ""
+msgstr "<32>{#p/basic}* Удобный диван."
 
+#, fuzzy
 msgid ""
 "<32>* The temptation to sink into its luscious cushions is hard to resist..."
 msgstr ""
+"<32>* Тебе сложно устоять перед искушением упасть на его удобные подушки..."
 
 msgid ""
 "<32>{#p/human}* (You glance at the end table, but it doesn't appear to "
@@ -6884,8 +6928,9 @@ msgstr ""
 msgid "<32>{#p/basic}* ... and it always will be."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's you!"
-msgstr ""
+msgstr "<32>{#p/basic}* Это ты!"
 
 msgid ""
 "<32>{#p/human}* (You thank the plant for the warmth it brings each day.)"
@@ -6900,8 +6945,9 @@ msgstr "<32>{#p/basic}* Ты не нравишься этому растению
 msgid "<32>{#p/basic}* This plant is happy to see you."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* This plant is ecstatic about seeing you!"
-msgstr ""
+msgstr "<32>{#p/basic}* Это растение в восторге от вашего вида!"
 
 msgid "<32>{#p/human}* (You rustle the corny plant.)"
 msgstr ""
@@ -6963,12 +7009,14 @@ msgstr ""
 msgid "<32>{#p/basic}* One crayon is missing from the set."
 msgstr "<32>{#p/basic}* Одного мелка недостаёт."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* The ever-evasive blue crayon, missing for a hundred years..."
-msgstr ""
+msgstr "<32>{#p/basic}* Синий мелок был потерян много лет назад..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Truly a legend of our time."
-msgstr ""
+msgstr "<32>{#p/basic}* Легенда нашего времени."
 
 msgid "<32>{#p/human}* (You look under the table and find a deck of cards.)"
 msgstr "<32>{#p/human}* (Вы заглядываете под тумбочку и находите колоду карт.)"
@@ -7003,8 +7051,9 @@ msgid ""
 "<33>{#p/basic}* Soon enough, we'll never have to think about these again."
 msgstr ""
 
+#, fuzzy
 msgid "<33>{#p/basic}* They're holographic, of course."
-msgstr ""
+msgstr "<33>{#p/basic}* Конечно, все они голографические."
 
 msgid ""
 "<32>{#p/human}* (You run your hand across the cutting board, noting the "
@@ -7014,10 +7063,13 @@ msgstr ""
 msgid "<32>{#p/basic}* It's a cutting board."
 msgstr "<32>{#p/basic}* Это разделочная доска."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Toriel's cutting board.\n"
 "* It's not as up-to-scratch as it used to be."
 msgstr ""
+"<32>{#p/basic}* Разделочная доска Ториэль.\n"
+"* Раньше она выглядела лучше..."
 
 msgid ""
 "<25>{#p/asriel1}{#f/21}* $(name) always said leaving fur in the drain was "
@@ -7359,18 +7411,25 @@ msgid ""
 "instruments."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* A rack of advanced musical instruments."
-msgstr ""
+msgstr "<32>{#p/basic}* Стопка продвинутых музыкальных инструментов."
 
+#, fuzzy
 msgid ""
 "<32>* Upon closer inspection, you realize these are in fact fire pokers."
 msgstr ""
+"<32>* После проведения небольшой экспертизы, вы выяснили, что это cтупа с "
+"кочергами."
 
+#, fuzzy
 msgid "<32>* It's hard to tell, given that these tools were likely made..."
 msgstr ""
+"<32>* Трудно сказать, ведь эти инструменты, скорее всего, были сделаны..."
 
+#, fuzzy
 msgid "<32>* Before the outpost itself even existed."
-msgstr ""
+msgstr "<32>* Ещё до создания Аванпоста."
 
 msgid "<32>{#p/human}* (You note the exceptional size of the dining chair.)"
 msgstr ""
@@ -7395,11 +7454,13 @@ msgstr ""
 msgid "<32>{#p/basic}* It's Toriel's bed."
 msgstr "<32>{#p/basic}* Кровать Ториэль."
 
+#, fuzzy
 msgid "<32>* Certainly too big for the likes of you."
-msgstr ""
+msgstr "<32>* Слишком большая для вас."
 
+#, fuzzy
 msgid "<32>* You've still got some time to go, but you'll grow into it."
-msgstr ""
+msgstr "<32>* Вам нужно ещё немного времени, чтобы привыкнуть к ней."
 
 msgid ""
 "<32>{#p/human}* (The books on this bookshelf consist of history, biology, "
@@ -7480,10 +7541,13 @@ msgid "<32>{#p/basic}* Finally, a houseplant we can all relate to."
 msgstr ""
 "<32>{#p/basic}* Наконец-то растение, с которым можно себя ассоциировать."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Ah, the cactus.\n"
 "* Truly the most tsundere of plants."
 msgstr ""
+"<32>{#p/basic}* Ох, кактус.\n"
+"* Настоящее цундере в мире растений."
 
 msgid ""
 "<32>{#p/basic}* It's not like this cactus was waiting for you to come back "
@@ -7512,8 +7576,9 @@ msgstr ""
 msgid "<32>{#p/basic}* Toriel's dedicated reading chair."
 msgstr ""
 
+#, fuzzy
 msgid "<32>* Smells like lazy bones."
-msgstr ""
+msgstr "<32>* Пахнет ленивыми костями."
 
 msgid "<32>{#p/human}* (You look to the circled paragraph.)"
 msgstr ""
@@ -7712,14 +7777,17 @@ msgstr ""
 msgid "<32>* ... what could this mean?"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's Toriel's private trash can, containing..."
-msgstr ""
+msgstr "<32>{#p/basic}* Личная урна Ториэль, в которую выброшены..."
 
+#, fuzzy
 msgid "<32>* Snails."
-msgstr ""
+msgstr "<32>* Улиток..."
 
+#, fuzzy
 msgid "<32>* Oodles and oodles of snails."
-msgstr ""
+msgstr "<32>* Очень много улиток..."
 
 msgid "<32>{#p/basic}* Maybe this is how snails live past their expiry date."
 msgstr ""
@@ -7857,9 +7925,10 @@ msgstr "<32>{#p/basic}* Даже наоборот, это пирог боитс�
 msgid "* (Smash the pie?)"
 msgstr "* (Разбить пирог?)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* The size of the pie intimidates you too much to eat it."
-msgstr ""
+msgstr "<32>{#p/basic}* Размер этого пирога отбивает у вас желание съесть его."
 
 msgid "<32>{#p/human}* (You decide not to smash.)"
 msgstr ""
