@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-22 20:13+0000\n"
+"PO-Revision-Date: 2025-03-23 12:07+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/ru/>\n"
@@ -2008,7 +2008,7 @@ msgid "player"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 msgid "?"
 msgstr ""
@@ -2070,13 +2070,13 @@ msgid "DROP"
 msgstr ""
 
 msgid "Continue"
-msgstr ""
+msgstr "Продолжить"
 
 msgid "Observe"
 msgstr ""
 
 msgid "Reset"
-msgstr ""
+msgstr "Сброс"
 
 msgid "True Reset"
 msgstr ""
@@ -2109,7 +2109,7 @@ msgid "EXIT"
 msgstr "ВЫХОД"
 
 msgid "-> LANGUAGE & MUSIC"
-msgstr "-> ЯЗЫК И ЗВУКИ"
+msgstr "-> ЯЗЫК И ЗВУК"
 
 msgid "LANGUAGE"
 msgstr "ЯЗЫК"
@@ -2118,7 +2118,7 @@ msgid "ENGLISH"
 msgstr "РУССКИЙ"
 
 msgid "SOUND FX"
-msgstr "ЗВУКИ"
+msgstr "ЗВУК"
 
 msgid "MUSIC"
 msgstr "МУЗЫКА"
