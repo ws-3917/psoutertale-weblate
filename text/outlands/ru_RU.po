@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-22 20:13+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"PO-Revision-Date: 2025-03-23 06:22+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -1861,15 +1861,18 @@ msgstr "<32>{#p/human}* (Но там ничего не осталось.)"
 msgid "<32>{#p/basic}* Nothing left to find here."
 msgstr "<32>{#p/basic}* Ничего полезного не осталось."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* What's this?\n"
 "* A limited edition Super Starwalker comic strip?"
 msgstr ""
 "<32>{#p/basic}* Что это?\n"
-"* Ограниченное издание комикса „Супер Старуокер“?"
+"* Ограниченное издание комикса «невероятный Старуокер»?"
 
+#, fuzzy
 msgid "<32>{#s/equip}{#p/human}* (You got the Super Starwalker 2.)"
-msgstr "<32>{#s/equip}{#p/human}* (Вы получили комикс „Супер Старуокер 2“.)"
+msgstr ""
+"<32>{#s/equip}{#p/human}* (Вы получили комикс «невероятный Старуокер 2».)"
 
 msgid "<32>{#p/human}* (You're carrying too much to take that.)"
 msgstr "<32>{#p/human}* (Вы несёте слишком много груза.)"
@@ -2000,8 +2003,9 @@ msgstr ""
 msgid "<32>{#p/human}* (You approach the vending machine.)"
 msgstr ""
 
+#, fuzzy
 msgid "* (What will you make?)"
-msgstr ""
+msgstr "* (Выберите продукт.)"
 
 msgid "Candy"
 msgstr "Конфета"
@@ -2614,8 +2618,10 @@ msgstr ""
 "<25>{#p/asriel1}{#f/13}* Это то, что делает мама, чтобы чувствовать себя "
 "лучше..."
 
+#, fuzzy
 msgid "<32>{#s/equip}{#p/human}* (You got the Super Starwalker 3.)"
-msgstr "<32>{#s/equip}{#p/human}* (Вы получили комикс «Супер Старуокер 3».)"
+msgstr ""
+"<32>{#s/equip}{#p/human}* (Вы получили комикс «невероятный Старуокер 3».)"
 
 msgid "<32>{#p/human}* I've seen the effect you've had on this world..."
 msgstr "<32>{#p/human}* Я лицезрел твоё влияние на сей мир..."
@@ -5808,7 +5814,7 @@ msgstr ""
 "печальной."
 
 msgid "<32>* Please, i-if anyone out there can help, we need you..."
-msgstr "32>* Пожалуйста, е-если кто то может помочь, сообщите нам..."
+msgstr "<32>* Пожалуйста, е-если кто то может помочь, сообщите нам..."
 
 msgid "<25>{#p/toriel}{#f/1}* Have you tried checking the terminal?"
 msgstr "<25>{#p/toriel}{#f/1}* Ты уже пробовал проверить терминал?"
@@ -6195,7 +6201,7 @@ msgid "<32>{#p/human}* (This device seems to be a few decades out of date.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* A useless device of little importance to anyone."
-msgstr "<32>{#p/basic}* Бессмысленное и бесполезное устройство."
+msgstr "<32>{#p/basic}* Бесполезное и бессмысленное устройство."
 
 msgid "<32>{#p/basic}* An old fuel injection device."
 msgstr "<32>{#p/basic}* Старый топливный инжектор."
@@ -6644,7 +6650,7 @@ msgid ""
 "<32>{#p/basic}* It's a toy box.\n"
 "* The model starships have been smashed to pieces."
 msgstr ""
-"<32>{#p/basic}* Это ящикигрушек.\n"
+"<32>{#p/basic}* Это ящик игрушек.\n"
 "* Модели звездолётов разбиты вдребезги."
 
 msgid "<32>{#p/basic}* The little ships in this box were never repaired."
@@ -7407,8 +7413,9 @@ msgstr "<32>* «Безусловно, у людей была причина на
 msgid "<32>* \"Did our kind truly pose a threat to them?\""
 msgstr "<32>* «Но действительно ли мы представляли для них угрозу?»"
 
+#, fuzzy
 msgid "<32>* \"Was the threat of our potential truly that dire?\""
-msgstr "<32>* «Действительно ли наш потенциал был столь опасен для их рассы?»"
+msgstr "<32>* «Действительно ли наш потенциал был столь опасен для их расы?»"
 
 msgid ""
 "<32>* \"Whatever the case may be, we were cornered, and there was nowhere "
@@ -7843,8 +7850,9 @@ msgid ""
 "permit you to eat it."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* There is simply nothing more to be done here."
-msgstr ""
+msgstr "<32>{#p/basic}* Больше делать здесь нечего."
 
 msgid "<32>{#p/basic}* The size of the pie does not intimidate you at all."
 msgstr "<32>{#p/basic}* Тебя совершенно не пугает размер этого пирога."
@@ -8320,12 +8328,13 @@ msgstr ""
 msgid "<32>* Pretty cool, right?"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* Space frogs and Starflies!\n"
 "* Or something of the like."
 msgstr ""
 "<32>{#p/story}* Космические лягушки и звёздные мухи!\n"
-"*Или что-то в этом роде."
+"* Или что-то в этом роде."
 
 msgid "<32>{#p/story}* Space frogs...?"
 msgstr "<32>{#p/story}* Космические лугяшки...?"
@@ -8340,7 +8349,7 @@ msgid "<32>{#p/story}* The trio has become a duo."
 msgstr "<32>{#p/story}* Троица стала дуэтом."
 
 msgid "<32>{#p/story}* Only one remains."
-msgstr "<32>{#p/story}* Остаётся только один."
+msgstr "<32>{#p/story}* Один остался."
 
 msgid "<32>{#p/story}* Silente and company present themselves!"
 msgstr "<32>{#p/story}* Тихоня и компашка заявляют о себе! "
@@ -8522,8 +8531,9 @@ msgstr "<32>{#p/human}* (Вы плачете, вопите и скрипите �
 msgid "<32>{#p/basic}* Flutterlyte panicks and flies away..."
 msgstr "<32>{#p/basic}* Летяга паникует и улетает прочь..."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Why is this so hard.."
-msgstr "<08>{#p/basic}{~}Почему это так сложно..."
+msgstr "<08>{#p/basic}{~}Почему это так сложно..."
 
 msgid "<08>{#p/basic}{~}Please help me.."
 msgstr "<08>{#p/basic}{~}Прошу, помоги мне..."
@@ -9155,7 +9165,7 @@ msgid ""
 "You didn't expect to see me again?"
 msgstr ""
 "<20>{#f/2}Что такое?\n"
-"Не ждала меня?"
+"Не ожидала меня?"
 
 msgid ""
 "<20>{#f/13}...\n"
@@ -11817,8 +11827,9 @@ msgstr "<25>{#p/asriel2}{#f/4}* ...серьёзно?"
 msgid "<25>{#p/asriel2}{#f/3}* You must be really, REALLY bored."
 msgstr "<25>{#p/asriel2}{#f/3}* Тебе, должно быть, ОЧЕНЬ скучно."
 
+#, fuzzy
 msgid "Outlands - Courtyard"
-msgstr "Запределье: двор"
+msgstr "Запределье — двор"
 
 msgid ""
 "<32>{#p/human}* (Even when visiting, this little home fills you with "
@@ -11843,8 +11854,9 @@ msgid ""
 msgstr ""
 "<32>{#p/human}* (Дом среди металлических стен наполняет вас решимостью.)"
 
+#, fuzzy
 msgid "Outlands - Entrance"
-msgstr "Запределье: вход"
+msgstr "Запределье — вход"
 
 msgid ""
 "<32>{#p/human}* (The industrious Outlands falls silent, filling you with "
@@ -11865,8 +11877,9 @@ msgstr "<32>{#p/human}* (Возвращение к истокам спустя �
 msgid "<32>{#p/human}* (This fills you with determination.)"
 msgstr "<32>{#p/human}* (...наполняет вас решимостью.)"
 
+#, fuzzy
 msgid "Outlands - Rest Area"
-msgstr "Запределье: зона отдыха"
+msgstr "Запределье — зона отдыха"
 
 msgid ""
 "<32>{#p/human}* (The air grows stale.)\n"
@@ -11896,8 +11909,9 @@ msgstr ""
 "<32>{#p/human}* (Повстречав столько новых удивительных существ, вы "
 "наполняетесь решимостью.)"
 
+#, fuzzy
 msgid "Outlands - Stærmite Hole"
-msgstr "Запределье: мышиная норка"
+msgstr "Запределье — мышиная норка"
 
 msgid "<32>{#p/human}* (Knowing that the stærmite will one day emerge...)"
 msgstr ""
