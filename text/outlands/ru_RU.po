@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-23 10:33+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -2682,11 +2682,13 @@ msgstr "<25>{#f/5}* Терминал слишком высокий."
 msgid "<25>{#p/toriel}{#f/7}* ... oh my."
 msgstr "<25>{#p/toriel}{#f/7}* ...о боже."
 
+#, fuzzy
 msgid "<25>{#f/6}* It seems there is a bit of a design fault here."
-msgstr "<25>{#f/6}* Похоже, что ошибка на этапе проектирования."
+msgstr "<25>{#f/6}* Похоже, ошибка на этапе проектирования."
 
+#, fuzzy
 msgid "<25>{#f/1}* So the terminal is too high for you to reach it...?"
-msgstr "<25>{#f/1}* Так что терминал слишком высокий для тебя...?"
+msgstr "<25>{#f/1}* Из за неё терминал слишком высокий для тебя."
 
 msgid ""
 "<25>{#f/0}* No matter.\n"
@@ -2721,10 +2723,11 @@ msgstr "<25>{#f/0}* Особенно для детей вроде тебя."
 msgid "<25>{#p/toriel}{#f/0}* The riddle takes the form of a question."
 msgstr "<25>{#p/toriel}{#f/0}* Загадка будет в форме вопроса."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* \"What's baked like a cake and rhymes with 'lie?'\""
 msgstr ""
-"<25>{#p/toriel}{#f/1}* Сладок, будто ложь, вкусен, словно торт, из печи "
-"достали, звать его — ...?"
+"<25>{#p/toriel}{#f/1}* Сладок, будто ложь, вкусен, словно торт...\n"
+"[ADD]{#p/toriel}{#f/1}* Из печи достали, звать его — ...?"
 
 msgid ""
 "<32>{#p/human}* (...)\n"
@@ -2733,11 +2736,12 @@ msgstr ""
 "<32>{#p/human}* (...)\n"
 "* (Вы говорите Ториэль ответ.)"
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* ... ah, very good.\n"
 "* And with such a positive attitude!"
 msgstr ""
-"<25>{#p/toriel}{#f/0}* ... ах, как хорошо.\n"
+"<25>{#p/toriel}{#f/0}* ...очень хорошо.\n"
 "* И с таким позитивным настроем!"
 
 msgid ""
@@ -2783,20 +2787,23 @@ msgstr ""
 "<25>{#p/toriel}{#f/5}* И... {#x1}Готово.\n"
 "* Путь свободен."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}* And... {#x1}there!\n"
 "* The pathway is clear!"
 msgstr ""
-"<25>{#p/toriel}* И... {#x1}тут!\n"
+"<25>{#p/toriel}* И... {#x1}готово!\n"
 "* Путь свободен!"
 
 msgid "<25>{#p/toriel}{#f/5}* I will wait for you to enter the next room."
 msgstr ""
 "<25>{#p/toriel}{#f/5}* Я буду ждать, пока ты не зайдёшь в следующую комнату."
 
+#, fuzzy
 msgid "<25>{#p/toriel}* Once ready, you may enter the next room."
 msgstr ""
-"<25>{#p/toriel}* Когда будешь готов, мы можем пойти в следующую комнату."
+"<25>{#p/toriel}* Когда будешь готов, мы можем пойти в\n"
+" следующую комнату."
 
 msgid "<32>{#p/human}* (But you still couldn't reach the terminal.)"
 msgstr "<32>{#p/human}* (Но вы так и не смогли воспользоваться терминалом)."
@@ -4227,119 +4234,164 @@ msgstr ""
 msgid "<25>{#f/5}* Perhaps this exercise will help."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<26>{#p/toriel}* Alright.\n"
 "* It is time for your third and final lesson."
 msgstr ""
+"<26>{#p/toriel}* И так...\n"
+"* Настало время последнего урока."
 
+#, fuzzy
 msgid "<25>{#f/1}* Do you think you can make it to the end of this room..."
-msgstr ""
+msgstr "<25>{#f/1}* Сможешь ли ты пройти до конца этой комнаты..."
 
+#, fuzzy
 msgid "<25>{#f/1}* ... all by yourself?"
-msgstr ""
+msgstr "<25>{#f/1}* ...без меня?"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Are you sure...?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Ты не хочешь?.."
 
+#, fuzzy
 msgid "<25>{#f/0}* It is only a short distance away."
-msgstr ""
+msgstr "<25>{#f/0}* Тут совсем небольшое расстояние."
 
+#, fuzzy
 msgid "* (Change your mind?)"
-msgstr ""
+msgstr "* (Изменилось мнение?)"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/5}* My child."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* Моё дитя."
 
+#, fuzzy
 msgid "<25>{#f/1}* It IS important to do things on your own, is it not?"
-msgstr ""
+msgstr "<25>{#f/1}* Тебе НУЖНО научится быть самостоятельным."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* If you refuse to change your mind here, Toriel may decide to"
 " take you home."
 msgstr ""
+"<32>{#p/basic}* Если вы не поменяете своё мнение, то Ториэль отведёт вас "
+"домой."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Alright..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Хорошо..."
 
+#, fuzzy
 msgid "<25>{#f/0}* Good luck!"
-msgstr ""
+msgstr "<25>{#f/0}* Удачи!"
 
+#, fuzzy
 msgid "<25>{#f/9}* ... I see."
-msgstr ""
+msgstr "<25>{#f/9}* ...я понимаю."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/10}* Worry not, my child."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/10}* Не волнуйся, моё дитя."
 
+#, fuzzy
 msgid "<25>{#f/1}* If you truly do not wish to leave my side..."
-msgstr ""
+msgstr "<25>{#f/1}* Если ты не боишься покидать меня..."
 
+#, fuzzy
 msgid "<25>{#f/0}* I will guide you through the remainder of the Outlands."
-msgstr ""
+msgstr "<25>{#f/0}* Я проведу тебя через Запределье."
 
+#, fuzzy
 msgid "<25>{#f/5}* Take my hand, young one..."
-msgstr ""
+msgstr "<25>{#f/5}* Малыш, возьми мою руку..."
 
+#, fuzzy
 msgid "<25>{#f/5}* It is time to go home."
-msgstr ""
+msgstr "<25>{#f/5}* Мы идём домой."
 
 msgid "<32>{#p/human}{#s/equip}* (You got the CELL.)"
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#p/toriel}* You did it!"
-msgstr ""
+msgstr "<25>{#p/toriel}* Ты сделал это!"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/3}* My child, what took you so long!?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/3}* Почему так долго, моё дитя?!"
 
+#, fuzzy
 msgid "<25>{#f/4}* Did you get lost?"
-msgstr ""
+msgstr "<25>{#f/4}* Ты потерялся?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* ...\n"
 "* You DO seem alright..."
 msgstr ""
+"<25>{#f/1}* ...\n"
+"* Ты в порядке."
 
+#, fuzzy
 msgid "<25>{#f/0}* I must admit, I am surprised you made it to the end."
-msgstr ""
+msgstr "<25>{#f/0}* Я удивлена, что ты дошёл до конца."
 
+#, fuzzy
 msgid "<25>{#f/3}* Your behavior thus far has left me asking..."
-msgstr ""
+msgstr "<25>{#f/3}* Твоё поведение кажется мне странным..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/4}* ... have you been attempting to mess with me this whole time?"
-msgstr ""
+msgstr "<25>{#f/4}* ...ты всё это время хотел меня разыграть?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/23}* To be blunt, I do not have time for such pointless riffraff."
-msgstr ""
+msgstr "<25>{#f/23}* Дитя, у меня нет времени на такую бессмысленную ерунду."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* Do not worry.\n"
 "* You were never in any real danger."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Не волнуйся.\n"
+"* Тебе не угрожала настоящая опасность."
 
+#, fuzzy
 msgid "<25>{#f/0}* This was merely a test of your independence!"
-msgstr ""
+msgstr "<25>{#f/0}* Этот путь был проверкой твоей самостоятельности!"
 
+#, fuzzy
 msgid "<25>{#f/1}* In truth, my child..."
-msgstr ""
+msgstr "<25>{#f/1}* По правде говоря, моё дитя..."
 
+#, fuzzy
 msgid "<25>{#f/5}* There are important errands I must run."
-msgstr ""
+msgstr "<25>{#f/5}* У меня есть важные дела."
 
+#, fuzzy
 msgid "<25>{#f/0}* While I am away, I expect you to be on your best behavior."
 msgstr ""
+"<25>{#f/0}* Пока меня нет, я надеюсь, что ты будешь вести себя подобающим "
+"образом."
 
+#, fuzzy
 msgid "<25>{#f/1}* The puzzles ahead are yet to be explained, and..."
-msgstr ""
+msgstr "<25>{#f/1}* Впереди ещё будут некоторые головоломки, и..."
 
+#, fuzzy
 msgid "<25>{#f/0}* Leaving the room on your own may prove to be dangerous."
-msgstr ""
+msgstr "<25>{#f/0}* Если ты выйдешь из комнаты, путь может быть опасным."
 
+#, fuzzy
 msgid ""
 "<25>{#f/10}* Here.\n"
 "* Take this CELL phone."
 msgstr ""
+"<25>{#f/10}* Иди сюда.\n"
+"* Возьми мой сотовый телефон."
 
 msgid "<25>{#p/toriel}{#f/1}* If you need anything while I am away, please..."
 msgstr "<25>{#p/toriel}{#f/1}* Если тебе что-то нужно, прошу..."
@@ -4351,7 +4403,7 @@ msgid "<26>{#f/23}* And stay out of trouble."
 msgstr "<26>{#f/23}* И не ищи неприятностей."
 
 msgid "<25>{#f/1}* Be good, alright?"
-msgstr "<25>{#f/1}* Будь послушным, хорошо?"
+msgstr "<25>{#f/1}* Будь послушным и жди здесь, хорошо?"
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr ""
@@ -4525,8 +4577,9 @@ msgstr "<32>{#p/human}* (Судя по звуку, собака уходит.)"
 msgid "<25>{#p/toriel}* Please, forgive me for all of this nonsense."
 msgstr "<25>{#p/toriel}* Прошу, прости мне эту чепуху."
 
+#, fuzzy
 msgid "<25>{#f/1}* I will be back to pick you up shortly..."
-msgstr ""
+msgstr "<25>{#f/1}* Я скоро вернусь и заберу тебя..."
 
 msgid "<25>{#p/toriel}{#g/torielTired}* ... already?"
 msgstr ""
@@ -4534,53 +4587,74 @@ msgstr ""
 msgid "<25>{#p/toriel}{#g/torielTired}* ... impatient, are we?"
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#f/9}* I really should not be surprised."
-msgstr ""
+msgstr "<25>{#f/9}* Мне не нужно удивляться."
 
+#, fuzzy
 msgid ""
 "<25>{#f/5}* Just remember the dangers that lie ahead of you out there..."
-msgstr ""
+msgstr "<25>{#f/5}* Только помни об опасностях на твоём пути..."
 
+#, fuzzy
 msgid "<25>{#f/1}* It would be a shame if you got hurt."
-msgstr ""
+msgstr "<25>{#f/1}* Будет неприятно, если с тобой что-то случится."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}* Hello?\n"
 "* This is Toriel."
 msgstr ""
+"<25>{#p/toriel}* Привет!\n"
+"* Это Ториэль."
 
+#, fuzzy
 msgid "<25>{#f/1}* You have not left the room, have you?"
-msgstr ""
+msgstr "<25>{#f/1}* Ты же не покидал ту комнату?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* There are many dangers out there, and I do not want you to get "
 "hurt."
-msgstr ""
+msgstr "<25>{#f/0}* Там много опасностей, и я не хочу, чтобы ты пострадал."
 
+#, fuzzy
 msgid "<25>{#f/1}* Take care of yourself, alright?"
-msgstr ""
+msgstr "<25>{#f/1}* Береги себя."
 
+#, fuzzy
 msgid "<32>{#p/basic}* A few minutes later..."
-msgstr ""
+msgstr "<32>{#p/basic}* Спустя несколько минут..."
 
+#, fuzzy
 msgid "<25>{#p/toriel}* I have returned!"
-msgstr ""
+msgstr "<25>{#p/toriel}* Я вернулась!"
 
+#, fuzzy
 msgid ""
 "<25>* Your patience thus far has been commendable.\n"
 "* Even I am impressed!"
 msgstr ""
+"<25>* Твоё терпение было невероятным.\n"
+"* Даже я удивлена!"
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Anyhoo.\n"
 "* It is time I took you home now."
 msgstr ""
+"<25>{#f/0}* Так вот...\n"
+"* Теперь я могу отвести тебя домой."
 
+#, fuzzy
 msgid "<25>{#f/1}* Please, allow me..."
-msgstr ""
+msgstr "<25>{#f/1}* Дитя, пошли за мной..."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/0}* Welcome to our humble outpost, innocent one."
-msgstr "<25>{#p/toriel}{#f/0}* Добро пожаловать на наш скромный аванпост, дитя."
+msgstr ""
+"<25>{#p/toriel}{#f/0}* Добро пожаловать на\n"
+"наш скромный аванпост, дитя."
 
 msgid ""
 "<25>{#f/0}* There are many lessons that I must teach you about life here."
@@ -4613,27 +4687,37 @@ msgstr "<25>{#f/0}* Немного времени и практики помог
 msgid "<25>{#p/toriel}* When you are ready, we may proceed."
 msgstr "<25>{#p/toriel}* Дай знать, когда будешь готов идти дальше."
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* I heard you're quite flirty, for a human."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Я слышал, ты довольно романтичен для человека."
 
+#, fuzzy
 msgid ""
 "<32>* As you {@fill=#cf7fff}FLIRT{@fill=#fff} with different kinds of "
 "monsters, you'll see hearts next to their names."
 msgstr ""
+"<32>* Если ты будешь {@fill=#cf7fff}ФЛИРТОВАТЬ{@fill=#fff} с разными "
+"монстрами, рядом с их именами будут появляться сердечки."
 
+#, fuzzy
 msgid ""
 "<32>* The more types of monsters you {@fill=#cf7fff}FLIRT{@fill=#fff} with, "
 "the more hearts you'll have."
 msgstr ""
+"<32>* Чем больше ты будешь {@fill=#cf7fff}ФЛИРОВАТЬ{@fill=#fff}, тем больше "
+"у тебя будет сердечек."
 
+#, fuzzy
 msgid "<32>* I wonder..."
-msgstr ""
+msgstr "<32>* Мне интересно..."
 
+#, fuzzy
 msgid "<32>* Just how far can you go?"
-msgstr ""
+msgstr "<32>* Как далеко ты можешь в этом зайти?.."
 
+#, fuzzy
 msgid "<32>* Perhaps, my friend, you could even become... a legend."
-msgstr ""
+msgstr "<32>* Возможно, приятель, ты сможешь стать... легендой."
 
 msgid "<32>{#p/basic}{#n1}* Hey human, have you tried flirting yet?"
 msgstr "<32>{#p/basic}{#n1}* Эй, человек, ты ещё не пробовал флиртовать?"
@@ -7984,8 +8068,12 @@ msgstr "<25>* Походу меня спалят заживо, если оста
 msgid "<25>{#f/8}* A shame, really..."
 msgstr "<25>{#f/8}* Какой облом..."
 
+#, fuzzy
 msgid "<25>{#f/7}* I was gonna have SO much fun with you."
-msgstr "<25>{#f/7}* А ведь я собирался ХОРОШЕНЬКО оторваться с тобой..."
+msgstr ""
+"<25>{#f/7}* А ведь я собирался\n"
+"ХОРОШЕНЬКО оторваться\n"
+"с тобой..."
 
 msgid "<25>{#f/5}* Well, see ya!"
 msgstr "<25>{#f/5}* Ну что ж, увидимся!"
@@ -8370,9 +8458,9 @@ msgstr "<32>{#p/human}* (Вы хвалите Квакушёнка.)"
 msgid "<32>{#p/human}* (You flirt with Froggit.)"
 msgstr "<32>{#p/human}* (Вы заигрываете с Квакушёнком.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (But you haven't said anything to translate yet.)"
-msgstr ""
-"<32>{#p/human}* (Но вы ничего не сказали, чтобы это можно было перевести.)"
+msgstr "<32>{#p/human}* (Но пока ещё нечего было переводить.)"
 
 msgid ""
 "<32>{#p/human}* (You translate what you said.)\n"
@@ -8498,11 +8586,18 @@ msgstr "<08>{#p/basic}{~}Почему это так сложно..."
 msgid "<08>{#p/basic}{~}Please help me.."
 msgstr "<08>{#p/basic}{~}Прошу, помоги мне..."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}I'm scared.."
-msgstr "<08>{#p/basic}{~}Я напуган..."
+msgstr ""
+"<08>{#p/basic}{~}Мне\n"
+"страшно\n"
+"..."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}I can't do this.."
-msgstr "<08>{#p/basic}{~}Я не могу это сделать..."
+msgstr ""
+"<08>{#p/basic}{~}Я не\n"
+"готов..."
 
 msgid "<08>{#p/basic}{~}\\x00*sniff sniff*"
 msgstr "<08>{#p/basic}{~}\\x00*шмыг, шмыг*"
@@ -8684,11 +8779,12 @@ msgstr "<32>{#p/human}* (Вы флиртуете с тихоней.)"
 msgid "<08>{#p/basic}{~}Hiya~"
 msgstr "<08>{#p/basic}{~}Приветик~"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You try insulting Silente, but it's too focused on the "
 "others.)"
 msgstr ""
-"<32>{#p/human}* (Вы попытались оскорбить тихоню, но он слишком сосредаточен "
+"<32>{#p/human}* (Вы пытаетесь оскорбить тихоню, но он слишком сосредоточен "
 "на других.)"
 
 msgid "<32>{#p/story}* Silente is whispering to the others."
@@ -8702,22 +8798,26 @@ msgid ""
 ".."
 msgstr "<08>{#p/basic}МЕРЗКИЙ ЭГОИСТ.."
 
+#, fuzzy
 msgid ""
 "<08>{#p/basic}OBEY THE OVERMIND\n"
 ".."
 msgstr ""
-"<08>{#p/basic}ПОДЧИНИСЬ СВЕРХРАЗУМУ\n"
-".."
+"<08>{#p/basic}СЛУШАЙ\n"
+"СВЕРХ-\n"
+"РАЗУМ\n"
+"..."
 
 msgid "<08>{#p/basic}LEGION! WE ARE LEGION!"
 msgstr "<08>{#p/basic}ЛЕГИОН! ИМЯ НАМ — ЛЕГИОН!"
 
+#, fuzzy
 msgid ""
 "<08>{#p/basic}HEED THE SWARM\n"
 ".."
 msgstr ""
-"<08>{#p/basic}ПРИСЛУШАЙСЯ К РОЮ\n"
-".."
+"<08>{#p/basic}УСЛЫШЬ\n"
+"РОЙ..."
 
 msgid ""
 "<08>{#p/basic}IN UNISON, NOW\n"
