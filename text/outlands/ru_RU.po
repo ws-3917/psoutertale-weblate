@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-25 10:11+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10720,20 +10720,25 @@ msgstr ""
 msgid "<25>{#p/toriel}{#f/1}* Hmm... I wonder where Lurksalot is now?"
 msgstr "<25>{#p/toriel}{#f/1}* Интересно... где сейчас Вездеброд?"
 
+#, fuzzy
 msgid "<25>{#f/5}* In times like this, it is important that we show respect."
-msgstr ""
+msgstr "<25>{#f/5}* Очень важно проявлять уважение в такие моменты."
 
+#, fuzzy
 msgid "<25>{#f/10}* ... do you understand?"
-msgstr ""
+msgstr "<25>{#f/10}* ...Ты понимаешь?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/9}* It is a lesson more important than that of puzzles or "
 "encounters."
-msgstr ""
+msgstr "<25>{#f/9}* Этот урок ценнее любых головоломок или битв."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* The riddle offered by the terminal in that room..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Загадка терминала, предложенная в этой комнате..."
 
 msgid "<25>{#f/0}* Was based on something I found in an old Earth legend."
 msgstr ""
