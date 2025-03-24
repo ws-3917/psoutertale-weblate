@@ -1184,9 +1184,9 @@ msgstr ""
 
 msgid "<25>{#f/13}* They held on for a chance to see me, but that's..."
 msgstr ""
-"<25>{#f/13}* 一想到那傢伙堅持那麼久，\n"
-"  就為了再見我一面，\n"
-"  我就..."
+"<25>{#f/13}* 一想到我那搭檔\n"
+"  堅持了那麼久，\n"
+"  就為了再見我一面，我就..."
 
 msgid "<25>{#f/15}* ... in the past now."
 msgstr "<25>{#f/15}* ...算了，都過去了。"
