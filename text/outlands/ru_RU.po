@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-25 16:53+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10614,45 +10614,61 @@ msgstr ""
 msgid "<25>{#f/0}* Was based on something I found in an old Earth legend."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#f/1}* It involved a series of many intricate puzzles..."
-msgstr ""
+msgstr "<25>{#f/1}* Она включала в себя множество сложных головоломок..."
 
 msgid "<25>{#f/0}* And a certain deceptive baked good."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#f/5}* It is a shame you refused to solve it."
-msgstr ""
+msgstr "<25>{#f/5}* Жаль, что ты отказался решать её."
 
 msgid "<25>{#f/0}* Seeing you solve it was quite gratifying."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* As overseer of the Outlands, I took it upon myself..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Являясь смотрительницей Запределья, я взяла на себя "
+"обязанность..."
 
+#, fuzzy
 msgid "<25>{#f/0}* To ensure the other monsters did not attack you."
-msgstr ""
+msgstr "<25>{#f/0}* ...защитить тебя от нападения других монстров."
 
+#, fuzzy
 msgid "<25>{#f/0}* Both they and I have a mutual understanding about this."
-msgstr ""
+msgstr "<25>{#f/0}* Между мной и ними есть взаимопонимание на счёт этого."
 
+#, fuzzy
 msgid "<25>{#f/0}* That is why the Froggit left so readily."
-msgstr ""
+msgstr "<25>{#f/0}* Именно поэтому тот квакушёнок так охотно ушёл."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* My idea with building this room to be so long and "
 "windy..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Идея построить длинную и зигзагообразную комнату "
+"появилась тогда..."
 
+#, fuzzy
 msgid "<25>{#f/0}* ... was that I felt a straight room would be too boring."
 msgstr ""
+"<25>{#f/0}* ...когда я подумала, что прямая комната была бы довольно скучной."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* After all, who wants to walk in a straight line all their life?"
-msgstr ""
+msgstr "<25>{#f/1}* Ведь кто захочет всю жизнь идти прямо?"
 
+#, fuzzy
 msgid "<25>{#f/0}* A little change of pace can be quite nice."
 msgstr ""
+"<25>{#f/0}* Небольшое изменение в направлении может быть довольно приятным."
 
 msgid "<25>{#p/toriel}* From this room forward, more monsters may be found."
 msgstr ""
