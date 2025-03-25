@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-25 16:53+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -3409,26 +3409,33 @@ msgstr "<25>{#f/11}{#v/0}* Не могу сказать, мне не знако�
 msgid "<25>{#f/6}{#v/0}* It's sad, though..."
 msgstr "<25>{#f/6}{#v/0}* Это грустно..."
 
+#, fuzzy
 msgid ""
 "<25>{#p/twinkly}{#f/11}{#v/0}* Look at you, playing with her life like "
 "this..."
 msgstr ""
+"<25>{#p/twinkly}{#f/11}{#v/0}* Посмотри на себя, играешься с её жизнью..."
 
+#, fuzzy
 msgid "<25>{#f/7}{#v/0}* Killing her, leaving her, killing her again..."
-msgstr ""
+msgstr "<25>{#f/7}{#v/0}* Убиваешь её, покидаешь, убиваешь снова..."
 
+#, fuzzy
 msgid "<25>{#f/7}{#v/0}* Leaving her, killing her, leaving her again..."
-msgstr ""
+msgstr "<25>{#f/7}{#v/0}* Покидаешь её, убиваешь её, покидаешь снова..."
 
+#, fuzzy
 msgid "<25>{#f/11}{#v/0}* It's fun, isn't it?"
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Разве это не чудесно?"
 
+#, fuzzy
 msgid "<25>{#f/6}{#v/0}* Endlessly toying with the lives of others..."
-msgstr ""
+msgstr "<25>{#f/6}{#v/0}* Бесконечная игра с чужими жизнями..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/8}{#v/0}* Watching how they react to every possible decision..."
-msgstr ""
+msgstr "<25>{#f/8}{#v/0}* Наблюдая за тем, как они поступят в ином случае..."
 
 msgid "<25>{#f/11}{#v/0}* Isn't it thrilling?"
 msgstr "<25>{#f/11}{#v/0}* Разве дух не захватывает?"
