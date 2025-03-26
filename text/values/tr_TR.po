@@ -1,25 +1,12 @@
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-15 01:33+0000\n"
-"PO-Revision-Date: 2025-03-15 01:33+0000\n"
-"Last-Translator: Bilge <mnwary@protonmail.com>\n"
-"Language-Team: Turkish <https://ws3917.hbms.me/projects/ps-outertale/"
-"7-values/tr/>\n"
-"Language: tr_TR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
-
-#
 
 msgid "en_US"
 msgstr "tr_TR"
 
+msgid ""
+msgstr ""
 
 msgid "You must choose a name."
 msgstr "Bir isim seçmelisin."

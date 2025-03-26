@@ -3,593 +3,579 @@ msgid ""
 msgstr ""
 
 msgid "(You take a deep breath.)"
-msgstr "(Zhluboka se nadechnete.)"
+msgstr ""
 
 msgid "(You're filled with determination.)"
-msgstr "(Jsi plný odhodlání.)"
+msgstr ""
 
 msgid "You cannot give up just yet..."
-msgstr "Ještě se nesmíš vzdát..."
+msgstr ""
 
 msgid ""
 "$(name)!\n"
 "Stay determined..."
 msgstr ""
-"$(name)!\n"
-"Zůstaňte odhodlaní..."
 
 msgid "Our fate rests upon you..."
-msgstr "Náš osud spočívá na tobě..."
+msgstr ""
 
 msgid "You're going to be alright!"
-msgstr "Budeš v pořádku!"
+msgstr ""
 
 msgid "Don't lose hope!"
-msgstr "Neztrácejte naději!"
+msgstr ""
 
 msgid "It cannot end now!"
-msgstr "Teď to nemůže skončit!"
+msgstr ""
 
 msgid "    * Escaped..."
-msgstr "    *Utekl jsi..."
+msgstr ""
 
 msgid "    * I'm outta here."
-msgstr "        * Jsem odsud pryč."
+msgstr ""
 
 msgid "    * I've got better to do."
-msgstr "    * Mám lepší práci."
+msgstr ""
 
 msgid "    * Don't slow me down."
-msgstr "    * Nezpomaluj mě."
+msgstr ""
 
 msgid ""
 "    * Ran away with $(x) EXP\n"
 "      and $(y)G."
 msgstr ""
-"    * Utekl jsi s $(x) BP\n"
-"      a $(y)Z."
 
 msgid "* Assist"
-msgstr "* Asistence"
+msgstr ""
 
 msgid "* Flee"
-msgstr "* Utéct"
+msgstr ""
 
 msgid "* Spare"
-msgstr "* Ušetřete"
+msgstr ""
 
 msgid ""
 "<32>{#p/story}* YOU WON!\n"
 "* You earned $(x) EXP and $(y)G."
 msgstr ""
-"<32>{#p/story}* VYHRÁLI JSTE!\n"
-"* Dostali jste $(x) BP and $(y)Z."
 
 msgid ""
 "<32>{#p/story}* YOU WON!\n"
 "* You earned $(x) EXP and $(y)G.\n"
 "* Your LOVE increased."
 msgstr ""
-"<32>{#p/story}* VYHRÁLI JSTE!\n"
-"* Dostali jste $(x) BP a $(y)Z.\n"
-"* Vaše LÁSKA vzrostla."
 
 msgid "ERROR"
-msgstr "CHYBA"
+msgstr ""
 
 msgid "DISMISS"
-msgstr "PROPUSTIT"
+msgstr ""
 
 msgid "Click To Dismiss"
-msgstr "Klepnutím zavřít"
+msgstr ""
 
 msgid ""
 "An error occured! Please send\n"
 "screenshot to developer."
 msgstr ""
-"Došlo k chybě! Prosím o zaslání\n"
-"snímek obrazovky vývojáři."
 
 msgid "CONTROL"
-msgstr "ŘÍZENÍ"
+msgstr ""
 
 msgid "GENERAL"
-msgstr "GENERÁL"
+msgstr ""
 
 msgid "BATTLE"
-msgstr "BITVA"
+msgstr ""
 
 msgid "FixMusic"
-msgstr "OpravitHudba"
+msgstr ""
 
 msgid "FixPlayer"
-msgstr "OpravitHráč"
+msgstr ""
 
 msgid "InfiniteG"
-msgstr "NekonečnýG"
+msgstr ""
 
 msgid "Interact"
-msgstr "Interagujte"
+msgstr ""
 
 msgid "Input"
-msgstr "Vstup"
+msgstr ""
 
 msgid "Movement"
-msgstr "Pohyb"
+msgstr ""
 
 msgid "Noclip"
-msgstr "Noclip"
+msgstr ""
 
 msgid "Save"
-msgstr "Uložit"
+msgstr ""
 
 msgid "SkipText"
-msgstr "PřeskočitText"
+msgstr ""
 
 msgid "Freecam"
-msgstr "Vol.kam"
+msgstr ""
 
 msgid "CanAssist"
-msgstr "MůžeAssist"
+msgstr ""
 
 msgid "ClearBox"
-msgstr "VymazBox"
+msgstr ""
 
 msgid "Exit"
-msgstr "Exit"
+msgstr ""
 
 msgid "ResetBox"
-msgstr "ResetBox"
+msgstr ""
 
 msgid "ResetMenu"
-msgstr "ResetMenu"
+msgstr ""
 
 msgid "CanFlee"
-msgstr "MůžeUtéct"
+msgstr ""
 
 msgid "InfiniteHP"
-msgstr "NekonečnáHP"
+msgstr ""
 
 msgid "PacifyAll"
-msgstr "PacifikVše"
+msgstr ""
 
 msgid "Suicide"
-msgstr "Sebevražda"
+msgstr ""
 
 msgid "WeakenAll"
-msgstr "OslabitVše"
+msgstr ""
 
 msgid "$(x) FPS"
-msgstr "$(x) SZS"
+msgstr ""
 
 msgid "Halt"
-msgstr "Zastavit"
+msgstr ""
 
 msgid "GAME SPEED"
-msgstr "RYCHLOST HRY"
+msgstr ""
 
 msgid "More"
-msgstr "Více"
+msgstr ""
 
 msgid "Less"
-msgstr "Méně "
+msgstr ""
 
 msgid "$(x)s/frame"
-msgstr "$(x)s/snímek"
+msgstr ""
 
 msgid "GODHOME"
-msgstr "KMOTR"
+msgstr ""
 
 msgid "ROOM"
-msgstr "POKOJ"
+msgstr ""
 
 msgid "Teleport"
-msgstr "Teleportovat"
+msgstr ""
 
 msgid "ENCOUNTER"
-msgstr "SETKÁNÍ"
+msgstr ""
 
 msgid "Start"
-msgstr "Start"
+msgstr ""
 
 msgid "ARMOR"
-msgstr "BRNĚNÍ"
+msgstr ""
 
 msgid "WEAPON"
-msgstr "ZBRAŇ"
+msgstr ""
 
 msgid "INSPECT"
-msgstr "PROZKOUMAT"
+msgstr ""
 
 msgid "LAYERS"
-msgstr "VRSTVY"
+msgstr ""
 
 msgid "TYPES"
-msgstr "TYPY"
+msgstr ""
 
 msgid "Base"
-msgstr "Základna"
+msgstr ""
 
 msgid "Below"
-msgstr "Pod"
+msgstr ""
 
 msgid "Main"
-msgstr "Hlavní"
+msgstr ""
 
 msgid "Above"
-msgstr "Nad"
+msgstr ""
 
 msgid "Menu"
-msgstr "Menu"
+msgstr ""
 
 msgid "Hitbox"
-msgstr "Hitbox"
+msgstr ""
 
 msgid "Sprite"
-msgstr "Skřítek"
+msgstr ""
 
 msgid "Text"
-msgstr "Text"
+msgstr ""
 
 msgid "EXPLORER"
-msgstr "PRŮZKUMNÍK"
+msgstr ""
 
 msgid "Base (Explorer)"
-msgstr "Základní (Průzkumník)"
+msgstr ""
 
 msgid "Below (Explorer)"
-msgstr "Níže (Průzkumník)"
+msgstr ""
 
 msgid "Main (Explorer)"
-msgstr "Hlavní (Průzkumník)"
+msgstr ""
 
 msgid "Above (Explorer)"
-msgstr "Nahoře (průzkumník)"
+msgstr ""
 
 msgid "Menu (Explorer)"
-msgstr "Nabídka (průzkumník)"
+msgstr ""
 
 msgid "A"
-msgstr "A"
+msgstr ""
 
 msgid "C"
-msgstr "C"
+msgstr ""
 
 msgid "R"
-msgstr "R"
+msgstr ""
 
 msgid "E"
-msgstr "E"
+msgstr ""
 
 msgid "H"
-msgstr "H"
+msgstr ""
 
 msgid "O"
-msgstr "O"
+msgstr ""
 
 msgid "P"
-msgstr "P"
+msgstr ""
 
 msgid "S"
-msgstr "S"
+msgstr ""
 
 msgid "T"
-msgstr "T"
+msgstr ""
 
 msgid "Press [TAB] to cycle debug info"
-msgstr "Stisknutím klávesy [TAB] můžete cyklicky přepínat informace o ladění"
+msgstr ""
 
 msgid "Acceleration"
-msgstr "Zrychlení"
+msgstr ""
 
 msgid "Active"
-msgstr "Aktivní"
+msgstr ""
 
 msgid "Alpha"
-msgstr "Alfa"
+msgstr ""
 
 msgid "Anchor"
-msgstr "Kotva"
+msgstr ""
 
 msgid "B"
-msgstr "B"
+msgstr ""
 
 msgid "Blend"
-msgstr "Směs"
+msgstr ""
 
 msgid "Border"
-msgstr "Hranice"
+msgstr ""
 
 msgid "Computed Size"
-msgstr "Vypočtená velikost"
+msgstr ""
 
 msgid "Content"
-msgstr "Obsah"
+msgstr ""
 
 msgid "Crop"
-msgstr "Plodina"
+msgstr ""
 
 msgid "Down"
-msgstr "Dolů"
+msgstr ""
 
 msgid "Duration"
-msgstr "Trvání"
+msgstr ""
 
 msgid "EXP"
-msgstr "BP"
+msgstr ""
 
 msgid "Extent"
-msgstr "Rozsah"
+msgstr ""
 
 msgid "F"
-msgstr "F"
+msgstr ""
 
 msgid "Face"
-msgstr "Obličej"
+msgstr ""
 
 msgid "False"
-msgstr "Falešný"
+msgstr ""
 
 msgid "Fill"
-msgstr "Vyplnit"
+msgstr ""
 
 msgid "Font Family"
-msgstr "Rodina písem"
+msgstr ""
 
 msgid "Font Size"
-msgstr "Velikost písma"
+msgstr ""
 
 msgid "Frames"
-msgstr "Snímky"
+msgstr ""
 
 msgid "Gravity"
-msgstr "Gravitace"
+msgstr ""
 
 msgid "Group"
-msgstr "Skupina"
+msgstr ""
 
 msgid "HP"
-msgstr "ZB"
+msgstr ""
 
 msgid "Index"
-msgstr "Index"
+msgstr ""
 
 msgid "Inert"
-msgstr "Inertní"
+msgstr ""
 
 msgid "Key"
-msgstr "Klíč"
+msgstr ""
 
 msgid "Last Saved Time"
-msgstr "Poslední uložený čas"
+msgstr ""
 
 msgid "Layer"
-msgstr "Vrstva"
+msgstr ""
 
 msgid "Layers"
-msgstr "Vrstvy"
+msgstr ""
 
 msgid "Left"
-msgstr "Vlevo"
+msgstr ""
 
 msgid "Metadata"
-msgstr "Metadata"
+msgstr ""
 
 msgid "Music"
-msgstr "Hudba"
+msgstr ""
 
 msgid "Namespace"
-msgstr "Jmen.prost."
+msgstr ""
 
 msgid "NONE"
-msgstr "ŽÁDNÝ"
+msgstr ""
 
 msgid "none"
-msgstr "žádný"
+msgstr ""
 
 msgid "Objects"
-msgstr "Objekty"
+msgstr ""
 
 msgid "Oversaver"
-msgstr "Přílišný spořič"
+msgstr ""
 
 msgid "Parallax"
-msgstr "Paralaxa"
+msgstr ""
 
 msgid "Position"
-msgstr "Postavení"
+msgstr ""
 
 msgid "Primed"
-msgstr "Natřený základní barvou"
+msgstr ""
 
 msgid "Priority"
-msgstr "Priorita"
+msgstr ""
 
 msgid "REGISTRY"
-msgstr "REGISTR"
+msgstr ""
 
 msgid "Renderer"
-msgstr "Vykreslovač"
+msgstr ""
 
 msgid "Resources"
-msgstr "Prostředky"
+msgstr ""
 
 msgid "Reverse"
-msgstr "Rezerva"
+msgstr ""
 
 msgid "Right"
-msgstr "Vpravo"
+msgstr ""
 
 msgid "Room"
-msgstr "Místnost"
+msgstr ""
 
 msgid "Room State"
-msgstr "Stav místnosti"
+msgstr ""
 
 msgid "Rotation"
-msgstr "Rotace"
+msgstr ""
 
 msgid "Scale"
-msgstr "Škála"
+msgstr ""
 
 msgid "Shop Selection"
-msgstr "Výběr obchodu"
+msgstr ""
 
 msgid "Size"
-msgstr "Velikost"
+msgstr ""
 
 msgid "Spacing"
-msgstr "Rozteč"
+msgstr ""
 
 msgid "Spin"
-msgstr "Příst"
+msgstr ""
 
 msgid "Sprites"
-msgstr "Skřítci"
+msgstr ""
 
 msgid "Step"
-msgstr "Krok"
+msgstr ""
 
 msgid "Stroke"
-msgstr "Mrtvice"
+msgstr ""
 
 msgid "Subcrop"
-msgstr "Dílčí plodina"
+msgstr ""
 
 msgid "Talk"
-msgstr "Hovořit"
+msgstr ""
 
 msgid "Target"
-msgstr "Cíl"
+msgstr ""
 
 msgid "Time"
-msgstr "Čas"
+msgstr ""
 
 msgid "Tint"
-msgstr "Odstín"
+msgstr ""
 
 msgid "Tracked Assets"
-msgstr "Sledované datové zdroje"
+msgstr ""
 
 msgid "True"
-msgstr "Pravdivý"
+msgstr ""
 
 msgid "UNKNOWN"
-msgstr "NEZNÁMÝ"
+msgstr ""
 
 msgid "Up"
-msgstr "Nahoru"
+msgstr ""
 
 msgid "Vars"
-msgstr "Prom."
+msgstr ""
 
 msgid "Velocity"
-msgstr "Rychlost"
+msgstr ""
 
 msgid "Volatile"
-msgstr "Nestálý"
+msgstr ""
 
 msgid "SAVEMOD"
-msgstr "ULOŽMOD"
+msgstr ""
 
 msgid "SAVE EDITOR"
-msgstr "ULOŽIT EDITOR"
+msgstr ""
 
 msgid "Data (Booleans)"
-msgstr "Data (logické hodnoty)"
+msgstr ""
 
 msgid "Data (Numbers)"
-msgstr "Data (čísla)"
+msgstr ""
 
 msgid "Data (Strings)"
-msgstr "Data (řetězce)"
+msgstr ""
 
 msgid "Flags (Booleans)"
-msgstr "Příznaky (Booleans)"
+msgstr ""
 
 msgid "Flags (Numbers)"
-msgstr "Příznaky (Čísla)"
+msgstr ""
 
 msgid "Flags (Strings)"
-msgstr "Příznaky (řetězce)"
+msgstr ""
 
 msgid "NAVIGATION"
-msgstr "NAVIGACE"
+msgstr ""
 
 msgid "Prev"
-msgstr "Před"
+msgstr ""
 
 msgid "Next"
-msgstr "Další"
+msgstr ""
 
 msgid "Enter Value"
-msgstr "Zadejte hodnotu"
+msgstr ""
 
 msgid "Back"
-msgstr "Zpět"
+msgstr ""
 
 msgid "STORAGE"
-msgstr "SKLADOVÁNÍ"
+msgstr ""
 
 msgid "STORAGE EDITOR"
-msgstr "EDITOR ÚLOŽIŠTĚ"
+msgstr ""
 
 msgid "SELECTION"
-msgstr "SELEKCE"
+msgstr ""
 
 msgid "Inventory"
-msgstr "Inventář"
+msgstr ""
 
 msgid "Dim. Box A"
-msgstr "Roz. rámeček A"
+msgstr ""
 
 msgid "Dim. Box B"
-msgstr "Roz. Rámeček B"
+msgstr ""
 
 msgid "Clear File"
-msgstr "Vymazat soubor"
+msgstr ""
 
 msgid "Notice"
-msgstr "Oznámení"
+msgstr ""
 
 msgid "Clear Mobile Settings"
-msgstr "Vymazat Mobilní Nastavení"
+msgstr ""
 
 msgid "Open"
-msgstr "Otevřít"
+msgstr ""
 
 msgid "SAVE files"
-msgstr "UKLÁDÁNÍ souborů"
+msgstr ""
 
 msgid "Open File"
-msgstr "Otevřít soubor"
+msgstr ""
 
 msgid "Save File"
-msgstr "Uložit soubor"
+msgstr ""
 
 msgid "That file could not be parsed."
-msgstr "Tento soubor nebylo možné analyzovat."
+msgstr ""
 
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Zrušit"
+msgstr ""
 
 msgid "Clear this file?"
-msgstr "Vymazat tento soubor?"
+msgstr ""
 
 msgid ""
 "Your SAVE file from the\n"
 "OUTERTALE demo has been\n"
 "moved to a timeline slot."
 msgstr ""
-"Váš soubor SAVE z\n"
-"OUTERTALE demo bylo\n"
-"přesunuto do slotu časové osy."
 
 msgid "Save this file?"
-msgstr "Uložit tento soubor?"
+msgstr ""
 
 msgid ""
 "Clear mobile-related settings?\n"
@@ -602,300 +588,297 @@ msgid ""
 "a JSON file to save it\n"
 "to your device."
 msgstr ""
-"Zkopírujte níže uvedený text do\n"
-"soubor JSON pro jeho uložení\n"
-"do vašeho zařízení."
 
 msgid "Load this file?"
-msgstr "Načíst tento soubor?"
+msgstr ""
 
 msgid "§fill=#ff0§< DEVELOPER >§fill=#fff§"
-msgstr "§fill=#ff0§< VÝVOJÁŘ >§fill=#fff§"
+msgstr ""
 
 msgid "spacey_432"
-msgstr "spacey_432"
+msgstr ""
 
 msgid ""
 msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
-msgstr "§fill=#ff0§< SPISOVATEL >§fill=#fff§"
+msgstr ""
 
 msgid "Aster"
-msgstr "Aster"
+msgstr ""
 
 msgid "Balgamlı Kedi"
-msgstr "Balgamlı Kedi"
+msgstr ""
 
 msgid "Bilge \"mnwary\""
-msgstr "Bilge \"mnwary\""
+msgstr ""
 
 msgid "Dischnie"
-msgstr "Dischnie"
+msgstr ""
 
 msgid "Efe Kaya"
-msgstr "Efe Kaya"
+msgstr ""
 
 msgid "Ghostly"
-msgstr "Ghostly"
+msgstr ""
 
 msgid "InvincibleRacoon"
-msgstr "InvincibleRacoon"
+msgstr ""
 
 msgid "Jojoton56"
-msgstr "Jojoton56"
+msgstr ""
 
 msgid "Kiwi \"Quinn\""
-msgstr "Kiwi \"Quinn\""
+msgstr ""
 
 msgid "neo9174"
-msgstr "neo9174"
+msgstr ""
 
 msgid "Rise"
-msgstr "Rise"
+msgstr ""
 
 msgid "ThatGuyWhoLikesFood"
-msgstr "ThatGuyWhoLikesFood"
+msgstr ""
 
 msgid "Turbulation"
-msgstr "Turbulation"
+msgstr ""
 
 msgid "Zaxento The Greedy"
-msgstr "Zaxento The Greedy"
+msgstr ""
 
 msgid "§fill=#ff0§< ARTIST >§fill=#fff§"
-msgstr "§fill=#ff0§< UMĚLEC >§fill=#fff§"
+msgstr ""
 
 msgid "Burge"
-msgstr "Burge"
+msgstr ""
 
 msgid "Deskius"
-msgstr "Deskius"
+msgstr ""
 
 msgid "DESM.al"
-msgstr "DESM.al"
+msgstr ""
 
 msgid "Discarded Vessel"
-msgstr "Discarded Vessel"
+msgstr ""
 
 msgid "Fired"
-msgstr "Fired"
+msgstr ""
 
 msgid "Funtermore"
-msgstr "Funtermore"
+msgstr ""
 
 msgid "HolyOranges"
-msgstr "HolyOranges"
+msgstr ""
 
 msgid "major_memestar"
-msgstr "major_memestar"
+msgstr ""
 
 msgid "MattSpriteMaster"
-msgstr "MattSpriteMaster"
+msgstr ""
 
 msgid "Medi0creking"
-msgstr "Medi0creking"
+msgstr ""
 
 msgid "NerNot1"
-msgstr "NerNot1"
+msgstr ""
 
 msgid "PhyreFM"
-msgstr "PhyreFM"
+msgstr ""
 
 msgid "Pongy25"
-msgstr "Pongy25"
+msgstr ""
 
 msgid "PoTheWinterCorder"
-msgstr "PoTheWinterCorder"
+msgstr ""
 
 msgid "ProctorDorkchop02"
-msgstr "ProctorDorkchop02"
+msgstr ""
 
 msgid "ScarletScaledDragon"
-msgstr "ScarletScaledDragon"
+msgstr ""
 
 msgid "semi"
-msgstr "semi"
+msgstr ""
 
 msgid "Soup Taels"
-msgstr "Soup Taels"
+msgstr ""
 
 msgid "SquigglyWiggley"
-msgstr "SquigglyWiggley"
+msgstr ""
 
 msgid "Starkiteckt"
-msgstr "Starkiteckt"
+msgstr ""
 
 msgid "supper12"
-msgstr "supper12"
+msgstr ""
 
 msgid "Valor52"
-msgstr "Valor52"
+msgstr ""
 
 msgid "§fill=#ff0§< TECHNICIAN >§fill=#fff§"
-msgstr "§fill=#ff0§< TECHNIK >§fill=#fff§"
+msgstr ""
 
 msgid "Codetoil"
-msgstr "Codetoil"
+msgstr ""
 
 msgid "ryi3r"
-msgstr "ryi3r"
+msgstr ""
 
 msgid "ws3917"
-msgstr "ws3917"
+msgstr ""
 
 msgid "§fill=#ff0§< TESTER >§fill=#fff§"
-msgstr "§fill=#ff0§< ZKOUŠEČ >§fill=#fff§"
+msgstr ""
 
 msgid "Alden"
-msgstr "Alden"
+msgstr ""
 
 msgid "Aspey"
-msgstr "Aspey"
+msgstr ""
 
 msgid "Brad"
-msgstr "Brad"
+msgstr ""
 
 msgid "brayjamin"
-msgstr "brayjamin"
+msgstr ""
 
 msgid "ClamsyMoe"
-msgstr "ClamsyMoe"
+msgstr ""
 
 msgid "delta"
-msgstr "delta"
+msgstr ""
 
 msgid "DR4GON HE4RT"
-msgstr "DR4GON HE4RT"
+msgstr ""
 
 msgid "Dubituar"
-msgstr "Dubituar"
+msgstr ""
 
 msgid "Emurry"
-msgstr "Emurry"
+msgstr ""
 
 msgid "Enzolos"
-msgstr "Enzolos"
+msgstr ""
 
 msgid "EvanGamesGoodman"
-msgstr "EvanGamesGoodman"
+msgstr ""
 
 msgid "FireWizard72X"
-msgstr "FireWizard72X"
+msgstr ""
 
 msgid "FuLiNT"
-msgstr "FuLiNT"
+msgstr ""
 
 msgid "gardnaeden"
-msgstr "gardnaeden"
+msgstr ""
 
 msgid "Gon UT"
-msgstr "Gon UT"
+msgstr ""
 
 msgid "Green Tea"
-msgstr "Green Tea"
+msgstr ""
 
 msgid "Huggies!"
-msgstr "Huggies!"
+msgstr ""
 
 msgid "ilovecookies"
-msgstr "ilovecookies"
+msgstr ""
 
 msgid "Jago128"
-msgstr "Jago128"
+msgstr ""
 
 msgid "Joe98912"
-msgstr "Joe98912"
+msgstr ""
 
 msgid "Jonkler"
-msgstr "Jonkler"
+msgstr ""
 
 msgid "lil tanski"
-msgstr "lil tanski"
+msgstr ""
 
 msgid "MR. PETER"
-msgstr "MR. PETER"
+msgstr ""
 
 msgid "MSBen"
-msgstr "MSBen"
+msgstr ""
 
 msgid "Murder--Sans_MDR"
-msgstr "Murder--Sans_MDR"
+msgstr ""
 
 msgid "Nanorasmus"
-msgstr "Nanorasmus"
+msgstr ""
 
 msgid "NepAnime"
-msgstr "NepAnime"
+msgstr ""
 
 msgid "Shaun Duz Stuffs"
-msgstr "Shaun Duz Stuffs"
+msgstr ""
 
 msgid "SHCyank"
-msgstr "SHCyank"
+msgstr ""
 
 msgid "petar3644"
-msgstr "petar3644"
+msgstr ""
 
 msgid "PixelToons Jaafar"
-msgstr "PixelToons Jaafar"
+msgstr ""
 
 msgid "Prezmop"
-msgstr "Prezmop"
+msgstr ""
 
 msgid "prymus-agd"
-msgstr "prymus-agd"
+msgstr ""
 
 msgid "Quin"
-msgstr "Quin"
+msgstr ""
 
 msgid "RadicalRic"
-msgstr "RadicalRic"
+msgstr ""
 
 msgid "Raelynn"
-msgstr "Raelynn"
+msgstr ""
 
 msgid "retr22800"
-msgstr "retr22800"
+msgstr ""
 
 msgid "RoCtD_14159"
-msgstr "RoCtD_14159"
+msgstr ""
 
 msgid "sonicisawesome222"
-msgstr "sonicisawesome222"
+msgstr ""
 
 msgid "spaceknife234"
-msgstr "spaceknife234"
+msgstr ""
 
 msgid "superkippy"
-msgstr "superkippy"
+msgstr ""
 
 msgid "Teecup"
-msgstr "Teecup"
+msgstr ""
 
 msgid "Tem in a Cowboy Hat"
-msgstr "Tem in a Cowboy Hat"
+msgstr ""
 
 msgid "Tenbrooks"
-msgstr "Tenbrooks"
+msgstr ""
 
 msgid "The Fallen Angel"
-msgstr "The Fallen Angel"
+msgstr ""
 
 msgid "TheAsriel"
-msgstr "TheAsriel"
+msgstr ""
 
 msgid "Wild Pasta"
-msgstr "Wild Pasta"
+msgstr ""
 
 msgid "Xiao_Akatsuki"
-msgstr "Xiao_Akatsuki"
+msgstr ""
 
 msgid "xNoodlePlayz"
-msgstr "xNoodlePlayz"
+msgstr ""
 
 msgid "§fill=#ff0§< SPECIAL THANKS >§fill=#fff§"
-msgstr "§fill=#ff0§< ZVLÁŠTNÍ PODĚKOVÁNÍ >§fill=#fff§"
+msgstr ""
 
 msgid ""
 "§fill=#808080§For being there for me when I\n"
@@ -903,10 +886,6 @@ msgid ""
 "teaching me life lessons that\n"
 "have made me a better person.§fill=#fff§"
 msgstr ""
-"§fill=#808080§Za to, že je tu pro mě, když\n"
-"Potřebuji někoho, o koho se může opřít, a\n"
-"Učí mě životní lekce, které\n"
-"ze mě udělaly lepšího člověka.§fill=#fff§"
 
 msgid ""
 "§fill=#808080§For being one of the friendliest\n"
@@ -914,10 +893,6 @@ msgid ""
 "to believe in my vision, and\n"
 "inspiring me to finish the game.§fill=#fff§"
 msgstr ""
-"§fill=#808080§Za to, že je jedním z nejpřátelštějších\n"
-"lidé, které znám, první osoba\n"
-"věřit v mou vizi a\n"
-"inspirující mě k dokončení hry.§fill=#fff§"
 
 msgid ""
 "§fill=#808080§For sticking with me at every\n"
@@ -925,10 +900,6 @@ msgid ""
 "the start. Regardless of the era,\n"
 "he's always been there to help.§fill=#fff§"
 msgstr ""
-"§fill=#808080§Za to, že je se mnou zůstal na každém\n"
-"fáze vývoje, již od\n"
-"začátek. Bez ohledu na dobu,\n"
-"vždycky tu byl, aby pomohl.§fill=#fff§"
 
 msgid ""
 "§fill=#808080§For being a voice of reason when\n"
@@ -936,10 +907,6 @@ msgid ""
 "game, and encouraging me to take\n"
 "testing seriously.§fill=#fff§"
 msgstr ""
-"§fill=#808080§Za to, že je hlasem rozumu, když\n"
-"týká se to mnoha aspektů\n"
-"hry, a povzbuzuje mě, abych si vzal\n"
-"testování vážně.§fill=#fff§"
 
 msgid ""
 "§fill=#808080§For being reliable, brutally\n"
@@ -947,10 +914,6 @@ msgid ""
 "criticism and ideas, and being\n"
 "trustworthy from the day we met.§fill=#fff§"
 msgstr ""
-"§fill=#808080§Za to, že je spolehlivý, brutální\n"
-"upřímný, dává mi spoustu\n"
-"kritika a myšlenky a bytí\n"
-"důvěryhodný ode dne, kdy jsme se potkali.§fill=#fff§"
 
 msgid ""
 "§fill=#808080§For helping me write crucial\n"
@@ -958,10 +921,6 @@ msgid ""
 "vision, and helping me express\n"
 "myself in a whole new way.§fill=#fff§"
 msgstr ""
-"§fill=#808080§Za pomoc při psaní zásadních\n"
-"části hry, podporující můj\n"
-"vize a pomáhá mi vyjádřit\n"
-"Úplně novým způsobem.§fill=#fff§"
 
 msgid ""
 "§fill=#808080§For being there to help towards\n"
@@ -969,1077 +928,819 @@ msgid ""
 "ensuring the game's writing\n"
 "reaches its full potential.§fill=#fff§"
 msgstr ""
-"§fill=#808080§Za to, že je tam byl, abys pomohl\n"
-"ukončení vývoje a\n"
-"zajištění psaní hry\n"
-"dosahuje svého plného potenciálu.§fill=#fff§"
 
 msgid "Brought to you by §fill=#ff0§The Mavis & Co.§fill=#fff§"
-msgstr "Přináší vám §fill=#ff0§The Mavis & Co.§fill=#fff§"
+msgstr ""
 
 msgid "(( CAST ))"
-msgstr "(( OBSAZENÍ ))"
+msgstr ""
 
 msgid "FROGGIT"
-msgstr "FROGGIT"
+msgstr ""
 
 msgid ""
 "Pondering\n"
 "Life"
 msgstr ""
-"Přemítání\n"
-"o životě"
 
 msgid ""
 "Professional\n"
 "Frog"
 msgstr ""
-"Profesionální\n"
-"žába"
 
 msgid ""
 "Pondering\n"
 "Love"
 msgstr ""
-"Přemítání\n"
-"o lásce"
 
 msgid ""
 "Hopping In\n"
 "Fear"
 msgstr ""
-"Poskakování\n"
-"ve strachu"
 
 msgid "FLUTTERLYTE"
-msgstr "FLUTTERLYTE"
+msgstr ""
 
 msgid ""
 "Learning To\n"
 "Fly"
 msgstr ""
-"Učí se\n"
-"létat"
 
 msgid ""
 "Emboldening\n"
 "Aviator"
 msgstr ""
-"Povzbudivý\n"
-"letec"
 
 msgid ""
 "Searching The\n"
 "Skies"
 msgstr ""
-"Prohledávání\n"
-"oblohy"
 
 msgid ""
 "Evasively\n"
 "Maneuvering"
 msgstr ""
-"Vyhýbavé\n"
-"manévrování"
 
 msgid "GELATINI"
-msgstr "GELATINI"
+msgstr ""
 
 msgid ""
 "Found A New\n"
 "Space Station"
 msgstr ""
-"Našel novou\n"
-"vesmírnou stanici"
 
 msgid ""
 "Backup\n"
 "Dancer"
 msgstr ""
-"Doprovodný\n"
-"Tanečník"
 
 msgid ""
 "Exotic Jelly\n"
 "Dancer"
 msgstr ""
-"Exotická želé\n"
-"Tanečnice"
 
 msgid ""
 "Found A New\n"
 "Galaxy"
 msgstr ""
-"Objevil novou\n"
-"galaxii"
 
 msgid "OCULOUX"
-msgstr "OCULOUX"
+msgstr ""
 
 msgid ""
 "Slightly\n"
 "Bully-Like"
 msgstr ""
-"Mírně\n"
-"tyranský"
 
 msgid ""
 "Reformed\n"
 "Bully"
 msgstr ""
-"Reformovaný\n"
-"tyran"
 
 msgid ""
 "Slightly\n"
 "Flirtatious"
 msgstr ""
-"Mírně\n"
-"koketní"
 
 msgid "SILENTE"
-msgstr "SILENTE"
+msgstr ""
 
 msgid ""
 "Exceedingly\n"
 "Agreeable"
 msgstr ""
-"Nesmírně\n"
-"Příjemné"
 
 msgid ""
 "Casually\n"
 "Enjoys Life"
 msgstr ""
-"Příležitostně\n"
-"si užívá života"
 
 msgid ""
 "In Love From\n"
 "Afar"
 msgstr ""
-"Zamilovaní\n"
-"Z daleka"
 
 msgid ""
 "Endangerment\n"
 "Denier"
 msgstr ""
-"Popírač\n"
-"Ohrožení"
 
 msgid "MUSHY"
-msgstr "MUSHY"
+msgstr ""
 
 msgid "Balgamlı Kedi & ScarletScaledDragon"
-msgstr "Balgamlı Kedi & ScarletScaledDragon"
+msgstr ""
 
 msgid ""
 "Shooting\n"
 "Blanks"
 msgstr ""
-"Střílí slepými\n"
-"Náboji"
 
 msgid ""
 "Quick-Draw\n"
 "Magician"
 msgstr ""
-"Kouzelník\n"
-"rychlého tahu"
 
 msgid ""
 "Gunshot\n"
 "Heart-Throb"
 msgstr ""
-"Výstřel z\n"
-"Pistole Srdcař"
 
 msgid ""
 "Spraying And\n"
 "Praying"
 msgstr ""
-"Stříká\n"
-"a modlí se"
 
 msgid "LURKSALOT"
-msgstr "LURKSALOT"
+msgstr ""
 
 msgid ""
 "Keeping To\n"
 "Themselves"
 msgstr ""
-"Drží se\n"
-"sami sebe"
 
 msgid ""
 "Seeking\n"
 "Physical Contact"
 msgstr ""
-"Vyhledání\n"
-"Fyzického kontaktu"
 
 msgid ""
 "Stoically\n"
 "Uninvolved"
 msgstr ""
-"Stoicky\n"
-"nezúčastněný"
 
 msgid "STARDRAKE"
-msgstr "STARDRAKE"
+msgstr ""
 
 msgid ""
 "Still Looking\n"
 "For Laughs"
 msgstr ""
-"Stále\n"
-"hledá smích"
 
 msgid ""
 "Semi-Successful\n"
 "Comedian"
 msgstr ""
-"Poloúspěšný\n"
-"komik"
 
 msgid ""
 "Popular With The\n"
 "Grown-Ups"
 msgstr ""
-"Oblíbený\n"
-"u dospělý"
 
 msgid "CHILLDRAKE"
-msgstr "CHILLDRAKE"
+msgstr ""
 
 msgid ""
 "Still Looking\n"
 "For Supporters"
 msgstr ""
-"Stále hledá\n"
-"podporovatele"
 
 msgid ""
 "Gained A Cult\n"
 "Following"
 msgstr ""
-"Získal kultovní\n"
-"následovníky"
 
 msgid ""
 "Trades Kisses\n"
 "For Supporters"
 msgstr ""
-"Výměna polibků\n"
-"Pro fanoušky"
 
 msgid ""
 "Anti-Bullying\n"
 "Activist"
 msgstr ""
-"Aktivista proti\n"
-"Šikaně"
 
 msgid "ASTRO SERF"
-msgstr "ASTRO SERF"
+msgstr ""
 
 msgid ""
 "Thinking About\n"
 "Its Antenna"
 msgstr ""
-"Přemýšlení o\n"
-"jeho anténě"
 
 msgid ""
 "Radio Station\n"
 "Sensation"
 msgstr ""
-"Rozhlasová\n"
-"senzace"
 
 msgid ""
 "Love Is On\n"
 "The Air"
 msgstr ""
-"Láska je\n"
-"Ve vzduchu"
 
 msgid ""
 "Emergency\n"
 "Broadcaster"
-msgstr "‘Nouzový vysílač"
+msgstr ""
 
 msgid "JERRY"
-msgstr "JERRY"
+msgstr ""
 
 msgid ""
 "Getting Ditched\n"
 "On The Daily"
 msgstr ""
-"Každodenní\n"
-"příkop"
 
 msgid ""
 "Getting Ditched\n"
 "Slightly Less"
 msgstr ""
-"Dostává se do\n"
-"Příkopů něco méně"
 
 msgid ""
 "On The Road To\n"
 "Redemption"
 msgstr ""
-"Na cestě k\n"
-"vykoupení"
 
 msgid "WHIZKARAT"
-msgstr "WHIZKARAT"
+msgstr ""
 
 msgid "Zaxento The Greedy & semi"
-msgstr "Zaxento The Greedy & semi"
+msgstr ""
 
 msgid ""
 "Having An\n"
 "Identity Crisis"
 msgstr ""
-"Krize\n"
-"identity"
 
 msgid ""
 "Newest Member Of\n"
 "Mouse Society"
 msgstr ""
-"Nejnovější člen\n"
-"myší společnosti"
 
 msgid ""
 "Getting Frisky\n"
 "With The Mice"
 msgstr ""
-"Začíná si\n"
-"Hrát s myšmi"
 
 msgid ""
 "Scurried Back To\n"
 "Cat Society"
 msgstr ""
-"Uháněl zpět do\n"
-"kočičí společnosti"
 
 msgid "DOGGO"
-msgstr "DOGGO"
+msgstr ""
 
 msgid ""
 "Believes In The\n"
 "Almighty Wrench"
 msgstr ""
-"Věří ve\n"
-"všemocný klíč"
 
 msgid ""
 "Found His Own\n"
 "Seeing-Eye Wolf"
 msgstr ""
-"Našel vlastního vlka\n"
-"s vidoucím okem"
 
 msgid ""
 "In Love With His\n"
 "Seeing-Eye Wolf"
 msgstr ""
-"Zamilovaný do svého\n"
-"vlka s vidoucím okem"
 
 msgid ""
 "Running To His\n"
 "Seeing-Eye Wolf"
 msgstr ""
-"Běží ke svému vlkovi\n"
-"s vidoucím okem"
 
 msgid "CANIS MINOR"
-msgstr "CANIS MINOR"
+msgstr ""
 
 msgid ""
 "Searching For\n"
 "Affection"
 msgstr ""
-"Hledání\n"
-"náklonnosti"
 
 msgid ""
 "Found A Loving\n"
 "Owner"
 msgstr ""
-"Našel milujícího\n"
-"majitele"
 
 msgid ""
 "Found An Owning\n"
 "Lover"
 msgstr ""
-"Našel vlastního\n"
-"milence"
 
 msgid ""
 "Desperate For\n"
 "Affection"
 msgstr ""
-"Zoufale touží\n"
-"po náklonnosti"
 
 msgid "DOGAMY & DOGARESSA"
-msgstr "DOGAMY & DOGARESSA"
+msgstr ""
 
 msgid ""
 "Still Thinking\n"
 "About Fetch"
 msgstr ""
-"Stále přemýšlejí\n"
-"o aportování"
 
 msgid ""
 "Reigning Puppy-Dog\n"
 "Eyes Champions"
 msgstr ""
-"Úřadující šampióni\n"
-"v očích štěňat"
 
 msgid ""
 "Caught In Each-\n"
 "Other's Gaze"
 msgstr ""
-"Chyceni v pohledu\n"
-"toho druhého"
 
 msgid ""
 "Defensive Puppy-\n"
 "Dog Eyes Engaged"
 msgstr ""
-"Obranné štěně-psí\n"
-"Oči zapojené"
 
 msgid "CANIS MAJOR"
-msgstr "CANIS MAJOR"
+msgstr ""
 
 msgid ""
 "Unaware Of\n"
 "Life's Changes"
 msgstr ""
-"Nevědomý si\n"
-"životních změn"
 
 msgid ""
 "Excited By\n"
 "Life's Changes"
 msgstr ""
-"Nadšeni životními\n"
-"změnami"
 
 msgid ""
 "Touched By\n"
 "Life's Changes"
 msgstr ""
-"Dojatý životními\n"
-"Změnami"
 
 msgid "SKRUBBINGTON"
-msgstr "SKRUBBINGTON"
+msgstr ""
 
 msgid ""
 "Only 99.1\n"
 "Percent Clean"
 msgstr ""
-"Pouze 99,1\n"
-"Procenta čisté"
 
 msgid ""
 "Power-Washing\n"
 "Powerhouse"
 msgstr ""
-"Výkonný mycí\n"
-"Motor"
 
 msgid ""
 "Hot Tub\n"
 "Manufacturer"
 msgstr ""
-"Výrobce\n"
-"Vířivky"
 
 msgid ""
 "Overpowered\n"
 "Pressure Washer"
 msgstr ""
-"Nadměrně výkonná\n"
-"tlaková myčka"
 
 msgid "GELATA"
-msgstr "GELATA"
+msgstr ""
 
 msgid ""
 "Looking For A\n"
 "Baby Sitter"
 msgstr ""
-"Hledá\n"
-"chůvu"
 
 msgid ""
 "Slime-Powered\n"
 "Barstool"
 msgstr ""
-"Barová židle\n"
-"Poháněná slizem"
 
 msgid ""
 "Sexy Sitcom\n"
 "Regular"
 msgstr ""
-"Sexy sitcom\n"
-"stálý"
 
 msgid ""
 "Glorified\n"
 "Wrestling Prop"
 msgstr ""
-"Oslavovaná wrestl-\n"
-"-ingová rekvizita"
 
 msgid "RADTILE"
-msgstr "RADTILE"
+msgstr ""
 
 msgid "Balgamlı Kedi & Zaxento The Greedy"
-msgstr "Balgamlı Kedi & Zaxento The Greedy"
+msgstr ""
 
 msgid ""
 "Wallowing In\n"
 "Imperfection"
 msgstr ""
-"Válení se v\n"
-"nedokonalosti"
 
 msgid ""
 "Improving His\n"
 "Self-Image"
 msgstr ""
-"Zlepšení jeho\n"
-"sebe-obrazu"
 
 msgid ""
 "Dating His Own\n"
 "Reflection"
 msgstr ""
-"Randění s\n"
-"vlastním odrazem"
 
 msgid ""
 "Headed For An\n"
 "Ugly Future"
 msgstr ""
-"Míří vstříc\n"
-"ošklivé budoucnosti"
 
 msgid "SHYREN"
-msgstr "SHYREN"
+msgstr ""
 
 msgid ""
 "Back To Taking\n"
 "Piano Lessons"
 msgstr ""
-"Zpět k lekcím\n"
-"klavíru"
 
 msgid ""
 "Mettaton's\n"
 "New Lead Singer"
 msgstr ""
-"Nová hlavní zpěvačka \n"
-"společnosti Mettaton"
 
 msgid ""
 "In Love With\n"
 "A Ghost"
 msgstr ""
-"Zamilovaná\n"
-"do ducha"
 
 msgid ""
 "Can't Sing Without\n"
 "A Synthesizer"
 msgstr ""
-"Nemůže zpívat\n"
-"bez syntezátoru"
 
 msgid "DOGE"
-msgstr "DOGE"
+msgstr ""
 
 msgid ""
 "Construction Site\n"
 "Drill Sergeant"
 msgstr ""
-"Cvičná seržantka\n"
-"na staveništi"
 
 msgid ""
 "Bought A Lifetime\n"
 "Spa Subscription"
 msgstr ""
-"Koupila doživotního\n"
-"předplatného lázní"
 
 msgid ""
 "Felt Puppy Love\n"
 "For The First Time"
 msgstr ""
-"Poprvé pocítila\n"
-"štěněcí lásku"
 
 msgid "MUFFET"
-msgstr "MUFFET"
+msgstr ""
 
 msgid ""
 "Looking For Her\n"
 "Next Payout"
 msgstr ""
-"Hledá její\n"
-"další výplatu"
 
 msgid ""
 "Caring For The\n"
 "Spider Clans"
 msgstr ""
-"Péče o\n"
-"pavoučí klany"
 
 msgid ""
 "Picnic Date\n"
 "Matchmaker"
 msgstr ""
-"Dohazovačka na\n"
-"Piknikové rande"
 
 msgid "HOTWIRE"
-msgstr "HOTWIRE"
+msgstr ""
 
 msgid ""
 "Waiting For The\n"
 "Beat To Drop"
 msgstr ""
-"Čeká, až\n"
-"rytmus klesne"
 
 msgid ""
 "Lightning-Fast\n"
 "Rapper"
 msgstr ""
-"Bleskurychlý\n"
-"rapper"
 
 msgid ""
 "Rapper Turned\n"
 "Love Song Writer"
 msgstr ""
-"Stal se rapperem a\n"
-"autorem milostných písní"
 
 msgid ""
 "Rap Battling To\n"
 "The Near-Death"
 msgstr ""
-"Rap bojující na\n"
-"pokraji smrti"
 
 msgid "TSUNDERIDEX"
-msgstr "TSUNDERIDEX"
+msgstr ""
 
 msgid ""
 "Flying Deeper\n"
 "Into Denial"
 msgstr ""
-"Letí hlouběji\n"
-"do popírání"
 
 msgid ""
 "Sneaking Up On\n"
 "You At Warp Speed"
 msgstr ""
-"Plíží se k tobě\n"
-"warpovou rychlostí"
 
 msgid ""
 "Tsun To Be\n"
 "Your Dere-Dere"
 msgstr ""
-"Tsun být\n"
-"vaším dere-dere"
 
 msgid ""
 "Finally Met\n"
 "Its Match"
 msgstr ""
-"Konečně potkal\n"
-"svůj protějšek"
 
 msgid "PERIGEE"
-msgstr "PERIGEE"
+msgstr ""
 
 msgid ""
 "Another Day,\n"
 "Another Conflict"
 msgstr ""
-"Další den,\n"
-"další konflikt"
 
 msgid ""
 "Interplanetary\n"
 "Ambassador"
 msgstr ""
-"Meziplanetární\n"
-"ambasador"
 
 msgid ""
 "Encouraging Love\n"
 "In Others"
 msgstr ""
-"Povzbuzování lásky\n"
-"v druhých"
 
 msgid ""
 "Showing Kindness\n"
 "Through The Pain"
 msgstr ""
-"Projevování laskavosti\n"
-"Skrze bolest"
 
 msgid "RG 03 & RG 04"
-msgstr "RG 03 & RG 04"
+msgstr ""
 
 msgid ""
 "In Search Of\n"
 "Childhood Friends"
 msgstr ""
-"Hledá přáteli\n"
-"Z dětství"
 
 msgid ""
 "Use Your\n"
 "Imagination"
-msgstr "Použijte svou představivost"
+msgstr ""
 
 msgid ""
 "Please Use Your\n"
 "Imagination"
 msgstr ""
-"Prosím, použijte\n"
-"svou představivost"
 
 msgid ""
 "Royal Guard\n"
 "Retirees"
 msgstr ""
-"Důchodci z \n"
-"Královské gardy"
 
 msgid "GLYDE"
-msgstr "GLYDE"
+msgstr ""
 
 msgid ""
 "Not Your Ideal\n"
 "Business Partner"
 msgstr ""
-"Není to váš ideální\n"
-"Obchodní partner"
 
 msgid ""
 "A Little Less\n"
 "Shady Than Usual"
 msgstr ""
-"O něco méně\n"
-"Stinné než obvykle"
 
 msgid ""
 "Not Your Ideal\n"
 "Bedfellow"
 msgstr ""
-"Není to váš ideální\n"
-"Spolunocležník"
 
 msgid "BURGERPANTS"
-msgstr "BURGERPANTS"
+msgstr ""
 
 msgid ""
 "Running Hastily\n"
 "At The Life Ahead"
 msgstr ""
-"Spěšně běží za\n"
-"Životem před sebou"
 
 msgid ""
 "Looking Forward\n"
 "To The Life Ahead"
 msgstr ""
-"Těší se na život,\n"
-"Který je před ním"
 
 msgid ""
 "Finding Love\n"
 "In The Life Ahead"
 msgstr ""
-"Hledá lásku v životě,\n"
-"Který je před námi"
 
 msgid "COZMO"
-msgstr "COZMO"
+msgstr ""
 
 msgid ""
 "Looking For A\n"
 "Dictionary"
 msgstr ""
-"Hledá\n"
-"slovník"
 
 msgid ""
 "Famous\n"
 "Magician"
 msgstr ""
-"Slavný\n"
-"Kouzelník"
 
 msgid ""
 "Found A New Kind\n"
 "Of Magic"
 msgstr ""
-"Objevil nový\n"
-"Druh magie"
 
 msgid "TERRESTRIA"
-msgstr "TERRESTRIA"
+msgstr ""
 
 msgid ""
 "In Search Of\n"
 "The Past"
 msgstr ""
-"Hledá\n"
-"Minulosti"
 
 msgid ""
 "Renowned\n"
 "Historian"
 msgstr ""
-"Renomovaný\n"
-"Historik"
 
 msgid ""
 "Has A Crush On\n"
 "The Homeworld"
 msgstr ""
-"Je zamilovaný do\n"
-"Domovského světa"
 
 msgid "FINAL FROGGIT"
-msgstr "FINAL FROGGIT"
+msgstr ""
 
 msgid ""
 "Keeping Its\n"
 "Wisdom To Itself"
 msgstr ""
-"Nechává si svou\n"
-"Moudrost pro sebe"
 
 msgid ""
 "Sharing Its\n"
 "Wisdom Openly"
 msgstr ""
-"Otevřeně se dělí\n"
-"O svou moudrost"
 
 msgid ""
 "Using Its Wisdom\n"
 "For Love"
 msgstr ""
-"Používá jeho\n"
-"Moudrosti k lásce"
 
 msgid ""
 "Using Its Wisdom\n"
 "For Survival"
 msgstr ""
-"Používá jeho moud-\n"
-"rosti pro přežití"
 
 msgid "FLUTTERKNYTE"
-msgstr "FLUTTERKNYTE"
+msgstr ""
 
 msgid ""
 "Still Working\n"
 "Every Day"
 msgstr ""
-"Stále pracuje\n"
-"Každý den"
 
 msgid ""
 "Finally Took\n"
 "A Break"
 msgstr ""
-"Konečně si\n"
-"Dal pauzu"
 
 msgid ""
 "Looking For Some\n"
 "Private Time"
 msgstr ""
-"Hledá nějaký\n"
-"Soukromý čas"
 
 msgid ""
 "Working Harder\n"
 "Out Of Fear"
 msgstr ""
-"Pracuje tvrději\n"
-"Ze strachu"
 
 msgid "EYEWALKER PRIME"
-msgstr "EYEWALKER PRIME"
+msgstr ""
 
 msgid ""
 "Still A\n"
 "Big Bully"
 msgstr ""
-"Je stále\n"
-"Velký tyran"
 
 msgid ""
 "Domineering\n"
 "Eye Doctor"
 msgstr ""
-"Dominantní\n"
-"Oční lékař"
 
 msgid ""
 "Domineering\n"
 "Leather Tailor"
 msgstr ""
-"Dominantní\n"
-"Kožený krejčí"
 
 msgid ""
 "Overthrown By\n"
 "An Oculoux"
 msgstr ""
-"Svržen\n"
-"Oculouxem"
 
 msgid "SILENCIO"
-msgstr "SILENCIO"
+msgstr ""
 
 msgid ""
 "Still A\n"
 "Shameless Coward"
 msgstr ""
-"Stále nestydatý\n"
-"Zbabělec"
 
 msgid ""
 "A Little Less Of\n"
 "A Coward"
 msgstr ""
-"O něco méně\n"
-"Zbabělec"
 
 msgid ""
 "In Love With\n"
 "Its Fear"
 msgstr ""
-"Zamilovaný do\n"
-"Svého strachu"
 
 msgid ""
 "Running Faster\n"
 "Than Ever Before"
 msgstr ""
-"Běží rychleji než\n"
-"Kdy předtím"
 
 msgid "MUSHKETEER"
-msgstr "MUSHKETEER"
+msgstr ""
 
 msgid "Balgamlı Kedi & Ghostly"
-msgstr "Balgamlı Kedi & Ghostly"
+msgstr ""
 
 msgid ""
 "One Mushroom\n"
 "Army"
 msgstr ""
-"Jedna houbová\n"
-"Armáda"
 
 msgid ""
 "Hardened Warrior\n"
 "Seeking Peace"
 msgstr ""
-"Zocelený válečník\n"
-"hledá mír"
 
 msgid ""
 "Defeated By The\n"
 "Power Of Love"
 msgstr ""
-"Poražen silu\n"
-"Lásky"
 
 msgid ""
 "Scared\n"
 "Straight"
 msgstr ""
-"Vyděšený\n"
-"Rovný"
 
 msgid "PAPYRUS"
-msgstr "PAPYRUS"
+msgstr ""
 
 msgid "ProctorDorkchop02 & MattSpriteMaster"
-msgstr "ProctorDorkchop02 & MattSpriteMaster"
+msgstr ""
 
 msgid "SANS"
-msgstr "SANS"
+msgstr ""
 
 msgid "ProctorDorkchop02 & Fired"
-msgstr "ProctorDorkchop02 & Fired"
+msgstr ""
 
 msgid "UNDYNE"
-msgstr "UNDYNE"
+msgstr ""
 
 msgid "ALPHYS"
-msgstr "ALPHYS"
+msgstr ""
 
 msgid "MEW MEW"
-msgstr "MEW MEW"
+msgstr ""
 
 msgid "NAPSTABLOOK"
-msgstr "NAPSTABLOOK"
+msgstr ""
 
 msgid "METTATON"
-msgstr "METTATON"
+msgstr ""
 
 msgid "TORIEL"
-msgstr "TORIEL"
+msgstr ""
 
 msgid "ASGORE"
-msgstr "ASGORE"
+msgstr ""
 
 msgid "MONSTER KID"
-msgstr "MONSTER KID"
+msgstr ""
 
 msgid "ASRIEL"
-msgstr "ASRIEL"
+msgstr ""
 
 msgid "Medi0creking & MattSpriteMaster"
-msgstr "Medi0creking & MattSpriteMaster"
+msgstr ""
 
 msgid "[↑ or ↓] to Select / [Z or ENTER] to Confirm"
-msgstr "[↑ nebo ↓] vyberte / [Z nebo ENTER] potvrďte"
+msgstr ""
 
 msgid ""
 "To whom it may concern,\n"
@@ -2049,123 +1750,117 @@ msgid ""
 "§fill=#ff0§settings menu§fill=#fff§.\n"
 "\n"
 msgstr ""
-"Všem zainteresovaným\n"
-"\n"
-"Tato hra obsahuje §fill=#ff0§blikající obrázky§fill=#fff§\n"
-", které mohou být sníženy prostřednictvím\n"
-"§fill=#ff0§nabídka nastavení§fill=#fff§.\n"
-"\n"
 
 msgid "§fill=#808080§Press [Z or ENTER] to Continue"
-msgstr "§fill=#808080§Pokračujte stisknutím [Z nebo ENTER]"
+msgstr ""
 
 msgid "Quitting"
-msgstr "Končíte"
+msgstr ""
 
 msgid "Quitting."
-msgstr "Končíte."
+msgstr ""
 
 msgid "Quitting.."
-msgstr "Končíte.."
+msgstr ""
 
 msgid "Thank you for playing Outertale."
-msgstr "Děkujeme, že hrajete Outertale."
+msgstr ""
 
 msgid "Working on this project has been an honor,"
-msgstr "Práce na tomto projektu pro mě byla ctí,"
+msgstr ""
 
 msgid "and a pleasure on my part."
-msgstr "a potěšení z mé strany."
+msgstr ""
 
 msgid "When I started this journey, I never"
-msgstr "Když jsem se vydal na tuto cestu, nikdy jsem"
+msgstr ""
 
 msgid "thought I'd get this far, but here we"
-msgstr "nemyslel jsem, že se dostanu tak daleko, ale tady jsme"
+msgstr ""
 
 msgid "are anyway, at the end."
-msgstr "jsou každopádně na konci."
+msgstr ""
 
 msgid "For me, UNDERTALE was a life-changing"
-msgstr "UNDERTALE mi změnilo život"
+msgstr ""
 
 msgid "experience, and one that was very hard to"
-msgstr "zkušeností, a to takovou, která byla velmi těžko dostupná"
+msgstr ""
 
 msgid "let go of after I first played it."
-msgstr "pustit poté, co jsem to poprvé hrál."
+msgstr ""
 
 msgid "So, with OUTERTALE, I wanted to give you"
-msgstr "Takže, s OUTERTALE, jsem vám chtěl dát"
+msgstr ""
 
 msgid "another chance to exist in a world like it,"
-msgstr "další šanci existovat ve světě jako je tento,"
+msgstr ""
 
 msgid "as if it were your first time."
-msgstr "jako by to bylo poprvé."
+msgstr ""
 
 msgid "I hope I've given you that chance."
-msgstr "Doufám, že jsem vám tu šanci dal."
+msgstr ""
 
 msgid "I hope you've come away satisfied with"
-msgstr "Doufám, že jste odcházeli spokojeni s"
+msgstr ""
 
 msgid "the time you've spent in this world."
-msgstr "čas, který jste strávili v tomto světě."
+msgstr ""
 
 msgid "No matter what you've done in your life,"
-msgstr "Nezáleží na tom, co jste ve svém životě udělali,"
+msgstr ""
 
 msgid "your actions here speak volumes about the"
-msgstr "vaše činy zde vypovídají o"
+msgstr ""
 
 msgid "kind of person you really are."
-msgstr "takový člověk opravdu jsi."
+msgstr ""
 
 msgid "It's because of you that you got the ending"
-msgstr "Je to díky tobě, že jsi dostal tenhle konec"
+msgstr ""
 
 msgid "you did, and nothing can take that"
-msgstr "udělal jsi to a nic to nemůže vzít"
+msgstr ""
 
 msgid "experience away from you."
-msgstr "zkušenosti daleko od vás."
+msgstr ""
 
 msgid "Despite your mistakes... you are awesome,"
-msgstr "Navzdory vašim chybám... jsi úžasný,"
+msgstr ""
 
 msgid "and you deserve love and attention."
-msgstr "a vy si zasloužíte lásku a pozornost."
+msgstr ""
 
 msgid "Remember that, okay?"
-msgstr "Pamatujete si to, dobře?"
+msgstr ""
 
 msgid "Take care of yourself, \"$(x).\""
-msgstr "Dávej na sebe pozor, \"$(x).\""
+msgstr ""
 
 msgid "THE END"
-msgstr "KONEC"
+msgstr ""
 
 msgid "THE END...?"
-msgstr "KONEC...?"
+msgstr ""
 
 msgid "Restarting"
-msgstr "Restartuje"
+msgstr ""
 
 msgid "Restarting."
-msgstr "Restartuje."
+msgstr ""
 
 msgid "Restarting.."
-msgstr "Restartuje.."
+msgstr ""
 
 msgid "OUTERTALE"
-msgstr "OUTERTALE"
+msgstr ""
 
 msgid "OUTERTALE...?"
-msgstr "OUTERTALE...?"
+msgstr ""
 
 msgid "GAMEPAD SETUP"
-msgstr "NASTAVENÍ GAMEPADU"
+msgstr ""
 
 msgid ""
 "Use an input on your gamepad to assign\n"
@@ -2176,56 +1871,44 @@ msgid ""
 "\n"
 "Press ESC to skip setup."
 msgstr ""
-"Přiřazení pomocí vstupu na gamepadu\n"
-"až po akci ve hře.\n"
-"\n"
-"Znovu použijte vstup pro potvrzení, nebo použijte\n"
-"další vstupy pro jejich přiřazení.\n"
-"\n"
-"Stisknutím klávesy ESC přeskočte nastavení."
 
 msgid "Inputs Assigned: $(x)"
-msgstr "Přiřazené vstupy: $(x)"
+msgstr ""
 
 msgid "[Z or ENTER] - Confirm"
-msgstr "[Z nebo ENTER] - Potvrdit"
+msgstr ""
 
 msgid "[X or SHIFT] - Cancel"
-msgstr "[X nebo SHIFT] - Zrušit"
+msgstr ""
 
 msgid "[C or CTRL] - Menu (In-game)"
-msgstr "[C nebo CTRL] - Menu (V her)"
+msgstr ""
 
 msgid "[UP or W] - Move Up"
-msgstr "[UP nebo W] - Pohyb nahoru"
+msgstr ""
 
 msgid "[LEFT or A] - Move Left"
-msgstr "[LEFT nebo A] - Pohyb Levé"
+msgstr ""
 
 msgid "[DOWN or S] - Move Down"
-msgstr "[DOWN nebo S] - Pohyb Dolů"
+msgstr ""
 
 msgid "[RIGHT or D] - Move Right"
-msgstr "[RIGHT nebo D] - Pohyb Pravá"
+msgstr ""
 
 msgid "[F4] - Fullscreen"
-msgstr "[F4] – Celá obrazovka"
+msgstr ""
 
 msgid ""
 "Setup complete.\n"
 "Press any button to continue."
 msgstr ""
-"Nastavení dokončeno.\n"
-"Pokračujte stisknutím libovolného tlačítka."
 
 msgid ""
 "\n"
 "Note: On this platform, the gamepad may\n"
 "not always be able to enter fullscreen."
 msgstr ""
-"\n"
-"Poznámka: Na této platformě může gamepad\n"
-"ne vždy bude možné vstoupit na celou obrazovku."
 
 msgid ""
 "A gamepad has already been set up.\n"
@@ -2235,191 +1918,181 @@ msgid ""
 "\n"
 "Press ESC to skip setup."
 msgstr ""
-"Gamepad je již nastaven.\n"
-"Pokračujte stisknutím libovolného tlačítka nebo stisknutím tlačítka\n"
-"libovolné tlačítko třikrát v rychlém\n"
-"pro opětovné spuštění nastavení.\n"
-"\n"
-"Stisknutím klávesy ESC přeskočte nastavení."
 
 msgid "Asriel"
-msgstr "Asriel"
+msgstr ""
 
 msgid "The Oblivion"
-msgstr "Zapomnění"
+msgstr ""
 
 msgid "DISABLED"
-msgstr "VYPNUTÝ"
+msgstr ""
 
 msgid "ENABLED"
-msgstr "ZAPNUTÝ"
+msgstr ""
 
 msgid "Press [X] to Finish"
-msgstr "Stiskněte [X] pro dokončení"
+msgstr ""
 
 msgid "Frisk"
-msgstr "Frisk"
+msgstr ""
 
 msgid "G"
-msgstr "Z"
+msgstr ""
 
 msgid "\\u221e"
 msgstr ""
 
 msgid "[PRESS Z OR ENTER]"
-msgstr "[STISKNĚTE Z NEBO ENTER]"
+msgstr ""
 
 msgid "LV"
-msgstr "LS"
+msgstr ""
 
 msgid ""
 "§mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz§aaaaaa§mystify=§"
 msgstr ""
-"§mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz§aaaaaa§mystify=§"
 
 msgid ""
 "{@mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}aaaaaa{@mystify=}"
 msgstr ""
-"{@mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}aaaaaa{@mystify=}"
 
 msgid "{@mystify=abcdefghijklmnopqrstuvwxyz}aaaaaa{@mystify=}"
-msgstr "{@mystify=abcdefghijklmnopqrstuvwxyz}aaaaaa{@mystify=}"
+msgstr ""
 
 msgid "{@mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZ}aaaaaa{@mystify=}"
-msgstr "{@mystify=ABCDEFGHIJKLMNOPQRSTUVWXYZ}aaaaaa{@mystify=}"
+msgstr ""
 
 msgid "No"
-msgstr "Ne"
+msgstr ""
 
 msgid "§fill=#0f0§NOMINAL"
-msgstr "§fill=#0f0§NOMINÁLNÍ"
+msgstr ""
 
 msgid "$(x)%"
-msgstr "$(x)%"
+msgstr ""
 
 msgid "player"
-msgstr "hráč"
+msgstr ""
 
 msgid "Settings"
-msgstr "Nastavení"
+msgstr ""
 
 msgid "?"
-msgstr "?"
+msgstr ""
 
 msgid "XM"
-msgstr "XH"
+msgstr ""
 
 msgid "Yes"
-msgstr "Ano"
+msgstr ""
 
 msgid "INVENTORY"
-msgstr "INVENTÁŘ"
+msgstr ""
 
 msgid "BOX"
-msgstr "KRABICE"
+msgstr ""
 
 msgid "KEYRING"
-msgstr "KLÍČENKA"
+msgstr ""
 
 msgid "Is this name correct?"
-msgstr "Je tento název správný?"
+msgstr ""
 
 msgid ""
 "A name has already\n"
 "been chosen."
 msgstr ""
-"Jméno již bylo\n"
-"byl vybrán."
 
 msgid "Go back"
-msgstr "Zpět"
+msgstr ""
 
 msgid "OUTERTALE V5.05 (c) 2025 SPACEY_432"
-msgstr "OUTERTALE V5.05 (c) 2025 SPACEY_432"
+msgstr ""
 
 msgid "* (HP fully restored.)"
-msgstr "* (ZB plně obnoveno.)"
+msgstr ""
 
 msgid "* (You recovered $(x) HP.)"
-msgstr "* (Získali jste zpět $(x) ZB.)"
+msgstr ""
 
 msgid "* (You lost $(x) HP.)"
-msgstr "* (Ztratili jste o $(x) ZB.)"
+msgstr ""
 
 msgid "* (HP fully depleted.)"
-msgstr "* (ZB je zcela vybitá.)"
+msgstr ""
 
 msgid "* (You gained $(x) HP.)"
-msgstr "* (Získali jste $(x) ZB.)"
+msgstr ""
 
 msgid "USE"
-msgstr "POUŽÍT"
+msgstr ""
 
 msgid "EQUIP"
-msgstr "VYBAVIT"
+msgstr ""
 
 msgid "INFO"
-msgstr "INFO"
+msgstr ""
 
 msgid "DROP"
-msgstr "ODEVZDÁT"
+msgstr ""
 
 msgid "Continue"
-msgstr "Pokračovat"
+msgstr ""
 
 msgid "Observe"
-msgstr "Pozorovat"
+msgstr ""
 
 msgid "Reset"
-msgstr "Resetovat"
+msgstr ""
 
 msgid "True Reset"
-msgstr "Skutečný Resetovat"
+msgstr ""
 
 msgid "Name the stranded human."
-msgstr "Pojmenujte uvízlého člověka."
+msgstr ""
 
 msgid "Quit"
-msgstr "Ukončit"
+msgstr ""
 
 msgid "Backspace"
-msgstr "Smazat"
+msgstr ""
 
 msgid "Done"
-msgstr "Hotovo"
+msgstr ""
 
 msgid "§fill=#808080§ [ESC] - Quit / [ENTER] - Done"
-msgstr "§fill=#808080§ [ESC] - Ukončení / [ENTER] - Hotovo"
+msgstr ""
 
 msgid "Return"
-msgstr "Vrátit"
+msgstr ""
 
 msgid "File saved."
-msgstr "Soubor uložen."
+msgstr ""
 
 msgid "SETTINGS"
-msgstr "NASTAVENÍ"
+msgstr ""
 
 msgid "EXIT"
-msgstr "EXIT"
+msgstr ""
 
 msgid "-> LANGUAGE & MUSIC"
-msgstr "-> JAZYK & HUBDA"
+msgstr ""
 
 msgid "LANGUAGE"
-msgstr "JAZYK"
+msgstr ""
 
 msgid "ENGLISH"
-msgstr "ČEŠTINA"
+msgstr ""
 
 msgid "SOUND FX"
-msgstr "ZVUKOVÉ FX"
+msgstr ""
 
 msgid "MUSIC"
-msgstr "HUDBA"
+msgstr ""
 
 msgid "FANCY GRAPHICS"
-msgstr "EFEKTNÍ GRAFIKA"
+msgstr ""
 
 msgid "-> GAMEPLAY & GRAPHICS"
 msgstr ""
@@ -2431,28 +2104,28 @@ msgid "COLORED SPRITES"
 msgstr ""
 
 msgid "FLASHING IMAGERY"
-msgstr "BLIKAJÍCÍ OBRAZY"
+msgstr ""
 
 msgid "NORMAL"
-msgstr "NORMÁLNÍ"
+msgstr ""
 
 msgid "REDUCED"
-msgstr "REDUKOVANÝ"
+msgstr ""
 
 msgid "MOBILE SETTINGS"
-msgstr "MOBILNÍ NASTAVENÍ"
+msgstr ""
 
 msgid "DEADZONE"
-msgstr "MRTVÁ ZÓNA"
+msgstr ""
 
 msgid "OPEN MOD FOLDER"
-msgstr "OTEVŘÍT SLOŽKU MOD"
+msgstr ""
 
 msgid "RESTART"
-msgstr "RESTARTOVAT"
+msgstr ""
 
 msgid "GAME BORDER"
-msgstr "HRA HRANICE"
+msgstr ""
 
 msgid "DYNAMIC"
 msgstr ""
@@ -2464,7 +2137,7 @@ msgid "STAR"
 msgstr ""
 
 msgid "OUTLANDS"
-msgstr "OUTLANDS"
+msgstr ""
 
 msgid "OUTLANDS (BATTLE)"
 msgstr ""
@@ -2473,58 +2146,58 @@ msgid "TORIEL HOME"
 msgstr ""
 
 msgid "STARTON"
-msgstr "STARTON"
+msgstr ""
 
 msgid "STARTON (BATTLE)"
 msgstr ""
 
 msgid "FOUNDRY"
-msgstr "FOUNDRY"
+msgstr ""
 
 msgid "FOUNDRY (BATTLE)"
 msgstr ""
 
 msgid "AERIALIS"
-msgstr "AERIALIS"
+msgstr ""
 
 msgid "AERIALIS (BATTLE)"
 msgstr ""
 
 msgid "REC CENTER"
-msgstr "REC CENTRUM"
+msgstr ""
 
 msgid "REC CENTER (BATTLE)"
 msgstr ""
 
 msgid "CORE"
-msgstr "JÁDRO"
+msgstr ""
 
 msgid "CORE (BATTLE)"
 msgstr ""
 
 msgid "CITADEL"
-msgstr "CITADEL"
+msgstr ""
 
 msgid "ASGORE HOME"
 msgstr ""
 
 msgid "ARCHIVE SIX"
-msgstr "ARCHIV ŠEST"
+msgstr ""
 
 msgid "ASRIEL BATTLE"
-msgstr "ASRIEL BITVA"
+msgstr ""
 
 msgid "BRIGHT GALAXY"
 msgstr ""
 
 msgid "NEW WORLD"
-msgstr "NOVÝ SVĚT"
+msgstr ""
 
 msgid "NEW WORLD (WITH CUP)"
 msgstr ""
 
 msgid "§fill=#808080§(LOCKED)"
-msgstr "§fill=#808080§(ZAMČENO)"
+msgstr ""
 
 msgid "MOBILE CTRLS"
 msgstr ""
@@ -2563,58 +2236,58 @@ msgid "--- SELECT PROFILE ---"
 msgstr ""
 
 msgid "--- GENERAL SETTINGS ---"
-msgstr "-- GENERÁLNÍ NASTAVENÍ --"
+msgstr ""
 
 msgid "--- CONTROL SETTINGS ---"
-msgstr "-- OVLÁDÁNÍ NASTAVENÍ --"
+msgstr ""
 
 msgid "--- MODIFY BUTTONS ---"
 msgstr ""
 
 msgid "NEXT PAGE >"
-msgstr "DALŠI STRÁNKA >"
+msgstr ""
 
 msgid "< PREVIOUS PAGE"
-msgstr "< PŘEDCHOZÍ STRÁNKA"
+msgstr ""
 
 msgid "[Z]"
-msgstr "[Z]"
+msgstr ""
 
 msgid "[X]"
-msgstr "[X]"
+msgstr ""
 
 msgid "[C]"
-msgstr "[C]"
+msgstr ""
 
 msgid "[←↑→↓]"
-msgstr "[←↑→↓]"
+msgstr ""
 
 msgid "[↖↗↘↙]"
-msgstr "[↖↗↘↙]"
+msgstr ""
 
 msgid "[←]"
-msgstr "[←]"
+msgstr ""
 
 msgid "[↑]"
-msgstr "[↑]"
+msgstr ""
 
 msgid "[→]"
-msgstr "[→]"
+msgstr ""
 
 msgid "[↓]"
-msgstr "[↓]"
+msgstr ""
 
 msgid "[↖]"
-msgstr "[↖]"
+msgstr ""
 
 msgid "[↗]"
-msgstr "[↗]"
+msgstr ""
 
 msgid "[↘]"
-msgstr "[↘]"
+msgstr ""
 
 msgid "[↙]"
-msgstr "[↙]"
+msgstr ""
 
 msgid "SHOW FULLSCREEN BUTTON"
 msgstr ""
@@ -2638,11 +2311,9 @@ msgid ""
 "§fill=#ffd700§>> §fill=#fff§EDITING: §fill=#00ffff§$(x) §fill=#808080§(Press"
 " [R] to reset)"
 msgstr ""
-"§fill=#ffd700§>> §fill=#fff§EDITING: §fill=#00ffff§$(x) "
-"§fill=#808080§(Stiskni [R] pro reset)"
 
 msgid "§fill=#fff§PROGRESS: §fill=#00ffff§($(x)§fill=#fff§/§fill=#00ffff§3)"
-msgstr "§fill=#fff§PROGRESS: §fill=#00ffff§($(x)§fill=#fff§/§fill=#00ffff§3)"
+msgstr ""
 
 msgid " [1] Initial Button Placement"
 msgstr ""
@@ -2666,7 +2337,7 @@ msgid ""
 msgstr ""
 
 msgid "§fill=#4169e1§--- INSTRUCTION ---"
-msgstr "§fill=#4169e1§--- INSTRUKCE ---"
+msgstr ""
 
 msgid ""
 "§fill=#fff§* Drag §fill=#00ffff§$(x)§fill=#fff§ to set initial position\n"
@@ -2695,7 +2366,7 @@ msgid ""
 msgstr ""
 
 msgid "§fill=#4169e1§-> §fill=#fff§SIZE: §fill=#00ffff§$(x)"
-msgstr "§fill=#4169e1§-> §fill=#fff§VELK.: §fill=#00ffff§$(x)"
+msgstr ""
 
 msgid ""
 "§fill=#ff0§Press [Z]§fill=#808080§ to reset your settings to default.\n"
@@ -2761,143 +2432,133 @@ msgid ""
 msgstr ""
 
 msgid "ITEM"
-msgstr "VĚCI"
+msgstr ""
 
 msgid "STAT"
-msgstr "STAT"
+msgstr ""
 
 msgid "CELL"
-msgstr "TEL"
+msgstr ""
 
 msgid "CONF"
-msgstr "KONF"
+msgstr ""
 
 msgid "--- Instruction ---"
-msgstr "--- Instrukce ---"
+msgstr ""
 
 msgid "[Hold ESC] - Restart"
-msgstr "[Podržet klávesu ESC] - Restartovat"
+msgstr ""
 
 msgid "When HP is 0, you lose."
-msgstr "Když je ZB 0, prohráváte."
+msgstr ""
 
 msgid "Begin Game"
-msgstr "Začít hru"
+msgstr ""
 
 msgid "AT"
-msgstr "ÚT"
+msgstr ""
 
 msgid "DF"
-msgstr "OB"
+msgstr ""
 
 msgid "GOLD"
-msgstr "ZLATO"
+msgstr ""
 
 msgid "NEXT"
-msgstr "DALŠÍ"
+msgstr ""
 
 msgid ""
 "§fill=#ff0§Warning:\n"
 "Non-canon\n"
 "timeline."
 msgstr ""
-"§fill=#ff0§Varování:\n"
-"Nekanonické\n"
-"časová osa."
 
 msgid "KILLS"
-msgstr "ZABÍJENÍ"
+msgstr ""
 
 msgid "BULLY"
-msgstr "TYRAN"
+msgstr ""
 
 msgid "FLIRT"
-msgstr "FLIRT"
+msgstr ""
 
 msgid "STATUS"
-msgstr "STAV"
+msgstr ""
 
 msgid "\"$(x)\""
-msgstr "\"$(x)\""
+msgstr ""
 
 msgid ""
 "<24>{#p/storyteller}Long ago, two species ruled the solar system: HUMANS and"
 " MONSTERS.{^35}{}"
 msgstr ""
-"<24>{#p/storyteller}Před dávnými časy vládly sluneční soustavě dva druhy: "
-"LIDÉ a PŘÍŠERY.{^35}{}"
 
 msgid "<24>As time passed, a war broke out between the two species.{^35}{}"
-msgstr "<24>Jak čas plynul, mezi těmito dvěma druhy vypukla válka.{^35}{}"
+msgstr ""
 
 msgid ""
 "<24>After the MONSTERS' home planet was destroyed, HUMANS declared "
 "victory.{^35}{}"
 msgstr ""
-"<24>Poté, co byla domovská planeta PŘÍŠER zničena, vyhlásili LIDÉ "
-"vítězství.{^35}{}"
 
 msgid ""
 "<24>The remaining MONSTERS were banished to an abandoned outpost.{^35}{}"
-msgstr "<24>Zbývající PŘÍŠERY byly vykázány na opuštěnou základnu.{^35}{}"
+msgstr ""
 
 msgid ""
 "<24>A powerful force field was erected, and the MONSTERS were sealed "
 "in.{^35}{}"
-msgstr "<24>Bylo vztyčeno mocné silové pole a PŘÍŠERY byly zapečetěny.{^35}{}"
+msgstr ""
 
 msgid "<24>Many years later.{^8}.{^8}.{^35}{}"
-msgstr "<24>O mnoho let později.{^8}.{^8}.{^35}{}"
+msgstr ""
 
 msgid ""
 "<#24>     EBOTT SECTOR     \n"
 "         251X{^35}{}"
 msgstr ""
-"<#24> SEKTOR EBOTT     \n"
-"         251X{^35}{}"
 
 msgid "<24>Tales speak of a place from which spacecraft never return.{^35}{}"
 msgstr ""
-"<24>Příběhy hovoří o místě, odkud se kosmické lodě nikdy nevrátí.{^35}{}"
 
 msgid "<24>{^100}{}"
-msgstr "<24>{^100}{}"
+msgstr ""
 
 msgid "<24>{^35}{}"
-msgstr "<24>{^35}{}"
+msgstr ""
 
 msgid "Resume Canon Timeline"
-msgstr "Pokračovat Časová osa kánonu"
+msgstr ""
 
 msgid "Start Canon Timeline"
-msgstr "Spustit časovou osu Canon"
+msgstr ""
 
 msgid "Other Slots"
-msgstr "Další sloty"
+msgstr ""
 
 msgid "Bisect"
-msgstr "Přetínat"
+msgstr ""
 
 msgid "Delete"
-msgstr "Vymazat"
+msgstr ""
 
 msgid "[ESC] to Cancel / [ENTER] to Confirm"
-msgstr "[ESC] pro zrušení / [ENTER] pro potvrzení"
+msgstr ""
 
 msgid "Press any button on your gamepad to open the keyboard."
-msgstr "Stisknutím libovolného tlačítka na gamepadu otevřete klávesnici."
+msgstr ""
 
 msgid "Launch"
-msgstr "Spustit"
+msgstr ""
 
 msgid "Rename"
-msgstr "Přejmenovat"
+msgstr ""
 
 msgid "Create New"
-msgstr "Vytvořit nový"
+msgstr ""
 
 msgid "Enter Timeline Name"
-msgstr "Zadejte název časové osy"
+msgstr ""
 
 msgid "Are You Sure?"
-msgstr "Opravdu?"
+msgstr ""

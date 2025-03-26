@@ -46,19 +46,19 @@ msgid "* (Smash the terminal?)"
 msgstr ""
 
 msgid "Yes"
-msgstr "Да"
+msgstr ""
 
 msgid "No"
-msgstr "Нет"
+msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to smash.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You take a swing...)"
-msgstr "<32>{#p/human}* (Вы разбиваете пирог...)"
+msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
-msgstr "<32>{#s/phone}{#p/event}* Звонок..."
+msgstr ""
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysInquisitive}* Did the puzzle solve itself as well?"
@@ -89,11 +89,10 @@ msgid "<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* We'll take it!!"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to equip.)"
-msgstr "<32>{#p/human}* (Вы решили не надевать это.)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You feel the nearby monster presence dwindling.)"
 msgstr ""
-"<32>{#p/human}* (Вы чувствуете, как сокращается присутствие монстров.)"
 
 msgid "<32>{#p/human}* (You note the poor quality of this table.)"
 msgstr ""
@@ -191,7 +190,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You hear footsteps fading into the distance.)"
-msgstr "<32>{#p/human}* (Вы слышите шаги вдалеке.)"
+msgstr ""
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysWelp}* Just calling to let you know that I'm here "
@@ -212,10 +211,10 @@ msgid "<32>* Where would you like to go?"
 msgstr ""
 
 msgid "* (What do you say?)"
-msgstr "* (Что вы скажете?)"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Отмена"
+msgstr ""
 
 msgid "Outlands"
 msgstr ""
@@ -1024,7 +1023,7 @@ msgid "<32>{#p/basic}* ... but everybody ran."
 msgstr ""
 
 msgid "<32>{#p/basic}* ... but nobody came."
-msgstr "<32>{#p/basic}* ...но никто не пришёл."
+msgstr ""
 
 msgid "* (Leave 36G in the web?)"
 msgstr ""
@@ -1098,7 +1097,7 @@ msgid "<25>{#f/16}* I hope you realize that."
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to take anything.)"
-msgstr "<32>{#p/human}* (Вы решили ничего не брать.)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You got the Sonic Resonator.)"
 msgstr ""
@@ -1107,7 +1106,7 @@ msgid "* (Equip the Sonic Resonator?)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You're carrying too much to take that.)"
-msgstr "<32>{#p/human}* (Вы несёте слишком много груза.)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You got the Tablaphone.)"
 msgstr ""
@@ -1607,7 +1606,7 @@ msgid "<25>{#f/22}* WHO IS STILL USING TECHNOLOGY LIKE THIS???"
 msgstr ""
 
 msgid "<25>{#f/22}* ..."
-msgstr "<25>{#f/22}* ..."
+msgstr ""
 
 msgid "<25>{#f/23}* I'll be right back."
 msgstr ""
@@ -1718,7 +1717,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>* ..."
-msgstr "<32>* ..."
+msgstr ""
 
 msgid "<32>{#x2}* Yeah, okay.{#x3}"
 msgstr ""
@@ -1910,7 +1909,7 @@ msgid "$(x) updated status"
 msgstr ""
 
 msgid "<32>{#p/event}* Ring, ring..."
-msgstr "<32>{#p/event}* Звонок..."
+msgstr ""
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysSideSad}* I don't think you can get through that..."
@@ -1930,7 +1929,7 @@ msgid "<32>{#p/human}* (More typing can be heard.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (...)"
-msgstr "<32>{#p/human}* (...)"
+msgstr ""
 
 msgid "<32>{#p/human}* (The typing stops.)"
 msgstr ""
@@ -2878,7 +2877,7 @@ msgid "<25>{#g/alphysCutscene2}* Eheh..."
 msgstr ""
 
 msgid "<25>{#f/10}* ..."
-msgstr "<25>{#f/10}* ..."
+msgstr ""
 
 msgid "<25>{#f/3}* Don't judge me, I just like rooting for you."
 msgstr ""
@@ -4109,7 +4108,7 @@ msgid "<25>{#p/kidd}{#f/4}* H... huh?"
 msgstr ""
 
 msgid "<25>{#f/7}* ..."
-msgstr "<25>{#f/7}* ..."
+msgstr ""
 
 msgid "<25>{#f/14}* YOOOOOOOOOOO!!!!"
 msgstr ""
@@ -6972,7 +6971,7 @@ msgid "<32>{#p/human}* (You got the Orange Soda.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* It's out of service."
-msgstr "<32>{#p/basic}* Сломано."
+msgstr ""
 
 msgid "<32>{#p/human}* (The display appears to be completely offline.)"
 msgstr ""
@@ -7549,7 +7548,7 @@ msgid "<25>{#p/asriel1}{#f/16}* I guess there's nothing I can do about this."
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/15}* ..."
-msgstr "<25>{#p/asriel1}{#f/15}* ..."
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* A bastion box.\n"
@@ -7800,10 +7799,10 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/basic}* It's a bookshelf."
-msgstr "<32>{#p/basic}* Книжный шкаф."
+msgstr ""
 
 msgid "<32>{#p/human}* (You pick out a book...)"
-msgstr "<32>{#p/human}* (Вы берёте одну из книг...)"
+msgstr ""
 
 msgid "<32>{#p/basic}* \"A monster's body is a reflection of its SOUL.\""
 msgstr ""
@@ -7832,7 +7831,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
-msgstr "<32>{#p/human}* (Вы ставите книгу обратно на полку.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"So you wanna design a robot, huh? Well, Fabulous Faraday's"
@@ -11040,7 +11039,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#f/8}* ..."
-msgstr "<25>{#f/8}* ..."
+msgstr ""
 
 msgid "<25>{#f/7}* I should have known he'd make us take the long way up."
 msgstr ""
@@ -11477,7 +11476,7 @@ msgid "<25>* is getting out of here really worth all that trouble?"
 msgstr ""
 
 msgid "<25>{#f/0}* ..."
-msgstr "<25>{#f/0}* ..."
+msgstr ""
 
 msgid "<25>{#f/3}* lemme tell you a story."
 msgstr ""
@@ -15030,7 +15029,7 @@ msgid "<20>{#x1}Cut me some slack..."
 msgstr ""
 
 msgid "<20>{#p/asriel2}..."
-msgstr "<20>{#p/asriel2}..."
+msgstr ""
 
 msgid "Would you forgive a ghost?"
 msgstr ""
@@ -17860,7 +17859,7 @@ msgid "<11>{#p/basic}{~}{@random=1.1/1.1}..."
 msgstr ""
 
 msgid "<32>{#p/story}* ..."
-msgstr "<32>{#p/story}* ..."
+msgstr ""
 
 msgid "<32>{#p/story}* 01's gaze pans downwards to the floor."
 msgstr ""
@@ -18119,7 +18118,7 @@ msgid "Alphys's Phone"
 msgstr ""
 
 msgid "Puzzle Help"
-msgstr "Помощь с пазлом"
+msgstr ""
 
 msgid "Dimensional Box A"
 msgstr ""
@@ -18468,7 +18467,7 @@ msgid "<32>{#p/human}* (You consume the Glyde's Envy.)"
 msgstr ""
 
 msgid "..."
-msgstr "..."
+msgstr ""
 
 msgid "Startaint"
 msgstr ""
@@ -18721,7 +18720,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (10 HP.)"
-msgstr "<32>{#p/human}* (10 ОЗ.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Filament\" Heals 10 HP\n"
@@ -19022,7 +19021,7 @@ msgid "Thank you for creating an account on the outpost's #1 social network!"
 msgstr ""
 
 msgid "ALPHYS"
-msgstr "АЛЬФИС"
+msgstr ""
 
 msgid "uhhhh nobody saw that right"
 msgstr ""

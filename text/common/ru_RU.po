@@ -1,21 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-13 15:07+0000\n"
-"PO-Revision-Date: 2025-03-23 17:40+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
-"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
-"6-common/ru/>\n"
-"Language: ru_RU\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
-#
 msgid "The player did everything they could..."
 msgstr ""
 
@@ -375,6 +361,9 @@ msgid "<25>{#p/basic}(Seems that's all there is to say today!)"
 msgstr ""
 
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
+msgstr ""
+
+msgid ""
 msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
@@ -11427,7 +11416,6 @@ msgstr ""
 msgid "* ... but nobody came."
 msgstr "* ...но никто не пришёл."
 
-#, fuzzy
 msgid ""
 "<32>{#p/story}* DUMMY - ATK 0 DEF 0\n"
 "* A ghost within the shell, they hope you're doing well."
@@ -11479,7 +11467,8 @@ msgid "<32>{#p/story}* The dummy looks like it's already getting bored."
 msgstr "<32>{#p/story}* Кажется, что манекену уже становится скучно."
 
 msgid "<32>{#p/story}* The dummy looks like it's lost in itself."
-msgstr "<32>{#p/story}* Похоже, что от ваших действий манекен запутался в себе."
+msgstr ""
+"<32>{#p/story}* Похоже, что от ваших действий манекен запутался в себе."
 
 msgid "<32>{#p/story}* The dummy looks like it's going to fall over."
 msgstr "<32>{#p/story}* Манекен готов провалиться сквозь землю."
@@ -12627,7 +12616,8 @@ msgid ""
 "<32>{#p/story}* Monster Kid tried telling Muffet there's no point in all "
 "this!"
 msgstr ""
-"<32>{#p/story}* Монстрёнок пытается сказать Маффет, что всё это бессмысленно!"
+"<32>{#p/story}* Монстрёнок пытается сказать Маффет, что всё это "
+"бессмысленно!"
 
 msgid ""
 "<32>{#p/story}* Monster Kid claimed a spatial distortion was approaching "
@@ -12704,13 +12694,14 @@ msgid ""
 "<32>{#p/story}* Skrubbington and the others were distracted by Monster Kid "
 "and forgot their turn!"
 msgstr ""
-"<32>{#p/story}* Чистинсон и другие монстры отвлеклись на Монстрёнка и забыли "
-"свой ход!"
+"<32>{#p/story}* Чистинсон и другие монстры отвлеклись на Монстрёнка и забыли"
+" свой ход!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington was distracted by Monster Kid and forgot their "
 "turn!"
-msgstr "<32>{#p/story}* Чистинсон отвлёкся на Монстрёнка и забыл о своём ходе!"
+msgstr ""
+"<32>{#p/story}* Чистинсон отвлёкся на Монстрёнка и забыл о своём ходе!"
 
 msgid "<32>{#p/story}* Distracted by Monster Kid, Shyren forgot her turn!"
 msgstr "<32>{#p/story}* Шайрен отвлеклась на Монстрёнка и забыла свой ход!"

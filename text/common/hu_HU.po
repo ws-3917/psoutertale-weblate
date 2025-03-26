@@ -35,7 +35,7 @@ msgid "I will not rest until the task is done."
 msgstr ""
 
 msgid "<32>{#p/human}* (...)"
-msgstr "<32>{#p/human}* (...)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You wake up.)"
 msgstr ""
@@ -5174,7 +5174,7 @@ msgid "<25>{#p/toriel}{#f/10}* ... very good."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/9}* ..."
-msgstr "<25>{#p/toriel}{#f/9}* ..."
+msgstr ""
 
 msgid ""
 "<25>{#p/toriel}{#f/10}* I suppose I cannot judge the citizens too harshly..."
@@ -8120,7 +8120,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>* ..."
-msgstr "<32>* ..."
+msgstr ""
 
 msgid ""
 "<32>* ... huh?\n"
@@ -8690,10 +8690,10 @@ msgid "* (Lay down next to it?)"
 msgstr ""
 
 msgid "Yes"
-msgstr "Sì"
+msgstr ""
 
 msgid "No"
-msgstr "No"
+msgstr ""
 
 msgid "<32>{#p/basic}* The ghost is still here."
 msgstr ""
@@ -9767,7 +9767,7 @@ msgid "<25>{#p/kidd}{#f/1}* What's a geological survey?"
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/15}* ..."
-msgstr "<25>{#p/asriel1}{#f/15}* ..."
+msgstr ""
 
 msgid "<25>{#f/15}* The tubules are a region made up of... uh, tubes."
 msgstr ""
@@ -9874,7 +9874,7 @@ msgid "<32>{#p/basic}* ... uh, don't you mean \"the four of us?\""
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/25}* ...!"
-msgstr "<25>{#p/asriel1}{#f/25}* ...!"
+msgstr ""
 
 msgid "<25>{#f/25}* $(name)... you're..."
 msgstr ""

@@ -5,752 +5,665 @@ msgstr ""
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
-"<32>{#p/basic}* Standardní dalekohled CITADEL s dlouhým dosahem, přibližně "
-"261X."
 
 msgid "* (Use the telescope?)"
-msgstr "* (Použít dalekohled?)"
+msgstr ""
 
 msgid "Yes"
-msgstr "Ano"
+msgstr ""
 
 msgid "No"
-msgstr "Ne"
+msgstr ""
 
 msgid "<25>{#p/kidd}{#f/2}* You do stargazing??"
-msgstr "<25>{#p/kidd}{#f/2}* Pozorujete hvězdy??"
+msgstr ""
 
 msgid "<25>{#p/kidd}{#f/1}* Yo... I bet you just saw something really cool."
 msgstr ""
-"<25>{#p/kidd}{#f/1}* Jo... Vsadím se, že jsi právě viděl něco opravdu "
-"skvělého."
 
 msgid ""
 "<25>{#f/7}* The last time I looked in a telescope, I saw a freaking "
 "SUPERNOVA!"
 msgstr ""
-"<25>{#f/7}* Když jsem se naposledy díval do dalekohledu, viděl jsem "
-"zatracenou"
 
 msgid ""
 "<25>{#p/kidd}{#f/3}* Here.\n"
 "* Take this."
 msgstr ""
-"<25>{#p/kidd}{#f/3}* SUPERNOVU!\n"
-"* Zde.\n"
-"* Vezmi si tohle."
 
 msgid ""
 "<32>{#s/equip}{#p/human}* (The Premium Membership Voucher was added to your "
 "keyring.)"
 msgstr ""
-"<32>{#s/equip}{#p/human}* (Prémiový členský poukaz byl přidán do vašeho "
-"svazku klíčů.)"
 
 msgid ""
 "<25>{#p/kidd}{#f/7}* Now you can use ANY telescope, even the \"premium\" "
 "ones!"
-msgstr "<25>{#p/kidd}{#f/7}* Nyní můžete použít JAKÝKOLI dalekohled, dokonce"
+msgstr ""
 
 msgid "<25>{#f/1}* That short skeleton gave me a bunch of these earlier."
 msgstr ""
-"<25>{#f/1}* i ty „prémiové“!\n"
-"* Ta krátká kostra mi jich předtím dala spoustu."
 
 msgid "<25>{#f/2}* He also gave me some digital thing with a lot of money..."
-msgstr "<25>{#f/2}* Také mi dal nějakou digitální věc za spoustu peněz..."
+msgstr ""
 
 msgid "<25>{#f/1}* I guess he really likes me, haha."
-msgstr "<25>{#f/1}* Asi mě má opravdu rád, haha."
+msgstr ""
 
 msgid ""
 "<25>{#p/kidd}{#f/3}* Anyway, I kinda just wanted to give you the voucher."
-msgstr "<25>{#p/kidd}{#f/3}* Každopádně jsem ti chtěl dát poukaz."
+msgstr ""
 
 msgid "<25>{#f/1}* I hope you see something cool with it, though!"
-msgstr "<25>{#f/1}* Doufám, že s tím ale uvidíte něco skvělého!"
+msgstr ""
 
 msgid "<25>{#p/kidd}{#f/1}* I'll be in town!"
-msgstr "<25>{#p/kidd}{#f/1}* Budu ve městě!"
+msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/17}* See anything you like?"
-msgstr "<25>{#p/asriel1}{#f/17}* Vidíte něco, co se vám líbí?"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* Stargazing in space...\n"
 "* Truly, this is some outside- the-box thinking."
 msgstr ""
-"<32>{#p/basic}* Pozorování hvězd ve vesmíru...\n"
-"* Opravdu, to je nějaké nekonvenční myšlení."
 
 msgid "<32>{#p/basic}* ..."
-msgstr "<32>{#p/basic}* ..."
+msgstr ""
 
 msgid "<32>* Asriel and I had a telescope just like this."
-msgstr "<32>* Asriel a já jsme měli dalekohled přesně takový."
+msgstr ""
 
 msgid ""
 "<32>* We'd point it in random directions, hoping to see something "
 "exciting..."
 msgstr ""
-"<32>* Namířili jsme to náhodnými směry a doufali, že uvidíme něco "
-"vzrušujícího..."
 
 msgid "<32>* ... we never saw much at all."
-msgstr "<32>* ... nikdy jsme toho moc neviděli."
+msgstr ""
 
 msgid "<32>* Despite that, it didn't seem to matter to him..."
-msgstr "<32>* Přesto se mu zdálo, že mu na tom nezáleží..."
+msgstr ""
 
 msgid ""
 "<32>* While I was focused on looking outward, he was just happy to spend "
 "time with me."
 msgstr ""
-"<32>* Zatímco já jsem se soustředil na to, abych se díval ven, on byl prostě"
-" šťastný,"
 
 msgid "<32>* ..."
-msgstr "<32>* že může trávit čas se mnou.[ADD]<32>* ..."
+msgstr ""
 
 msgid "<32>{#p/human}* (You hear a sigh.)"
-msgstr "<32>{#p/human}* (Slyšíte povzdech.)"
+msgstr ""
 
 msgid "<32>{#p/basic}* ... uh, let's just get back to what we were doing."
-msgstr "<32>{#p/basic}* ... Vraťme se k tomu, co jsme dělali."
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* It doesn't seem like there's anything interesting to watch."
-msgstr "<32>{#p/basic}* Nezdá se, že by tu bylo něco zajímavého ke sledování."
+msgstr ""
 
 msgid "<32>{#p/basic}* Not bad for your first try..."
-msgstr "<32>{#p/basic}* To není špatné na váš první pokus..."
+msgstr ""
 
 msgid "<32>{#p/basic}* Not bad for your first try."
-msgstr "<32>{#p/basic}* Na první pokus to není špatné."
+msgstr ""
 
 msgid "<32>{#p/basic}* You can do better than that..."
-msgstr "<32>{#p/basic}* Můžete to udělat lépe..."
+msgstr ""
 
 msgid "<32>{#p/basic}* You can do better than that."
-msgstr "<32>{#p/basic}* Můžete to udělat lépe."
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* You beat the top scorer...?\n"
 "* I don't think I've ever seen anyone do that..."
 msgstr ""
-"<32>{#p/basic}* Porazil jsi nejlepšího střelce...?\n"
-"* Myslím, že jsem nikdy neviděl nikoho něco takového udělat..."
 
 msgid ""
 "<32>{#p/basic}* You beat the top scorer?\n"
 "* I don't think I've ever seen anyone do that!"
 msgstr ""
-"<32>{#p/basic}* Porazili jste nejlepšího střelce?\n"
-"* Myslím, že jsem nikdy neviděl nikoho něco takového udělat!"
 
 msgid "<33>{#p/basic}* You seem pretty good at this..."
-msgstr "<33>{#p/basic}* Zdá se, že jsi v tom docela dobrý..."
+msgstr ""
 
 msgid "<32>{#p/basic}* You seem pretty good at this."
-msgstr "<32>{#p/basic}* Zdá se, že jste v tom docela dobrý."
+msgstr ""
 
 msgid "<32>{#p/basic}* You beat your high score...?"
-msgstr "<32>{#p/basic}* Překonal jsi své nejvyšší skóre...?"
+msgstr ""
 
 msgid "<32>{#p/basic}* Look at that, new high score!"
-msgstr "<32>{#p/basic}* Podívejte se na to, nové vysoké skóre!"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* For a second, I thought you were going to beat the top "
 "scorer..."
 msgstr ""
-"<32>{#p/basic}* Na vteřinu jsem si myslel, že porazíš nejlepšího střelce..."
 
 msgid ""
 "<32>{#p/basic}* Woah, you could've beaten the top scorer!\n"
 "* Can you go all the way?"
 msgstr ""
-"<32>{#p/basic}* Páni, mohli jste porazit nejlepšího střelce!\n"
-"* Dokážete jít až do konce?"
 
 msgid "<32>{#p/basic}* Looks like you could use some practice..."
-msgstr "<32>{#p/basic}* Vypadá to, že by se ti hodila trocha cviku..."
+msgstr ""
 
 msgid "<32>{#p/basic}* Looks like you could use some practice."
-msgstr "<32>{#p/basic}* Vypadá to, že by se ti hodila trocha tréninku."
+msgstr ""
 
 msgid "<32>{#p/basic}* That's better..."
-msgstr "<32>{#p/basic}* To je lepší..."
+msgstr ""
 
 msgid "<32>{#p/basic}* That's more like it."
-msgstr "<32>{#p/basic}* To je spíš ono."
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* You beat the top scorer on your first try...?\n"
 "* How in the world..."
 msgstr ""
-"<32>{#p/basic}* Překonali jste nejlepšího střelce na první pokus...?\n"
-"*Jak je proboha možné..."
 
 msgid ""
 "<32>{#p/basic}* You beat the top scorer on your first try?\n"
 "* You're a natural!"
 msgstr ""
-"<32>{#p/basic}* Překonali jste nejlepšího střelce na první pokus?\n"
-"* Jste přirozený!"
 
 msgid "<32>{#p/basic}* For a first try, that's pretty good..."
-msgstr "<32>{#p/basic}* Na první pokus je to docela dobré..."
+msgstr ""
 
 msgid "<32>{#p/basic}* For a first try, that's pretty good!"
-msgstr "<32>{#p/basic}* Na první pokus je to docela dobré!"
+msgstr ""
 
 msgid "<32>{#p/basic}* You keep getting so close..."
-msgstr "<32>{#p/basic}* Pořád se dostáváš tak blízko..."
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* Darn, you almost beat the top scorer again...\n"
 "* You can do it!"
 msgstr ""
-"<32>{#p/basic}* Sakra, zase jsi málem překonal nejlepšího střelce...\n"
-"* Můžeš to udělat!"
 
 msgid "<32>{#p/human}* (It doesn't seem to be powered on anymore.)"
-msgstr "<32>{#p/human}* (Zdá se, že už není zapnutý.)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You feel the nearby monster presence dwindling.)"
-msgstr "<32>{#p/human}* (Cítíš, jak se přítomnost blízkého monstra zmenšuje.)"
+msgstr ""
 
 msgid "<32>{#p/human}* (But there was nothing left for you to do here.)"
-msgstr "<32>{#p/human}* (Ale ti tu nezbývalo nic.)"
+msgstr ""
 
 msgid "<32>{#p/basic}* It's out of service."
-msgstr "<32>{#p/basic}* Je mimo provoz."
+msgstr ""
 
 msgid "<32>{#p/human}* (You reach for the jukebox...)"
-msgstr "<32>{#p/human}* (Sáhneš po jukeboxu...)"
+msgstr ""
 
 msgid "<32>{#p/basic}* This jukebox only plays music you've heard before."
 msgstr ""
-"<32>{#p/basic}* Tento jukebox přehrává pouze hudbu, kterou jste již slyšeli."
 
 msgid "* (Play a song?)"
-msgstr "* (Přehrát písničku?)"
+msgstr ""
 
 msgid "Track 01"
-msgstr "Trasa 01"
+msgstr ""
 
 msgid "???"
-msgstr "???"
+msgstr ""
 
 msgid "Track 02"
-msgstr "Trasa 02"
+msgstr ""
 
 msgid "Track 03"
-msgstr "Trasa 03"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Zrušit"
+msgstr ""
 
 msgid "<32>{#p/human}* (But you couldn't play a song you didn't know yet.)"
 msgstr ""
-"<32>{#p/human}* (Ale nemohli jste zahrát písničku, kterou jste ještě "
-"neznali.)"
 
 msgid ""
 "<32>{#p/basic}* The cover depicts a spooky DJ playing to the crowd.\n"
 "* You can't know this song."
 msgstr ""
-"<32>{#p/basic}* Na obalu je vyobrazen strašidelný DJ hrající pro dav.\n"
-"* Tuhle píseň nemůžete znát."
 
 msgid ""
 "<33>{#p/basic}* The cover depicts a spooky DJ at their computer.\n"
 "* You can't know this song."
 msgstr ""
-"<33>{#p/basic}* Na obálce je vyobrazen strašidelný DJ u počítače.\n"
-"* Tuhle píseň nemůžete znát."
 
 msgid ""
 "<32>{#p/basic}* The cover depicts a little white dog surrounded by trash.\n"
 "* You can't know this song."
 msgstr ""
-"<32>{#p/basic}* Na obálce je vyobrazen malý bílý pes obklopený odpadky.\n"
-"* Tuhle píseň nemůžete znát."
 
 msgid "<32>{*}{#p/human}* (You select the disc...){^40}{%}"
-msgstr "<32>{*}{#p/human}* (Vybrali jste disk...) {^40} {%}"
+msgstr ""
 
 msgid "<32>{#p/human}* (It sounds like a song is currently playing.)"
-msgstr "<32>{#p/human}* (Zní to, jako by právě hrála nějaká písnička.)"
+msgstr ""
 
 msgid "<32>{#p/basic}* Currently playing \"Track 01\""
-msgstr "<32>{#p/basic}* Aktuálně se přehrává \"Trasa 01\""
+msgstr ""
 
 msgid "<32>{#p/basic}* Currently playing \"Track 02\""
-msgstr "<32>{#p/basic}* Aktuálně se přehrává \"Trasa 02\""
+msgstr ""
 
 msgid "<32>{#p/basic}* Currently playing \"Track 03\""
-msgstr "<32>{#p/basic}* Aktuálně se přehrává \"Trasa 03\""
+msgstr ""
 
 msgid "* (Stop playback?)"
-msgstr "* (Zastavit přehrávání?)"
+msgstr ""
 
 msgid "<32>{#p/basic}{#npc/a}* That's more like it!"
-msgstr "<32>{#p/basic}{#npc/a}* To je spíš ono!"
+msgstr ""
 
 msgid "<32>{#p/basic}{#npc/a}* (We love this kind of music.)"
-msgstr "<32>{#p/basic}{#npc/a}* (Tento druh hudby milujeme.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Is that the song making the rounds at the dance "
 "club?"
 msgstr ""
-"<32>{#p/basic}{#npc/a}* Je to ta písnička, která koluje v tanečním klubu?"
 
 msgid ""
 "<32>{#p/basic}* ...\n"
 "* ...\n"
 "* ..."
 msgstr ""
-"<32>{#p/basic}* ...\n"
-"* ...\n"
-"* ..."
 
 msgid "<32>{#npc/a}* Grillbz says he's heard this song somewhere before."
-msgstr "<32>{#npc/a}* Grillbz říká, že tuhle píseň už někde slyšel."
+msgstr ""
 
 msgid "<32>{#p/basic}{#npc/a}* You sure know a lot of music offhand, kid..."
-msgstr "<32>{#p/basic}{#npc/a}* Určitě znáš spoustu hudby z ruky, chlapče..."
+msgstr ""
 
 msgid "<32>* You must be really tasty."
-msgstr "<32>* Musíš být opravdu chutná."
+msgstr ""
 
 msgid "<15>{#p/papyrus}{#e/papyrus/27}WHAT ON KRIOS IS GOING ON HERE??"
-msgstr "<15>{#p/papyrus}{#e/papyrus/27}CO SE TO TU DĚJE??"
+msgstr ""
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/21}I ANSWER A PHONE CALL FROM MY BALCONY..."
-msgstr "<15>{#p/papyrus}{#e/papyrus/21}PŘIJÍMÁM TELEFONNÍ HOVOR Z BALKONU..."
+msgstr ""
 
 msgid "<15>{#p/papyrus}{#e/papyrus/19}AND THIS IS WHERE IT LEADS ME!?"
-msgstr "<15>{#p/papyrus}{#e/papyrus/19}A TAM MĚ TO VEDE!?"
+msgstr ""
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/14}I'LL HAVE YOU KNOW, I'M A SHOE-IN FOR THE "
 "ROYAL GUARD."
 msgstr ""
-"<15>{#p/papyrus}{#e/papyrus/14}ŘEKNU VÁM, ŽE JSEM BOTA PRO KRÁLOVSKOU GARDU."
 
 msgid "<15>{#p/papyrus}{#e/papyrus/15}SO, WHATEVER YOU TWO ARE PLANNING..."
 msgstr ""
-"<15>{#p/papyrus}{#e/papyrus/15}TAKŽE, AŤ UŽ VY DVA PLÁNUJETE COKOLI..."
 
 msgid "<15>{#p/papyrus}{#e/papyrus/24}... WAIT, THAT VOICE..."
-msgstr "<15>{#p/papyrus}{#e/papyrus/24}... POČKAT, TEN HLAS..."
+msgstr ""
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/22}ARE YOU THE ONE WHO CALLED ME ON THE PHONE "
 "EARLIER!?"
-msgstr "<15>{#p/papyrus}{#e/papyrus/22}JSI TO TY, KDO MI PŘEDTÍM VOLAL!?"
+msgstr ""
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/20}... OF COURSE!\n"
 "THAT EXPLAINS EVERYTHING!"
 msgstr ""
-"<15>{#p/papyrus}{#e/papyrus/20}... SAMOZŘEJMĚ!\n"
-"TÍM SE VYSVĚTLUJE VŠECHNO!"
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/10}WELL THEN.\n"
 "I'M GLAD TO HAVE FINALLY MET YOU."
 msgstr ""
-"<15>{#p/papyrus}{#e/papyrus/10}TAK DOBŘE.\n"
-"JSEM RÁD, ŽE JSEM VÁS KONEČNĚ POTKAL."
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/24}TO BE HONEST, YOU KIND OF REMIND ME OF..."
 msgstr ""
-"<15>{#p/papyrus}{#e/papyrus/24}ABYCH BYL UPŘÍMNÝ, TAK TROCHU MI "
-"PŘIPOMÍNÁTE..."
 
 msgid "<15>{#p/papyrus}{#e/papyrus/20}... HEY, WAIT A SECOND!!"
-msgstr "<15>{#p/papyrus}{#e/papyrus/20}... HEJ, POČKEJTE CHVÍLI!!"
+msgstr ""
 
 msgid "<15>{#p/papyrus}{#e/papyrus/22}DID YOU BRING A -HUMAN- WITH YOU!?!?"
-msgstr "<15>{#p/papyrus}{#e/papyrus/22}PŘIVEDL JSI S SEBOU ČLOVĚKA?!?"
+msgstr ""
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/10}WOWIE!!\n"
 "THIS JUST GETS BETTER AND BETTER!!"
 msgstr ""
-"<15>{#p/papyrus}{#e/papyrus/10}WOWIE!!\n"
-"TOHLE JE PROSTĚ LEPŠÍ A LEPŠÍ!!"
 
 msgid "<15>{#p/papyrus}{#e/papyrus/20}SO, WHAT ARE WE DOING HERE ANYWAY?"
-msgstr "<15>{#p/papyrus}{#e/papyrus/20}TAKŽE, CO TU VLASTNĚ DĚLÁME?"
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Ready, $(name)?"
-msgstr "<32>{#p/asriel2}* Připraven, $(name)?"
+msgstr ""
 
 msgid "* (What should Asriel do?)"
-msgstr "* (Co by měl Asriel dělat?)"
+msgstr ""
 
 msgid "Mercy"
-msgstr "Péče"
+msgstr ""
 
 msgid "Act"
-msgstr "Akce"
+msgstr ""
 
 msgid "Magic"
-msgstr "Magie"
+msgstr ""
 
 msgid "Fight"
-msgstr "Boj"
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Let's just get this over with."
-msgstr "<32>{#p/asriel2}* Pojďme to mít za sebou."
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Mercy, huh?"
-msgstr "<32>{#p/asriel2}* Péče, co?"
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Mercy... I think I like that word."
-msgstr "<32>{#p/asriel2}* Péče... Myslím, že se mi to slovo líbí."
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Let's show him some \"Mercy.\""
-msgstr "<32>{#p/asriel2}* Ukažme mu trochu \"Péče\"."
+msgstr ""
 
 msgid ""
 "<32>{#p/asriel2}* Act...?\n"
 "* I'll show you how to act."
 msgstr ""
-"<32>{#p/asriel2}* Akce...?\n"
-"* Ukážu vám, jak se chovat."
 
 msgid "<32>{#p/asriel2}* First, you raise your arm..."
-msgstr "<32>{#p/asriel2}* Nejprve zvedneš ruku..."
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Then...!"
-msgstr "<32>{#p/asriel2}* Pak...!"
+msgstr ""
 
 msgid ""
 "<32>{#p/asriel2}* Magic.\n"
 "* The force that binds us monsters together."
 msgstr ""
-"<32>{#p/asriel2}* Magie.\n"
-"Síla, která nás monstra spojuje."
 
 msgid "<32>{#p/asriel2}* Or, in this case..."
-msgstr "<32>{#p/asriel2}* Nebo, v tomto případě..."
+msgstr ""
 
 msgid "<33>{#p/asriel2}* The force that rips them apart."
-msgstr "<33>{#p/asriel2}* Síla, která je roztrhá na kusy."
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Fight... the ideal choice."
-msgstr "<32>{#p/asriel2}* Boj... ideální volbou."
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Hee hee hee..."
-msgstr "<32>{#p/asriel2}* Hee hee hee..."
+msgstr ""
 
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/27}SANS!\n"
 "YOU'RE HURT!"
 msgstr ""
-"<15>{#p/papyrus}{#e/papyrus/27}SANS!\n"
-"JSI ZRANĚN!"
 
 msgid "<20>{#p/sans}papyrus, didn't i tell you to stay at home?"
-msgstr "<20>{#p/sans}papyrus, neříkal jsem ti, abys zůstal doma?"
+msgstr ""
 
 msgid "{*}{#e/papyrus/21}{%}"
-msgstr "{*}{#e/papyrus/21}{%}"
+msgstr ""
 
 msgid "<20>{#p/sans}... don't worry bro, it's just yamok sauce."
-msgstr "<20>{#p/sans}... Neboj se, brácho, je to jen yamok omáčka."
+msgstr ""
 
 msgid "{*}{#e/papyrus/26}{%}"
-msgstr "{*}{#e/papyrus/26}{%}"
+msgstr ""
 
 msgid "<15>{#p/papyrus}{#e/papyrus/21}BUT YOU'RE HURT..."
-msgstr "<15>{#p/papyrus}{#e/papyrus/21}ALE JSI ZRANĚNÝ..."
+msgstr ""
 
 msgid "<20>{#p/sans}yeah, that's what happens when you act on instinct."
-msgstr "<20>{#p/sans}ano, to je to, co se stane, když jednáte instinktivně."
+msgstr ""
 
 msgid "<20>{#p/sans}... not much i can do about it now."
-msgstr "<20>{#p/sans}... teď už s tím moc dělat nemůžu."
+msgstr ""
 
 msgid "<20>{#p/sans}so..."
-msgstr "<20>{#p/sans}takže..."
+msgstr ""
 
 msgid "<20>guess that's it, huh?"
-msgstr "<20>to je asi ono, co?"
+msgstr ""
 
 msgid "<20>..."
-msgstr "<20>..."
+msgstr ""
 
 msgid "<20>just..."
-msgstr "<20>jen..."
+msgstr ""
 
 msgid "<20>promise me you'll be fine without me, bro."
-msgstr "<20>slib mi, že beze mě budeš v pohodě, brácho."
+msgstr ""
 
 msgid "<20>promise me you'll be g-{^5}great."
-msgstr "<20>slib mi, že budeš s-{^5}skvělý."
+msgstr ""
 
 msgid "<20>after all..."
-msgstr "<20>koneckonců..."
+msgstr ""
 
 msgid "<20>{|}{#p/sans}you're the... great p-{^5}papyrus.{^20}{%}"
-msgstr "<20>{|} {#p/sans}ty jsi... velký p-{^5}papyrus. {^20} {%}"
+msgstr ""
 
 msgid "<15>{#p/papyrus}{#e/papyrus/33}N-NO...{^40}{%}"
-msgstr "<15>{#p/papyrus}{#e/papyrus/33}N-NE... {^40} {%}"
+msgstr ""
 
 msgid "<32>{#p/human}{#npc}* (You got the Flamin' Grillby.)"
-msgstr "<32>{#p/human}{#npc}* (Dostali jste Flamin' Grillby.)"
+msgstr ""
 
 msgid "<32>{#p/human}{#npc}* (You got the Sliders.)"
-msgstr "<32>{#p/human}{#npc}* (Dostali jste posuvníky.)"
+msgstr ""
 
 msgid "<32>{#p/human}{#npc}* (You're carrying too much.)"
-msgstr "<32>{#p/human}{#npc}* (Nesete toho příliš mnoho.)"
+msgstr ""
 
 msgid "<25>{#p/sans}{#f/0}* finally."
-msgstr "<25>{#p/sans}{#f/0}* konečně."
+msgstr ""
 
 msgid "<25>{#f/3}* i've been wondering when you'd show up."
-msgstr "<25>{#f/3}* zajímalo by mě, kdy se objevíte."
+msgstr ""
 
 msgid "<25>{#f/0}* i dunno if you recall, but back when we first met..."
 msgstr ""
-"<25>{#f/0}* nevím, jestli si vzpomínáte, ale když jsme se poprvé setkali..."
 
 msgid ""
 "<25>{#f/0}* i told papyrus to focus more on the \"gravity\" of the "
 "situation."
 msgstr ""
-"<25>{#f/0}* řekl jsem papyrusovi, aby se více zaměřil na \"závažnost\" "
-"situace."
 
 msgid "<25>{#f/0}* what did i mean by that, you ask?"
-msgstr "<25>{#f/0}* ptáte se, co jsem tím myslel?"
+msgstr ""
 
 msgid "<25>{#f/3}* well."
-msgstr "<25>{#f/3}* no."
+msgstr ""
 
 msgid "<25>{#f/2}* you're about to {@fill=#003cff}find out{@fill=#fff}."
-msgstr "<25>{#f/2}* chystáte se {@fill=#003cff}zjistit{@fill=#fff}."
+msgstr ""
 
 msgid "<25>{#p/sans}{#f/0}* welcome back."
-msgstr "<25>{#p/sans}{#f/0}* vítejte zpět."
+msgstr ""
 
 msgid "<25>{#f/2}* ready to find out what awaits you?"
-msgstr "<25>{#f/2}* jste připraveni zjistit, co vás čeká?"
+msgstr ""
 
 msgid "<25>{#p/sans}{#f/0}* go on, take a look."
-msgstr "<25>{#p/sans}{#f/0}* pokračujte, podívejte se."
+msgstr ""
 
 msgid "<25>{#f/2}* it's right up there, bucko."
-msgstr "<25>{#f/2}* to je přesně tam, jelene."
+msgstr ""
 
 msgid "<25>{#p/sans}{#f/2}* it's right up there, bucko."
-msgstr "<25>{#p/sans}{#f/2}* to je přesně tam, jelene."
+msgstr ""
 
 msgid ""
 "<25>{#p/sans}{#f/2}* don't worry, it's not dangerous... even if it tries to "
 "be."
 msgstr ""
-"<25>{#p/sans}{#f/2}* nebojte se, není to nebezpečné... i když se o to snaží."
 
 msgid "<25>{#p/sans}{#f/2}* thanks for the help."
-msgstr "<25>{#p/sans}{#f/2}* díky za pomoc."
+msgstr ""
 
 msgid "<25>{#p/sans}{#f/0}* sooo... whaddya think?"
-msgstr "<25>{#p/sans}{#f/0}* takže... co si myslíš?"
+msgstr ""
 
 msgid "<25>{#f/3}* i call it the \"trash planet.\""
-msgstr "<25>{#f/3}* říkám jí \"odpadková planeta\"."
+msgstr ""
 
 msgid ""
 "<25>{#f/0}* ... actually, this thing's been growing in size for quite a "
 "while."
-msgstr "<25>{#f/0}* ... ve skutečnosti se tahle věc už nějakou dobu zvětšuje."
+msgstr ""
 
 msgid "<25>{#f/0}* if it gets any larger, well..."
-msgstr "<25>{#f/0}* pokud se to ještě zvětší, no..."
+msgstr ""
 
 msgid ""
 "<25>{#f/2}* let's just say we'd be in a {@fill=#ff0}world{@fill=#fff} of "
 "trouble."
 msgstr ""
-"<25>{#f/2}* řekněme, že bychom se ocitli{@fill=#ff0}ve světě{@fill=#fff}."
 
 msgid ""
 "<25>{#f/0}* don't worry, though.\n"
 "* with your help, it'll be gone in no time."
 msgstr ""
-"<25>{#f/0}* ale nebojte se.\n"
-"* s vaší pomocí bude během chvilky pryč."
 
 msgid "<25>{#f/2}* i even found you some music to keep you motivated."
 msgstr ""
-"<25>{#f/2}* dokonce jsem vám našel nějakou hudbu, která vás motivovala."
 
 msgid ""
 "* Press [Z] repeatedly to shake\n"
 "  out all the trash!"
 msgstr ""
-"* Opakovaným stisknutím tlačítka [Z] zatřeste\n"
-"  Ven ze všech těch odpadků!"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* wow.\n"
 "* all in one go, huh?"
 msgstr ""
-"<25>{#p/sans}{#f/3}* páni.\n"
-"* všechno najednou, co?"
 
 msgid "<25>{#f/2}* ... well i'll be turned upside down."
-msgstr "<25>{#f/2}* ... no, budu obrácená vzhůru nohama."
+msgstr ""
 
 msgid "<25>{#f/0}* guess i gotta give you some kinda reward."
-msgstr "<25>{#f/0}* asi vám musím dát nějakou odměnu."
+msgstr ""
 
 msgid ""
 "<25>{#f/0}* ...\n"
 "* here.\n"
 "* have this on me."
 msgstr ""
-"<25>{#f/0}* ...\n"
-"* tady.\n"
-"* mějte to na sobě."
 
 msgid "<32>{#p/human}* (Sans tossed you something.)"
-msgstr "<32>{#p/human}* (Sans ti něco hodil.)"
+msgstr ""
 
 msgid "<32>{#s/equip}{#p/human}* (You got the Corn Dog Sword.)"
-msgstr "<32>{#s/equip}{#p/human}* (Máš meč kukuřičného psa.)"
+msgstr ""
 
 msgid "<25>{#p/sans}{#f/2}* use it wisely."
-msgstr "<25>{#p/sans}{#f/2}* ho používejte moudře."
+msgstr ""
 
 msgid "<32>{#p/human}* (You're carrying too much.)"
-msgstr "<32>{#p/human}* (Nesete toho příliš mnoho.)"
+msgstr ""
 
 msgid "<25>{#p/sans}{#f/3}* no room, huh?"
-msgstr "<25>{#p/sans}{#f/3}* není místo, co?"
+msgstr ""
 
 msgid ""
 "<25>{#p/sans}{#f/2}* don't worry.\n"
 "* i'll leave it in my room for you."
 msgstr ""
-"<25>{#p/sans}{#f/2}* nebojte se.\n"
-"* nechám ti ho ve svém pokoji."
 
 msgid "<32>{#p/human}* (You look curiously at the seemingly useless device.)"
-msgstr "<32>{#p/human}* (Zvědavě se díváte na zdánlivě neužitečné zařízení.)"
+msgstr ""
 
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Too bad we don't have the remote for this thing, "
 "huh?"
-msgstr "<25>{#p/asriel1}{#f/17}* Škoda, že na tuhle věc nemáme ovladač, co?"
+msgstr ""
 
 msgid "<32>{#p/basic}* It's a \"gravometric inverter.\""
-msgstr "<32>{#p/basic}* Je to \"gravometrický invertor\"."
+msgstr ""
 
 msgid "<32>* Whatever that means."
-msgstr "<32>* Ať už to znamená cokoli."
+msgstr ""
 
 msgid ""
 "<32>{#p/human}* (You use the Gravometric Inverter Remote.)\n"
 "* (Nothing happens.)"
 msgstr ""
-"<32>{#p/human}* (Používáte dálkový ovladač gravometrického invertoru.)\n"
-"* (Nic se neděje.)"
 
 msgid ""
 "<25>{#p/asriel1}{#f/21}* They're probably shutting off power for non-"
 "essential devices."
 msgstr ""
-"<25>{#p/asriel1}{#f/21}* Pravděpodobně vypínají napájení pro nepodstatná "
-"zařízení."
 
 msgid "<32>{#p/basic}* It must be offline..."
-msgstr "<32>{#p/basic}* Musí být offline..."
+msgstr ""
 
 msgid "<32>{#p/human}* (You use the Gravometric Inverter Remote.)"
 msgstr ""
-"<32>{#p/human}* (Používáte dálkový ovladač gravometrického invertoru.)"
 
 msgid "<32>{#p/human}* (It looks to have been closed with a deadlock seal.)"
-msgstr "<32>{#p/human}* (Zdá se, že byla uzavřena těsněním uzamyka.)"
+msgstr ""
 
 msgid "<32>{#p/basic}* It's locked."
-msgstr "<32>{#p/basic}* Je zamčený."
+msgstr ""
 
 msgid "<32>{#p/human}* (You use the Skeleton Key.)"
-msgstr "<32>{#p/human}* (Používáte klíč kostry.)"
+msgstr ""
 
 msgid "<32>{#p/basic}* There's an odd remote inside of this envelope."
-msgstr "<32>{#p/basic}* Uvnitř této obálky je podivný dálkový ovladač."
+msgstr ""
 
 msgid ""
 "<32>{#s/equip}{#p/human}* (The Gravometric Inverter Remote was added to your"
 " keyring.)"
 msgstr ""
-"<32>{#s/equip}{#p/human}* (Dálkový ovladač Gravometric Inverter Remote byl "
-"přidán do vaší klíčenky.)"
 
 msgid ""
 "<32>{#p/human}* (But you already emptied the envelope of its contents.)"
-msgstr "<32>{#p/human}* (Ale vy jste již vyprázdnil obálku s jejím obsahem.)"
+msgstr ""
 
 msgid "<32>{#p/basic}* It's just an empty envelope."
-msgstr "<32>{#p/basic}* Je to jen prázdná obálka."
+msgstr ""
 
 msgid "<32>{#p/basic}* There's an odd... item, inside of this envelope."
-msgstr "<32>{#p/basic}* Je tu zvláštní... uvnitř této obálky."
+msgstr ""
 
 msgid "<32>{#p/human}* (You got the Ice Dream.)"
-msgstr "<32>{#p/human}* (Dostali jste ledový sen.)"
+msgstr ""
 
 msgid "<32>{#p/basic}* Nothing left."
-msgstr "<32>{#p/basic}* Nic nezbylo."
+msgstr ""
 
 msgid "<32>{#p/human}* (You reach into the cart.)"
-msgstr "<32>{#p/human}* (Sáhneš do vozíku.)"
+msgstr ""
 
 msgid "<32>{#p/human}{#s/equip}* (You got the Ice Dream.)"
-msgstr "<32>{#p/human}{#s/equip}* (Dostali jste ledový sen.)"
+msgstr ""
 
 msgid "<32>{#p/human}* (...)"
-msgstr "<32>{#p/human}* (...)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You're carrying too much to reach inside.)"
-msgstr "<32>{#p/human}* (Neseš toho příliš mnoho, než abys dosáhl dovnitř.)"
+msgstr ""
 
 msgid "<32>{#p/basic}* Mom says that we're going to a new homeworld soon."
-msgstr "<32>{#p/basic}* Máma říká, že brzy odjíždíme na nový domovský svět."
+msgstr ""
 
 msgid "<32>* ... what's a homeworld?"
-msgstr "<32>* ... co je to domovský svět?"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* Mom says that sleeping could recover your health "
 "{@fill=#ff0}above your maximum HP{@fill=#fff}."
 msgstr ""
-"<32>{#p/základní}* Máma říká, že spánek vám může obnovit zdraví {@fill=#ff0}"
-" nad vaše maximální ZB{@fill=#fff}."
 
 msgid "<32>* ... what's maximum HP?"
-msgstr "<32>* ... co je maximální ZB?"
+msgstr ""
 
 msgid "<32>{#p/basic}* Do humans have a homeworld?"
-msgstr "<32>{#p/basic}* Mají lidé domovský svět?"
+msgstr ""
 
 msgid "<32>{#p/basic}* Is it something monsters have?"
-msgstr "<32>{#p/basic}* Je to něco, co mají příšery?"
+msgstr ""
 
 msgid "<32>{#p/human}* (The table strikes you as being rather lonesome.)"
 msgstr ""
@@ -769,7 +682,7 @@ msgid "<18>{#p/papyrus}ENJOYING THE VIEW?"
 msgstr ""
 
 msgid "* (What do you say?)"
-msgstr "* (Co říkáš?)"
+msgstr ""
 
 msgid ""
 "<18>{#p/papyrus}{#f/9}GOOD!\n"
@@ -814,21 +727,16 @@ msgstr ""
 msgid ""
 "<32>* \"Long ago, two species ruled the solar system: humans and monsters.\""
 msgstr ""
-"<32>* \"Před dávnými časy vládly sluneční soustavě dva druhy: lidé a "
-"monstra.\""
 
 msgid ""
 "<32>* \"At first, the monsters were only visitors, soon to return to their "
 "own star system.\""
 msgstr ""
-"<32>* \"Zpočátku byly příšery jen návštěvníky, kteří se brzy vrátí do svého "
-"vlastního hvězdného systému.\""
 
 msgid ""
 "<32>* \"But the monsters became fascinated by humanity, and wanted to co-"
 "exist with them.\""
 msgstr ""
-"<32>* \"Ale příšery byly lidstvem fascinovány a chtěly s nimi koexistovat.\""
 
 msgid ""
 "<32>* \"As such, they shared their technology with the humans, and forged an"
@@ -914,13 +822,13 @@ msgid "<32>{#p/basic}* It's an exoberry-exclusive vending machine."
 msgstr ""
 
 msgid "* (Buy the Exoberries for 8G?)"
-msgstr "* (Koupit Exobobule za 8Z?)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You don't have enough G.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You got the Exoberries.)"
-msgstr "<32>{#p/human}* (Získal jsi Exobobule.)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to buy.)"
 msgstr ""
@@ -1017,7 +925,7 @@ msgid "<25>{#f/3}* i knew i should have used today's kakuro puzzle instead."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/1}WHAT!? KAKURO!?"
-msgstr "<18>{#p/papyrus}{#f/1}COŽE!? KAKURO!?"
+msgstr ""
 
 msgid "<18>{#f/9}I CAN'T BELIEVE YOU SAID THAT!!"
 msgstr ""
@@ -1032,11 +940,9 @@ msgid ""
 "<25>{#p/sans}* what? really, dude?\n"
 "* that easy-peasy number shuffle?"
 msgstr ""
-"<25>{#p/sans}* cože? vážně, kámo?\n"
-"* to snadné zamíchání čísel?"
 
 msgid "<25>{#f/4}* that's for baby bones."
-msgstr "<25>{#f/4}* to je pro dětské kostry"
+msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}UN. BELIEVABLE."
 msgstr ""
@@ -1047,7 +953,7 @@ msgid ""
 msgstr ""
 
 msgid "* (Which is harder?)"
-msgstr "* (Které je těžší?)"
+msgstr ""
 
 msgid "Sudoku"
 msgstr ""
@@ -1056,7 +962,7 @@ msgid "Kakuro"
 msgstr ""
 
 msgid "<18>{#p/papyrus}HA! HA! YES!"
-msgstr "<18>{#p/papyrus}HA! HA! ANO!"
+msgstr ""
 
 msgid "<18>HUMANS MUST BE VERY INTELLIGENT!"
 msgstr ""
@@ -1105,7 +1011,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/sans}* really?"
-msgstr "<25>{#p/sans}* vážně?"
+msgstr ""
 
 msgid "<25>{#p/sans}* thanks for saying \"sudoku\" just to appease my brother."
 msgstr ""
@@ -1232,7 +1138,7 @@ msgid "<25>{#p/asriel2}{#f/9}* Just follow my lead..."
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/16}* This way."
-msgstr "<25>{#p/asriel2}{#f/16}* Tudy."
+msgstr ""
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* Well, well... if it isn't the great Papyrus standing"
@@ -1252,7 +1158,7 @@ msgid "<25>{*}{#p/asriel2}{#f/5}* Howdy!{^5}{%}"
 msgstr ""
 
 msgid "<18>{*}{#p/papyrus}{#f/1}WHAT THE- {%}"
-msgstr "<18>{*}{#p/papyrus}{#f/1}CO TO- {%}"
+msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/13}* ... $(name), do you..."
 msgstr ""
@@ -1283,7 +1189,7 @@ msgid "<25>{#p/asriel2}{#f/15}* ..."
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/8}* Psst, let's wait and see what he does."
-msgstr "<25>{#p/asriel2}{#f/8}* Psst, počkejme a uvidíme, co udělá."
+msgstr ""
 
 msgid ""
 "<25>{#p/asriel2}{#f/15}* Wow.\n"
@@ -1356,7 +1262,7 @@ msgstr ""
 
 msgid ""
 "<25>{#f/4}* Golly, $(name), I didn't think you'd kill him THAT quickly."
-msgstr "<25>{#f/4}* Sakra, $(name), nemyslel jsem že zabiješ ho TAK rychle."
+msgstr ""
 
 msgid ""
 "<25>{#f/1}* It's about time that bonehead paid the price for his mercy."
@@ -1673,7 +1579,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/7}WHATEVER!!!"
-msgstr "<18>{#p/papyrus}{#f/7}COKOLIV!!!"
+msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/3}* Howdy."
 msgstr ""
@@ -1754,7 +1660,7 @@ msgid "<18>{|}{#f/5}WELL, HERE ARE THE RULES OF THE- {%}"
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/7}* We already know the rules, idiot."
-msgstr "<25>{#p/asriel2}{#f/7}* Už známe pravidly, idiote."
+msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/31}... OH..."
 msgstr ""
@@ -2068,10 +1974,10 @@ msgid "<32>* There's bound to be a place you can stay there!"
 msgstr ""
 
 msgid "<25>{#p/kidd}{#f/1}* What's up?"
-msgstr "<25>{#p/kidd}{#f/1}* Co se děje?"
+msgstr ""
 
 msgid "<25>{#p/kidd}{#f/1}* Yo, howzzitgoin?"
-msgstr "<25>{#p/kidd}{#f/1}* Čau, jak to jde?"
+msgstr ""
 
 msgid "<25>{#p/kidd}{#f/1}* Hey, hey!"
 msgstr ""
@@ -2387,7 +2293,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/1}WHAT!?"
-msgstr "<18>{#p/papyrus}{#f/1}COŽE!?"
+msgstr ""
 
 msgid "<18>{#f/7}HOW DID YOU MANAGE TO DO THAT!?!?"
 msgstr ""
@@ -2439,7 +2345,7 @@ msgid "<25>{#p/sans}* dang, i didn't know you thought THAT highly of me."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}WHAT."
-msgstr "<18>{#p/papyrus}{#f/4}COŽE."
+msgstr ""
 
 msgid "<25>{|}{#p/sans}* like, if even SHE can't do it, then- {%}"
 msgstr ""
@@ -9032,7 +8938,6 @@ msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/20}* I think that might be a little tall for you."
 msgstr ""
-"<25>{#p/asriel1}{#f/20}* Myslím, že by to pro tebe mohlo být trochu vysoké."
 
 msgid "<32>{#p/basic}* Just another barstool."
 msgstr ""
@@ -11618,7 +11523,7 @@ msgid "<11>{#p/basic}{~}(Pant pant)"
 msgstr ""
 
 msgid "<11>{#p/basic}{~}(Tiny bark)"
-msgstr "<11>{#p/basic}{~}(Drobný štěk)"
+msgstr ""
 
 msgid "<11>{#p/basic}{~}(Wag wag)"
 msgstr ""
@@ -11648,7 +11553,7 @@ msgid "<11>{#p/basic}{~}(Faraway bark)"
 msgstr ""
 
 msgid "<11>{#p/basic}{~}(Bark)"
-msgstr "<11>{#p/basic}{~}(Štěk)"
+msgstr ""
 
 msgid "<32>{#p/human}* (You barely lift your hand.)"
 msgstr ""
@@ -13170,7 +13075,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/21}IDIOT..."
-msgstr "<15>{#p/papyrus}{#f/21}IDIOT..."
+msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/21}SHOOT FOR THE STARS..."
 msgstr ""
@@ -13338,31 +13243,31 @@ msgid ""
 msgstr ""
 
 msgid "<11>{#p/asgore}{#f/2}..."
-msgstr "<11>{#p/asgore}{#f/2}..."
+msgstr ""
 
 msgid "<11>{#f/1}I am not really here, Asriel."
-msgstr "<11>{#f/1}Nejsem opravdu tady, Asriel."
+msgstr ""
 
 msgid "<11>{#f/2}It's just a projection."
 msgstr ""
 
 msgid "* Asgore"
-msgstr "* Asgore"
+msgstr ""
 
 msgid "<32>{#p/asriel2}* Kill him, $(name)."
-msgstr "<32>{#p/asriel2}* Zabij ho, $(name)."
+msgstr ""
 
 msgid "A small branch of semi-translucent berries."
 msgstr ""
 
 msgid "Exoberries"
-msgstr "Exobobule"
+msgstr ""
 
 msgid "<32>{#p/human}* (You throw away the Exoberries.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (7 HP.)"
-msgstr "<32>{#p/human}* (7 ZB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Exoberries\" Heals 7 HP\n"
@@ -13376,19 +13281,19 @@ msgid "Fresh exoberries, bathed in a sea of moist Jell-O."
 msgstr ""
 
 msgid "Berry Pie"
-msgstr "Bobule Koláč"
+msgstr ""
 
 msgid "<32>{#p/human}* (You throw away the Exoberry Pie.)"
 msgstr ""
 
 msgid "<32>{#p/napstablook}* ......... huh?"
-msgstr "<32>{#p/napstablook}* ......... co?"
+msgstr ""
 
 msgid "<32>{#p/napstablook}* oh.................."
-msgstr "<32>{#p/napstablook}* oh.................."
+msgstr ""
 
 msgid "<32>{#p/human}* (99 HP.)"
-msgstr "<32>{#p/human}* (99 ZB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Exoberry Pie\" Heals 99 HP\n"
@@ -13396,7 +13301,7 @@ msgid ""
 msgstr ""
 
 msgid "Exoberry Pie"
-msgstr "Exobobule Koláč"
+msgstr ""
 
 msgid "<32>{#p/human}* (You eat the Exoberry Pie.)"
 msgstr ""
@@ -13410,7 +13315,7 @@ msgid "Please take this to the edge of the galaxy."
 msgstr ""
 
 msgid "Chip"
-msgstr "Čip"
+msgstr ""
 
 msgid "<32>{#p/human}* (You throw away the Computer Chip.)"
 msgstr ""
@@ -13429,7 +13334,7 @@ msgid ""
 msgstr ""
 
 msgid "Computer Chip"
-msgstr "Počítačový Čip"
+msgstr ""
 
 msgid "<32>{#p/human}* (You bit into the Computer Chip.)"
 msgstr ""
@@ -13444,13 +13349,13 @@ msgid "A portable force field."
 msgstr ""
 
 msgid "Emitter"
-msgstr "Vysílač"
+msgstr ""
 
 msgid "<32>{#p/human}* (You throw away the Field Emitter.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (7 DF.)"
-msgstr "<32>{#p/human}* (7 OB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Field Emitter\" (7 DF)\n"
@@ -13467,10 +13372,10 @@ msgid "A somewhat underpowered portable force field."
 msgstr ""
 
 msgid "Emitter?"
-msgstr "Vysílač?"
+msgstr ""
 
 msgid "<32>{#p/human}* (5 DF.)"
-msgstr "<32>{#p/human}* (5 OB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Field Emitter?\" (5 DF)\n"
@@ -13490,7 +13395,7 @@ msgid "<32>{#p/human}* (You fold the Ghost Fruit in on itself.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (15 HP.)"
-msgstr "<32>{#p/human}* (15 ZB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Ghost Fruit\" Heals 15 HP\n"
@@ -13549,7 +13454,7 @@ msgid "<32>{#p/human}* (You rid yourself of the Milkshake.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (18 HP.)"
-msgstr "<32>{#p/human}* (18 ZB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Milkshake\" Heals 18 HP\n"
@@ -13650,7 +13555,7 @@ msgid "<32>{#p/human}* (You throw away the Vortex Pop.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (11 HP.)"
-msgstr "<32>{#p/human}* (11 ZB.)"
+msgstr ""
 
 msgid ""
 "<33>{#p/basic}* \"Vortex Pop\" Heals 11 HP\n"
@@ -13783,7 +13688,7 @@ msgid "<25>{#f/2}* more for me, i guess."
 msgstr ""
 
 msgid "<32>{#p/human}* (16 HP.)"
-msgstr "<32>{#p/human}* (16 ZB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Spaghetti\" Heals 16 HP\n"
@@ -13951,7 +13856,7 @@ msgid "<32>{#p/human}* (You throw away the Radiant Swirl.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (22 HP.)"
-msgstr "<32>{#p/human}* (22 ZB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Radiant Swirl\" Heals 22 HP\n"
@@ -14049,7 +13954,7 @@ msgid "<32>{#p/human}* (You tossed the Flamin' Grillby like a molotov.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (30 HP.)"
-msgstr "<32>{#p/human}* (30 ZB.)"
+msgstr ""
 
 msgid ""
 "<32>{#p/basic}* \"Flamin' Grillby\" Heals 30 HP\n"
@@ -19399,7 +19304,7 @@ msgid "<18>{#p/papyrus}{#f/5}SINCE HE ENJOYED THE JOB SO MUCH."
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/7}* I am GOING to kill her."
-msgstr "<25>{#p/undyne}{#f/7}* Zabiju ji."
+msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}BUT YOU DON'T EVEN KNOW IF SHE TRACKED YOU YET!"
 msgstr ""
@@ -21279,10 +21184,10 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}STOP WORRYING!!"
-msgstr "<18>{#p/papyrus}{#f/6}PŘESTAŇTE SI DĚLAT STAROSTI!!"
+msgstr ""
 
 msgid "Starton - Landing Zone"
-msgstr "Starton - Přistávací zóna"
+msgstr ""
 
 msgid "<32>{#p/human}* (Missing skeletons fill you with determination.)"
 msgstr ""
@@ -21302,7 +21207,7 @@ msgid ""
 msgstr ""
 
 msgid "Starton - Moon Rock Road"
-msgstr "Starton - Měsíční skalní cesta"
+msgstr ""
 
 msgid ""
 "<32>{#p/human}* (The starlight dims.)\n"
@@ -21326,7 +21231,7 @@ msgid ""
 msgstr ""
 
 msgid "Starton - Spaghetti Junction"
-msgstr "Starton - Špagetová křižovatka"
+msgstr ""
 
 msgid ""
 "<32>{#p/human}* (A plate of spaghetti defying the laws of physics fills you "
@@ -21343,7 +21248,7 @@ msgid "<32>{#p/human}* (The spaghetti is no more.)"
 msgstr ""
 
 msgid "Starton - Town"
-msgstr "Starton - Město"
+msgstr ""
 
 msgid "<32>{#p/human}* (The town may be abandoned, but its cuteness remains.)"
 msgstr ""
@@ -21353,4 +21258,4 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (This cute little town fills you with determination.)"
-msgstr "<32>{#p/human}* (Toto roztomilé městečko vás naplní odhodláním.)"
+msgstr ""

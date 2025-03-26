@@ -12507,15 +12507,15 @@ msgid "* (Your reply?)"
 msgstr ""
 
 msgid ""
-"I have\n"
-"zero redeeming\n"
-"qualities"
-msgstr ""
-
-msgid ""
 "\n"
 "I can make\n"
 "spaghetti"
+msgstr ""
+
+msgid ""
+"I have\n"
+"zero redeeming\n"
+"qualities"
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/24}THAT CONFIDENCE... IT REMINDS ME OF..."

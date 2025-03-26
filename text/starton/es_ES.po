@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-13 02:37+0000\n"
-"PO-Revision-Date: 2025-03-13 16:21+0000\n"
-"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
-"Language-Team: Spanish <https://ws3917.hbms.me/projects/ps-outertale/"
-"2-starton/es/>\n"
-"Language: es_ES\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
 
-#
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -5177,6 +5164,9 @@ msgid "HOWDY!"
 msgstr "¡HOLA!"
 
 msgid "SAVE YOURSELVES..."
+msgstr ""
+
+msgid ""
 msgstr ""
 
 msgid "FAILED TO CONNECT..."
@@ -12796,15 +12786,15 @@ msgid "* (Your reply?)"
 msgstr ""
 
 msgid ""
-"I have\n"
-"zero redeeming\n"
-"qualities"
-msgstr ""
-
-msgid ""
 "\n"
 "I can make\n"
 "spaghetti"
+msgstr ""
+
+msgid ""
+"I have\n"
+"zero redeeming\n"
+"qualities"
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/24}THAT CONFIDENCE... IT REMINDS ME OF..."
