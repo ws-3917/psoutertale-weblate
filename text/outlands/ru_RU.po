@@ -1,6 +1,22 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-26 10:13+0000\n"
+"PO-Revision-Date: 2025-03-26 10:13+0000\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
+"1-outlands/ru/>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
@@ -865,18 +881,25 @@ msgstr "<25>{#f/15}* Моя первоначальная ДУША."
 msgid "<25>{#f/16}* ..."
 msgstr "<25>{#f/16}* ..."
 
+#, fuzzy
 msgid ""
 "<26>{#f/16}* When $(name) and I died, they must've wrapped themselves around"
 " me..."
 msgstr ""
+"<26>{#f/16}* Когда мы с $(name) умерли, она, должно быть, привязалась ко "
+"мне..."
 
+#, fuzzy
 msgid "<25>{#f/13}* ... keeping me safe until I could be brought back here."
-msgstr ""
+msgstr "<25>{#f/13}* ... Защищая меня до моего возвращения."
 
+#, fuzzy
 msgid ""
 "<26>{#f/17}* They held on that whole time, just for a chance to see me, "
 "Frisk..."
 msgstr ""
+"<26>{#f/17}* Она держалась всё это время ради шанса увидется со мной, "
+"Фриск..."
 
 msgid "<25>{#f/13}* ... so, the least I can do is honor it."
 msgstr "<25>{#f/13}* ... поэтому меньшее, что я могу сделать, это почтить её."
@@ -1766,11 +1789,15 @@ msgstr ""
 msgid "<32>* \"I didnt think it would ever happen, but here they are.\""
 msgstr "<32>* «Я не думал что это когда-либо случится, но вот она здесь»."
 
+#, fuzzy
 msgid ""
 "<32>* \"And they are actually he{#p/basic}f{#p/asriel1}{#v/1}h{#p/basic}sj "
 "haha azzy is a stinky butt and "
 "he{#p/asriel1}{#v/1}vh{#p/basic}v{#p/asriel1}{#v/1}j{#p/basic}a{#p/asriel1}{#v/1}s\""
 msgstr ""
+"<32>* \"И она действительно зд{#p/basic}ф{#p/asriel1}{#v/1}х{#p/basic}сж "
+"хаха аззи какашка и он{#p/asriel1}{#v/1}вх{#p/basic}в{#p/asriel1}{#v/1}ж{#p/"
+"basic}а{#p/asriel1}{#v/1}с\""
 
 msgid ""
 "<32>* \"Okay so Im actually hiding under the covers so $(name) cant mess up "
@@ -1879,8 +1906,9 @@ msgstr "<32>{#p/human}* (Если вы ляжете спать, то пропу�
 msgid "* (Go to sleep?)"
 msgstr "* (Лечь спать?)"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/5}* Oh dear."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* О боже."
 
 msgid ""
 "<25>{#f/1}* Perhaps my actions have done more harm than I first imagined..."
@@ -1994,11 +2022,13 @@ msgstr "<32>* это... я даже не знаю что это такое..."
 msgid "<32>* well, i'll be going now"
 msgstr "<32>* ну, я пойду"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You got the Fried Snails.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы получили Жаренные Улитки.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You approach the vending machine.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы подходите к торговому автомату.)"
 
 msgid "* (What will you make?)"
 msgstr "* (Выберите продукт.)"
@@ -2774,8 +2804,9 @@ msgstr "<25>{#f/5}* Ясно."
 msgid "<25>{#p/toriel}{#f/0}* ..."
 msgstr "<25>{#p/toriel}{#f/0}* ..."
 
+#, fuzzy
 msgid "<25>{#f/0}* I suppose I can solve the riddle for you this time."
-msgstr ""
+msgstr "<25>{#f/0}* Полагаю, что в этот раз я могу решить загадку для тебя."
 
 msgid ""
 "<25>{#p/toriel}{#f/5}* And... {#x1}there.\n"
@@ -3962,30 +3993,38 @@ msgid ""
 msgstr ""
 "<32>* Т-тем временем, оставшиеся жители Аванпоста ожидают своего спасения..."
 
+#, fuzzy
 msgid "<32>* Time goes by, and Toriel does her best to care for you."
-msgstr ""
+msgstr "<32>* Прошло время, и Ториель старается заботиться о тебе."
 
+#, fuzzy
 msgid "<32>* Reading books, baking pies..."
-msgstr ""
+msgstr "<32>* Читает книжки, печёт пироги..."
 
+#, fuzzy
 msgid "<32>* Tucking you snugly into bed, each and every night..."
-msgstr ""
+msgstr "<32>* Уютно укладывает тебя в постель каждую ночь..."
 
+#, fuzzy
 msgid "<32>* ... despite her fear that you may try to run away again."
-msgstr ""
+msgstr "<32>* ... Несмотря на её страх, что ты снова попытаешься сбежать."
 
+#, fuzzy
 msgid "<32>* ... despite those who've gone missing."
-msgstr ""
+msgstr "<32>* ... Несмотря на пропавших монстров."
 
+#, fuzzy
 msgid "<32>* All the while, the outpost residents await salvation..."
-msgstr ""
+msgstr "<32>* Тем временем, жители Аванпоста ожидают своего спасения..."
 
+#, fuzzy
 msgid ""
 "<32>* And hugging you so tightly that you never ever try to run away again."
-msgstr ""
+msgstr "<32>* И обнимает тебя так крепко, что ты никогда не сбежишь вновь."
 
+#, fuzzy
 msgid "<32>* And all the hugging you could ever hope for."
-msgstr ""
+msgstr "<32>* И все обнимания, о которых ты мог мечтать."
 
 msgid "<32>* ... from a human that may never reach them."
 msgstr ""
@@ -3997,12 +4036,14 @@ msgstr "<32>* Этого вы добивались?"
 msgid "<32>* Is this truly what they deserve?"
 msgstr "<32>* Этого, по-вашему, они заслуживают?"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Sorry for the wait..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Прости за ожидание..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/3}* It seems that little white dog has raided my kitchen again."
-msgstr ""
+msgstr "<25>{#f/3}* Похоже, что мелкая белая собака снова напала на мою кухню."
 
 msgid "<25>{#f/4}* You should see the state of that pie..."
 msgstr "<25>{#f/4}* Ты бы видел, в каком сейчас виде этот пирог..."
