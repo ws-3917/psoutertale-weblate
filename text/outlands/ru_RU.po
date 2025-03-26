@@ -1,23 +1,21 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-26 10:13+0000\n"
+"PO-Revision-Date: 2025-03-26 14:13+0000\n"
 "Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -4052,6 +4050,8 @@ msgid ""
 "<26>{#f/0}* But anyhoo.\n"
 "* I have prepared a plate of fried snails for you."
 msgstr ""
+"<26>{#f/0}* Но тем не менее.\n"
+"* Я приготовила для тебя тарелку с жареными улитками."
 
 msgid "<25>{#p/toriel}* Breakfast is ready!"
 msgstr "<25>{#p/toriel}* Завтрак готов!"
@@ -4077,8 +4077,9 @@ msgstr "* (Взять шоколадную плитку?)"
 msgid "<32>{#p/human}* (You decide not to take anything.)"
 msgstr "<32>{#p/human}* (Вы решили ничего не брать.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You got the Chocolate Bar.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы получили Плитку Шоколада.)"
 
 msgid "<25>{#p/asriel1}{#f/17}* Ah... chocolate."
 msgstr ""
