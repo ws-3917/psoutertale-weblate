@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-26 17:08+0000\n"
+"PO-Revision-Date: 2025-03-26 17:08+0000\n"
+"Last-Translator: braing <3313576509@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/ps-outertale/6-common/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "The player did everything they could..."
 msgstr "那个玩家，已经竭尽全力..."
@@ -479,8 +494,6 @@ msgstr ""
 "<25>{#p/basic}（再次祝贺你！）\n"
 "（拜拜！）"
 
-msgid ""
-msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr "<32>{#s/phone}{#p/event}* 铃铃，铃铃..."
@@ -2662,13 +2675,13 @@ msgstr "<18>{#p/papyrus}{#f/0}真为他骄傲！！"
 msgid ""
 "<25>{#p/sans}{#f/0}* yeah, this company really brought out the best in us."
 msgstr ""
-"<25>{#p/sans}{#f/0}* 是啊，这公司的分工\n"
+"<25>{#p/sans}{#f/0}* 是啊，这院的分工\n"
 "  很合咱俩的性格呢。"
 
 msgid "<18>{#p/papyrus}{#f/9}YEAH, IT MIGHT EVEN BE OUR TRUE CALLING!!!"
 msgstr ""
 "<18>{#p/papyrus}{#f/9}那肯定的！！！\n"
-"开了公司，新面孔\n"
+"开了疗养院，新面孔\n"
 "简直多得应接不暇啊！！"
 
 msgid "<25>{#p/sans}{#f/2}* heheh, calling."
