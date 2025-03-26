@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-26 14:13+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"PO-Revision-Date: 2025-03-26 17:08+0000\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -5964,6 +5964,7 @@ msgstr "<32>* ... Я знаю, вы все испуганы, но всё буд�
 msgid "<32>* They can't hurt us if we leave them behind."
 msgstr "<32>* Человек не сможет нам навредить, если оставим его здесь."
 
+#, fuzzy
 msgid ""
 "<32>{#p/alphys}* The Foundry's fluid network has been repaired, thanks to "
 "our... v-very kind workers."
