@@ -17537,7 +17537,7 @@ msgstr ""
 msgid "<20>{#p/undyne}{#e/undyne/8}And sparing me won't do anything!!"
 msgstr ""
 "<20>{#p/undyne}{#e/undyne/8}饒恕我\n"
-"卵用沒有！"
+"毛用沒有！"
 
 msgid "<20>{#p/undyne}{#e/undyne/11}With him and so many others gone..."
 msgstr ""
