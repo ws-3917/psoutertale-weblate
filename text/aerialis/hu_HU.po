@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-26 10:13+0000\n"
+"PO-Revision-Date: 2025-03-26 14:13+0000\n"
 "Last-Translator: BAB2056 <balazsakos2004.09@gmail.com>\n"
 "Language-Team: Hungarian <https://translate.ws3917.space/projects/"
 "ps-outertale/4-aerialis/hu/>\n"
 "Language: hu_HU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
 msgstr ""
 
@@ -61,10 +59,10 @@ msgid "* (Smash the terminal?)"
 msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 msgid "<32>{#p/human}* (You decide not to smash.)"
 msgstr ""
@@ -2615,7 +2613,7 @@ msgid ":$(x)"
 msgstr ""
 
 msgid "$(x)%"
-msgstr ""
+msgstr "$(x)%"
 
 msgid ""
 "<32>{#p/mettaton}* YOU DO REALIZE YOUR LIFE IS IN DANGER HERE... RIGHT?"
@@ -7361,7 +7359,6 @@ msgstr ""
 
 msgid "<32>{#p/human}* (Where would you like to go?)"
 msgstr ""
-
 
 msgid "Floor L1"
 msgstr ""
@@ -19022,7 +19019,7 @@ msgid "PRIVATE MESSAGES (NEWEST FIRST)"
 msgstr ""
 
 msgid "Press [X] to Finish"
-msgstr ""
+msgstr "Nyomj [x]-et a befejezéshez"
 
 msgid "SYSTEM"
 msgstr ""
@@ -19034,7 +19031,7 @@ msgid "Thank you for creating an account on the outpost's #1 social network!"
 msgstr ""
 
 msgid "ALPHYS"
-msgstr ""
+msgstr "ALPHYS"
 
 msgid "uhhhh nobody saw that right"
 msgstr ""
