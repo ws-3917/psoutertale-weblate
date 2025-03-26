@@ -1,0 +1,351 @@
+#
+msgid ""
+msgstr ""
+
+msgid "prefab For CharacterIcon is Null"
+msgstr "未找到角色貼圖配置檔案"
+
+msgid "Battle_PlayerSoul.Instance is not set."
+msgstr "Battle_PlayerSoul.Instance未被設定。"
+
+msgid "AttemptRunActions started."
+msgstr "AttemptRunActions已開始。"
+
+msgid "storedchatboxtext.Textboxes is null"
+msgstr "storedchatboxtext.Textboxes為null"
+
+msgid "storedchatboxtext.Textboxes[CurrentAdditionalTextIndex] is null"
+msgstr "storedchatboxtext.Textboxes[CurrentAdditionalTextIndex]為空"
+
+msgid "currentTextbox.Action is null"
+msgstr "currentTextbox.Action為空"
+
+msgid "currentTextbox.Action.Length is 0"
+msgstr "currentTextbox.Action.Length為0"
+
+msgid "currentTextbox.Action[CurrentTextIndex] is null"
+msgstr "currentTextbox.Action[CurrentTextIndex]為空"
+
+msgid "action.RunActionOnChatEnd is false"
+msgstr "action.RunActionOnChatEnd為false"
+
+msgid "Action will be run: "
+msgstr "行動將會執行： "
+
+msgid "action.PossibleSounds is null"
+msgstr "action.PossibleSounds為空"
+
+msgid "action.PossibleSounds.Length is 0"
+msgstr "action.PossibleSounds.Length為0"
+
+msgid "Playing sound: "
+msgstr "正在播放音效："
+
+msgid "action.TargetComponentGameObjectName is null"
+msgstr "action.TargetComponentGameObjectName為空"
+
+msgid "TargetGameObject not found: "
+msgstr "TargetGameObject（目標遊戲物件）未找到："
+
+msgid "action.FunctionName is null"
+msgstr "action.FunctionName為空"
+
+msgid "action.TargetComponentClassname is null"
+msgstr "action.TargetComponentClassname為空"
+
+msgid "Couldn't find Component named: "
+msgstr "找不到組件："
+
+msgid "Method not found: "
+msgstr "Method（方法）未找到： "
+
+msgid "Invoking method: "
+msgstr "調用方法： "
+
+msgid "AttemptRunActions ended."
+msgstr "AttemptRunActions已完畢。"
+
+msgid "Invalid index after '|' or index out of range."
+msgstr "『|』 後的索引無效或超出範圍。"
+
+msgid "Battle has Begun: {Battle}"
+msgstr "戰鬥開始：{Battle}"
+
+msgid "Battle has ended: {Battle} in the context of {EndType}"
+msgstr "戰鬥結束： {Battle}以{EndType}告終"
+
+msgid "Player's Turn: "
+msgstr "玩家回合："
+
+msgid ""
+"Player Use Round : \n"
+"{playerActions}"
+msgstr ""
+"玩家佔用回合：\n"
+"{playerActions}"
+
+msgid "Enemy's Turn: "
+msgstr "敵人回合："
+
+msgid "{targetEnemy} spared: {inflictor} | WasSpareable = {wasSpareable}"
+msgstr "{targetEnemy}饒恕了：{inflictor} | 是否黃名 = {wasSpareable}"
+
+msgid "{targetEnemy} damaged by {inflictor} for {Damage} damage"
+msgstr "{targetEnemy}被{inflictor}造成了{Damage}點傷害"
+
+msgid "{targetMember} damaged for {Damage} damage"
+msgstr "{targetMember}受到{Damage}點傷害"
+
+msgid "{targetEnemy} killed {inflictor} with {Damage} damage"
+msgstr "{targetEnemy}對{inflictor}造成了{Damage}點傷害，{inflictor}已被擊殺"
+
+msgid "New Battle State: {newState} | Previous Battle State {oldState}"
+msgstr "新戰鬥狀態：{newState} | 上一個戰鬥狀態：{oldState}"
+
+msgid "Battle Begun: {battle}"
+msgstr "戰鬥開始：{battle}"
+
+msgid "finished!"
+msgstr "完成！"
+
+msgid "Failed to get Animator in children of Battle Member!"
+msgstr "無法在戰鬥成員的子級中獲取Animator！"
+
+msgid "member in AddPartyMemberToBattle() is null!! WTF!!"
+msgstr "AddPartyMemberToBattle()中的成員為空！！啥玩意啊！！"
+
+msgid ""
+"SetupBattleScript FAILED! Either Battle or BattleScriptPrefab are null!"
+msgstr "SetupBattleScript失敗！Battle或BattleScriptPrefab為空！"
+
+msgid ""
+"BattlePartyMembers[0] was null when trying to close battle box and lerp soul"
+msgstr "嘗試關閉戰鬥框並插入靈魂時，BattlePartyMembers[0]為空"
+
+msgid "No new targets available to spare?"
+msgstr "沒有新的可饒恕目標？"
+
+msgid "FadeSpriteRenderer Failed | spriteRenderer is missing or null?"
+msgstr "FadeSpriteRenderer執行出錯 | spriteRenderer缺失或為空？"
+
+msgid "Scene Loaded: "
+msgstr "加載場景："
+
+msgid "PlayerPrefs saved!"
+msgstr "玩家數據已儲存！"
+
+msgid "AttemptRunMultipleActions started."
+msgstr "AttemptRunMultipleActions（嘗試執行多個操作）已開始。"
+
+msgid "storedchatboxtext is null"
+msgstr "存儲的對話框文本為空"
+
+msgid "currentTextbox.SubActions is null"
+msgstr "currentTextbox.SubActions為空"
+
+msgid "currentTextbox.SubActions.Length is 0"
+msgstr "currentTextbox.SubActions.Length為0"
+
+msgid "currentTextbox.SubActions.SubActions.Length is 0"
+msgstr "currentTextbox.SubActions.SubActions.Length為0"
+
+msgid "Action is null, skipping"
+msgstr "動作為空，跳過"
+
+msgid "AttemptRunMultipleActions ended."
+msgstr "AttemptRunMultipleActions（嘗試執行多個操作）已結束。"
+
+msgid "Recorded key {key} with time since last: {num}"
+msgstr "記錄鍵{key}，距上次的時間：{num}"
+
+msgid "Starting playback..."
+msgstr "開始回放..."
+
+msgid "Key: {keyPress.Key}"
+msgstr "鍵：{keyPress.Key}"
+
+msgid "Playback finished."
+msgstr "回放完畢。"
+
+msgid ""
+"Unable to rotate Character! | targetAnimator isn't active and or enabled"
+msgstr "無法旋轉角色！| targetAnimator未激活或未啟用"
+
+msgid ""
+"Unable to rotate towards position! | targetAnimator isn't active and or "
+"enabled"
+msgstr "無法旋轉至指定位置！| targetAnimator未激活或未啟用"
+
+msgid "Unable to shake transform! | transform gameobject not enabled"
+msgstr "搖動變換失敗！ | transform gameobject（變換遊戲對象）未啟用"
+
+msgid "Unable to play sound! | clip is missing or null"
+msgstr "播放音效失敗！ | clip缺失或為空"
+
+msgid "Unable to run fresh chat! | CHATBOXTEXT is null"
+msgstr "無法執行新對話！ | CHATBOXTEXT 為空"
+
+msgid "FadeInSprite failed! spriteRenderer is null"
+msgstr "FadeInSprite失敗！spriteRenderer為空"
+
+msgid "FadeOutSprite failed! spriteRenderer is null"
+msgstr "FadeOutSprite失敗！spriteRenderer為空！"
+
+msgid "Target Transform cannot be null."
+msgstr "目標變換不能為空。"
+
+msgid "Party member null?"
+msgstr "隊伍成員為空？"
+
+msgid "Markiplier is missing???"
+msgstr "Markiplier缺失？？？"
+
+msgid "Discord initialized successfully."
+msgstr "Discord初始化成功。"
+
+msgid "Failed to initialize Discord: "
+msgstr "無法初始化Discord，錯誤資訊如下："
+
+msgid ""
+"Common reasons are either, discord not being open or no internet connection."
+msgstr "常見原因是Discord未打開或沒有網際網路連接。"
+
+msgid "Discord disposed."
+msgstr "Discord已解決."
+
+msgid "Discord is not initialized, skipping ChangeActivity."
+msgstr "Discord未初始化，跳過ChangeActivity。"
+
+msgid "Activity Updated!"
+msgstr "Activity已更新！"
+
+msgid "Discord.RunCallbacks() failed: "
+msgstr "函數\"Discord.RunCallbacks()\"執行出錯，報錯資訊為："
+
+msgid "Disabling Discord integration to prevent further issues."
+msgstr "正在禁用Discord集成組件，以避免新的問題產生。"
+
+msgid "<color=green>DEBUG FREAKING MODE ENABLED!! WOAHH!!</color>"
+msgstr "<color=green>瘋狂的除錯模式已開啟！！蕪湖！！</color>"
+
+msgid "<color=green>Toggled output visibility</color>"
+msgstr "<color=green>切換輸出可見性</color>"
+
+msgid "<color=green>Stack trace saved to "
+msgstr "<color=green>Stack trace（堆棧跟蹤）儲存至 "
+
+msgid ""
+"TODO - Require player to interact with lancer before being able to return"
+msgstr "待辦 - 要求玩家與lancer互動後才能返回"
+
+msgid "New keycode set: "
+msgstr "新的鍵碼設定為："
+
+msgid ""
+"Goal: {goal.GoalPlayprefName}, Current: {@int}, Required: {requiredTasks}"
+msgstr "目標：{goal.GoalPlayprefName}，當前：{@int}，需要：{requiredTasks}"
+
+msgid "Goal already completed."
+msgstr "目標已被達成。"
+
+msgid ""
+"Checking goal {hypothesisGoal.GoalPlayprefName}: "
+"{int2}/{hypothesisGoal.RequiredTasks}"
+msgstr ""
+"檢查目標{hypothesisGoal.GoalPlayprefName}：{int2}/{hypothesisGoal.RequiredTasks}"
+
+msgid "All goals completed!"
+msgstr "目標全部達成！"
+
+msgid "Not all goals completed."
+msgstr "並非全部目標皆已完成。"
+
+msgid "step size outside of bounds idiot"
+msgstr "步長超出界限了 白痴"
+
+msgid "No bool of that name! | "
+msgstr "沒有叫那個的布爾值！| "
+
+msgid "Hypothesis or thisSection is null?"
+msgstr "Hypothesis或thisSection為空？"
+
+msgid "Gambling unlocked!"
+msgstr "Gambling（賭博）已解鎖！"
+
+msgid "Susie is not in the party?????"
+msgstr "Susie不在隊伍中？？？？？"
+
+msgid ""
+"Failed to set Party Member Walk Offset! ( No Susie_Follower in Prefab )"
+msgstr "無法設定小隊成員行走偏移！（預製件中沒有Susie_Follower）"
+
+msgid "Failed to create Party Member! ( No PartyMemberPrefab )"
+msgstr "無法創建小隊成員！（無 PartyMemberPrefab）"
+
+msgid "Failed to create Party Member! ( No Member Provided )"
+msgstr "未能創建成員！（未指定成員編號）"
+
+msgid ""
+"Failed to remove Party Member! ( SpecificedMemberIndex is greater than "
+"ActivePartyMembers list )"
+msgstr "無法創建小隊成員！（SpecificedMemberIndex超出ActivePartyMembers列表）"
+
+msgid ""
+"Failed to remove Party Member! ( SpecificMember is not in ActivePartyMembers"
+" )"
+msgstr "未能移除成員！（指定成員已倒下或不在隊伍中）"
+
+msgid ""
+"Failed to get Party Member Transform! ( Member not found in "
+"ActivePartyMembers )"
+msgstr "無法獲取小隊成員變換！（在ActivePartyMembers中未找到成員）"
+
+msgid "One"
+msgstr "一"
+
+msgid "Two"
+msgstr "二"
+
+msgid "Three"
+msgstr "三"
+
+msgid "Attempted to play player animation sound outside of index"
+msgstr "嘗試在索引之外播放播放器動畫聲音"
+
+msgid "Game data saved! | "
+msgstr "遊戲檔案已儲存！ | "
+
+msgid "No Scene Position!"
+msgstr "無場景位置！"
+
+msgid "Game data loaded!"
+msgstr "遊戲檔案已載入！"
+
+msgid ""
+"Unable to find SpriteRenderer in SPR_Parallax object, defaulting to "
+"length/height = 1"
+msgstr "無法在SPR_Parallax對象中找到SpriteRenderer（貼圖渲染器），預設長度/高度 = 1"
+
+msgid "Submesh TextMeshPro Detected"
+msgstr "檢測到Submesh TextMeshPro"
+
+msgid "Incorrect elipse detected"
+msgstr "檢測到不正確的elipse"
+
+msgid "Incorrect apostrophe detected"
+msgstr "檢測到錯誤的撇號（就是U+0027那個）"
+
+msgid "Text Prefab is not assigned."
+msgstr "未指定文本配置檔案。"
+
+msgid "Text Prefab does not have a TextMeshPro component."
+msgstr "文本配置未指向TextMeshPro檔案。"
+
+msgid "Reverting CMenus to original states"
+msgstr "將CMenu恢復到原始狀態"
+
+msgid "UI_LoadingIcon instance is not set. Make sure it's added to the scene."
+msgstr "實例UI_LoadingIcon未設定。請確保已將其添加到場景中。"
+
+msgid "LoadingIcon RawImage is not assigned in the UI_LoadingIcon."
+msgstr "LoadingIcon RawImage未在UI_LoadingIcon中分配。"

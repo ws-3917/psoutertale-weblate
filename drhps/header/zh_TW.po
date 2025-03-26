@@ -1,0 +1,646 @@
+#
+msgid ""
+msgstr ""
+
+msgid "- Overworld -"
+msgstr "- 主世界 -"
+
+msgid "- Stats -"
+msgstr "- 統計 -"
+
+msgid "- Setup -"
+msgstr "- 設定 -"
+
+msgid "Warning! Must match PartyMembers"
+msgstr "注意！必須要匹配PartyMembers"
+
+msgid "Warning! Must match Enemies"
+msgstr "注意！必須要匹配Enemies"
+
+msgid ""
+"Will choose a random dialogue, or use the default if none are present\n"
+"Try add dialogues that fit whos in the party"
+msgstr ""
+"將選擇隨機對話，若沒有對話則使用預設對話\n"
+"試著添加適合小隊成員的對話吧"
+
+msgid "NOTE, Kris acts always have blank descriptions"
+msgstr "注意，Kris的行為描述應保持空白"
+
+msgid "What this action targets"
+msgstr "此次行動的目標"
+
+msgid "This is the function that the battle script will run"
+msgstr "這是戰鬥腳本將執行的函數"
+
+msgid "Use > in function name to call method in BattleSystem instead"
+msgstr "在函數名稱中使用「>」來調用BattleSystem中的method"
+
+msgid "Keep empty to not require any"
+msgstr "留空就好"
+
+msgid "-- References --"
+msgstr "-- 參考 --"
+
+msgid "- References -"
+msgstr "- 參考 -"
+
+msgid "- Dialogue -"
+msgstr "- 對話 -"
+
+msgid "-= Movement =-"
+msgstr "-= 移動 =-"
+
+msgid "-= Lifetime =-"
+msgstr "-= 終身 =-"
+
+msgid "-= Arc Utility =-"
+msgstr "-= Arc 實用程式 =-"
+
+msgid "- Enemy Settings -"
+msgstr "- 敵人設定 -"
+
+msgid "when the player uses \\\"Spare\\\" when the enemy isn't sparable yet"
+msgstr "敵人未黃名時玩家使用「饒恕」"
+
+msgid "- Enemy Visuals -"
+msgstr "- 敵人視覺效果 -"
+
+msgid "- Animations -"
+msgstr "- 動畫 -"
+
+msgid "- Attack Settings -"
+msgstr "- 攻擊設定 -"
+
+msgid ""
+"-1 will make the attack last forever, allowing the battle script to take "
+"over."
+msgstr "當值為-1將使攻擊永不停止，由戰鬥腳本接管。"
+
+msgid "Will fade away all enemies and party members, good for wide attacks"
+msgstr "會使所有敵人和隊員消失，適合進行大範圍攻擊。"
+
+msgid "Will destroy every child in bullet holder on attack end"
+msgstr "將會消滅彈幕目錄中的每個子項"
+
+msgid "UI"
+msgstr "UI"
+
+msgid "Battle Numbers"
+msgstr "戰鬥編號"
+
+msgid "Bottom Bar"
+msgstr "底部欄"
+
+msgid "TP Bar"
+msgstr "TP欄"
+
+msgid "Prefabs"
+msgstr "預製件"
+
+msgid "Holders"
+msgstr "支架"
+
+msgid "Backgrounds"
+msgstr "背景"
+
+msgid "UI Windows"
+msgstr "UI視窗"
+
+msgid "- Sounds -"
+msgstr "- 音效 -"
+
+msgid "- Default Spell Sounds -"
+msgstr "- 預設法術音效 -"
+
+msgid "- Effects -"
+msgstr "- 效果 -"
+
+msgid "- Battle Settings -"
+msgstr "- 戰鬥設定 -"
+
+msgid "- Stored Values -"
+msgstr "- 存儲值 -"
+
+msgid "- Temporary Debug -"
+msgstr "- 臨時除錯 -"
+
+msgid "-- Choices --"
+msgstr "-- 選項 --"
+
+msgid "-- Sounds --"
+msgstr "-- 音效 --"
+
+msgid "- Settings -"
+msgstr "- 設定 -"
+
+msgid "-= References =-"
+msgstr "-= 參考 =-"
+
+msgid "Computer Screen"
+msgstr "電腦屏幕"
+
+msgid "BIOS loading Text"
+msgstr "BIOS加載文本"
+
+msgid "Logo Glitched"
+msgstr "Logo故障"
+
+msgid "Messenger"
+msgstr "Messenger"
+
+msgid "Play a sound during this action, add multiple to the list for random"
+msgstr "在此操作期間播放聲音，將多個添加到列表中以供隨機"
+
+msgid "Run a function in a certain component."
+msgstr "執行某個函數中的某個功能。"
+
+msgid "WARNING! Will fail if two objects have the same name"
+msgstr "警告！如果兩個對象同名則會失敗"
+
+msgid ""
+"Runs everything this action will do when the players ends the chat that this"
+" action is on"
+msgstr "當玩家結束此操作所處的聊天時，執行此操作將執行的所有操作"
+
+msgid "Edit monospace StyleSheet in font folder to add"
+msgstr "編輯字體檔案夾中的等寬字體樣式表以添加"
+
+msgid "1 = Default Speed | 2 = 50% slower | 0.5 = 50% faster"
+msgstr "1 = 預設速度 | 2 = 慢50% | 0.5 = 快50%"
+
+msgid ""
+"0 - ChoiceCount | Default selected (OOB values = No default selection, soul "
+"in center)"
+msgstr "0 - 選項數量（ChoiceCount） | 預設選項（OOB值 = 無預設選項，靈魂在中心）"
+
+msgid "Use < br> for new lines, slash N doesn't work for some reason"
+msgstr "使用< br>換行，斜槓後面跟個N不知道為啥不好使"
+
+msgid "Player can press X to prematurely exit dialogue"
+msgstr "玩家可以按 X 提前退出對話"
+
+msgid "Only show and allow input from options at end of Text running"
+msgstr "僅顯示並允許文本執行結束時的選項輸入"
+
+msgid "For customizing text size, font and color"
+msgstr "用於自訂文本大小、字體和顏色"
+
+msgid "- Some Default Choice Position Values -"
+msgstr "- 一些預設選擇位置值 -"
+
+msgid ""
+"2 choice positions\\r\n"
+"\\r\n"
+"option1 -253.4, -82.5\\r\n"
+"option2 46.6, -82.5\\r\n"
+"\\r\n"
+"3 choice positions\\r\n"
+"\\r\n"
+"option1 -230, -82.5\\r\n"
+"option2 -30, -82.5\\r\n"
+"option3 170, -82.5\\r\n"
+"\\r\n"
+"4 choice positions\\r\n"
+"\\r\n"
+"option1 -400, -82.5\\r\n"
+"option2 -150, -82.5\\r\n"
+"option3 150, -82.5\\r\n"
+"option4 400, -82.5"
+msgstr ""
+"2 個選擇位置\\r\n"
+"\\r\n"
+"選項1 -253.4，-82.5\\r\n"
+"選項2 46.6，-82.5\\r\n"
+"\\r\n"
+"3 個選擇位置\\r\n"
+"\\r\n"
+"選項1 -230，-82.5\\r\n"
+"選項2 -30，-82.5\\r\n"
+"選項3 170，-82.5\\r\n"
+"\\r\n"
+"4 個選擇位置\\r\n"
+"\\r\n"
+"選項1 -400，-82.5\\r\n"
+"選項2 -150，-82.5\\r\n"
+"選項3 150，-82.5\\r\n"
+"選項4 400，-82.5"
+
+msgid "- Text inner workings -"
+msgstr "- 文本內部工作原理 -"
+
+msgid "- Text Settings -"
+msgstr "- 文本設定 -"
+
+msgid "Each reaction is shown in sequential order, starting from the top."
+msgstr "每個反應都按順序顯示，從最上面開始。"
+
+msgid ""
+"# = 0.5 second pause\n"
+"@ = 0.125 second pause\n"
+"; = new line in dialogue\n"
+"~ = new line in dialogue but bulletpoint is one below than normal\n"
+"£ = Forcefully end chat, useful for when rich text is used"
+msgstr ""
+"# = 0.5秒的停頓\n"
+"@ = 0.125秒的停頓\n"
+"; = 對話內再開一行\n"
+"~ = 帶有星號的再開一行\n"
+"£ = 強制結束聊天"
+
+msgid ""
+"WARNING FOR RICH TEXT! Only use ONE per dialogue, and try avoid pausing "
+"characters."
+msgstr "富文本警告！每個對話只能使用一個，並儘量避免停頓符。"
+
+msgid ""
+"Battle Specific - use Empty text to continue dialogue but show no bubble."
+msgstr "戰鬥特定 - 使用空文本繼續對話但不顯示氣泡。"
+
+msgid "Intro Disclaimer"
+msgstr "免責聲明"
+
+msgid "Credits Intro"
+msgstr "創作者名單"
+
+msgid "Ending Cutscene"
+msgstr "終場動畫"
+
+msgid "Debug"
+msgstr "除錯"
+
+msgid "Before Cutscene Stuff"
+msgstr "過場動畫前"
+
+msgid "Cutscene Stuff"
+msgstr "過場動畫內容"
+
+msgid "- Shared References -"
+msgstr "- 共享參考 -"
+
+msgid "Item used on Kris"
+msgstr "給Kris使用物品"
+
+msgid "Item used on Susie"
+msgstr "給Susie使用物品"
+
+msgid "Item used on Ralsei"
+msgstr "給Ralsei使用物品"
+
+msgid "-- Variables --"
+msgstr "-- 變量 --"
+
+msgid "Menu States and SubStates"
+msgstr "選單狀態與副狀態"
+
+msgid "-- Animations --"
+msgstr "-- 動畫 --"
+
+msgid "-- Top and Bottom Row References --"
+msgstr "-- 頂行和底行參考 --"
+
+msgid "-- Item Menu References --"
+msgstr "-- 物品選單參考 --"
+
+msgid "References"
+msgstr "參考"
+
+msgid "Panel Settings"
+msgstr "面板設定"
+
+msgid "Fade Settings"
+msgstr "淡入淡出設定"
+
+msgid "Misc"
+msgstr "雜項"
+
+msgid "-- Cutscene References --"
+msgstr "-- 過場動畫參考 --"
+
+msgid "Landing from the fall"
+msgstr "從墜落處著陸"
+
+msgid "-- Cutscene Audio --"
+msgstr "-- 過場動畫音效 --"
+
+msgid "Characters"
+msgstr "角色"
+
+msgid "-- Character Move Positions --"
+msgstr "-- 角色移動位置 --"
+
+msgid "Kris and Susie"
+msgstr "Kris和Susie"
+
+msgid "Jigsaw Joe"
+msgstr "拼版喬"
+
+msgid "Tasque and Tasque Manager"
+msgstr "Tasque與Tasquue Manager"
+
+msgid "Rudinn"
+msgstr "Rudinn（註：這是方鑽）"
+
+msgid "-- Cutscene Chats --"
+msgstr "-- 過場動畫對話 --"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Cutscene References"
+msgstr "過場動畫參考"
+
+msgid "Cutscene Chats"
+msgstr "過場動畫對話"
+
+msgid "Cutscene Sounds"
+msgstr "過場動畫音效"
+
+msgid "Character Positions"
+msgstr "角色位置"
+
+msgid "-- Cutscene Settings --"
+msgstr "-- 過場動畫設定 --"
+
+msgid "Kris, Susie and Ralsei"
+msgstr "Kris，Susie與Ralsei"
+
+msgid "Cutscene"
+msgstr "過場動畫"
+
+msgid "Dialogue"
+msgstr "對話"
+
+msgid "Character Animations"
+msgstr "角色動畫"
+
+msgid "- Walk Positions -"
+msgstr "- 移動位置 -"
+
+msgid "- Cutscene Info -"
+msgstr "- 過場動畫資訊 -"
+
+msgid "Base Menu References"
+msgstr "基本選單參考"
+
+msgid "Settings Menu References"
+msgstr "設定選單參考"
+
+msgid "Return Menu References"
+msgstr "返回選單參考"
+
+msgid "Restart Menu References"
+msgstr "重啟選單參考"
+
+msgid "-= Main =-"
+msgstr "-= 主要 =-"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "-= Sounds =-"
+msgstr "-= 音效 =-"
+
+msgid "-= Dyslexic Font Setup -="
+msgstr "-= 閱讀困難字體設定 =-"
+
+msgid ""
+"Only used for the main menu settings, keep null to use global reference"
+msgstr "僅用於主選單設定，留空以使用全局引用"
+
+msgid "-= Settings =-"
+msgstr "-= 設定 =-"
+
+msgid "Is saved as Setting_<KeyBinding>"
+msgstr "儲存為Setting_<KeyBinding>"
+
+msgid "Is saved as Setting_<SettingName>"
+msgstr "儲存為Setting_<SettingName>"
+
+msgid "Will start as \\\"HypothesisGoal_\\\""
+msgstr "將會以「HypothesiGoal_」開始"
+
+msgid "Hypothetical this goal will be in, used for tracking logs"
+msgstr "Hypothetical這個目標將在其中，用於追蹤日誌"
+
+msgid "Below are saved flags that will be reset upon loading this scene"
+msgstr "以下是已儲存的標誌，將在加載此場景時重置"
+
+msgid "Choose to reset the player inventory to a specific set of items"
+msgstr "選擇將玩家庫存重置為一組特定的物品"
+
+msgid "For text that requires the player to interact multiple times"
+msgstr "對於需要玩家多次互動的文本"
+
+msgid "WARNING! This component is removed once ran"
+msgstr "警告！此組件一旦執行就會被刪除"
+
+msgid "Chat Variables"
+msgstr "對話變量"
+
+msgid "Generic component used for detecting player interactions."
+msgstr "用於檢測玩家互動的通用組件。"
+
+msgid ""
+"When interacted, Interacted will be the opposite of what it currently is"
+msgstr "互動時，互動將與當前相反"
+
+msgid "-= Variables =-"
+msgstr "-= 變量 =-"
+
+msgid "Used for more basic NPCs, that don't usually move"
+msgstr "用於基本NPC，通常不會移動"
+
+msgid "For more advanced NPCs like Papyrus or Toriel"
+msgstr "對於更高級的NPC，如Papyrus和Toriel"
+
+msgid "-- Base Variables --"
+msgstr "-- 基礎變量 --"
+
+msgid "-- Darkworld Specific Variables --"
+msgstr "-- 暗世界特定變量 --"
+
+msgid "-- Item Attributes --"
+msgstr "-- 物品屬性 --"
+
+msgid "Leave Empty to continue previous panel"
+msgstr "留空以繼續上一面板"
+
+msgid "For if RoomHasMultipleEntrances is false"
+msgstr "如果RoomHasMultipleEntrances為假"
+
+msgid "Range: -1,1"
+msgstr "範圍：-1,1"
+
+msgid "-= Party System =-"
+msgstr "-= 隊伍系統 =-"
+
+msgid "-= Calls =-"
+msgstr "-= 呼叫 =-"
+
+msgid ""
+"Make sure this matches current queued call amount, keep empty to not change"
+msgstr "確保與當前排隊呼叫數量相符，留空則不變"
+
+msgid "Use a # to not have the \\\"Call\\\" text added to name"
+msgstr "使用#以避免將「呼叫」文本添加到名稱中"
+
+msgid "-= Music =-"
+msgstr "-= 音效 =-"
+
+msgid "Keep empty to stop the current song, if previous bool is true"
+msgstr "如果上一個布爾值為真，留空則會停止當前歌曲"
+
+msgid "-= Room spawn Positions =-"
+msgstr "-= 房間生成位置 =-"
+
+msgid "-= Discord RPC =-"
+msgstr "-= Discord RPC =-"
+
+msgid "Spacing for if SelectionMode is 1"
+msgstr "如果SelectionMode為1，則有間距"
+
+msgid "Selection Index 1, Scene Transition"
+msgstr "選擇索引1，場景轉換"
+
+msgid "Selection Mode 1 Specific"
+msgstr "選擇模式1具體"
+
+msgid "Selection Mode 2 Specific"
+msgstr "選擇模式2具體"
+
+msgid "Whether to preload (True) or unload (False)"
+msgstr "是否預加載(True)或解除安裝(False)"
+
+msgid "-= Slot Settings =-"
+msgstr "-= 槽位設定 =-"
+
+msgid "-= Slot Sound =-"
+msgstr "-= 槽位音效 =-"
+
+msgid "-= Symbols =-"
+msgstr "-= 符號 =-"
+
+msgid "Range : -1 to 1"
+msgstr "範圍：-1至1"
+
+msgid "Sounds"
+msgstr "音效"
+
+msgid "-- Settings --"
+msgstr "-- 設定 --"
+
+msgid "-- Cutscene Sounds --"
+msgstr "-- 過場動畫音效 --"
+
+msgid "-- Debug --"
+msgstr "-- 除錯 --"
+
+msgid "-- OAO Shared --"
+msgstr "-- 萬食共享 --"
+
+msgid "-- Goblin Fight --"
+msgstr "-- 哥布林戰鬥 --"
+
+msgid "-- 3 Door Choice --"
+msgstr "-- 三個門選項 --"
+
+msgid "-- After OAO --"
+msgstr "-- 萬食之後 --"
+
+msgid "-- Walking Stuff --"
+msgstr "-- 移動內容 --"
+
+msgid "Stats"
+msgstr "統計"
+
+msgid "Battle"
+msgstr "戰鬥"
+
+msgid "-= Stats =-"
+msgstr "-= 狀態 =-"
+
+msgid "-= Default PartyMembers =-"
+msgstr "-= 預設隊伍成員 =-"
+
+msgid "Game,Cutscene,NoPlayerMovement"
+msgstr "遊戲，過場動畫，無玩家移動"
+
+msgid "Player Variables"
+msgstr "玩家變量"
+
+msgid ""
+"If the previous scene index doesnt match any Spawn positions, will go to "
+"default"
+msgstr "如果前一個場景索引與任何生成（Spawn）位置不匹配，將轉為預設"
+
+msgid "-- Player Specific --"
+msgstr "-- 特定玩家 --"
+
+msgid "-- Optional --"
+msgstr "-- 可選 --"
+
+msgid "0 - 1 | Higher the number the more distance from camera"
+msgstr "0 - 1 | 數字越大，距離攝像機越遠"
+
+msgid "Sort by Y position (basically its like negative y pos * 6 rounded)"
+msgstr "按Y位置排序（基本就是負的y位置乘上6，然後四捨五入）"
+
+msgid "Arc Utility"
+msgstr "Arc實用工具"
+
+msgid "1 = Susie | 1.125 = Ralsei"
+msgstr "1 = Susie | 1.125 = Ralsei"
+
+msgid "Multiplier, 1 = normal | 0.5 = half speed"
+msgstr "乘數，1 = 正常 | 0.5 = 半速"
+
+msgid "-= Audio =-"
+msgstr "-= 音訊 =-"
+
+msgid "WARNING! This can only run once!"
+msgstr "警告！只能執行一次！"
+
+msgid "Idle Sprites"
+msgstr "空閒貼圖"
+
+msgid "Walk Sprites"
+msgstr "移動貼圖"
+
+msgid "Walk2 Sprites"
+msgstr "移動2貼圖"
+
+msgid "- Camera Controls -"
+msgstr "- 攝像機控制 -"
+
+msgid "- Shelter -"
+msgstr "- 遮蔽 -"
+
+msgid "-- Cutscene --"
+msgstr "-- 過場動畫 --"
+
+msgid "- Sound and Music -"
+msgstr "- 音效與音樂 -"
+
+msgid "-- Vessel Randomizer --"
+msgstr "-- 容器隨機發生器 --"
+
+msgid "-- Custom Colors --"
+msgstr "-- 自訂顏色 --"
+
+msgid "-- Additional Settings --"
+msgstr "-- 附加設定 --"
+
+msgid ""
+"True clone copies the target texts position, bounds and maxvisible "
+"characters"
+msgstr "真的複製目標文本的位置、邊界和最大可見字符"
+
+msgid "Use sparingly, can be quite performance intenstive"
+msgstr "謹慎使用，可能會對效能造成很大影響"
+
+msgid "Doesn't disable rich text itself, but removes the <> tags"
+msgstr "不會禁用富文本本身，但會刪除<>標籤"
+
+msgid "Random Controls"
+msgstr "隨即控制"
