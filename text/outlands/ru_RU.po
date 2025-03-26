@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
 "PO-Revision-Date: 2025-03-26 03:08+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7896,17 +7896,21 @@ msgstr ""
 "<32>{#p/basic}* Дневник.\n"
 "* В нём нет ничего смешного."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You look to the most recently written paragraph.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы смотрите на последний написанный абзац.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's been scribbled out with a crayon."
-msgstr ""
+msgstr "<32>{#p/basic}* Он был написан мелком."
 
+#, fuzzy
 msgid "<32>{#p/toriel}{#f/21}* \"It has not been the best of days.\""
-msgstr ""
+msgstr "<32>{#p/toriel}{#f/21}* «Это был не самый лучший день»."
 
+#, fuzzy
 msgid "<32>* \"Yet another human has fallen out of my care...\""
-msgstr ""
+msgstr "<32>* «Ещё один человек покинул меня...»"
 
 msgid "<32>* \"The seventh and final human he'd need to break the force field.\""
 msgstr ""
