@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-26 10:13+0000\n"
+"PO-Revision-Date: 2025-03-26 10:13+0000\n"
+"Last-Translator: BAB2056 <balazsakos2004.09@gmail.com>\n"
+"Language-Team: Hungarian <https://translate.ws3917.space/projects/"
+"ps-outertale/3-foundry/hu/>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "<32>{#p/basic}* ..."
 msgstr ""
@@ -583,7 +598,7 @@ msgid "Spookwaltz"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Mégse"
 
 msgid "<32>{*}{#p/human}* (You turn the dial...){^40}{%}"
 msgstr ""
@@ -831,7 +846,7 @@ msgid "Sleep"
 msgstr ""
 
 msgid "Music"
-msgstr ""
+msgstr "Zene"
 
 msgid ""
 "<32>{#p/napstablook}* you... want to...\n"
@@ -14577,7 +14592,7 @@ msgid "1000G - tem pay 4 colleg"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Kilépés"
 
 msgid "0G - tem flake"
 msgstr ""
@@ -14696,7 +14711,7 @@ msgid "Sell"
 msgstr ""
 
 msgid "Talk"
-msgstr ""
+msgstr "Beszéd"
 
 msgid ""
 "<23>{#p/tem}{#k/0}* hOI!\n"
