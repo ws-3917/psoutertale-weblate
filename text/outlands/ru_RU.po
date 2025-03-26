@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:13+0000\n"
-"PO-Revision-Date: 2025-03-26 03:08+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-03-26 04:28+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7888,27 +7888,34 @@ msgstr "<32>{#p/toriel}{#f/21}* «Это был не самый лучший д�
 
 #, fuzzy
 msgid "<32>* \"Yet another human has fallen out of my care...\""
-msgstr "<32>* «Ещё один человек покинул меня...»"
+msgstr "<32>* «Ещё один человек ушёл от меня...»"
 
+#, fuzzy
 msgid "<32>* \"The seventh and final human he'd need to break the force field.\""
 msgstr ""
+"<32>* «Седьмой и последний человек, который нужен ему, чтобы сломать силовое "
+"поле»."
 
+#, fuzzy
 msgid "<32>* \"I should not have allowed this to happen.\""
-msgstr ""
+msgstr "<32>* «Я должна была это предотвратить»."
 
 msgid "<32>* \"With the stakes so high, a confrontation may be inevitable...\""
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/toriel}{#f/21}* \"It has been an interesting day, to say the "
 "least.\""
-msgstr ""
+msgstr "<32>{#p/toriel}{#f/21}* «Это был... интересный день, если не больше»."
 
+#, fuzzy
 msgid "<32>* \"A human arrived...\""
-msgstr ""
+msgstr "<32>* «Прибыл ещё один человек...»"
 
+#, fuzzy
 msgid "<32>* \"Then, tried to leave...\""
-msgstr ""
+msgstr "<32>* «А потом пытался уйти...»"
 
 msgid "<32>* \"And then, the strangest thing happened.\""
 msgstr ""
