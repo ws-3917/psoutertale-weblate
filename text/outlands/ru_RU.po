@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-27 02:18+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"PO-Revision-Date: 2025-03-27 11:11+0000\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -2835,11 +2835,13 @@ msgstr ""
 "<32>{#p/basic}* Даже сейчас терминал остается таким же недосягаемым, как и "
 "раньше."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You got the Little Dipper.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы получили Малый Ковш.)"
 
+#, fuzzy
 msgid "* (Equip the Little Dipper?)"
-msgstr ""
+msgstr "* (Экипировать Малый Ковш?)"
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* Pies are for eating, not for splattering on the "
@@ -3554,8 +3556,9 @@ msgid ""
 msgstr ""
 "<25>{#f/6}{#v/0}* Но когда дошло до пика, она не смогла спасти себя саму."
 
+#, fuzzy
 msgid "<25>{#f/11}{#v/0}* So you finally caved in and killed someone, huh?"
-msgstr ""
+msgstr "<25>{#f/11}{#v/0}* Так ты наконец-то поддался и убил кого-то?"
 
 msgid "<25>{#f/7}{#v/0}* Well, I hope you like your choice."
 msgstr "<25>{#f/7}{#v/0}* Ладно, надеюсь, тебе нравится твой же выбор."
@@ -4081,36 +4084,45 @@ msgstr "<32>{#p/human}* (Вы решили ничего не брать.)"
 msgid "<32>{#p/human}* (You got the Chocolate Bar.)"
 msgstr "<32>{#p/human}* (Вы получили Плитку Шоколада.)"
 
+#, fuzzy
 msgid "<25>{#p/asriel1}{#f/17}* Ah... chocolate."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/17}* Ах... шоколад."
 
 msgid "<25>{#p/asriel1}{#f/13}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* ..."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel1}{#f/23}* Oh... $(name) ALWAYS used to root around in the "
 "fridge."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/23}* Ох... $(name) постоянно лезла в холодильник."
 
+#, fuzzy
 msgid "<25>{#f/13}* They thought, if they dug deep enough..."
-msgstr ""
+msgstr "<25>{#f/13}* Она думала, что если залезет очень глубоко..."
 
+#, fuzzy
 msgid "<25>{#f/13}* Another bar of chocolate would reveal itself inside."
-msgstr ""
+msgstr "<25>{#f/13}* То появится ещё одна плитка шоколада."
 
+#, fuzzy
 msgid "<25>{#f/17}* ... how silly."
-msgstr ""
+msgstr "<25>{#f/17}* ... как глупо."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel1}{#f/20}* That was before the chocolate replicator was "
 "installed."
 msgstr ""
+"<25>{#p/asriel1}{#f/20}* Это было до установления воссоздателя шоколада."
 
+#, fuzzy
 msgid "<32>{#p/basic}* The chocolate bar has already been taken."
-msgstr ""
+msgstr "<32>{#p/basic}* Шоколадную плитку уже взяли."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* ... and you want to play one of your songs?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* ... и ты хочешь сыграть одну из своих песней?"
 
 msgid "<25>{#f/0}* Alright, I will see what I can do."
 msgstr ""
