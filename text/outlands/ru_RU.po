@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-27 13:12+0000\n"
+"PO-Revision-Date: 2025-03-27 13:50+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -879,24 +879,20 @@ msgstr "<25>{#f/15}* Моя первоначальная ДУША."
 msgid "<25>{#f/16}* ..."
 msgstr "<25>{#f/16}* ..."
 
-#, fuzzy
 msgid ""
 "<26>{#f/16}* When $(name) and I died, they must've wrapped themselves around"
 " me..."
 msgstr ""
-"<26>{#f/16}* Когда мы с $(name) умерли, она, должно быть, привязалась ко "
-"мне..."
+"<26>{#f/16}* Когда мы с $(name) умерли, она, похоже, привязалась ко мне..."
 
-#, fuzzy
 msgid "<25>{#f/13}* ... keeping me safe until I could be brought back here."
-msgstr "<25>{#f/13}* ... Защищая меня до моего возвращения."
+msgstr "<25>{#f/13}* ...Чтобы защитить меня до моего возвращения."
 
-#, fuzzy
 msgid ""
 "<26>{#f/17}* They held on that whole time, just for a chance to see me, "
 "Frisk..."
 msgstr ""
-"<26>{#f/17}* Она держалась всё это время ради шанса увидется со мной, "
+"<26>{#f/17}* Она держалась всё это время ради шанса увидеться со мной, "
 "Фриск..."
 
 msgid "<25>{#f/13}* ... so, the least I can do is honor it."
@@ -1375,12 +1371,11 @@ msgstr "<32>{#p/basic}* ..."
 msgid "<32>* This is fine."
 msgstr "<32>* Это нормально."
 
-#, fuzzy
 msgid "<25>{#p/asriel2}{#f/10}* Something you missed back here?"
 msgstr "<25>{#p/asriel2}{#f/10}* Ты что-то забыл?"
 
 msgid "<25>{#p/asriel2}{#f/3}* Ah, the place where it all began."
-msgstr "<25>{#p/asriel2}{#f/3}* Это место где всё началось."
+msgstr "<25>{#p/asriel2}{#f/3}* Здесь всё и началось."
 
 msgid ""
 "<25>{#p/asriel2}{#f/4}* We've certainly come along since then, haven't we, "
@@ -1788,15 +1783,14 @@ msgstr ""
 msgid "<32>* \"I didnt think it would ever happen, but here they are.\""
 msgstr "<32>* «Я не думал что это когда-либо случится, но вот она здесь»."
 
-#, fuzzy
 msgid ""
 "<32>* \"And they are actually he{#p/basic}f{#p/asriel1}{#v/1}h{#p/basic}sj "
 "haha azzy is a stinky butt and "
 "he{#p/asriel1}{#v/1}vh{#p/basic}v{#p/asriel1}{#v/1}j{#p/basic}a{#p/asriel1}{#v/1}s\""
 msgstr ""
-"<32>* \"И она действительно зд{#p/basic}ф{#p/asriel1}{#v/1}х{#p/basic}сж "
-"хаха аззи какашка и он{#p/asriel1}{#v/1}вх{#p/basic}в{#p/asriel1}{#v/1}ж{#p/"
-"basic}а{#p/asriel1}{#v/1}с\""
+"<32>* «И она действительно зд{#p/basic}ф{#p/asriel1}{#v/1}х{#p/basic}сж хаха "
+"аззи какашка и он{#p/asriel1}{#v/1}вх{#p/basic}в{#p/asriel1}{#v/1}ж{#p/"
+"basic}а{#p/asriel1}{#v/1}с»"
 
 msgid ""
 "<32>* \"Okay so Im actually hiding under the covers so $(name) cant mess up "
@@ -1905,7 +1899,6 @@ msgstr "<32>{#p/human}* (Если вы ляжете спать, то пропу�
 msgid "* (Go to sleep?)"
 msgstr "* (Лечь спать?)"
 
-#, fuzzy
 msgid "<25>{#p/toriel}{#f/5}* Oh dear."
 msgstr "<25>{#p/toriel}{#f/5}* О боже."
 
@@ -2021,11 +2014,9 @@ msgstr "<32>* это... я даже не знаю что это такое..."
 msgid "<32>* well, i'll be going now"
 msgstr "<32>* ну, я пойду"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You got the Fried Snails.)"
-msgstr "<32>{#p/human}* (Вы получили Жаренные Улитки.)"
+msgstr "<32>{#p/human}* (Вы получили жареных улиток.)"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You approach the vending machine.)"
 msgstr "<32>{#p/human}* (Вы подходите к торговому автомату.)"
 
