@@ -25804,7 +25804,7 @@ msgstr ""
 "你們星火唯粉打字都打不明白的嗎XDゐ"
 
 msgid "im really starting to regret not adding a block function"
-msgstr "真後悔當時忘加屏蔽功能了ゐ"
+msgstr "真後悔當時忘加遮蔽功能了ゐ"
 
 msgid "gotta go."
 msgstr "我得走了。"
