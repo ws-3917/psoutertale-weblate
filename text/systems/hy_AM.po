@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-27 11:11+0000\n"
+"PO-Revision-Date: 2025-03-27 21:20+0000\n"
 "Last-Translator: Sevag Mora <77gamerr77@gmail.com>\n"
 "Language-Team: Armenian <https://translate.ws3917.space/projects/"
 "ps-outertale/0-systems/hy/>\n"
@@ -104,25 +104,25 @@ msgstr ""
 "ղրկէ` հնարիչին։"
 
 msgid "CONTROL"
-msgstr ""
+msgstr "ԿԱՐԳԱԴՐԵԼ"
 
 msgid "GENERAL"
-msgstr ""
+msgstr "ԸՆԴՀԱՆՈՒՐ"
 
 msgid "BATTLE"
-msgstr ""
+msgstr "ԿՌԻՒ"
 
 msgid "FixMusic"
-msgstr ""
+msgstr "ՃիշտԵրաժշտ."
 
 msgid "FixPlayer"
-msgstr ""
+msgstr "ՃշտԽաղցող"
 
 msgid "InfiniteG"
-msgstr ""
+msgstr "ԱնեզրՈ"
 
 msgid "Interact"
-msgstr ""
+msgstr "Շօշափել"
 
 msgid "Input"
 msgstr ""
@@ -149,7 +149,7 @@ msgid "ClearBox"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Դուրս"
 
 msgid "ResetBox"
 msgstr ""
@@ -158,58 +158,58 @@ msgid "ResetMenu"
 msgstr ""
 
 msgid "CanFlee"
-msgstr ""
+msgstr "ԿրնալՓախիլ"
 
 msgid "InfiniteHP"
-msgstr ""
+msgstr "ԱնեզրHP"
 
 msgid "PacifyAll"
 msgstr ""
 
 msgid "Suicide"
-msgstr ""
+msgstr "Անձնասպանութիւն"
 
 msgid "WeakenAll"
-msgstr ""
+msgstr "ԲոլորիՏկարացնել"
 
 msgid "$(x) FPS"
-msgstr ""
+msgstr "$(x) FPS"
 
 msgid "Halt"
-msgstr ""
+msgstr "Կանք"
 
 msgid "GAME SPEED"
-msgstr ""
+msgstr "ԽԱՂԻ ԱՐԱԳՈՒԹԻՒՆ"
 
 msgid "More"
-msgstr ""
+msgstr "Աւելի"
 
 msgid "Less"
-msgstr ""
+msgstr "Քիչ"
 
 msgid "$(x)s/frame"
-msgstr ""
+msgstr "$(x)երկվ/frame"
 
 msgid "GODHOME"
-msgstr ""
+msgstr "ԱՍՏՈՒԱԾԱՏՈՒՆ"
 
 msgid "ROOM"
-msgstr ""
+msgstr "ՍԵՆԵԱԿ"
 
 msgid "Teleport"
 msgstr ""
 
 msgid "ENCOUNTER"
-msgstr ""
+msgstr "ՀԱՆԴԻՊՈՒՄ"
 
 msgid "Start"
-msgstr ""
+msgstr "Սկսիլ"
 
 msgid "ARMOR"
-msgstr ""
+msgstr "ԶՐԱՀ"
 
 msgid "WEAPON"
-msgstr ""
+msgstr "ԶԷՆՔ"
 
 msgid "INSPECT"
 msgstr ""
@@ -218,31 +218,31 @@ msgid "LAYERS"
 msgstr ""
 
 msgid "TYPES"
-msgstr ""
+msgstr "ՏԵՍԱԿՆԵՐ"
 
 msgid "Base"
-msgstr ""
+msgstr "Base"
 
 msgid "Below"
-msgstr ""
+msgstr "Տակ"
 
 msgid "Main"
-msgstr ""
+msgstr "Գլխաւոր"
 
 msgid "Above"
-msgstr ""
+msgstr "Վեր"
 
 msgid "Menu"
-msgstr ""
+msgstr "Կարգաւորում"
 
 msgid "Hitbox"
-msgstr ""
+msgstr "Hitbox"
 
 msgid "Sprite"
-msgstr ""
+msgstr "Նկար"
 
 msgid "Text"
-msgstr ""
+msgstr "Գրութիւն"
 
 msgid "EXPLORER"
 msgstr ""
@@ -329,49 +329,49 @@ msgid "Duration"
 msgstr ""
 
 msgid "EXP"
-msgstr ""
+msgstr "EXP"
 
 msgid "Extent"
-msgstr ""
+msgstr "Ծաւալ"
 
 msgid "F"
-msgstr ""
+msgstr "F"
 
 msgid "Face"
-msgstr ""
+msgstr "Դէմք"
 
 msgid "False"
-msgstr ""
+msgstr "Սխալ"
 
 msgid "Fill"
-msgstr ""
+msgstr "Լեցնել"
 
 msgid "Font Family"
-msgstr ""
+msgstr "Տառատեսակի Ընտանիք"
 
 msgid "Font Size"
-msgstr ""
+msgstr "Տառերու Չափ"
 
 msgid "Frames"
-msgstr ""
+msgstr "Նկարներ"
 
 msgid "Gravity"
-msgstr ""
+msgstr "Ծանրաբարոյութիւն"
 
 msgid "Group"
-msgstr ""
+msgstr "Խումբ"
 
 msgid "HP"
-msgstr ""
+msgstr "HP"
 
 msgid "Index"
-msgstr ""
+msgstr "Index"
 
 msgid "Inert"
 msgstr ""
 
 msgid "Key"
-msgstr ""
+msgstr "Բանալի"
 
 msgid "Last Saved Time"
 msgstr ""
