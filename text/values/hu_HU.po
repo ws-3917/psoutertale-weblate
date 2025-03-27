@@ -1,321 +1,358 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-27 11:11+0000\n"
+"PO-Revision-Date: 2025-03-27 11:11+0000\n"
+"Last-Translator: BAB2056 <balazsakos2004.09@gmail.com>\n"
+"Language-Team: Hungarian <https://translate.ws3917.space/projects/"
+"ps-outertale/7-values/hu/>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "en_US"
 msgstr "hu_HU"
 
-msgid ""
-msgstr ""
 
 msgid "You must choose a name."
-msgstr ""
+msgstr "Választanod kell egy nevet."
 
 msgid "No?"
-msgstr ""
+msgstr "Nem?"
 
 msgid "Hm...?"
-msgstr ""
+msgstr "Hm...?"
 
 msgid "Maybe?"
-msgstr ""
+msgstr "Talán?"
 
 msgid "Yes?"
-msgstr ""
+msgstr "Igen?"
 
 msgid ""
 "Take heart.\n"
 "There is nothing to be afraid of here."
 msgstr ""
+"Fel a fejjel.\n"
+"Itt nincs mitől félned."
 
 msgid "A light-hearted spirit will serve you well on your journey."
-msgstr ""
+msgstr "Egy könnyed lélek jó szolgálatot tesz majd utadon."
 
 msgid ""
 "Take heart.\n"
 "Your frustrations are behind you now."
 msgstr ""
+"Fel a fejjel.\n"
+"A frusztrációd már magad mögött hagytad."
 
 msgid ""
 "Take heart.\n"
 "The story is yours, no matter what you feel."
 msgstr ""
+"Fel a fejjel.\n"
+"A történet a tied, bárhogy is érzel."
 
 msgid "May tranquility come upon you as you embark on your journey."
-msgstr ""
+msgstr "Kísérjen nyugalom, amint utadnak indulsz."
 
 msgid ""
 "Take heart.\n"
 "Your story is as interesting as you make it."
 msgstr ""
+"Fel a fejjel.\n"
+"A sztori olyan érdekes, amilyennek alakítod."
 
 msgid "May your quality of speech translate to action on your journey."
-msgstr ""
+msgstr "Beszéded ereje váljon tettekké utad során."
 
 msgid "A courageous heart will serve you well on your journey."
-msgstr ""
+msgstr "Egy bátor szív remekül szolgál az utadon."
 
 msgid "A sense of serenity will do you wonders on your journey."
-msgstr ""
+msgstr "A nyugalom érzése csodákra lesz képes az utadon."
 
 msgid "May your ingenuity surpass the challenges on your journey."
-msgstr ""
+msgstr "Leleményességed múlja felül az előtted álló akadályokat."
 
 msgid "A confident mindset will take you far on your journey."
-msgstr ""
+msgstr "A magabiztosság messzire fog vinni utad során."
 
 msgid "May your inginuity surpass the challanges on your journey."
-msgstr ""
+msgstr "Leleményességed múlja felül utad kihívásait."
 
 msgid "May balance come upon you as you embark on your journey."
-msgstr ""
+msgstr "Legyen veled az egyensúly a kibontakozó út során."
 
 msgid ""
 "Take heart.\n"
 "There is much to be learned on the road ahead."
 msgstr ""
+"Fel a fejjel.\n"
+"Sokat kell tanulnod az előtted álló kaland során."
 
 msgid "May the tapestry of chaos and order satisfy you on your journey."
-msgstr ""
+msgstr "A káosz és rend szövetének összhangja elégítse ki utad."
 
 msgid "May your story gain meaning in this cocoon amidst the darkness."
-msgstr ""
+msgstr "Történeted nyerjen értelmet ebben a bábban a sötétség közepette."
 
 msgid "May the experience be as playful as you desire."
-msgstr ""
+msgstr "Tapasztalataid legyenek oly játékosak, amilyennek szeretnéd."
 
 msgid "May the experience be as excessive as you desire."
-msgstr ""
+msgstr "Tapasztalatod olyan mértékű legyen, mit lelked kíván."
 
 msgid ""
 "Take heart.\n"
 "You have nothing to feel ashamed of now."
 msgstr ""
+"Fel a fejjel.\n"
+"Már semmitől nem kell tartanod."
 
 msgid "A temperate ego will take you far on your journey."
-msgstr ""
+msgstr "A mértékletes egó messzire juttat utadon."
 
 msgid "May the experience provide the sustenance you require."
-msgstr ""
+msgstr "A tapasztalat jelentse a táplálékod, amire szükséged van."
 
 msgid "May your story bring forth the emotion you strive to feel."
-msgstr ""
+msgstr "A történet hozza elő érzelmeid, melyeket érezni szeretnél."
 
 msgid "May your choices be as effortless as they come."
-msgstr ""
+msgstr "Választásaid legyenek oly könnyedek, mint ahogy eléd kerülnek."
 
 msgid ""
 "Take heart.\n"
 "There is much companionship to be had here."
 msgstr ""
+"Fel a fejjel!\n"
+"Itt társaságra lelhetsz."
 
 msgid "May your fortune carry you forward on your journey."
-msgstr ""
+msgstr "A szerencséd vezessen előre utadon."
 
 msgid "May the tapestry of chaos and order please you on your journey."
-msgstr ""
+msgstr "A káosz és rend szövete elégítse ki utad."
 
 msgid ""
 "Take heart.\n"
 "Your story is as uplifting as you make it."
 msgstr ""
+"Fel a fejjel.\n"
+"Történeted oly felemelő lesz, amilyennek azt megéled."
 
 msgid "May your stability provide a solid foundation on your journey."
-msgstr ""
+msgstr "Kitartásod biztosítson szilárd alapot az utad során."
 
 msgid "May the experience only add to your state of satisfaction."
-msgstr ""
+msgstr "A tapasztalatod adjon többet az elégedettésgedhez vezető úton."
 
 msgid "May the experience be as comforting as you desire."
-msgstr ""
+msgstr "A tapasztalatod legyen oly nyugtató, mint azt lelked kívánja."
 
 msgid "May the experience provide the energy you require."
-msgstr ""
+msgstr "A tapasztalatod adjon energiát, melyre szükséged lehet."
 
 msgid "May your overflowing energy power you through your journey."
-msgstr ""
+msgstr "A túlcsorduló energiád segítsen át utadon."
 
 msgid "I am honored by your choice."
-msgstr ""
+msgstr "Meg vagyok tisztelve választásodtól."
 
 msgid "Let the experiment begin."
-msgstr ""
+msgstr "Kezdődjék a kísérlet."
 
 msgid "The true name."
-msgstr ""
+msgstr "Az igazi név."
 
 msgid "This name is incorrect."
-msgstr ""
+msgstr "Ez a név helytelen."
 
 msgid ""
 "............\n"
 "(They're powerless to stop you.)"
 msgstr ""
+"............\n"
+"(Nincs ereje, hogy megállítson.)"
 
 msgid ""
 "............\n"
 "(It's not much for conversation.)"
 msgstr ""
+"............\n"
+"(Nem elég egy beszélgetéshez.)"
 
 msgid "Hello."
-msgstr ""
+msgstr "Hello."
 
 msgid "Saddle up!"
-msgstr ""
+msgstr "Fel a nyeregbe!"
 
 msgid "Well... I suppose that works..."
-msgstr ""
+msgstr "Hát... Asszem működhet..."
 
 msgid "I think you should think of your own name, my child."
-msgstr ""
+msgstr "A saját nevedre gondolj, gyermekem."
 
 msgid "Really..."
-msgstr ""
+msgstr "Komolyan..."
 
 msgid "Nice try, idiot."
-msgstr ""
+msgstr "Szép próbálkozás, idióta."
 
 msgid "Don't you mean \"Eyewalker?\""
-msgstr ""
+msgstr "\"Eyewalker-re\" gondoltál?"
 
 msgid "Check out my antenna!"
-msgstr ""
+msgstr "Csekkold le az antennám!"
 
 msgid "Guh huh huh, nice one."
-msgstr ""
+msgstr "Guh huh huh, klassz."
 
 msgid "Huh? What's that smell?"
-msgstr ""
+msgstr "Heh? Mi ez a szag?"
 
 msgid "It's m-moving! I-I-It's shaking!"
-msgstr ""
+msgstr "Ez m-mozog! E-e-ez rázkódik!"
 
 msgid "Jerry."
-msgstr ""
+msgstr "Jerry."
 
 msgid "(The dog jumped into your lap.)"
-msgstr ""
+msgstr "(A kutya az öledbe ugrott.)"
 
 msgid "(Pant pant)"
-msgstr ""
+msgstr "(lihegés hangok)"
 
 msgid "I'LL ALLOW IT!!!!"
-msgstr ""
+msgstr "MEGENGEDEM!!!!"
 
 msgid "ok."
-msgstr ""
+msgstr "ok."
 
 msgid "nope."
-msgstr ""
+msgstr "nem."
 
 msgid "A \"stellar\" choice."
-msgstr ""
+msgstr "\"Csillaglatos\" választás."
 
 msgid "A pleasing nomenclature, no?"
-msgstr ""
+msgstr "Egy kellemes elnevezés, nemde?"
 
 msgid "I am not amused."
-msgstr ""
+msgstr "Nem vagyok elragadtatva."
 
 msgid "Roar."
-msgstr ""
+msgstr "Rrrr."
 
 msgid "Wah ha ha! Why not?"
-msgstr ""
+msgstr "Wah ha ha! Miért is ne?"
 
 msgid "What. What! WHAT!"
-msgstr ""
+msgstr "Mivan. Mivan! MIVAN!"
 
 msgid "That's my name!!"
-msgstr ""
+msgstr "Az az én nevem!"
 
 msgid ""
 "Ahuhuhu~\n"
 "You must have great taste, dearie~"
 msgstr ""
+"Ahuhuhu~\n"
+"Remek az ízlésed, kedveske~"
 
 msgid ""
 "Hey!\n"
 "Only Skrubby gets to call me that!"
 msgstr ""
+"Héj!\n"
+"Csak Skrubby hívhat így!"
 
 msgid "Sorry, but you're a letter shy."
-msgstr ""
+msgstr "Bocsi, de egy betűvel lemaradtál."
 
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 msgid "Clean name."
-msgstr ""
+msgstr "Tiszta név."
 
 msgid "hOI!"
-msgstr ""
+msgstr "hOI!"
 
 msgid "Ngah, fine."
-msgstr ""
+msgstr "Ngah, legyen."
 
 msgid "Get your OWN name!"
-msgstr ""
+msgstr "Szerezz SAJÁT nevet!"
 
 msgid "Uh.... OK?"
-msgstr ""
+msgstr "Uh.... Oké?"
 
 msgid "D-don't do that."
-msgstr ""
+msgstr "N-ne csináld."
 
 msgid "You are really scraping the bottom of the barrel."
-msgstr ""
+msgstr "Te aztán tényleg a hordó alját vakarod."
 
 msgid "Like, OK I guess."
-msgstr ""
+msgstr "Hát, OKÉ asszem."
 
 msgid "You like my name, little buddy?"
-msgstr ""
+msgstr "Tetszik a nevem, kis haver?"
 
 msgid "Bratty! Bratty! That's MY name!"
-msgstr ""
+msgstr "Bratty! Bratty! Ez az ÉN nevem!"
 
 msgid "A fellow wizard?"
-msgstr ""
+msgstr "Áh, egy varázsló cimbora?"
 
 msgid "Slick choice, homeslice."
-msgstr ""
+msgstr "Klassz választás, haver."
 
 msgid "Now you're just being rude, darling."
-msgstr ""
+msgstr "Ez már csak bunkóság, kedvesem."
 
 msgid "OOOOH!!! ARE YOU PROMOTING MY BRAND?"
-msgstr ""
+msgstr "OOOOH!!! PROMOTÁLOD A MÁRKÁM?"
 
 msgid "Is this name correct? ;)"
-msgstr ""
+msgstr "Helyes ez a név? ;)"
 
 msgid "Hot, but not hot enough."
-msgstr ""
+msgstr "Forró, de nem eléggé."
 
 msgid "You don't have to do that..."
-msgstr ""
+msgstr "Nem kell ezt tenned..."
 
 msgid "You KNEW!?"
-msgstr ""
+msgstr "Hát TUDTAD!?"
 
 msgid "Respect my AUTHORITY!"
-msgstr ""
+msgstr "Tiszteld a HATALMAM!"
 
 msgid "Ahh! Thank you~"
-msgstr ""
+msgstr "Ahh! Köszike~"
 
 msgid "Thanks for, uh, using my name."
-msgstr ""
+msgstr "Köszi, hogy öhm, használod a nevem."
 
 msgid "You can?"
-msgstr ""
+msgstr "Megteheted?"
 
 msgid "You cannot."
-msgstr ""
+msgstr "Nem teheted."
 
 msgid "... fine."
-msgstr ""
+msgstr "... legyen."
 
 msgid "..."
-msgstr ""
+msgstr "..."
