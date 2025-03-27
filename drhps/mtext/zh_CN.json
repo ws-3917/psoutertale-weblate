@@ -28,7 +28,7 @@
     "DevelopmentInsightPart1-sharedassets2.assets-483-ItemTitle-1": "开发洞察 第1部分",
     "DevelopmentInsightPart2-sharedassets2.assets-484-ItemTitle-1": "开发洞察 第2部分",
     "DevelopmentInsightPart3-sharedassets2.assets-485-ItemTitle-1": "开发洞察 第3部分",
-    "DRHDebugManager-level0-1623-controls-1": "",
+    "DRHDebugManager-level0-1623-controls-1": "---------------------------------------\n<color=yellow>除错模式快捷键</color>\nB+D+Enter = 调试模式（可切换）\nB+D+P = 切换输出日志（可切换）\nB+D+G = 100倍速度（可切换）\nB+D+H = 0.1倍速度（可切换）\nF8 = 将上一个报错保存到TXT文件\nALT+F4 = 免费土豆丝\n上键 = 刷新当前聊天框\n左键 = 切换到后一个文本",
     "EndOfTheDeltarune-sharedassets2.assets-502-HypothesisName-1": "先知预言",
     "EndOfTheDeltarune-sharedassets2.assets-502-HypothesisTagline-1": "一个预言的传说还是迎来了悲惨的结局。",
     "EndOfTheDeltarune-sharedassets2.assets-502-HypothesisDescription-1": "如果为了恢复光与暗之间的平衡，必须封印储藏室内的喷泉，会发生什么？",
