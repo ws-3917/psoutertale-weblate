@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-27 11:11+0000\n"
+"PO-Revision-Date: 2025-03-27 11:29+0000\n"
 "Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -4124,8 +4124,9 @@ msgstr "<32>{#p/basic}* Шоколадную плитку уже взяли."
 msgid "<25>{#p/toriel}{#f/1}* ... and you want to play one of your songs?"
 msgstr "<25>{#p/toriel}{#f/1}* ... и ты хочешь сыграть одну из своих песней?"
 
+#, fuzzy
 msgid "<25>{#f/0}* Alright, I will see what I can do."
-msgstr ""
+msgstr "<25>{#f/0}* Ладно, я сделаю всё в моих силах."
 
 msgid "<25>{#p/toriel}{#f/1}* ... hello?"
 msgstr "<25>{#p/toriel}{#f/1}* ...привет?"
@@ -4133,51 +4134,68 @@ msgstr "<25>{#p/toriel}{#f/1}* ...привет?"
 msgid "<25>{#p/toriel}{#f/2}* Up already!?"
 msgstr "<25>{#p/toriel}{#f/2}* Уже встал!?"
 
+#, fuzzy
 msgid "<25>{#f/1}* You were not asleep for very long..."
-msgstr ""
+msgstr "<25>{#f/1}* Ты спала не очень долго..."
 
+#, fuzzy
 msgid "<25>{#f/1}* The atmospheric system still does not seem to be fixed."
-msgstr ""
+msgstr "<25>{#f/1}* Систему атмосферы ещё не починили."
 
+#, fuzzy
 msgid "<25>{#f/1}* The atmospheric system seems to be malfunctioning."
-msgstr ""
+msgstr "<25>{#f/1}* У системы атмосферы сбои."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* If you begin to feel weak, do not hesitate to return to bed."
 msgstr ""
+"<25>{#f/1}* Если ты почувствуешь усталость, то не бойся возвращаться в "
+"постель."
 
+#, fuzzy
 msgid "<26>{#f/0}* ... anywho."
-msgstr ""
+msgstr "<26>{#f/0}* ... тем не менее."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/2}* How long have you been standing there!?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/2}* Как долго ты там стояла!?"
 
+#, fuzzy
 msgid "<25>{#f/0}* I suppose it matters not."
-msgstr ""
+msgstr "<25>{#f/0}* Полагаю, что это не важно."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Napstablook, a visitor here, has offered to play their music."
 msgstr ""
+"<25>{#f/0}* Один из посетителей, Напстаблук, предложил сыграть свою музыку."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* In fact, they invited you specifically to be with them on stage!"
-msgstr ""
+msgstr "<25>{#f/0}* На самом деле, он пригласил тебя на сцену!"
 
+#, fuzzy
 msgid "<25>{#f/1}* Would you like to visit the activities room to see them?"
-msgstr ""
+msgstr "<25>{#f/1}* Хочешь увидиться с ним в комнате мероприятий?"
 
+#, fuzzy
 msgid "<25>{#f/3}* Oh, and, I apologize about the state of the pie."
-msgstr ""
+msgstr "<25>{#f/3}* Ещё, я прошу прощения за состояние пирога."
 
+#, fuzzy
 msgid ""
 "<25>{#f/4}* It seems that little white dog has raided my kitchen again..."
-msgstr ""
+msgstr "<25>{#f/4}* Похоже что мелкая белая собака снова напала на мою кухню..."
 
+#, fuzzy
 msgid "<25>{#f/5}* Oh, and, I apologize about the state of the pie."
-msgstr ""
+msgstr "<25>{#f/3}* Ещё, я прошу прощения за состояние пирога."
 
+#, fuzzy
 msgid "<25>{#f/9}* I did my best to try and salvage it..."
-msgstr ""
+msgstr "<25>{#f/9}* Я сделала всё что могла, чтобы спасти его..."
 
 msgid "* (See Napstablook's show?)"
 msgstr "* (Пойти на выступление Напстаблука?)"
@@ -4192,16 +4210,21 @@ msgstr ""
 msgid "<25>{#p/toriel}{#f/5}* I will be in the living room if you need me."
 msgstr "<25>{#p/toriel}{#f/5}* Я буду в гостиной, если я нужна тебе."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* Oh, hello, little one.\n"
 "* You are up early."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Ох, здравствуй, дитё.\n"
+"* Ты рано проснулась."
 
+#, fuzzy
 msgid "<25>{#f/1}* Are you sure you slept for a long enough time?"
-msgstr ""
+msgstr "<25>{#f/1}* Ты уверена, что достаточно спала?"
 
+#, fuzzy
 msgid "<26>{#f/0}* ... aside from that..."
-msgstr ""
+msgstr "<26>{#f/0}* ... но кроме этого..."
 
 msgid "<25>{#p/toriel}* Good morning, little one."
 msgstr "<25>{#p/toriel}* Доброе утро, моё дитя."
@@ -4209,20 +4232,25 @@ msgstr "<25>{#p/toriel}* Доброе утро, моё дитя."
 msgid "<25>{#f/0}* Still, I have done my best to salvage it for you."
 msgstr "<25>{#f/0}* Я сделала всё возможное, чтобы сохранить его для тебя."
 
+#, fuzzy
 msgid "<25>{#f/1}* The stars do look pretty today, do they not?"
-msgstr ""
+msgstr "<25>{#f/1}* Сегодня звёзды прекрасны."
 
+#, fuzzy
 msgid "<25>{#f/5}* I will be in the living room if you need me."
-msgstr ""
+msgstr "<25>{#f/5}* Если что, я в гостиной."
 
+#, fuzzy
 msgid "<25>* The Outlands have been unusually noisy today."
-msgstr ""
+msgstr "<25>* Запределье черезвычайно шумное весь день."
 
+#, fuzzy
 msgid "<25>* It seems a bully has been going around and causing trouble..."
-msgstr ""
+msgstr "<25>* Какой-то задира ходит вокруг и устраивает неприятности..."
 
+#, fuzzy
 msgid "<25>* It would be best not to stray too far."
-msgstr ""
+msgstr "<25>* Лучше не уходить слишком далеко."
 
 msgid "<25>* The Outlands have been unusually silent today."
 msgstr "<25>* В Запределье сегодня непривычно тихо..."
@@ -4240,27 +4268,32 @@ msgstr ""
 "<26>{#f/3}* Из прочих новостей: белый щенок снова устроил переполох на "
 "кухне."
 
+#, fuzzy
 msgid ""
 "<25>{#f/3}* Apart from the little white dog raiding my kitchen, that is."
-msgstr ""
+msgstr "<25>{#f/3}* Разве что от мелкой собаки, которая нападает на мою кухню."
 
+#, fuzzy
 msgid "<25>{#f/1}* I hope you like it..."
-msgstr ""
+msgstr "<25>{#f/1}* Я надеюсь, что тебе понравится..."
 
+#, fuzzy
 msgid "<25>{#f/1}* It is rather worrying..."
-msgstr ""
+msgstr "<25>{#f/1}* Это довольно волнует..."
 
 msgid "<25>{#f/0}* Anyhoo, I will be in the living room if you need me."
 msgstr "<25>{#f/0}* Если что-то понадобится, я буду в гостиной."
 
 msgid "<25>{#p/toriel}{#f/10}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/10}* ..."
 
+#, fuzzy
 msgid "<25>{#f/20}{|}* Come here- {%}"
-msgstr ""
+msgstr "<25>{#f/20}{|}* Сюда иди- {%}"
 
+#, fuzzy
 msgid "<25>{#f/19}{|}* Come here- {%}"
-msgstr ""
+msgstr "<25>{#f/19}{|}* Сюда иди- {%}"
 
 msgid ""
 "<25>{#p/toriel}{#f/5}* I am sorry for what I have put you through, little "
