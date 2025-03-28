@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-03-28 10:25+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -5768,29 +5768,39 @@ msgstr "<32>{#p/basic}{#n1}* Спасибо за всё, чел ;)"
 
 #, fuzzy
 msgid "<32>{#p/basic}{#n1!}* \"Sizzli Steak\" for 40G."
-msgstr "<32>{#p/basic}{#n1!}* «Шипящий стейк» за 40З."
+msgstr "<32>{#p/basic}{#n1!}* «Шипящий стейк» за 40М."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1!}* It's labelled \"Sizzli Steak\" and costs 40G.\n"
 "* Smells like ultra-hyperbole."
 msgstr ""
+"<32>{#p/basic}{#n1!}* Этот «шипящий стейк» стоит 40 М.\n"
+"* Пахнет большим преувеличением."
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1!}* \"Sizzli Steak\" for 20G."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1!}* «Шипящий стейк» за 20М."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}{#n1!}* It's labelled \"Sizzli Steak\" and costs 20G.\n"
 "* Smells like hyperbole."
 msgstr ""
+"<32>{#p/basic}{#n1!}* Этот «шипящий стейк» стоит 20М.\n"
+"* Пахнет преувеличением."
 
+#, fuzzy
 msgid "* (Buy the Sizzli Steak for 40G?)"
-msgstr ""
+msgstr "* (Купить шипящий стейк за 40М?)"
 
+#, fuzzy
 msgid "* (Buy the Sizzli Steak for 20G?)"
-msgstr ""
+msgstr "* (Купить шипящий стейк за 20М?)"
 
+#, fuzzy
 msgid "<32>{#p/human}{#n1!}* (You got the Sizzli Steak.)"
-msgstr ""
+msgstr "<32>{#p/human}{#n1!}* (Вы получили шипящий стейк.)"
 
 msgid "<32>{#p/basic}{#n1}* Slick choice, lassy ;)"
 msgstr "<32>{#p/basic}{#n1}* Клёвый выбор, чел ;)"
