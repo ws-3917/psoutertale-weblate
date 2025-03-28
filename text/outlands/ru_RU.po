@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-03-28 09:15+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -4471,7 +4471,7 @@ msgstr "<25>{#f/1}* Спасибо за твоё терпение, моё дит
 
 #, fuzzy
 msgid "<25>{#f/0}* You are very good."
-msgstr "<25>{#f/0}* Ты очень хорошая."
+msgstr "<25>{#f/0}* Ты очень хороший."
 
 msgid ""
 "<25>{#p/toriel}* Hello...\n"
