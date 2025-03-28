@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-27 21:20+0000\n"
+"PO-Revision-Date: 2025-03-28 09:15+0000\n"
 "Last-Translator: Sevag Mora <77gamerr77@gmail.com>\n"
 "Language-Team: Armenian <https://translate.ws3917.space/projects/"
 "ps-outertale/0-systems/hy/>\n"
@@ -419,49 +419,49 @@ msgid "Priority"
 msgstr ""
 
 msgid "REGISTRY"
-msgstr ""
+msgstr "ԱՐՁԱՆԱԳՐՈՒԹԻՒՆ"
 
 msgid "Renderer"
-msgstr ""
+msgstr "Render Ընող"
 
 msgid "Resources"
-msgstr ""
+msgstr "Միջոցներ"
 
 msgid "Reverse"
-msgstr ""
+msgstr "Հակառակ"
 
 msgid "Right"
-msgstr ""
+msgstr "Աջ"
 
 msgid "Room"
-msgstr ""
+msgstr "Սենեակ"
 
 msgid "Room State"
-msgstr ""
+msgstr "Սենեակի Վիճակ"
 
 msgid "Rotation"
-msgstr ""
+msgstr "Թաւալում"
 
 msgid "Scale"
-msgstr ""
+msgstr "Աստիճան"
 
 msgid "Shop Selection"
-msgstr ""
+msgstr "Խանութի Ընտրելը"
 
 msgid "Size"
-msgstr ""
+msgstr "Չափը"
 
 msgid "Spacing"
-msgstr ""
+msgstr "Տեղ Տալ"
 
 msgid "Spin"
-msgstr ""
+msgstr "Դարձուածք"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Խաղի Նկարներ"
 
 msgid "Step"
-msgstr ""
+msgstr "Քայլ"
 
 msgid "Stroke"
 msgstr ""
@@ -470,40 +470,40 @@ msgid "Subcrop"
 msgstr ""
 
 msgid "Talk"
-msgstr ""
+msgstr "Խօսք"
 
 msgid "Target"
-msgstr ""
+msgstr "Նշան"
 
 msgid "Time"
-msgstr ""
+msgstr "Ժամ"
 
 msgid "Tint"
-msgstr ""
+msgstr "Երանգ"
 
 msgid "Tracked Assets"
-msgstr ""
+msgstr "Հետեւուած Կալուածամասներ"
 
 msgid "True"
-msgstr ""
+msgstr "Ճիշտ"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ՉԻ ԳԻՏՑՈՒԱԾ"
 
 msgid "Up"
-msgstr ""
+msgstr "Վեր"
 
 msgid "Vars"
-msgstr ""
+msgstr "Vars"
 
 msgid "Velocity"
-msgstr ""
+msgstr "Երագութիւն"
 
 msgid "Volatile"
-msgstr ""
+msgstr "Սնկայուն"
 
 msgid "SAVEMOD"
-msgstr ""
+msgstr "ՊԱՀԱՄՈՏ"
 
 msgid "SAVE EDITOR"
 msgstr ""
