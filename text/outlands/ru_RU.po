@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-28 10:07+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"PO-Revision-Date: 2025-03-28 10:25+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -5763,7 +5763,6 @@ msgstr "<32>* И всё-таки, почему бы тебе не глянуть
 msgid "<32>{#p/basic}{#n1}* Why don'tcha check out what's for sale? ;)"
 msgstr "<32>{#p/basic}{#n1}* Почему бы тебе не глянуть ассортимент товаров? ;)"
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Thanks for everything, lassy ;)"
 msgstr "<32>{#p/basic}{#n1}* Спасибо за всё, чел ;)"
 
@@ -5793,11 +5792,9 @@ msgstr ""
 msgid "<32>{#p/human}{#n1!}* (You got the Sizzli Steak.)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Slick choice, lassy ;)"
 msgstr "<32>{#p/basic}{#n1}* Клёвый выбор, чел ;)"
 
-#, fuzzy
 msgid "<32>{#p/human}{#n1!}* (You decide not to buy.)"
 msgstr "<32>{#p/human}{#n1!}* (Вы не решаетесь купить.)"
 
@@ -5849,20 +5846,17 @@ msgstr ""
 msgid "<32>{#p/basic}{#n1}* Maybe you should come back later ;)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}{#n1}* By the way, we're outta stock ;)"
-msgstr "<32>{#p/basic}{#n1}* Кстати, мы всё продали ;)"
+msgstr "<32>{#p/basic}{#n1}* Кста, мы всё распродали ;)"
 
-#, fuzzy
 msgid "<32>* Seems you can't get enough of our stuff ;)"
-msgstr "<32>* Походу тебе недостаточно наших ништяков ;)"
+msgstr "<32>* А тебе всё мало ;)"
 
 msgid "<32>* Say, if- no, when you meet the boss-man... tell him this ;)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/human}{#n1!}* (Aaron whispered something in your ear.)"
-msgstr "<32>{#p/human}{#n1!}* (Аарон что-то прошептал в ваше ухо.)"
+msgstr "<32>{#p/human}{#n1!}* (Аарон что-то прошептал вам на ухо.)"
 
 msgid "<32>{#p/basic}{#n1}* Good luck out there, lassy ;)"
 msgstr ""
@@ -5975,13 +5969,12 @@ msgstr "<32>* ... Я знаю, вы все испуганы, но всё буд�
 msgid "<32>* They can't hurt us if we leave them behind."
 msgstr "<32>* Человек не сможет нам навредить, если оставим его здесь."
 
-#, fuzzy
 msgid ""
 "<32>{#p/alphys}* The Foundry's fluid network has been repaired, thanks to "
 "our... v-very kind workers."
 msgstr ""
-"<32>{#p/alphys}* Система охлаждения Литейной была исправлена, благодаря "
-"нашим... о-отважным рабочим."
+"<32>{#p/alphys}* Система охлаждения Литейной стабилизирована... С-спасибо "
+"нашим отважным рабочим."
 
 msgid "<32>* On an unrelated note, we're... l-looking for new workers."
 msgstr "<32>* Говоря не к стати, то мы... и-ищем новых работников."
@@ -6445,17 +6438,14 @@ msgstr ""
 "<32>* (Используйте {@fill=#ff0}ПОЩАДУ{@fill=#fff}, человек.)\n"
 "* Квак."
 
-#, fuzzy
 msgid "<32>{#p/human}* (You stare thoughtfully into the cosmos beyond...)"
 msgstr "<32>{#p/human}* (Вы задумчиво смотрите в дальний космос...)"
 
-#, fuzzy
 msgid "<32>{#p/basic}* It's ironic how staring at outer space..."
-msgstr "<32>{#p/basic}* Ирония судьбы в том, что, смотря в открытый космос..."
+msgstr "<32>{#p/basic}* Иронично, что смотря в открытый космос..."
 
-#, fuzzy
 msgid "<32>* Tends to be a great way to channel your inner thoughts."
-msgstr "<32>* ...мысли сами начинают сортироваться в вашей голове."
+msgstr "<32>* ...ваши мысли сами встают на свои места."
 
 msgid "<32>{#p/basic}* It's a view of outer space."
 msgstr "<32>{#p/basic}* Это вид на открытый космос."
@@ -6463,12 +6453,9 @@ msgstr "<32>{#p/basic}* Это вид на открытый космос."
 msgid "<32>* Certainly no shortage of those around here, is there?"
 msgstr "<32>* Уж в нём-то точно нет проблем, ведь так?"
 
-#, fuzzy
 msgid ""
 "<32>{#p/human}* (The sign speaks of strength of will in times of trouble.)"
-msgstr ""
-"<32>{#p/human}* (Эта табличка демонстрирует силу воли в самые трудные "
-"времена.)"
+msgstr "<32>{#p/human}* (Эта табличка повествует о силе воле.)"
 
 msgid ""
 "<32>{#p/basic}* \"Even when you stumble, the will to push onward shows "
@@ -6477,19 +6464,15 @@ msgstr ""
 "<32>{#p/basic}* «Даже спотыкаясь, вы встаёте и продолжаете путь к вашей "
 "цели»."
 
-#, fuzzy
 msgid "<32>{#p/human}* (You stare happily into the cosmos beyond...)"
 msgstr "<32>{#p/human}* (Вы с улыбкой смотрите в дальний космос...)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* After such a long journey, the glass doesn't seem to scare "
 "you."
 msgstr ""
-"<32>{#p/basic}* После такого длинного приключения стекло, кажется, больше не "
-"пугает вас."
+"<32>{#p/basic}* После стольких приключений, стекло больше не пугает вас."
 
-#, fuzzy
 msgid "<32>* Not that it ever did in the first place."
 msgstr "<32>* Но на самом деле это не имеет значения."
 
@@ -6504,17 +6487,15 @@ msgid "<32>* Despite all common sense, this doesn't seem to bother you."
 msgstr ""
 "<32>* Вопреки здравому смыслу, судя по всему, вас это не особо волнует."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* Ribbit, ribbit.\n"
 "* (Someone passed by here not too long ago.)"
 msgstr ""
 "<32>{#p/basic}* Квак-квак.\n"
-"* (Не так давно некто проходил здесь.)"
+"* (Недавно кое-кто проходил здесь.)"
 
-#, fuzzy
 msgid "<32>* (He told me not to tell you where he was going.)"
-msgstr "<32>* (Он попросил меня не говорить вам, куда он идёт.)"
+msgstr "<32>* (Он попросил меня не говорить, куда он направился.)"
 
 #, fuzzy
 msgid "<32>* (I wasn't going to, but then, he just seemed so sad...)"
@@ -6595,7 +6576,7 @@ msgid ""
 "<32>* (Maybe next time, you could try being a little nicer?)\n"
 "* Ribbit."
 msgstr ""
-"<32>* (Возможно вам стоит быть добрее к другим?)\n"
+"<32>* (Возможно, вам стоит быть добрее к другим?)\n"
 "* Квак."
 
 msgid "<32>* (My friend is the happiest they've ever been.)"
