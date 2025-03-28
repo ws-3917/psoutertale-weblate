@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-03-28 10:07+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -5722,7 +5722,7 @@ msgstr ""
 msgid ""
 "<32>* And believe me, lassy, this ain't just the same old stuff as before, "
 "aw naw ;)"
-msgstr "<32>* И поверь мне, детка, это не какой-то старый хлам, о нет ;)"
+msgstr "<32>* И поверь мне, чел, это не какой-то старый хлам, о нет ;)"
 
 msgid "<32>* This stuff is GENUINE, yo ;)"
 msgstr "<32>* Это РЕАЛЬНО крутая тема, йоу ;)"
@@ -5765,10 +5765,11 @@ msgstr "<32>{#p/basic}{#n1}* Почему бы тебе не глянуть ас
 
 #, fuzzy
 msgid "<32>{#p/basic}{#n1}* Thanks for everything, lassy ;)"
-msgstr "<32>{#p/basic}{#n1}* Спасибо за всё, детка ;)"
+msgstr "<32>{#p/basic}{#n1}* Спасибо за всё, чел ;)"
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1!}* \"Sizzli Steak\" for 40G."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1!}* «Шипящий стейк» за 40З."
 
 msgid ""
 "<32>{#p/basic}{#n1!}* It's labelled \"Sizzli Steak\" and costs 40G.\n"
