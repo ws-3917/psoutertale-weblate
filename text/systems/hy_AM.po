@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-28 09:15+0000\n"
+"PO-Revision-Date: 2025-03-29 01:13+0000\n"
 "Last-Translator: Sevag Mora <77gamerr77@gmail.com>\n"
 "Language-Team: Armenian <https://translate.ws3917.space/projects/"
 "ps-outertale/0-systems/hy/>\n"
@@ -506,280 +506,289 @@ msgid "SAVEMOD"
 msgstr "ՊԱՀԱՄՈՏ"
 
 msgid "SAVE EDITOR"
-msgstr ""
+msgstr "ԿԱՐԳ ՓՈԽԵԼ"
 
 msgid "Data (Booleans)"
-msgstr ""
+msgstr "Տեղեկութիւն (Պուլեան)"
 
 msgid "Data (Numbers)"
-msgstr ""
+msgstr "Տեղեկութիւն (Թիւ)"
 
 msgid "Data (Strings)"
-msgstr ""
+msgstr "Տեղեկութիւն (Թելեր)"
 
 msgid "Flags (Booleans)"
-msgstr ""
+msgstr "Դրօշեր (Պուլեաններ)"
 
 msgid "Flags (Numbers)"
-msgstr ""
+msgstr "Դրօշեր (Թիւեր)"
 
 msgid "Flags (Strings)"
-msgstr ""
+msgstr "Դրօշեր (Թելեր)"
 
 msgid "NAVIGATION"
-msgstr ""
+msgstr "ՆԱՒԱՐԿՈՒԹԻՒՆ"
 
 msgid "Prev"
-msgstr ""
+msgstr "Առաջ"
 
 msgid "Next"
-msgstr ""
+msgstr "Յաջորդ"
 
 msgid "Enter Value"
-msgstr ""
+msgstr "Գրէ` Արժէքը"
 
 msgid "Back"
-msgstr ""
+msgstr "Ետ"
 
 msgid "STORAGE"
-msgstr ""
+msgstr "ՄԹԵՐԱՆՈՑ"
 
 msgid "STORAGE EDITOR"
-msgstr ""
+msgstr "ՄԹԵՐԱՆՈՑ ՓՈԽԵԼ"
 
 msgid "SELECTION"
-msgstr ""
+msgstr "ԸՆՏՐՈՒՄ"
 
 msgid "Inventory"
-msgstr ""
+msgstr "Կահագիր"
 
 msgid "Dim. Box A"
-msgstr ""
+msgstr "Համ. Տուփ Ա"
 
 msgid "Dim. Box B"
-msgstr ""
+msgstr "Համ. Տուփ Բ"
 
 msgid "Clear File"
-msgstr ""
+msgstr "Սրբել Կարգը"
 
 msgid "Notice"
-msgstr ""
+msgstr "Լուր"
 
 msgid "Clear Mobile Settings"
-msgstr ""
+msgstr "Սրբել Հեռաձայնի Յատկութիւններ"
 
 msgid "Open"
-msgstr ""
+msgstr "Բանալ"
 
 msgid "SAVE files"
-msgstr ""
+msgstr "SAVE-ի Կարգեր"
 
 msgid "Open File"
-msgstr ""
+msgstr "Բանալ Կարգ"
 
 msgid "Save File"
-msgstr ""
+msgstr "Պահել Կարգ"
 
 msgid "That file could not be parsed."
-msgstr ""
+msgstr "Այդ կարգը չ'աշխատիր։"
 
 msgid "OK"
-msgstr ""
+msgstr "ԼԱՒ"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Հանել"
 
 msgid "Clear this file?"
-msgstr ""
+msgstr "Սրբե՞լ այս կարգը։"
 
 msgid ""
 "Your SAVE file from the\n"
 "OUTERTALE demo has been\n"
 "moved to a timeline slot."
 msgstr ""
+"SAVE-ի կարգդ OUTERTALE\n"
+"demo-էն տեղափոխուած է\n"
+"timeline թորիծի։"
 
 msgid "Save this file?"
-msgstr ""
+msgstr "Պահե՞լ այս կարգը։"
 
 msgid ""
 "Clear mobile-related settings?\n"
 "This will NOT clear\n"
 "your SAVE file."
 msgstr ""
+"Սրբե՞լ հերաձայնի վերաբերեալ ընտրութիւններ։\n"
+"Քու SAVE-ի կարգդ\n"
+"պիտի չի սրբուի։"
 
 msgid ""
 "Copy the text below into\n"
 "a JSON file to save it\n"
 "to your device."
 msgstr ""
+"Վարի գրութիւնը տա`ր\n"
+"JSON կարգի որ պահես\n"
+"քու համակարգիչիդ։"
 
 msgid "Load this file?"
-msgstr ""
+msgstr "Բանա՞լ այս կարգը։"
 
 msgid "§fill=#ff0§< DEVELOPER >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ՀՆԱՐԻՉ >§fill=#fff§"
 
 msgid "spacey_432"
-msgstr ""
+msgstr "spacey_432"
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ԳՐՈՂ >§fill=#fff§"
 
 msgid "Aster"
-msgstr ""
+msgstr "Aster"
 
 msgid "Balgamlı Kedi"
-msgstr ""
+msgstr "Balgamlı Kedi"
 
 msgid "Bilge \"mnwary\""
-msgstr ""
+msgstr "Bilge \"mnwary\""
 
 msgid "Dischnie"
-msgstr ""
+msgstr "Dischnie"
 
 msgid "Efe Kaya"
-msgstr ""
+msgstr "Efe Kaya"
 
 msgid "Ghostly"
-msgstr ""
+msgstr "Ghostly"
 
 msgid "InvincibleRacoon"
-msgstr ""
+msgstr "InvincibleRacoon"
 
 msgid "Jojoton56"
-msgstr ""
+msgstr "Jojoton56"
 
 msgid "Kiwi \"Quinn\""
-msgstr ""
+msgstr "Kiwi \"Quinn\""
 
 msgid "neo9174"
-msgstr ""
+msgstr "neo9174"
 
 msgid "Rise"
-msgstr ""
+msgstr "Rise"
 
 msgid "ThatGuyWhoLikesFood"
-msgstr ""
+msgstr "ThatGuyWhoLikesFood"
 
 msgid "Turbulation"
-msgstr ""
+msgstr "Turbulation"
 
 msgid "Zaxento The Greedy"
-msgstr ""
+msgstr "Zaxento The Greedy"
 
 msgid "§fill=#ff0§< ARTIST >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ԳԾԱԳՐԻՉ >§fill=#fff§"
 
 msgid "Burge"
-msgstr ""
+msgstr "Burge"
 
 msgid "Deskius"
-msgstr ""
+msgstr "Deskius"
 
 msgid "DESM.al"
-msgstr ""
+msgstr "DESM.al"
 
 msgid "Discarded Vessel"
-msgstr ""
+msgstr "Discarded Vessel"
 
 msgid "Fired"
-msgstr ""
+msgstr "Fired"
 
 msgid "Funtermore"
-msgstr ""
+msgstr "Funtermore"
 
 msgid "HolyOranges"
-msgstr ""
+msgstr "HolyOranges"
 
 msgid "major_memestar"
-msgstr ""
+msgstr "major_memestar"
 
 msgid "MattSpriteMaster"
-msgstr ""
+msgstr "MattSpriteMaster"
 
 msgid "Medi0creking"
-msgstr ""
+msgstr "Medi0creking"
 
 msgid "NerNot1"
-msgstr ""
+msgstr "NerNot1"
 
 msgid "PhyreFM"
-msgstr ""
+msgstr "PhyreFM"
 
 msgid "Pongy25"
-msgstr ""
+msgstr "Pongy25"
 
 msgid "PoTheWinterCorder"
-msgstr ""
+msgstr "PoTheWinterCorder"
 
 msgid "ProctorDorkchop02"
-msgstr ""
+msgstr "ProctorDorkchop02"
 
 msgid "ScarletScaledDragon"
-msgstr ""
+msgstr "ScarletScaledDragon"
 
 msgid "semi"
-msgstr ""
+msgstr "semi"
 
 msgid "Soup Taels"
-msgstr ""
+msgstr "Soup Taels"
 
 msgid "SquigglyWiggley"
-msgstr ""
+msgstr "SquigglyWiggley"
 
 msgid "Starkiteckt"
-msgstr ""
+msgstr "Starkiteckt"
 
 msgid "supper12"
-msgstr ""
+msgstr "supper12"
 
 msgid "Valor52"
-msgstr ""
+msgstr "Valor52"
 
 msgid "§fill=#ff0§< TECHNICIAN >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ՄԱՍՆԱԳԷՏ >§fill=#fff§"
 
 msgid "Codetoil"
-msgstr ""
+msgstr "Codetoil"
 
 msgid "ryi3r"
-msgstr ""
+msgstr "ryi3r"
 
 msgid "ws3917"
-msgstr ""
+msgstr "ws3917"
 
 msgid "§fill=#ff0§< TESTER >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ՔՆՆԻՉ >§fill=#fff§"
 
 msgid "Alden"
-msgstr ""
+msgstr "Alden"
 
 msgid "Aspey"
-msgstr ""
+msgstr "Aspey"
 
 msgid "Brad"
-msgstr ""
+msgstr "Brad"
 
 msgid "brayjamin"
-msgstr ""
+msgstr "brayjamin"
 
 msgid "ClamsyMoe"
-msgstr ""
+msgstr "ClamsyMoe"
 
 msgid "delta"
-msgstr ""
+msgstr "delta"
 
 msgid "DR4GON HE4RT"
-msgstr ""
+msgstr "DR4GON HE4RT"
 
 msgid "Dubituar"
-msgstr ""
+msgstr "Dubituar"
 
 msgid "Emurry"
-msgstr ""
+msgstr "Emurry"
 
 msgid "Enzolos"
-msgstr ""
+msgstr "Enzolos"
 
 msgid "EvanGamesGoodman"
 msgstr ""
