@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-28 09:15+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-03-28 09:58+0000\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -4635,7 +4635,7 @@ msgstr "<25>{#p/toriel}{#g/torielTired}* ...уже?"
 
 #, fuzzy
 msgid "<25>{#p/toriel}{#g/torielTired}* ... impatient, are we?"
-msgstr "<25>{#p/toriel}{#g/torielTired}* ...Какая нетерпеливая."
+msgstr "<25>{#p/toriel}{#g/torielTired}* ...Какой нетерпеливый."
 
 msgid "<25>{#f/9}* I really should not be surprised."
 msgstr "<25>{#f/9}* Ничего удивительного."
@@ -5763,7 +5763,7 @@ msgstr "<32>* Эти штуки РЕАЛЬНЫ, йоу ;)"
 
 #, fuzzy
 msgid "<32>* Anyone who says otherwise is a poser, ya feel me? ;)"
-msgstr "<32>* Те кто говорят иначе - лохи, понимаешь? ;)"
+msgstr "<32>* Те кто говорят иначе лохи, понимаешь? ;)"
 
 #, fuzzy
 msgid "<32>* That being said, why don'tcha check out what's for sale? ;)"
