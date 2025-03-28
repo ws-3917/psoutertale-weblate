@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 14:13+0000\n"
-"PO-Revision-Date: 2025-03-27 21:20+0000\n"
+"PO-Revision-Date: 2025-03-28 09:15+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
@@ -10140,7 +10140,6 @@ msgid ""
 "* It says \"For King Dad.\""
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/human}* (You peek inside.)"
 msgstr "<32>{#p/human}* (Вы заглянули внутрь.)"
 
