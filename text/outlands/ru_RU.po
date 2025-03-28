@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-03-28 09:15+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -5089,10 +5089,11 @@ msgstr ""
 "<32>{#p/basic}{#n1}* Мне грустно.\n"
 "* Качество еды в наши дни всё хуже и хуже..."
 
+#, fuzzy
 msgid "<32>* I was promised something \"real,\" but all I got was a cheap copy."
 msgstr ""
-"<32>* Они говорят, что их еда «настоящая», но всё, что я получила, — дешёвая"
-" химоза."
+"<32>* Они говорят, что их еда «настоящая», но всё, что я получила, — дешёвая "
+"химоза."
 
 msgid ""
 "<32>{#n1!}{#n2}* Hey! ;)\n"
@@ -5107,6 +5108,7 @@ msgstr "<32>* И вообще, у тя просто нет вкуса ;)"
 msgid "<32>{#n2!}{#n1}* ... typical."
 msgstr "<32>{#n2!}{#n1}* ...Как обычно."
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* ... it isn't what it is?"
 msgstr "<32>{#p/basic}{#n1}* ...Разве я не права?"
 
@@ -5156,9 +5158,11 @@ msgstr ""
 "<25>{#p/toriel}* О, понятно!\n"
 "* Большое тебе спасибо!"
 
+#, fuzzy
 msgid "<25>{#f/1}* You do not DISLIKE butterscotch, do you?"
 msgstr "<25>{#f/1}* Скажи, ты же не НЕНАВИДИШЬ ириски?"
 
+#, fuzzy
 msgid "<25>{#f/1}* You do not DISLIKE cinnamon, do you?"
 msgstr "<25>{#f/1}* Скажи, ты же не НЕНАВИДИШЬ корицу?"
 
@@ -5800,11 +5804,13 @@ msgstr ""
 msgid "<32>{#p/human}{#n1!}* (You got the Sizzli Steak.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* Slick choice, lassy ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Клёвый выбор, чел ;)"
 
+#, fuzzy
 msgid "<32>{#p/human}{#n1!}* (You decide not to buy.)"
-msgstr ""
+msgstr "<32>{#p/human}{#n1!}* (Вы не решаетесь купить.)"
 
 msgid "<32>{#p/basic}{#n1!}* \"Fizzli Soda\" for 10G."
 msgstr ""
@@ -5854,17 +5860,20 @@ msgstr ""
 msgid "<32>{#p/basic}{#n1}* Maybe you should come back later ;)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}{#n1}* By the way, we're outta stock ;)"
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Кстати, мы всё продали ;)"
 
+#, fuzzy
 msgid "<32>* Seems you can't get enough of our stuff ;)"
-msgstr ""
+msgstr "<32>* Походу тебе недостаточно наших ништяков ;)"
 
 msgid "<32>* Say, if- no, when you meet the boss-man... tell him this ;)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}{#n1!}* (Aaron whispered something in your ear.)"
-msgstr ""
+msgstr "<32>{#p/human}{#n1!}* (Аарон что-то прошептал в ваше ухо.)"
 
 msgid "<32>{#p/basic}{#n1}* Good luck out there, lassy ;)"
 msgstr ""
