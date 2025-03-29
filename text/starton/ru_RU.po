@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-29 14:12+0000\n"
+"PO-Revision-Date: 2025-03-29 17:40+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -8686,7 +8686,6 @@ msgid ""
 "* Wait for it..."
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/human}* (You can't make out what's in the trash...)"
 msgstr "<32>{#p/human}* (Вы не можете понять, что лежит в мусорке...)"
 
