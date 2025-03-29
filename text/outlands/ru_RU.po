@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-29 17:40+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-03-29 18:16+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7720,15 +7720,13 @@ msgstr "<32>{#p/basic}* Дальше идут шутки примерно так
 msgid "<32>{#p/human}* (You look to another paragraph.)"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<32>{#p/toriel}{#f/21}* \"Question: What's another name for a skeleton's "
 "vices?\""
 msgstr "<32>{#p/toriel}{#f/21}* «Что говорят про порочного скелета?»"
 
-#, fuzzy
 msgid "<32>* \"Answer: HOLLOW pursuits...\""
-msgstr "<32>* «У него ломКОСТЬ духа...»"
+msgstr "<32>* «Его душа прогнила насКОСТЬ...»"
 
 msgid "<32>{#p/basic}* There's no sense in continuing to read these."
 msgstr "<32>{#p/basic}* Нет смысла читать дальше."
@@ -7742,58 +7740,49 @@ msgstr "<32>* «ПОЗВОНКИ мне...»"
 msgid "<32>{#p/basic}* That one wasn't even REMOTELY funny."
 msgstr "<32>{#p/basic}* Это даже ОТДАЛЁННО не смешно."
 
-#, fuzzy
 msgid "<32>{#p/basic}* You can't get enough of these lame puns."
-msgstr "<32>{#p/basic}* Вам недостаточно этих несмешных шуток."
+msgstr "<32>{#p/basic}* Вам начинают нравиться эти шутки."
 
-#, fuzzy
 msgid ""
 "<32>{#p/toriel}{#f/21}* \"Question: Why did the skeleton drool in their "
 "sleep?\""
 msgstr "<32>{#p/toriel}{#f/21}* «Почему скелет погрузился в дрёму?»"
 
-#, fuzzy
 msgid "<32>* \"Answer: Because they were having a FEMUR dream...\""
 msgstr "<32>* «Он неправильно ЛЁГ КОСТЬМИ...»"
 
 msgid "<32>{#p/basic}* This is getting old..."
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* You still can't get enough of these lame puns."
-msgstr "<32>{#p/basic}* Вам всё ещё недостаточно этих несмешных шуток."
+msgstr ""
+"<32>{#p/basic}* У вас начинает вырабатываться зависимость от этих дурных "
+"шуток."
 
-#, fuzzy
 msgid ""
 "<32>{#p/toriel}{#f/21}* \"Question: What does a skeleton say to start a "
 "fight?\""
-msgstr "<32>{#p/toriel}{#f/21}* «Что говорит скелет в начале битвы?»"
+msgstr "<32>{#p/toriel}{#f/21}* «Что говорит скелет перед битвой?»"
 
-#, fuzzy
 msgid "<32>* \"Answer: I've got a BONE to pick with you...\""
-msgstr "<32>* «Я тебе все КОСТИ пересчитаю...»"
+msgstr "<32>* «Я тебе все РЁБРА пересчитаю...»"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* Seriously?\n"
 "* That wasn't even a pun!"
 msgstr ""
 "<32>{#p/basic}* Серьёзно?\n"
-"* Это даже не шутка!"
+"* Это даже не каламбур!"
 
-#, fuzzy
 msgid "<32>{#p/basic}* We're losing brain cells here..."
-msgstr "<32>{#p/basic}* Клетки головного мозга гибнут..."
+msgstr "<32>{#p/basic}* Вы постепенно теряете рассудок..."
 
-#, fuzzy
 msgid "<32>{#p/toriel}{#f/21}* \"'What's up stairs?' asked the skeleton.\""
-msgstr "<32>{#p/toriel}{#f/21}* «„Что на верху?“ — спросил скелет»."
+msgstr "<32>{#p/toriel}{#f/21}* «„Что наверху?“ — спросил скелет»."
 
-#, fuzzy
 msgid "<32>* \"... the stairs did not reply.\""
-msgstr "<32>* «... верх не ответил»."
+msgstr "<32>* «...Верх не ответил»."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* ...\n"
 "* I have no words."
@@ -7930,41 +7919,34 @@ msgstr "<32>* Улитки..."
 msgid "<32>* Oodles and oodles of snails."
 msgstr "<32>* Очень много улиток..."
 
-#, fuzzy
 msgid "<32>{#p/basic}* Maybe this is how snails live past their expiry date."
-msgstr "<32>{#p/basic}* Может, такова участь улиток с истёкшим сроком годности?"
+msgstr "<32>{#p/basic}* Так вот, где заканчивается жизненный цикл улиток?"
 
-#, fuzzy
 msgid "<32>{#p/basic}* And nothing BUT snails."
-msgstr "<32>{#p/basic}* Ничего КРОМЕ улиток."
+msgstr "<32>{#p/basic}* Одни ЛИШЬ улитки."
 
-#, fuzzy
 msgid "<32>{#p/basic}* Or maybe I've just gone and lost it completely."
 msgstr "<32>{#p/basic}* Или, может, я просто сбился с пути."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* ...\n"
 "* Did I mention the snails?"
 msgstr ""
 "<32>{#p/basic}* ...\n"
-"* Я упоминал улитки?"
+"* Я уже упоминал улитки?"
 
-#, fuzzy
 msgid "<32>{#p/basic}* Or maybe..."
 msgstr "<32>{#p/basic}* Или, может..."
 
-#, fuzzy
 msgid "<32>* ... wait, what was I saying?"
-msgstr "<32>* ... стоп, что я только что сказал?"
+msgstr "<32>* ...Стой, о чём я говорил?"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* Oh, right.\n"
 "* The meaning of the snails' newfound ghostly scent."
 msgstr ""
 "<32>{#p/basic}* А, точно.\n"
-"* О значение призрачного запаха улиток."
+"* О значении призрачного запаха улиток."
 
 #, fuzzy
 msgid "<32>{#p/basic}* Oodles and oodles of snails."
@@ -8619,35 +8601,35 @@ msgid ""
 "<32>{#p/story}* FROGGIT - ATK 4 DEF 5\n"
 "* Life is difficult for this monster."
 msgstr ""
-"<32>{#p/story}* КВАКУШЁНОК - АТК 4 ЗЩТ 5\n"
+"<32>{#p/story}* КВАКУШЁНОК: АТК 4, ЗЩТ 5.\n"
 "* Непростая жизнь у этого монстра."
 
 msgid ""
 "<32>{#p/story}* FROGGIT - ATK 4 DEF 5\n"
 "* Life is getting better for this monster."
 msgstr ""
-"<32>{#p/story}* КВАКУШЁНОК - АТК 4 ЗЩТ 5\n"
+"<32>{#p/story}* КВАКУШЁНОК: АТК 4, ЗЩТ 5.\n"
 "* Жизнь становится легче у этого монстра."
 
 msgid ""
 "<32>{#p/story}* FROGGIT - ATK 4 DEF 5\n"
 "* Life just doesn't seem to get easier for this monster."
 msgstr ""
-"<32>{#p/story}* КВАКУШЁНОК - АТК 4 ЗЩТ 5\n"
+"<32>{#p/story}* КВАКУШЁНОК: АТК 4, ЗЩТ 5.\n"
 "* Жизнь никак не станет легче у этого монстра."
 
 msgid ""
 "<32>{#p/story}* FROGGIT - ATK 4 DEF 5\n"
 "* Life is very confusing for this monster."
 msgstr ""
-"<32>{#p/story}* КВАКУШЁНОК - АТК 4 ЗЩТ 5\n"
+"<32>{#p/story}* КВАКУШЁНОК: АТК 4, ЗЩТ 5.\n"
 "* Жизнь очень запутанна у этого монстра."
 
 msgid ""
 "<32>{#p/story}* FROGGIT - ATK 4 DEF 5\n"
 "* Life seems to be very lovely for this monster."
 msgstr ""
-"<32>{#p/story}* КВАКУШЁНОК - АТК 4 ЗЩТ 5\n"
+"<32>{#p/story}* КВАКУШЁНОК: АТК 4, ЗЩТ 5.\n"
 "* По-видимому, жизнь становится прекрасной у этого монстра."
 
 msgid "<32>{#p/human}* (You threaten Froggit.)"
@@ -8766,7 +8748,7 @@ msgid ""
 "<32>{#p/story}* FLUTTERLYTE - ATK 5 DEF 0\n"
 "* This monster wishes it had stayed on the ground."
 msgstr ""
-"<32>{#p/story}* ЛЕТЯГА - АТК 5 ЗЩТ 0\n"
+"<32>{#p/story}* ЛЕТЯГА: АТК 5, ЗЩТ 0.\n"
 "* Сей монстр хотел бы остаться на земле."
 
 msgid "<32>{#p/human}* (You help Flutterlyte fly higher into the air.)"
@@ -8841,7 +8823,7 @@ msgid ""
 "* Staring contest master.\n"
 "* Family name: Eyewalker"
 msgstr ""
-"<32>{#p/story}* ЗЕНИЦИЙ - АТК 6 ЗЩТ 6\n"
+"<32>{#p/story}* ЗЕНИЦИЙ: АТК 6, ЗЩТ 6.\n"
 "* Мастер игры в гляделки.\n"
 "* Фамилия: Айуокер."
 
@@ -8849,14 +8831,14 @@ msgid ""
 "<32>{#p/story}* OCULOUX - ATK 6 DEF 6\n"
 "* This bully is trying very hard to pretend it's not flattered."
 msgstr ""
-"<32>{#p/story}* ЗЕНИЦИЙ - АТК 6 ЗЩТ 6\n"
+"<32>{#p/story}* ЗЕНИЦИЙ: АТК 6, ЗЩТ 6.\n"
 "* Сей задира пытается скрыть, что он польщён."
 
 msgid ""
 "<32>{#p/story}* OCULOUX - ATK 6 DEF 6\n"
 "* This monster is honored to be in your line of sight."
 msgstr ""
-"<32>{#p/story}* ЗЕНИЦИЙ - АТК 6 ЗЩТ 6\n"
+"<32>{#p/story}* ЗЕНИЦИЙ: АТК 6, ЗЩТ 6.\n"
 "* Сей монстр чтит быть в вашем поле зрения."
 
 msgid ""
@@ -8957,14 +8939,14 @@ msgid ""
 "<32>{#p/story}* SILENTE - ATK 7 DEF 5\n"
 "* It seems evil, but it's just with the wrong crowd..."
 msgstr ""
-"<32>{#p/story}* ТИХОНЯ - АТК 7 ЗЩТ 5\n"
+"<32>{#p/story}* ТИХОНЯ: АТК 7, ЗЩТ 5.\n"
 "* Выглядит злым, но на деле просто в дурной компании..."
 
 msgid ""
 "<33>{#p/story}* SILENTE - ATK 7 DEF 5\n"
 "* Now alone, it joyfully expresses itself through dance."
 msgstr ""
-"<33>{#p/story}* ТИХОНЯ - АТК 7 ЗЩТ 5\n"
+"<33>{#p/story}* ТИХОНЯ: АТК 7, ЗЩТ 5.\n"
 "* Ныне один, он самовыражается через танец."
 
 msgid ""
@@ -8972,7 +8954,7 @@ msgid ""
 "* It seems comfortable with you.\n"
 "* VERY comfortable."
 msgstr ""
-"<32>{#p/story}* ТИХОНЯ - АТК 7 ЗЩТ 5\n"
+"<32>{#p/story}* ТИХОНЯ: АТК 7, ЗЩТ 5.\n"
 "* Кажется, ему комфортно с вами.\n"
 "* ОЧЕНЬ комфортно."
 
@@ -8980,8 +8962,8 @@ msgid ""
 "<32>{#p/story}* SILENTE - ATK 7 DEF 5\n"
 "* Despite its tough act, it's clearly in pain..."
 msgstr ""
-"<32>{#p/story}* ТИХОНЯ - АТК 7 ЗЩТ 5\n"
-"* Несмотря на свою жёсткость, ему явно больно..."
+"<32>{#p/story}* ТИХОНЯ: АТК 7, ЗЩТ 5.\n"
+"* Несмотря на свою грубость, ему явно больно..."
 
 msgid "<32>{#p/human}* (You flirt with Silente.)"
 msgstr "<32>{#p/human}* (Вы флиртуете с тихоней.)"
@@ -9077,7 +9059,7 @@ msgid ""
 "* Huge fan of space cowboys.\n"
 "* Gunslinger."
 msgstr ""
-"<32>{#p/story}* КОЛЬТОВИЧОК - АТК 6 ЗЩТ 6\n"
+"<32>{#p/story}* КОЛЬТОВИЧОК: АТК 6, ЗЩТ 6.\n"
 "* Большой фанат космических ковбоев.\n"
 "* Стрелок."
 
@@ -9086,7 +9068,7 @@ msgid ""
 "* Huge fan of space cowboys.\n"
 "* Even the sexy ones."
 msgstr ""
-"<32>{#p/story}* КОЛЬТОВИЧОК - АТК 6 ЗЩТ 6\n"
+"<32>{#p/story}* КОЛЬТОВИЧОК: АТК 6, ЗЩТ 6.\n"
 "* Большой фанат космических ковбоев.\n"
 "* Даже сексуальных."
 
@@ -9094,7 +9076,7 @@ msgid ""
 "<32>{#p/story}* MUSHY - ATK 6 DEF 6\n"
 "* After giving it your all, this gunslinger is impressed."
 msgstr ""
-"32>{#p/story}* КОЛЬТОВИЧОК - АТК 6 ЗЩТ 6\n"
+"32>{#p/story}* КОЛЬТОВИЧОК: АТК 6, ЗЩТ 6.\n"
 "* После всех своих приёмов, этот стрелок впечатлился."
 
 msgid "<32>{#p/human}* (You flirt with Mushy.)"
@@ -9167,28 +9149,28 @@ msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
 "* It's Napstablook."
 msgstr ""
-"<32>{#p/story}* НАПСТАБЛУК - АТК 10 ЗЩТ 255\n"
+"<32>{#p/story}* НАПСТАБЛУК: АТК 10, ЗЩТ 255.\n"
 "* Это Напстаблук."
 
 msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
 "* It doesn't seem like they want to be here anymore."
 msgstr ""
-"<32>{#p/story}* НАПСТАБЛУК - АТК 10 ЗЩТ 255\n"
+"<32>{#p/story}* НАПСТАБЛУК: АТК 10, ЗЩТ 255.\n"
 "* Кажется, он больше не хочет здесь находиться."
 
 msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
 "* Hopeful, for the first time in a while..."
 msgstr ""
-"<32>{#p/story}* НАПСТАБЛУК - АТК 10 ЗЩТ 255\n"
+"<32>{#p/story}* НАПСТАБЛУК: АТК 10, ЗЩТ 255.\n"
 "* Впервые за долгое время появилась надежда..."
 
 msgid ""
 "<32>{#p/story}* NAPSTABLOOK - ATK 10 DEF 255\n"
 "* The romantic tension is at an all-time high."
 msgstr ""
-"<32>{#p/story}* НАПСТАБЛУК - АТК 10 ЗЩТ 255\n"
+"<32>{#p/story}* НАПСТАБЛУК: АТК 10, ЗЩТ 255.\n"
 "* Романтическое напряжение достигло наивысшего уровня."
 
 msgid "<11>{#p/napstablook}{~}uh..."
@@ -9388,35 +9370,35 @@ msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Knows best for you."
 msgstr ""
-"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"<32>{#p/story}* ТОРИЭЛЬ: АТК 80, ЗЩТ 80.\n"
 "* Знает, что лучше для вас."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Seems to be holding back."
 msgstr ""
-"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"<32>{#p/story}* ТОРИЭЛЬ: АТК 80, ЗЩТ 80.\n"
 "* Кажется, она сдерживается."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Looks pre-occupied."
 msgstr ""
-"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"<32>{#p/story}* ТОРИЭЛЬ: АТК 80, ЗЩТ 80.\n"
 "* Выглядит озадаченной."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Just wants the best for you."
 msgstr ""
-"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"<32>{#p/story}* ТОРИЭЛЬ: АТК 80, ЗЩТ 80.\n"
 "* Просто хочет лучшего для вас."
 
 msgid ""
 "<32>{#p/story}* TORIEL - ATK 80 DEF 80\n"
 "* Thinks you are \"adorable.\""
 msgstr ""
-"<32>{#p/story}* ТОРИЭЛЬ - АТК 80 ЗЩТ 80\n"
+"<32>{#p/story}* ТОРИЭЛЬ: АТК 80, ЗЩТ 80.\n"
 "* Считает вас «очаровательным»."
 
 msgid "<20>{#p/asriel2}..."
@@ -12264,7 +12246,7 @@ msgid "<25>{#p/asriel2}{#f/3}* You must be really, REALLY bored."
 msgstr "<25>{#p/asriel2}{#f/3}* Тебе, должно быть, ОЧЕНЬ скучно."
 
 msgid "Outlands - Courtyard"
-msgstr "Запределье — двор"
+msgstr "Запределье: двор"
 
 msgid ""
 "<32>{#p/human}* (Even when visiting, this little home fills you with "
@@ -12289,7 +12271,7 @@ msgstr ""
 "<32>{#p/human}* (Дом среди металлических стен наполняет вас решимостью.)"
 
 msgid "Outlands - Entrance"
-msgstr "Запределье — вход"
+msgstr "Запределье: вход"
 
 msgid ""
 "<32>{#p/human}* (The industrious Outlands falls silent, filling you with "
@@ -12311,7 +12293,7 @@ msgid "<32>{#p/human}* (This fills you with determination.)"
 msgstr "<32>{#p/human}* (...наполняет вас решимостью.)"
 
 msgid "Outlands - Rest Area"
-msgstr "Запределье — зона отдыха"
+msgstr "Запределье: зона отдыха"
 
 msgid ""
 "<32>{#p/human}* (The air grows stale.)\n"
@@ -12342,7 +12324,7 @@ msgstr ""
 "наполняетесь решимостью.)"
 
 msgid "Outlands - Stærmite Hole"
-msgstr "Запределье — мышиная норка"
+msgstr "Запределье: мышиная норка"
 
 msgid "<32>{#p/human}* (Knowing that the stærmite will one day emerge...)"
 msgstr ""
