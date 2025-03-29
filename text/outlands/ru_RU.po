@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-29 08:15+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-29 14:11+0000\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -11098,22 +11098,20 @@ msgstr "<25>{#f/0}* ...Полагаю, что это не так уж и пло�
 
 #, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* To ease the process of retrying the puzzle..."
-msgstr ""
-"<25>{#p/toriel}{#f/1}* Что бы головоломки было легче решать во второй раз..."
+msgstr "<25>{#p/toriel}{#f/1}* Чтобы облегчить решение головоломок..."
 
 #, fuzzy
 msgid "<25>{#f/0}* I installed a system to move you back to the start."
 msgstr ""
-"<25>{#f/0}* Я установила систему, которая будет возвращать тебя к началу."
+"<25>{#f/0}* Я установила систему, которая вернёт тебя назад в случае неудачи."
 
 #, fuzzy
 msgid "<25>{#f/5}* The scientist who helped to install it is long gone now..."
-msgstr ""
-"<25>{#f/5}* Учёный, который помог мне с установкой, уже давно ушёл от нас..."
+msgstr "<25>{#f/5}* Учёного, помогавшего с установкой, уже давно нет в живых..."
 
 #, fuzzy
 msgid "<25>{#f/0}* But his work continues to be of use every day."
-msgstr "<25>{#f/0}* Но оно продолжает работать и по сей день."
+msgstr "<25>{#f/0}* Но его творения продолжают использоваться и по сей день."
 
 #, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Ah, a most unique form of puzzle exists here."
@@ -11143,8 +11141,8 @@ msgstr ""
 msgid ""
 "<25>{#f/0}* Is that you can start moving even as the sequence is shown."
 msgstr ""
-"<25>{#f/0}* Ты можешь начать движение после того... \n"
-"[ADD]...как будет показана особая последовательность правильных плиток."
+"<25>{#f/0}* Ты можешь начать движение во время показа правильной "
+"последовательности."
 
 #, fuzzy
 msgid "<25>{#f/5}* ... I suppose that is not of much use to you now."
@@ -11194,13 +11192,17 @@ msgstr "<25>{#f/0}* В моей жизни перерывы занимают в�
 msgid "<25>{#f/1}* The stærmite who resides here would certainly agree..."
 msgstr "<25>{#f/1}* Думаю, звездомышь, обитающая здесь, согласится со мной..."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* For whatever reason, that ghost who often comes "
 "here..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* По какой-то причине, тот призрак, часто навещающий "
+"это место..."
 
+#, fuzzy
 msgid "<25>{#f/5}* Has been feeling worse than ever lately."
-msgstr ""
+msgstr "<25>{#f/5}* Стал чувствовать себя ещё хуже в последнее время."
 
 msgid "<25>{#f/1}* I tried to ask them why, but they would not say..."
 msgstr ""
