@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-29 01:11+0000\n"
+"PO-Revision-Date: 2025-03-29 01:11+0000\n"
+"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
+"ps-outertale/0-systems/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Você preenche seus pulmões.)"
@@ -632,8 +647,6 @@ msgstr "§fill=#ff0§< DESENVOLVEDOR >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< ESCRITOR >§fill=#fff§"
@@ -2913,7 +2926,7 @@ msgstr ""
 msgid ""
 "<24>The remaining MONSTERS were banished to an abandoned outpost.{^35}{}"
 msgstr ""
-"<24>Os MONSTROS restantes restantes foram banidos para um Posto Avançado "
+"<24>Os MONSTROS restantes foram banidos para um Posto Avançado "
 "abandonado.{^35}{}"
 
 msgid ""
