@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-29 14:11+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-03-29 14:12+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -625,7 +625,6 @@ msgstr ""
 msgid "<32>{#p/human}* (It looks to have been closed with a deadlock seal.)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* It's locked."
 msgstr "<32>{#p/basic}* Заперто."
 
