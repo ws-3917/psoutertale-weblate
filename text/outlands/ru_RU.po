@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-29 01:14+0000\n"
+"PO-Revision-Date: 2025-03-29 08:15+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -10037,8 +10037,9 @@ msgstr "Назвать её «мама»"
 msgid "Flirt"
 msgstr "Флирт"
 
+#, fuzzy
 msgid "Toriel's Phone"
-msgstr ""
+msgstr "Телефон Ториэль"
 
 msgid "Puzzle Help"
 msgstr "Помощь с пазлом"
@@ -10048,7 +10049,7 @@ msgstr "Оскорбить"
 
 #, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* You want to know more about me...?"
-msgstr "<25>{#p/toriel}{#f/1}* Ты хочешь знать обо мне больше?.."
+msgstr "<25>{#p/toriel}{#f/1}* Ты хочешь узнать больше обо мне?.."
 
 #, fuzzy
 msgid "<25>{#f/0}* Well, I am afraid there is not much to say."
@@ -10059,277 +10060,388 @@ msgid "<25>{#f/0}* I am but a silly old lady who worries too often!"
 msgstr ""
 "<25>{#f/0}* Я лишь глупая, старая леди, которая слишком часто волнуется!"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* If you really want to know more about me..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Но если тебе и вправду хочется узнать обо мне больше."
 
+#, fuzzy
 msgid "<25>{#f/1}* Why not take a look around...?"
-msgstr ""
+msgstr "<25>{#f/1}* Почему бы тебе не осмотреться в округе?.."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* I have built or at least helped to build much of what you see."
 msgstr ""
+"<25>{#f/0}* Я построила, или помогла построить, многое из того что ты видел."
 
+#, fuzzy
 msgid "<25>{#f/2}* You should think twice about insulting me over the phone!"
 msgstr ""
+"<25>{#f/2}* Тебе следовало дважды подумать, перед тем как оскорблять меня!"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/7}* ... huh?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/7}* ?.."
 
+#, fuzzy
 msgid "<25>{#f/1}* Oh, heh... heh..."
-msgstr ""
+msgstr "<25>{#f/1}* Ох, ха-ха..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/6}* Hahaha!\n"
 "* I could pinch your cheek!"
 msgstr ""
+"<25>{#f/6}* Ха-ха-ха!\n"
+"* Я могу ущипнуть тебя за щёчку!"
 
+#, fuzzy
 msgid "<25>{#f/0}* You can certainly find better than an old woman like me."
-msgstr ""
+msgstr "<25>{#f/0}* Лучше тебе найти кого-то лучше, чем такую старуху чем я."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/7}* ...\n"
 "* Oh dear, are you serious...?"
 msgstr ""
+"<25>{#p/toriel}{#f/7}* ...\n"
+"* Дорогой, ты серьёзно?.."
 
+#, fuzzy
 msgid "<25>{#f/1}* My child, I do not know if this is pathetic or endearing."
 msgstr ""
+"<25>{#f/1}* Моё дитя, я даже и не знаю что думать, жалко это или прекрасно..."
 
+#, fuzzy
 msgid "<25>{#f/5}* And after you called me \"Mother...\""
-msgstr ""
+msgstr "<25>{#f/5}* После того, как ты назвал меня «мама»..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* Well then.\n"
 "* You are a very \"interesting\" child."
 msgstr ""
 "<25>{#f/1}* Ладно.\n"
-"* Ты «отличное» дитя."
+"* Ты и вправду «интересное» дитя..."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/4}* I cannot begin to understand you."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/4}* Я не понимаю тебя."
 
+#, fuzzy
 msgid "<25>{#p/toriel}* This is Toriel."
-msgstr ""
+msgstr "<25>{#p/toriel}* Это Ториэль."
 
+#, fuzzy
 msgid "<25>{#f/1}* You only wanted to say hello...?"
-msgstr ""
+msgstr "<25>{#f/1}* Ты позвонил мне чтобы просто сказать «привет»?.."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Well then.\n"
 "* \"Hello!\""
 msgstr ""
+"<25>{#f/0}* Ха.\n"
+"* «Привет!»"
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* I hope that suffices.\n"
 "* Hee hee."
 msgstr ""
+"<25>{#f/0}* Надеюсь теперь ты доволен.\n"
+"* Хе-хе."
 
+#, fuzzy
 msgid "<25>{#f/1}* You wanted to say hello again?"
-msgstr ""
+msgstr "<25>{#f/1}* Ты опять позвонил чтобы сказать мне «привет»?"
 
+#, fuzzy
 msgid "<25>{#f/0}* \"Salutations\" it is!"
-msgstr ""
+msgstr "<25>{#f/0}* Тогда, «салют!»"
 
+#, fuzzy
 msgid "<25>{#f/1}* Is that enough?"
-msgstr ""
+msgstr "<25>{#f/1}* Этого достаточно?"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Are you bored?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Ты скучаешь?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* My apologies.\n"
 "* I should have given you something to do."
 msgstr ""
+"<25>{#f/0}* Прошу прощения.\n"
+"* Я должна была придумать тебе развлечение."
 
+#, fuzzy
 msgid "<25>{#f/1}* Why not use your imagination to distract yourself?"
-msgstr ""
+msgstr "<25>{#f/1}* Используй своё воображение, чтобы скрасить досуг!"
 
+#, fuzzy
 msgid "<25>{#f/0}* Pretend you are... a fighter pilot!"
-msgstr ""
+msgstr "<25>{#f/0}* Представь что ты... пилот боевого звездолёта!"
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* Twisting and twirling, doing barrel rolls at light speed..."
-msgstr ""
+msgstr "<25>{#f/1}* Как ты делаешь захватывающие трюки высшего пилотажа! "
 
+#, fuzzy
 msgid "<25>{#f/1}* Can you do that for me?"
-msgstr ""
+msgstr "<25>{#f/1}* Сделаешь это ради меня?"
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/5}* Hello, small one."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* Здравствуй, малыш."
 
+#, fuzzy
 msgid "<25>{#f/9}* I am sorry, but I do not have much else to say."
-msgstr ""
+msgstr "<25>{#f/9}* Я больше не могу придумать что сказать, прости."
 
+#, fuzzy
 msgid "<25>{#f/1}* It was nice to hear your voice, though..."
-msgstr ""
+msgstr "<25>{#f/1}* Хотя, было приятно услышать твой голос."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#g/torielLowConcern}* Hello?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#g/torielLowConcern}* Алло?"
 
 msgid "<25>{#p/toriel}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}* ..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/7}* Huh?\n"
 "* Did you just call me \"Mom?\""
 msgstr ""
+"<25>{#f/7}* Что?\n"
+"* Ты только что назвал меня «мамой»?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* Well...\n"
 "* I suppose..."
 msgstr ""
+"<25>{#f/1}* Ну...\n"
+"* Я думаю..."
 
+#, fuzzy
 msgid "<25>{#f/1}* Would that make you happy?"
-msgstr ""
+msgstr "<25>{#f/1}* Главное, чтобы ты был счастлив."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* To call me...\n"
 "* \"Mother?\""
 msgstr ""
+"<25>{#f/1}* Ты назвал меня...\n"
+"* «Мамой?»"
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Well then.\n"
 "* Call me whatever you like!"
 msgstr ""
+"<25>{#f/0}* В таком случае.\n"
+"* Можешь называть меня как душе угодно."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/7}* ...\n"
 "* Oh my... again?"
 msgstr ""
+"<25>{#p/toriel}{#f/7}* ...\n"
+"* Ох... опять?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Hee hee...\n"
 "* You are a very sweet child."
 msgstr ""
+"<25>{#f/0}* Ха-ха...\n"
+"* Ты очень милый ребёнок."
 
+#, fuzzy
 msgid "<25>{#f/5}* And after you flirted with me..."
-msgstr ""
+msgstr "<25>{#f/5}* И это после того как ты флиртовал со мной..."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Help with a puzzle...?"
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Помочь тебе с головоломкой?.."
 
+#, fuzzy
 msgid "<25>{#f/1}* You have not left the room yet, have you?"
-msgstr ""
+msgstr "<25>{#f/1}* Ты же не выходил из той комнаты, ведь так?"
 
+#, fuzzy
 msgid "<25>{#f/0}* Wait for me to return, and we can solve it together."
-msgstr ""
+msgstr "<25>{#f/0}* Подожди, когда я вернусь — и я с радостью помогу тебе!"
 
+#, fuzzy
 msgid "<25>{#f/23}* ... something tells me you do not sincerely need my help."
-msgstr ""
+msgstr "<25>{#f/23}* Хотя, наверное, тебе не особо нужна моя помощь..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/5}* ...\n"
 "* I am afraid I cannot help you at this time."
 msgstr ""
+"<25>{#f/5}* ...\n"
+"* К сожалению, сейчас я не смогу тебе помочь."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* Hello?\n"
 "* This is..."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Алло?\n"
+"* Это..."
 
 msgid "<25>{#f/2}* ...!"
-msgstr "<25>{#f/2}* ...!"
+msgstr "<25>{#f/2}* !.."
 
+#, fuzzy
 msgid "<25>{#f/3}* Would you mind repeating that for me?"
-msgstr ""
+msgstr "<25>{#f/3}* Можешь повторить ещё раз?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* My child... I do not think that means what you think it means."
-msgstr ""
+msgstr "<25>{#f/1}* Моё дитя... Это не то, о чём ты думаешь."
 
 msgid "<25>{#p/toriel}{#f/15}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/15}* ..."
 
+#, fuzzy
 msgid "<25>{#f/12}* I am going to pretend you did not just say that to me."
-msgstr ""
+msgstr "<25>{#f/12}* Сделаю вид, что не слышала твои слов."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* My child..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Моё дитя..."
 
+#, fuzzy
 msgid "Has a distinct, non-licorice flavor."
-msgstr ""
+msgstr "У неё особый, не лакричный вкус."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Monster Candy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы выбросили монстроконфету.)"
 
 msgid "<32>{#p/human}* (10 HP.)"
 msgstr "<32>{#p/human}* (10 ОЗ.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Monster Candy\" Heals 10 HP\n"
 "* Has a distinct, non-licorice flavor."
 msgstr ""
+"<32>{#p/basic}* «Монстроконфета» Лечит 10 ОЗ\n"
+"* У неё особый, не лакричный вкус."
 
+#, fuzzy
 msgid "Monster Candy"
-msgstr ""
+msgstr "Монстроконфета"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You eat the Monster Candy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы съели монстроконфету.)"
 
+#, fuzzy
 msgid "Smells like Dihydrogen Monoxide."
-msgstr ""
+msgstr "Пахнет как монооксид дегидрогена."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Water.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы выбросили воду.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (12 HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Лечит 12 ОЗ.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Water\" Heals 12 HP\n"
 "* Smells like Di-Hydrogen Monoxide."
 msgstr ""
+"<32>{#p/basic}* «Вода» Лечит 12 ОЗ\n"
+"* Пахнет как монооксид дегидрогена."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You drink the Water.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы выпили воду.)"
 
+#, fuzzy
 msgid "<33>{#p/human}* (You're filled with hydration.)"
-msgstr ""
+msgstr "<33>{#p/human}* (Вы наполняетесь влагой.)"
 
+#, fuzzy
 msgid "A well-deserved chocolate bar."
-msgstr ""
+msgstr "Заслуженная шоколадка."
 
+#, fuzzy
 msgid "Chocolate"
-msgstr ""
+msgstr "Шоколад"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Chocolate Bar.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы выбросили шоколадную плитку.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* ... oh well."
-msgstr ""
+msgstr "<32>{#p/basic}* Ох..."
 
+#, fuzzy
 msgid "<32>{#p/human}* (19 HP. This item seems to remind you of someone.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Лечит 19 ОЗ. Этот предмет напоминает вам о ком-то.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Chocolate Bar\" Heals 19 HP\n"
 "* It's a well-deserved treat."
 msgstr ""
+"<32>{#p/basic}* «Шоколад» Лечит 19 ОЗ\n"
+"* Заслуженная награда."
 
+#, fuzzy
 msgid "Chocolate Bar"
-msgstr ""
+msgstr "Шоколадная плитка"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You eat the Chocolate Bar.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы съели шоколадную плитку.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Toriel recognizes the scent, and smiles a little."
-msgstr ""
+msgstr "<32>{#p/basic}* Ториэль с улыбкой узнаёт этот запах."
 
+#, fuzzy
 msgid "This substance is said to have highly relaxing properties."
-msgstr ""
+msgstr "Это вещество обладает высоким расслабляющим свойством."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Δ-9.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы выбросили Δ-9.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (5 HP. You feel strangely about this item.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Лечит 5 ОЗ. У вас особые чувства к этому предмету.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Δ-9\" Heals 5 HP\n"
 "* This substance is said to have highly relaxing properties."
 msgstr ""
+"<32>{#p/basic}* «Δ-9» Лечит 5 ОЗ\n"
+"* Это вещество обладает высоким расслабляющим свойством."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You ingest the Δ-9.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы проглотили Δ-9.)"
 
 msgid "A headband with its own gravity field."
 msgstr ""
@@ -10984,73 +11096,103 @@ msgstr "<25>{#f/3}* С другой стороны, это ЭКОНОМИТ эн
 msgid "<25>{#f/0}* ... so perhaps it is not all bad."
 msgstr "<25>{#f/0}* ...Полагаю, что это не так уж и плохо."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* To ease the process of retrying the puzzle..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Что бы головоломки было легче решать во второй раз..."
 
+#, fuzzy
 msgid "<25>{#f/0}* I installed a system to move you back to the start."
 msgstr ""
+"<25>{#f/0}* Я установила систему, которая будет возвращать тебя к началу."
 
+#, fuzzy
 msgid "<25>{#f/5}* The scientist who helped to install it is long gone now..."
 msgstr ""
+"<25>{#f/5}* Учёный, который помог мне с установкой, уже давно ушёл от нас..."
 
+#, fuzzy
 msgid "<25>{#f/0}* But his work continues to be of use every day."
-msgstr ""
+msgstr "<25>{#f/0}* Но оно продолжает работать и по сей день."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* Ah, a most unique form of puzzle exists here."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Здесь находится уникальная форма головоломки."
 
+#, fuzzy
 msgid "<25>{#f/0}* One that tests patience over memorization."
-msgstr ""
+msgstr "<25>{#f/0}* Которая проверяет не память, а терпение."
 
+#, fuzzy
 msgid "<25>{#f/1}* For the most part, the other humans complained about it..."
-msgstr ""
+msgstr "<25>{#f/1}* Многие другие люди жаловались на это..."
 
+#, fuzzy
 msgid "<25>{#f/0}* Though, one did appreciate the value it provides."
-msgstr ""
+msgstr "<25>{#f/0}* Хотя, один человек всё же оценил эту головоломку."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* A little trick you may find helpful for this "
 "puzzle..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Небольшая хитрость, которая может пригодится при "
+"решении."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Is that you can start moving even as the sequence is shown."
 msgstr ""
+"<25>{#f/0}* Ты можешь начать движение после того... \n"
+"[ADD]...как будет показана особая последовательность правильных плиток."
 
+#, fuzzy
 msgid "<25>{#f/5}* ... I suppose that is not of much use to you now."
-msgstr ""
+msgstr "<25>{#f/5}* Но, наверное, сейчас это бесполезно..."
 
+#, fuzzy
 msgid "<25>{#f/1}* But, if for some reason you need to solve it again..."
 msgstr ""
+"<25>{#f/1}* Но, если тебе каким-то образом вновь придётся решать эту "
+"головоломку..."
 
+#, fuzzy
 msgid "<25>{#f/0}* You may try the advice I have just given."
-msgstr ""
+msgstr "<25>{#f/0}* Ты можешь попробовать воспользоваться этим советом."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* It has come to my attention that, recently..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Я недавно узнала, что..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Old editions of a now- defunct comic series are being sold."
-msgstr ""
+msgstr "<25>{#f/0}* Продаются старые выпуски ныне не издающихся комиксов."
 
+#, fuzzy
 msgid "<25>{#f/0}* Perhaps, if you are bored, you could buy one."
-msgstr ""
+msgstr "<25>{#f/0}* Если тебе скучно, можешь купить себе один."
 
+#, fuzzy
 msgid "<25>{#f/0}* Children your age tend to be rather fond of these things!"
-msgstr ""
+msgstr "<25>{#f/0}* Дети твоего возраста обычно обожают такие вещицы!"
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* As a matter of principle, I find it important..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* В принципе, я считаю важным..."
 
+#, fuzzy
 msgid "<25>{#f/0}* That there be a room designated for stopping and resting."
-msgstr ""
+msgstr "<25>{#f/0}* Наличие комнаты, служащей местом отдыха и перерывов."
 
+#, fuzzy
 msgid "<25>{#f/0}* In my own life, I often find breaks to be a useful asset."
-msgstr ""
+msgstr "<25>{#f/0}* В моей жизни перерывы занимают важное место."
 
+#, fuzzy
 msgid "<25>{#f/1}* The stærmite who resides here would certainly agree..."
-msgstr ""
+msgstr "<25>{#f/1}* Думаю, звездомышь, обитающая здесь, согласится со мной..."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* For whatever reason, that ghost who often comes "
