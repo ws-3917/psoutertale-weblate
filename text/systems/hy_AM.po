@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-29 01:13+0000\n"
+"PO-Revision-Date: 2025-03-29 17:40+0000\n"
 "Last-Translator: Sevag Mora <77gamerr77@gmail.com>\n"
 "Language-Team: Armenian <https://translate.ws3917.space/projects/"
 "ps-outertale/0-systems/hy/>\n"
@@ -791,73 +791,73 @@ msgid "Enzolos"
 msgstr "Enzolos"
 
 msgid "EvanGamesGoodman"
-msgstr ""
+msgstr "EvanGamesGoodman"
 
 msgid "FireWizard72X"
-msgstr ""
+msgstr "FireWizard72X"
 
 msgid "FuLiNT"
-msgstr ""
+msgstr "FuLiNT"
 
 msgid "gardnaeden"
-msgstr ""
+msgstr "gardnaeden"
 
 msgid "Gon UT"
-msgstr ""
+msgstr "Gon UT"
 
 msgid "Green Tea"
-msgstr ""
+msgstr "Green Tea"
 
 msgid "Huggies!"
-msgstr ""
+msgstr "Huggies!"
 
 msgid "ilovecookies"
-msgstr ""
+msgstr "ilovecookies"
 
 msgid "Jago128"
-msgstr ""
+msgstr "Jago128"
 
 msgid "Joe98912"
-msgstr ""
+msgstr "Joe98912"
 
 msgid "Jonkler"
-msgstr ""
+msgstr "Jonkler"
 
 msgid "lil tanski"
-msgstr ""
+msgstr "lil tanski"
 
 msgid "MR. PETER"
-msgstr ""
+msgstr "MR. PETER"
 
 msgid "MSBen"
-msgstr ""
+msgstr "MSBen"
 
 msgid "Murder--Sans_MDR"
-msgstr ""
+msgstr "Murder--Sans_MDR"
 
 msgid "Nanorasmus"
-msgstr ""
+msgstr "Nanorasmus"
 
 msgid "NepAnime"
-msgstr ""
+msgstr "NepAnime"
 
 msgid "Shaun Duz Stuffs"
-msgstr ""
+msgstr "Shaun Duz Stuffs"
 
 msgid "SHCyank"
-msgstr ""
+msgstr "SHCyank"
 
 msgid "petar3644"
-msgstr ""
+msgstr "petar3644"
 
 msgid "PixelToons Jaafar"
-msgstr ""
+msgstr "PixelToons Jaafar"
 
 msgid "Prezmop"
-msgstr ""
+msgstr "Prezmop"
 
 msgid "prymus-agd"
-msgstr ""
+msgstr "prymus-agd"
 
 msgid "Quin"
 msgstr ""
