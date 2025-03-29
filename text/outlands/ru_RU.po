@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-03-29 14:11+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -6314,20 +6314,25 @@ msgstr ""
 msgid "<26>{#p/toriel}{#f/1}* Patience, my child!"
 msgstr "<26>{#p/toriel}{#f/1}* Потерпи, моё дитя!"
 
+#, fuzzy
 msgid "<26>{#p/toriel}{#f/1}* This may take a while..."
-msgstr ""
+msgstr "<26>{#p/toriel}{#f/1}* Это может занять время..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's locked."
-msgstr ""
+msgstr "<32>{#p/basic}* Заперто."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It sounds like Toriel is crying..."
-msgstr ""
+msgstr "<32>{#p/basic}* Похоже, Ториэль плачет..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It sounds like Toriel is asleep..."
-msgstr ""
+msgstr "<32>{#p/basic}* Похоже, Ториэль спит..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It sounds like Toriel is writing..."
-msgstr ""
+msgstr "<32>{#p/basic}* Похоже, Ториэль что-то пишет..."
 
 #, fuzzy
 msgid "<32>{#p/basic}* It's a security field."
@@ -6392,8 +6397,9 @@ msgstr ""
 "<32>{#p/basic}* «Обратите внимание, что состояние приборов может быть хуже, "
 "чем кажется»."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a DJ set."
-msgstr "<32>{#p/basic}* Это диджейский пульт."
+msgstr "<32>{#p/basic}* Это диджейский стол."
 
 msgid ""
 "<32>{#p/basic}* A fancy DJ set, which is surprisingly not in use right now."
@@ -7083,8 +7089,9 @@ msgstr "<32>{#p/basic}* Это растение радо видеть тебя."
 msgid "<32>{#p/basic}* This plant is ecstatic about seeing you!"
 msgstr "<32>{#p/basic}* Это растение в восторге от вашего вида!"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You rustle the corny plant.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заставили шуршать скучное растение.)"
 
 msgid "<32>{#p/basic}* This plant looks quite corny."
 msgstr "<32>{#p/basic}* Ничего особенного в этом растении."
@@ -7093,42 +7100,55 @@ msgid "<32>{#p/human}* (You look under the table and find a set of crayons.)"
 msgstr ""
 "<32>{#p/human}* (Вы заглядываете под тумбочку и находите набор мелков.)"
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel1}{#f/24}* I think $(name) might have lost the blue crayon."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/24}* Я думаю, что $(name) потеряла синий мелок."
 
+#, fuzzy
 msgid ""
 "<25>{#f/7}* ... actually, no.\n"
 "* I KNOW they lost the blue crayon."
 msgstr ""
+"<25>{#f/7}* ... хотя нет.\n"
+"* Я ЗНАЮ, она потеряла именно синий."
 
+#, fuzzy
 msgid ""
 "<25>{#f/6}* It turned up later in a food chest, but nobody thought to check "
 "it."
 msgstr ""
+"<25>{#f/6}* Мелок затем обнаружился в сундуке с едой, но никто не догадался "
+"проверить."
 
+#, fuzzy
 msgid ""
 "<25>{#f/16}* They must have been trying to claim the chest as their own."
-msgstr ""
+msgstr "<25>{#f/16}* Она пыталась объявить сундук своей собственностью."
 
+#, fuzzy
 msgid ""
 "<26>{#p/asriel1}{#f/4}* If we ever get a new set of crayons, I'm keeping "
 "watch."
 msgstr ""
+"<26>{#p/asriel1}{#f/4}* Если у нас будут новые мелки, я буду внимательнее."
 
+#, fuzzy
 msgid "<25>{#f/3}* The moment you even think about losing a crayon..."
-msgstr ""
+msgstr "<25>{#f/3}* Даже не думай терять мелок..."
 
+#, fuzzy
 msgid ""
 "<26>{#f/8}* I'll be there to stop that crime train before it even hits the "
 "tracks."
-msgstr ""
+msgstr "<26>{#f/8}* Ведь я буду здесь, чтобы разорвать порочный круг."
 
 msgid "<25>{#f/2}* Just you wait."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#p/asriel1}{#f/31}* I've got my eyes on you, Frisk."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/31}* Я навострил глаза, Фриск."
 
 #, fuzzy
 msgid "<25>{#f/8}* And... maybe my ears."
