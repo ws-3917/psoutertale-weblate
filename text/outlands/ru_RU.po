@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-29 01:13+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"PO-Revision-Date: 2025-03-29 01:14+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10054,8 +10054,10 @@ msgstr "<25>{#p/toriel}{#f/1}* Ты хочешь знать обо мне бол
 msgid "<25>{#f/0}* Well, I am afraid there is not much to say."
 msgstr "<25>{#f/0}* К сожалению, мне нечего сказать."
 
+#, fuzzy
 msgid "<25>{#f/0}* I am but a silly old lady who worries too often!"
 msgstr ""
+"<25>{#f/0}* Я лишь глупая, старая леди, которая слишком часто волнуется!"
 
 msgid "<25>{#p/toriel}{#f/1}* If you really want to know more about me..."
 msgstr ""
