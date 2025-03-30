@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-29 17:40+0000\n"
+"PO-Revision-Date: 2025-03-30 13:13+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "4-aerialis/ru/>\n"
@@ -65,7 +65,6 @@ msgstr "Да"
 msgid "No"
 msgstr "Нет"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You decide not to smash.)"
 msgstr "<32>{#p/human}* (Вы решили не разбивать Пирог.)"
 
@@ -8308,9 +8307,8 @@ msgid ""
 "* (It's pleasantly smooth.)"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* It's just a countertop."
-msgstr "<32>{#p/basic}* Это просто столешница."
+msgstr "<32>{#p/basic}* Просто столешница."
 
 msgid ""
 "<32>{#p/basic}* Ah, the humble countertop.\n"
