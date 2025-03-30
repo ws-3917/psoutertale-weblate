@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 14:13+0000\n"
-"PO-Revision-Date: 2025-03-29 17:40+0000\n"
+"PO-Revision-Date: 2025-03-30 15:46+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
@@ -13568,18 +13568,15 @@ msgstr ""
 msgid "Candy"
 msgstr "Конфета"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Monster Candy.)"
 msgstr "<32>{#p/human}* (Вы выбросили монстроконфету.)"
 
 msgid "<32>{#p/human}* (4 HP.)"
 msgstr ""
 
-#, fuzzy
 msgid "Monster Candy"
 msgstr "Монстроконфета"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You eat the Monster Candy.)"
 msgstr "<32>{#p/human}* (Вы съели монстроконфету.)"
 
