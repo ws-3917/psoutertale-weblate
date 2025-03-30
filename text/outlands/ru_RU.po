@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-03-30 13:13+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -11055,31 +11055,42 @@ msgstr ""
 msgid "<25>{#f/5}* Has been feeling worse than ever lately."
 msgstr "<25>{#f/5}* Стал чувствовать себя ещё хуже в последнее время."
 
+#, fuzzy
 msgid "<25>{#f/1}* I tried to ask them why, but they would not say..."
-msgstr ""
+msgstr "<25>{#f/1}* Я пробовала спросить его, почему, но он не ответил..."
 
+#, fuzzy
 msgid "<25>{#f/5}* ... I have not seen them since."
-msgstr ""
+msgstr "<25>{#f/5}* ...С тех пор я его не видела."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* That ghost who called earlier often inhabits this "
 "area."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Тот призрак, звонивший мне ранее, часто навещает это "
+"место."
 
+#, fuzzy
 msgid "<25>{#f/1}* I thought they would be happier after their performance..."
 msgstr ""
+"<25>{#f/1}* Я думала, что он станет счастливее после своего выступления..."
 
+#, fuzzy
 msgid "<25>{#f/1}* I have tried to lift their spirits in the past..."
-msgstr ""
+msgstr "<25>{#f/1}* Я пыталась поднять его дух в прошлом..."
 
+#, fuzzy
 msgid "<25>{#f/5}* But their troubles may not be so easy to resolve."
-msgstr ""
+msgstr "<25>{#f/5}* Но кажется его проблемы просто так не решить."
 
+#, fuzzy
 msgid "<25>{#f/1}* If only I knew what was holding them down..."
-msgstr ""
+msgstr "<25>{#f/1}* Если бы я знала, что его сдерживает..."
 
+#, fuzzy
 msgid "<25>{#f/0}* Has been feeling a lot better lately."
-msgstr ""
+msgstr "<25>{#f/0}* Стал чувствовать себя намного лучше в последнее время."
 
 msgid "<25>{#f/0}* They even came to my house to tell me so themselves."
 msgstr ""
