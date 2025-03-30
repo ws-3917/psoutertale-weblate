@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-03-30 13:13+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -8919,7 +8919,7 @@ msgid "<32>{#p/story}* Oculoux doesn't care about fighting anymore."
 msgstr "<32>{#p/story}* Зениция больше не волнует битва."
 
 msgid "<32>{#p/story}* A pair of Oculoux walked in!"
-msgstr "<32>{#p/story}* Пара глаз встречают вас!"
+msgstr "<32>{#p/story}* Пара глаз встречает вас!"
 
 msgid "<32>{#p/story}* Oculoux is staring right through you."
 msgstr "<32>{#p/story}* Зениций взирает сквозь вас."
@@ -11759,11 +11759,13 @@ msgstr ""
 "* Феттучини!\n"
 "* Ачини ди пепе!"
 
+#, fuzzy
 msgid "<25>{#f/0}* Some variety could really help him go FARFALLE."
-msgstr ""
+msgstr "<25>{#f/0}* Некоторое разнообразие хорошо, подобно скалоЛАЗАНЬЮ."
 
+#, fuzzy
 msgid "<25>{#f/2}* ... in other words, go BIGOLI or go home!"
-msgstr ""
+msgstr "<25>{#f/2}* ... говоря иначе, ПАСТАрайся или сдайся!"
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* Whatever the puzzles in Starton are like now, I am "
