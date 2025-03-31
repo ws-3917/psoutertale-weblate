@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-31 06:41+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-03-31 12:47+0000\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -7536,7 +7536,7 @@ msgid ""
 "* I'M an anything..."
 msgstr ""
 "<25>{#f/15}* Подожди...\n"
-"* Я что-то..."
+"* Я вхожу в эту категорию..."
 
 msgid ""
 "<25>{#p/asriel1}{#f/20}* Please don't make a musical instrument out of me."
@@ -7622,8 +7622,7 @@ msgid ""
 "<32>{#p/human}* (The books on this bookshelf consist of history, biology, "
 "and a foreboding possibility.)"
 msgstr ""
-"<32>{#p/human}* (На полке лежат книги по истории и биологии... И нечто "
-"странное.)"
+"<32>{#p/human}* (На полке книги по истории и биологии... И нечто зловещее.)"
 
 msgid "<32>{#p/basic}* It's Toriel's private bookshelf."
 msgstr "<32>{#p/basic}* Личный книжный шкаф Ториэль."
@@ -10331,8 +10330,9 @@ msgstr "<32>{#p/human}* (Вы надели нимб.)"
 msgid "<25>{#p/asriel1}{#f/20}* I think it suits you."
 msgstr "<25>{#p/asriel1}{#f/20}* А тебе идёт."
 
+#, fuzzy
 msgid "A whacking spoon."
-msgstr ""
+msgstr "Громадная ложка."
 
 #, fuzzy
 msgid "Dipper"
@@ -10346,10 +10346,13 @@ msgstr "<32>{#p/human}* (Вы выкинули малый ковш.)"
 msgid "<32>{#p/human}* (3 AT.)"
 msgstr "<32>{#p/human}* (3 АТК.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Little Dipper\" (3 AT)\n"
 "* A whacking spoon."
 msgstr ""
+"<32>{#p/basic}* Малый ковш: 3 АТК.\n"
+"* Громадная ложка."
 
 #, fuzzy
 msgid "Little Dipper"
@@ -10361,7 +10364,7 @@ msgstr "<32>{#p/human}* (Вы экипировали малый ковш.)"
 
 #, fuzzy
 msgid "Homemade butterscotch-cinnamon pie, one slice."
-msgstr "Долька домашнего ирисково-коричного пирога."
+msgstr "Кусок домашнего ирисково-коричного пирога."
 
 msgid "Pie"
 msgstr "Пирог"
