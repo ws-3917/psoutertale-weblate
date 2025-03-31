@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-31 05:32+0000\n"
+"PO-Revision-Date: 2025-03-31 06:41+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -11308,44 +11308,63 @@ msgid ""
 "<25>{#f/0}* The shops and business there are mostly just for grown-ups."
 msgstr "<25>{#f/0}* Магазины и компании там в основном для взрослых."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/1}* A little mushroom greeted me on my way back from "
 "shopping..."
 msgstr ""
+"<25>{#p/toriel}{#f/1}* Маленький гриб встретил меня, когда я возвращалась из "
+"магазина..."
 
+#, fuzzy
 msgid "<25>{#f/0}* ... as I returned with ingredients for that snail pie."
 msgstr ""
+"<25>{#f/0}* ...когда я возвращалась с ингредиентами для улиточного пирога."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* ... as I returned with ingredients for that butterscotch pie."
 msgstr ""
+"<25>{#f/0}* ...когда я возвращалась с ингредиентами для ирискового пирога."
 
+#, fuzzy
 msgid "<25>{#f/3}* Strangely, it was floating above the doorway..."
-msgstr ""
+msgstr "<25>{#f/3}* Он странно парил над дверным проёмом."
 
+#, fuzzy
 msgid "<25>{#f/0}* The gravity must be weak in that room."
-msgstr ""
+msgstr "<25>{#f/0}* Скорее всего из за низкой гравитации в комнате."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* Perhaps the presence of the taxi has some kind of effect...?"
-msgstr ""
+msgstr "<25>{#f/1}* Может, на это как-то влияет такси?.."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* Ah.\n"
 "* The courtyard."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Ох.\n"
+"* Двор."
 
+#, fuzzy
 msgid "<25>{#f/1}* Admittedly, it is a little lacking..."
-msgstr ""
+msgstr "<25>{#f/1}* Мне кажется, тут немного не хватает..."
 
+#, fuzzy
 msgid "<25>{#f/5}* In terms of being a place for children like you to play."
-msgstr ""
+msgstr "<25>{#f/5}* ...развлечений для детей вроде тебя."
 
+#, fuzzy
 msgid "<25>{#f/1}* With every human who came, I thought of fixing that..."
-msgstr ""
+msgstr "<25>{#f/1}* Каждый раз, как тут появлялся новый человек..."
 
+#, fuzzy
 msgid "<25>{#f/5}* But they always left before I had the chance."
 msgstr ""
+"<25>{#f/5}* Но они всегда уходили раньше, прежде чем я успевала что-то тут "
+"добавить."
 
 msgid ""
 "<25>{#p/toriel}{#f/9}* ... the room in which I lectured you about leaving."
