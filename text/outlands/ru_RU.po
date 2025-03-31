@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-31 05:01+0000\n"
+"PO-Revision-Date: 2025-03-31 05:32+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -11207,60 +11207,86 @@ msgstr ""
 "<25>{#f/0}* Драма, ночные танцы... \n"
 "* И, самое важное, искусство."
 
+#, fuzzy
 msgid "<25>{#f/0}* It is always good to see people expressing themselves."
-msgstr ""
+msgstr "<25>{#f/0}* Очень приятно наблюдать за талантами монстров."
 
+#, fuzzy
 msgid "<25>{#f/1}* I once attended a comedy show in that very room."
-msgstr ""
+msgstr "<25>{#f/1}* Один раз я пришла на стендап в этой самой комнате."
 
+#, fuzzy
 msgid "<25>{#f/0}* It was the hardest I have ever laughed in my life!"
-msgstr ""
+msgstr "<25>{#f/0}* Ох, давно я так не смеялась!"
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* I heard someone here made a \"friend\" with that "
 "talking star."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Я слышала, что кто-то здесь «подружился» с этой "
+"говорящей звездой."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* I heard someone here made a \"friend\" with a talking"
 " star."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Я слышала, что кто-то здесь «подружился» с этой "
+"говорящей звездой."
 
+#, fuzzy
 msgid "<25>{#f/1}* One of the Froggits, I presume...?"
-msgstr ""
+msgstr "<25>{#f/1}* Я думаю, это был один из квакушёнков."
 
+#, fuzzy
 msgid "<25>{#f/1}* To say I am worried for that monsters' safety..."
-msgstr ""
+msgstr "<25>{#f/1}* Сказать, что я волнуюсь за этого монстра..."
 
+#, fuzzy
 msgid "<25>{#f/5}* Would be quite the understatement."
-msgstr ""
+msgstr "<25>{#f/5}* ...ничего не сказать."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/1}* The junction room..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}* Перекрёстная комната..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* In the past, we had planned a community area of sorts here."
 msgstr ""
+"<25>{#f/0}* Раньше мы хотели создать здесь что-то вроде комнаты собраний."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Outlands visitors would be met with a warm, welcoming "
 "atmosphere."
 msgstr ""
+"<25>{#f/0}* Она бы встречала гостей Запределья тёплой, дружелюбной "
+"атмосферой."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* Over time, though, we realized not many people would come..."
 msgstr ""
+"<25>{#f/1}* Но, к сожалению, со временем стало понятно, что почти никто не "
+"приходит..."
 
+#, fuzzy
 msgid "<25>{#f/0}* And so, the design was altered into what you see today."
-msgstr ""
+msgstr "<25>{#f/0}* В итоге, дизайн комнаты приобрёл сегодняшний вид."
 
+#, fuzzy
 msgid ""
 "<25>{#f/5}* A little boring, but I suppose not every room can be grand..."
 msgstr ""
+"<25>{#f/5}* Хоть это и скучно, но, не каждая комната должна быть "
+"величественной..."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}* From here, the all- important taxi stop can be reached."
-msgstr ""
+msgstr "<25>{#p/toriel}* Отсюда можно добраться до остановки такси."
 
 msgid "<25>{#f/1}* Not only are other areas of the outpost accessible..."
 msgstr ""
@@ -11268,16 +11294,19 @@ msgstr ""
 msgid "<25>{#f/0}* But other subsections of the Outlands are, too."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#f/1}* Seeing as you are but a small child, however..."
-msgstr ""
+msgstr "<25>{#f/1}* Даже не смотря на то, что ты маленький ребёнок..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/5}* It is unlikely the driver would offer that as an option to you."
-msgstr ""
+msgstr "<25>{#f/5}* Сомневаюсь что водитель откажет тебе в своих услугах."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* The shops and business there are mostly just for grown-ups."
-msgstr ""
+msgstr "<25>{#f/0}* Магазины и компании там в основном для взрослых."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* A little mushroom greeted me on my way back from "
