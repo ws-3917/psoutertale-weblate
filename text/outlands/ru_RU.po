@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-03-31 04:46+0000\n"
+"PO-Revision-Date: 2025-03-31 05:01+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -10980,19 +10980,21 @@ msgstr ""
 
 #, fuzzy
 msgid "<25>{#f/0}* Was based on something I found in an old Earth legend."
-msgstr "<25>{#f/0}* Основана на старой легенде с Земли."
+msgstr "<25>{#f/0}* Основана на старой игре с Земли."
 
 msgid "<25>{#f/1}* It involved a series of many intricate puzzles..."
 msgstr "<25>{#f/1}* Она включала в себя множество сложных головоломок..."
 
+#, fuzzy
 msgid "<25>{#f/0}* And a certain deceptive baked good."
-msgstr ""
+msgstr "<25>{#f/0}* ...и пироге с ложью."
 
 msgid "<25>{#f/5}* It is a shame you refused to solve it."
 msgstr "<25>{#f/5}* Жаль, что ты отказался решать её."
 
+#, fuzzy
 msgid "<25>{#f/0}* Seeing you solve it was quite gratifying."
-msgstr ""
+msgstr "<25>{#f/0}* Мне было очень приятно наблюдать, как ты решаешь задачу."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* As overseer of the Outlands, I took it upon myself..."
@@ -11172,26 +11174,38 @@ msgstr "<25>{#f/1}* Если бы я только знала, что у него
 msgid "<25>{#f/0}* Has been feeling a lot better lately."
 msgstr "<25>{#f/0}* Стал чувствовать себя намного лучше в последнее время."
 
+#, fuzzy
 msgid "<25>{#f/0}* They even came to my house to tell me so themselves."
 msgstr ""
+"<25>{#f/0}* Он даже приходил ко мне домой, чтобы поделиться этим со мной."
 
+#, fuzzy
 msgid "<25>{#f/1}* Apparently you had something to do with this...?"
-msgstr ""
+msgstr "<25>{#f/1}* Ты как то с этим связан?.."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Well then.\n"
 "* I am very proud of you, my child."
 msgstr ""
+"<25>{#f/0}* В любом случае...\n"
+"* Я очень горжусь тобой, моё дитя."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/0}* The activities room.\n"
 "* We host all kinds of performances there."
 msgstr ""
+"<25>{#p/toriel}{#f/0}* Комната развлечений.\n"
+"* Мы часто устраиваем там дискотеки."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Drama, dance nights...\n"
 "* And, most important of all, the arts."
 msgstr ""
+"<25>{#f/0}* Драма, ночные танцы... \n"
+"* И, самое важное, искусство."
 
 msgid "<25>{#f/0}* It is always good to see people expressing themselves."
 msgstr ""
