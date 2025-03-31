@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-01 04:10+0000\n"
+"PO-Revision-Date: 2025-04-01 04:10+0000\n"
+"Last-Translator: Mr R <roddypesce@gmail.com>\n"
+"Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
+"1-outlands/it/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
@@ -1346,59 +1361,66 @@ msgstr "<25>{#f/23}* Posso di nuovo avere un futuro."
 
 msgid "<25>{#f/22}* Even though you couldn't forgive me for what I'd done..."
 msgstr ""
+"<25>{#f/22}* Anche se non mi posso perdonare per tutto quello che ti ho "
+"fatto..."
 
 msgid ""
 "<25>{#f/22}* Even though I wanted you to do all those terrible things..."
 msgstr ""
+"<25>{#f/22}* Nonostante ti abbia incitato a fare delle cose davvero "
+"terribili..."
 
 msgid ""
 "<25>{#f/22}* Even though I tortured you, and threatened everyone you love..."
 msgstr ""
+"<25>{#f/22}* Sebbene ti abbia torturato e abbia minacciato tutti quelli a "
+"cui vuoi bene..."
 
 msgid "<25>{#f/13}* You're still willing to help me move past it all."
-msgstr ""
+msgstr "<25>{#f/13}* Tu sei ancora disposto ad aiutarmi ad andare avanti."
 
 msgid "<25>{#f/23}* ... it means a lot."
-msgstr ""
+msgstr "<25>{#f/23}* ... significa molto per me."
 
 msgid "<25>{#f/13}* Mom, Dad..."
-msgstr ""
+msgstr "<25>{#f/13}* Mamma, Papà..."
 
 msgid "<25>{#f/13}* Sans, Papyrus, Undyne, Alphys..."
-msgstr ""
+msgstr "<25>{#f/13}* Sans, Papyrus, Undyne, Alphys..."
 
 msgid "<25>{#f/15}* Everyone I've killed in past realities..."
-msgstr ""
+msgstr "<25>{#f/15}* Tutti quelli che ho ucciso nelle passate timeline..."
 
 msgid "<25>{#f/16}* ... it's going to be difficult for me to face them."
-msgstr ""
+msgstr "<25>{#f/16}* ... sarà davvero difficile per me doverli affrontare."
 
 msgid "<25>{#f/17}* But I'll try."
-msgstr ""
+msgstr "<25>{#f/17}* Ma farò del mio meglio."
 
 msgid "<25>{#f/23}* I'll try to be a better person."
-msgstr ""
+msgstr "<25>{#f/23}* Voglio provare a diventare una persona migliore."
 
 msgid "<25>{#f/22}* And, If I ever screw up..."
-msgstr ""
+msgstr "<25>{#f/22}* E, se sbagliassi qualcosa..."
 
 msgid "<25>{#f/13}* ... I know you'll be there to help me pick up the pieces."
-msgstr ""
+msgstr "<25>{#f/13}* ... So che tu sarai al mio fianco ad aiutarmi a rimediare."
 
 msgid "<25>{#p/asriel1}{#f/17}* Ha... $(name)."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/17}* Ha... $(name)."
 
 msgid "<25>{#f/23}* I won't let you down, okay?"
-msgstr ""
+msgstr "<25>{#f/23}* Non ti deluderò, okay?"
 
 msgid "<25>{#f/22}* I'll make the most out of this chance you've given me."
 msgstr ""
+"<25>{#f/22}* Sfrutterò al massimo questa seconda possibilità che mi hai dato."
 
 msgid "<25>{#f/17}* I'll make it count."
-msgstr ""
+msgstr "<25>{#f/17}* Farò valere il tuo sacrificio."
 
 msgid "<32>{#p/human}* (You feel the nearby monster presence dwindling.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Senti la presenza dei mostri nei paraggi diminuire.)"
 
 msgid "<32>{#p/human}* (You saw a piece of gum taped to the comic strip...)"
 msgstr ""
@@ -7585,7 +7607,7 @@ msgstr ""
 " che hai fatto..."
 
 msgid "<25>{#f/7}* Filthy shard dodger."
-msgstr "<25>{#f/7}* Sporco schiva frammenti."
+msgstr "<25>{#f/7}* Schifoso schiva frammenti."
 
 msgid "<25>{#p/twinkly}{#f/7}* I can play this game all day, idiot."
 msgstr ""
@@ -7603,7 +7625,7 @@ msgid "<25>* Seems I'll be fireballed if I stick around too long."
 msgstr "<25>* Sembra che Toriel mi attaccherà se rimango qui troppo a lungo."
 
 msgid "<25>{#f/8}* A shame, really..."
-msgstr "<25>{#f/8}* Davvero un gran peccato..."
+msgstr "<25>{#f/8}* È davvero un gran peccato..."
 
 msgid "<25>{#f/7}* I was gonna have SO much fun with you."
 msgstr "<25>{#f/7}* Mi sarei divertito COSÌ tanto con te."
