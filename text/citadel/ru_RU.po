@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 14:13+0000\n"
 "PO-Revision-Date: 2025-03-31 04:46+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
 "Language: ru_RU\n"
@@ -9347,8 +9347,9 @@ msgid ""
 "* Like you!"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (You note the exceptional size of the dining chair.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы отмечаете исключительный размер обеденного стула.)"
 
 msgid "<32>{#p/basic}* A king-sized dining chair."
 msgstr "<32>{#p/basic}* Королевский обеденный стул."
@@ -10071,8 +10072,9 @@ msgstr ""
 msgid "<32>* \"Hopefully those kinds of questions will soon be answered.\""
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (There are no more written entries here.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Больше записей нет.)"
 
 msgid "<32>{#p/human}* (You look inside the bureau...)"
 msgstr ""
