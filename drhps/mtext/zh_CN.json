@@ -136,7 +136,7 @@
     "MainMenu_CreditSectionManager-level2-1756-CreditDescription-1": "职能：\n导演、程序主力、\n编剧主力、贴图美工\n\n“我是做游戏的”",
     "MainMenu_CreditSectionManager-level2-1756-CreditDescription-2": "职能：\n游戏测试\n\n“猹在鳝丝的房间里显灵了”",
     "MainMenu_CreditSectionManager-level2-1756-CreditDescription-3": "职能：\n作曲、编剧、游戏测试\n\n“我记得你是个\n<color=green>游戏开发者</color>”",
-    "MainMenu_CreditSectionManager-level2-1756-CreditDescription-4": "职能：\n提供灵感\n\n“第一法则是有氧运动？\n原来如此...............”",
+    "MainMenu_CreditSectionManager-level2-1756-CreditDescription-4": "职能：\n提供灵感\n\n“第一法则是有氧运动？原来如此...\n...........”",
     "MainMenu_CreditSectionManager-level2-1756-CreditDescription-5": "OpenDyslexic字体制作人\n\n社交账号：\nabbiegonzalez.com",
     "MainMenu_SectionManager-level2-1652-ThisControlText-1": "</A - 左 | Z - 确定 | X - 返回 | 右 - D/>",
     "MainMenu_SectionManager-level2-1682-ThisControlText-1": "</A - 左 | Z - 确定 | 右 - D/>",
@@ -159,7 +159,7 @@
     "NewMainMenu_CreditSubMenu-level2-1735-CreditDescription-1": "导演、曲师、程序员、\n编剧、2D/3D美工\n\n“我好想念我的低多边形ps1复古独立恐怖游戏...”",
     "NewMainMenu_CreditSubMenu-level2-1735-CreditDescription-2": "曲师、编剧助理、游戏测试员\n\n“我记得你是个\n<color=green>游戏开发者</color>”",
     "NewMainMenu_CreditSubMenu-level2-1735-CreditDescription-3": "游戏测试员\n\n“猹在鳝丝的房间里显灵了”",
-    "NewMainMenu_CreditSubMenu-level2-1735-CreditDescription-4": "游戏测试员\n\n“第一法则是有氧运动？\n原来如此...............”",
+    "NewMainMenu_CreditSubMenu-level2-1735-CreditDescription-4": "游戏测试员\n\n“第一法则是有氧运动？原来如此...\n...........”",
     "NewMainMenu_CreditSubMenu-level2-1735-CreditDescription-5": "OpenDyslexic字体制作人\n\n社交账号：\nabbiegonzalez.com",
     "NewMainMenu_ExtraSubMenu-level2-1784-ExtraName-1": "旧图标和旧Logo",
     "NewMainMenu_ExtraSubMenu-level2-1784-ExtraName-2": "《传说之下嘉年华》2024 幕后花絮",
@@ -348,10 +348,10 @@
     "TextMeshProUGUI-sharedassets2.assets-545-m_text-1": "我设法把一个猜想发给他们了，那是我自己写的！\n\n从我们有记忆以来，我们只在较长的模拟实例中将宿主控制权交给少数特定实体。他们通常优先选择更强壮、更健康的实体，以确保宿主在测试中尽可能处于最佳状态。\n\n我的假设旨在测试：如果选择一个弱小的怪物作为宿主控制对象，会发生什么？\n\n在最初的几天里，一切都很正常。我们记录了这个实体的日常活动，并像往常一样遵循它。到了第三天，这个实体因筋疲力尽而晕倒，直到他们移除了宿主控制后才醒来。我试图反对这么做，但他们根本不听。要我说，他们就是怂了。",
     "TextMeshProUGUI-sharedassets2.assets-546-m_text-1": "经过多次模拟迭代和无数努力，我们终于找到了一个理想的容器以供寄宿！在他们周围的人看来，这个容器被称为“Kris Dreemurr ”。\n\n我们一直在观察模拟在没有宿主干预的情况下运行，而“Kris”展现出了许多我们认为对于无缝融合宿主所必需的特质。在早期的迭代中，当“Kris”受到宿主的影响并模仿他们的日常生活时，我们没有发现其同伴行为中存在任何明显的差异。\n\n此外，也没有迹象表明“Kris”试图干扰宿主。\n\n从现在开始，“Kris”将成为我们的主要候选人。",
     "TextMeshProUGUI-sharedassets2.assets-551-m_text-1": "如果三角符文模拟器在每次迭代中都遵循一条固定的事件时间线，那么在宿主的控制下，应可以对时间线产生影响。\n\n然而，如果三角符文模拟器并不遵循严格的时间线或规则集，则需要进行进一步的实验。",
-    "TextMeshProUGUI-sharedassets2.assets-552-m_text-1": "<size=40>规划</size>\n既然决定好做个“猜想大杂烩”的游戏，\n下一个问题，就是如何把这么多猜想“串”起来。\n\n我们想到一个有趣的点子：将这些猜想用作\n三角符文宇宙的科学模拟实验。\n以及，写一写日志，记录玩家进行的其他猜想实验。",
+    "TextMeshProUGUI-sharedassets2.assets-552-m_text-1": "<size=40>规划</size>\n既然决定好做个“猜想大杂烩”的游戏，\n下一个问题，就是如何把这么多猜想“串”起来。\n\n我们想到一个有趣的点子：将这些猜想用作三角符文宇宙的\n科学模拟实验。\n以及，写一写日志，记录玩家进行的其他猜想实验。",
     "TextMeshProUGUI-sharedassets2.assets-553-m_text-1": "- 《三角符文：猜想模拟器》的引擎其实是用一款\n老同人游戏《三角反转》改的。那个游戏的流程\n到进入暗世界前就结束了，主要是展示一下角色换位的概念。 \n\n- 当初配置GitHub，打算在上面备份游戏文件，uprank不知道咋搞的，\n成功把文件删了个精光，游戏就这样彻底死翘翘啦！！！\n不过我们稍微补救了一下，游戏文件都找回来了...呼，还好还好！\n\n- 再说说我们投到2024届传说之下嘉年华的预告片。\n第一版设计模仿了白板上的投影，\n咱还加入了Ralsei被一块巨石反复蹂躏的环节。",
-    "TextMeshProUGUI-sharedassets2.assets-554-m_text-1": "<size=40>未来</size>\n下一步，做什么呢？\n\n我们计划，在《三角符文》三、四章发布前，继续创作更多的猜想和日志。\n而发布后，则会放下手头的工作，欣赏新剧情和新内容，汲取灵感。\n这样，我们才能把猜想写的更加准确。\n\n在不久的将来，这款游戏也会开源！芜湖！！",
-    "TextMeshProUGUI-sharedassets2.assets-555-m_text-1": "<size=40>缘起</size>\n《猜想模拟器》项目规划与开发始于2024年3月21日。\n起初，这只是一个小型同人，里面只有“万千世界与食人巨魔”一个猜想。\n\n<size=40>扩大</size>\n随着开发的进行，各种猜想开始被一一抛出，项目范围也不断扩大。\n我们发现，如果提出一个猜想，就做一个游戏，会带来不少麻烦。\n比如，如果出现了系统性问题，就必须得挨个游戏更新。\n\n所以我们决定，将所有的猜想打包成一个游戏。",
+    "TextMeshProUGUI-sharedassets2.assets-554-m_text-1": "<size=40>未来</size>\n下一步，做什么呢？\n\n我们计划，在《三角符文》三、四章发布前，\n继续创作更多的猜想和日志。\n而发布后，则会放下手头的工作，欣赏新剧情和新内容，汲取灵感。\n这样，我们才能把猜想写的更加准确。\n\n在不久的将来，这款游戏也会开源！芜湖！！",
+    "TextMeshProUGUI-sharedassets2.assets-555-m_text-1": "<size=40>缘起</size>\n《猜想模拟器》项目规划与开发始于2024年3月21日。\n起初，这只是一个小型同人，里面只有“万千世界与食人巨魔”\n一个猜想。\n\n<size=40>扩大</size>\n随着开发的进行，各种猜想开始被一一抛出，项目范围也不断扩大。\n我们发现，如果提出一个猜想，就做一个游戏，会带来不少麻烦。\n比如，如果出现了系统性问题，就必须得挨个游戏更新。\n\n所以我们决定，将所有的猜想打包成一个游戏。",
     "TextMeshProUGUI-sharedassets2.assets-557-m_text-1": "“项目介绍”",
     "TextMeshProUGUI-sharedassets2.assets-558-m_text-1": "“范围膨胀”",
     "TextMeshProUGUI-sharedassets2.assets-559-m_text-1": "“实验发现”",
@@ -369,5 +369,5 @@
     "TextMeshProUGUI-sharedassets2.assets-584-m_text-1": "已记录的信息",
     "TheANGELSHEAVEN-sharedassets2.assets-517-HypothesisName-1": "天使的乐园",
     "TheANGELSHEAVEN-sharedassets2.assets-517-HypothesisTagline-1": "暗世界的一场骚乱导致他们陷入了最危险的冲突之中。\n",
-    "UE2024BTS-sharedassets2.assets-488-ItemDescription-1": "《传说之下嘉年华》2024预告片中那些3D镜头\n就是这样建构出来的。"
+    "UE2024BTS-sharedassets2.assets-488-ItemDescription-1": "《传说之下嘉年华》2024预告片中\n那些3D镜头就是这样建构出来的。"
 }
