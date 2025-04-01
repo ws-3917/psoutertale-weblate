@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-04-01 10:21+0000\n"
+"PO-Revision-Date: 2025-04-01 10:23+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -10402,7 +10402,6 @@ msgstr ""
 msgid "<32>{#p/human}* (You eat the Burnt Pie.)"
 msgstr "<32>{#p/human}* (Вы с трудом съели сгоревший пирог.)"
 
-#, fuzzy
 msgid ""
 "A plate of fried snails.\n"
 "For breakfast, of course."
@@ -10431,15 +10430,12 @@ msgstr ""
 msgid "Fried Snails"
 msgstr "Жареные улитки"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You eat the Fried Snails.)"
 msgstr "<32>{#p/human}* (Вы съели тарелку жареных улиток.)"
 
-#, fuzzy
 msgid "A sickly, dark yellow liquid."
 msgstr "Отвратительная тёмно-жёлтая жидкость."
 
-#, fuzzy
 msgid "Soda"
 msgstr "Газировка"
 
@@ -10469,28 +10465,23 @@ msgstr "Токсичная газировка"
 msgid "<32>{#p/human}* (You drink the Fizzli Soda.)"
 msgstr "<32>{#p/human}* (Вы выпили токсичную соду.)"
 
-#, fuzzy
 msgid "<32>{#p/basic}* Yuck!"
 msgstr "<32>{#p/basic}* Бр-р!"
 
-#, fuzzy
 msgid "It came with the craft you crash-landed in."
-msgstr "Он был на вашем корабле, потерпевшим крушение."
+msgstr "Он был на звездолёте, который вы разбили."
 
-#, fuzzy
 msgid "Spacesuit"
 msgstr "Скафандр"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Worn Spacesuit.)"
 msgstr "<32>{#p/human}* (Вы выбросили поношенный скафандр.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/human}* (20 HP. The last remaining fragment of a spacecraft flown in"
 " exile.)"
 msgstr ""
-"<32>{#p/human}* (Лечит 20 ОЗ. Последний оставшийся фрагмент разбитого "
+"<32>{#p/human}* (Восстанавливает 20 ОЗ. Последний фрагмент разбитого "
 "звездолёта.)"
 
 #, fuzzy
