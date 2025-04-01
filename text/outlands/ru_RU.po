@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-04-01 09:56+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -11240,7 +11240,7 @@ msgstr ""
 
 #, fuzzy
 msgid "<25>{#f/0}* And so, the design was altered into what you see today."
-msgstr "<25>{#f/0}* В итоге, дизайн комнаты приобрёл сегодняшний вид."
+msgstr "<25>{#f/0}* В итоге, дизайн комнаты приобрёл нынешний вид."
 
 #, fuzzy
 msgid ""
@@ -11254,11 +11254,13 @@ msgid ""
 "<25>{#p/toriel}* From here, the all- important taxi stop can be reached."
 msgstr "<25>{#p/toriel}* Отсюда можно добраться до остановки такси."
 
+#, fuzzy
 msgid "<25>{#f/1}* Not only are other areas of the outpost accessible..."
-msgstr ""
+msgstr "<25>{#f/1}* Подобные остановки есть не только в Запределье..."
 
+#, fuzzy
 msgid "<25>{#f/0}* But other subsections of the Outlands are, too."
-msgstr ""
+msgstr "<25>{#f/0}* Но и в других частях Аванпоста."
 
 #, fuzzy
 msgid "<25>{#f/1}* Seeing as you are but a small child, however..."
@@ -11574,16 +11576,22 @@ msgstr "<25>{#p/toriel}{#f/3}* Дитя, нет смысла звонить, к�
 msgid "<25>{#p/toriel}{#f/1}* Rummaging around in the living room, are we?"
 msgstr "<25>{#p/toriel}{#f/1}* Копошишься в гостиной?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* Say.\n"
 "* Have you read all of the books yet?"
 msgstr ""
+"<25>{#f/0}* Скажи мне.\n"
+"* Ты уже прочитал все книги?"
 
+#, fuzzy
 msgid "<25>{#f/1}* I thought about reading you the snail fact book..."
 msgstr ""
+"<25>{#f/1}* Я хочу прочитать тебе книгу «100 интересных фактов об улитках»."
 
+#, fuzzy
 msgid "<25>{#f/0}* But I decided it might be a little too repetitive for you."
-msgstr ""
+msgstr "<25>{#f/0}* Но, наверное, такое тебе не очень интересно."
 
 msgid "<25>{#p/toriel}{#f/1}* The kitchen...?"
 msgstr "<25>{#p/toriel}{#f/1}* Кухня?.."
