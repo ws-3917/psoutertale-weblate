@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-04-01 10:23+0000\n"
+"PO-Revision-Date: 2025-04-01 14:31+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -389,7 +389,7 @@ msgid "<32>{#p/basic}* Perhaps there's a key somewhere...?"
 msgstr "<32>{#p/basic}* Возможно, где-то неподалёку есть ключ?.."
 
 msgid "<32>{#p/human}* (You use the Secret Key.)"
-msgstr "<32>{#p/human}* (Вы использовали секретный ключ.)"
+msgstr "<32>{#p/human}* (Вы использовали тайный ключ.)"
 
 msgid "* (Exit the Outlands?)"
 msgstr "* (Покинуть Запределье?)"
@@ -2827,10 +2827,10 @@ msgstr ""
 "раньше."
 
 msgid "<32>{#p/human}* (You got the Little Dipper.)"
-msgstr "<32>{#p/human}* (Вы получили малый ковш.)"
+msgstr "<32>{#p/human}* (Вы получили Малый Ковш.)"
 
 msgid "* (Equip the Little Dipper?)"
-msgstr "* (Использовать малый ковш?)"
+msgstr "* (Использовать Малый Ковш?)"
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* Pies are for eating, not for splattering on the "
@@ -4305,7 +4305,7 @@ msgid "<32>{#p/human}* (You got the Halo.)"
 msgstr "<32>{#p/human}* (Вы получили ореол.)"
 
 msgid "* (Equip the Halo?)"
-msgstr "* (Использовать ореол?)"
+msgstr "* (Использовать нимб?)"
 
 msgid ""
 "<25>{#p/toriel}{#f/5}* Teaching you thus far has been difficult, but..."
@@ -5664,8 +5664,7 @@ msgid "<32>{#p/human}* (You decide not to do anything.)"
 msgstr "<32>{#p/human}* (Вы решили ничего не брать.)"
 
 msgid "<32>{#s/equip}{#p/human}* (The Secret Key was added to your keyring.)"
-msgstr ""
-"<32>{#s/equip}{#p/human}* (Вы повесили секретный ключ на вашу ключницу.)"
+msgstr "<32>{#s/equip}{#p/human}* (Вы тайный секретный ключ на вашу ключницу.)"
 
 msgid "<32>{#p/basic}* But what could it unlock...?"
 msgstr "<32>{#p/basic}* Но что он открывает?.."
@@ -10286,34 +10285,30 @@ msgstr "<32>{#p/human}* (Вы надели нимб.)"
 msgid "<25>{#p/asriel1}{#f/20}* I think it suits you."
 msgstr "<25>{#p/asriel1}{#f/20}* А тебе идёт."
 
-#, fuzzy
 msgid "A whacking spoon."
-msgstr "Громадная ложка."
+msgstr "Ложка-изобьёжка."
 
 msgid "Dipper"
 msgstr "Ковш"
 
 msgid "<32>{#p/human}* (You throw away the Little Dipper.)"
-msgstr "<32>{#p/human}* (Вы выкинули малый ковш.)"
+msgstr "<32>{#p/human}* (Вы выбросили Малый Ковш.)"
 
 msgid "<32>{#p/human}* (3 AT.)"
 msgstr "<32>{#p/human}* (3 АТК.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Little Dipper\" (3 AT)\n"
 "* A whacking spoon."
 msgstr ""
-"<32>{#p/basic}* Малый ковш: 3 АТК.\n"
-"* Громадная ложка."
+"<32>{#p/basic}* Малый Ковш: 3 АТК.\n"
+"* Ложка-изобьёжка."
 
-#, fuzzy
 msgid "Little Dipper"
-msgstr "Малый ковш"
+msgstr "Малый Ковш"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You equip the Little Dipper.)"
-msgstr "<32>{#p/human}* (Вы экипировали малый ковш.)"
+msgstr "<32>{#p/human}* (Малый Ковш теперь используется.)"
 
 msgid "Homemade butterscotch-cinnamon pie, one slice."
 msgstr "Кусок домашнего ирисково-коричного пирога."
@@ -10484,51 +10479,41 @@ msgstr ""
 "<32>{#p/human}* (Восстанавливает 20 ОЗ. Последний фрагмент разбитого "
 "звездолёта.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Worn Spacesuit\" Heals 20 HP\n"
 "* It came with the craft you crash-landed in."
 msgstr ""
-"<32>{#p/basic}* «Поношенный скафандр» Лечит 20 ОЗ\n"
-"* Вы взяли его с собой после крушения звездолёта."
+"<32>{#p/basic}* Потрёпанный скафандр: восст. 20 ОЗ. Вы взяли его с собой "
+"после крушения звездолёта."
 
-#, fuzzy
 msgid "Worn Spacesuit"
-msgstr "Поношенный скафандр"
+msgstr "Потрёпанный скафандр"
 
-#, fuzzy
 msgid ""
 "<33>{#p/human}* (After using its last heal-pak, the Worn Spacesuit fell "
 "apart.)"
 msgstr ""
-"<33>{#p/human}* (После использования последней аптечки, поношенный скафандр "
+"<33>{#p/human}* (После использования последней аптечки, потрёпанный скафандр "
 "развалился на части.)"
 
-#, fuzzy
 msgid "A rusty old wrench."
-msgstr "Старый и ржавый гаечный ключ."
+msgstr "Ржавый гаечный ключ"
 
-#, fuzzy
 msgid "Spanner"
 msgstr "Гаечный ключ"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Rusty Spanner.)"
 msgstr "<32>{#p/human}* (Вы выбросили ржавый гаечный ключ.)"
 
-#, fuzzy
 msgid "<32>{#p/human}* (A trusty tool forged from beyond the galaxy's edge.)"
 msgstr "<32>{#p/human}* (Надёжный инструмент, выкованный на краю галактики.)"
 
-#, fuzzy
 msgid "<32>{#p/basic}* A rusty old wrench."
-msgstr "<32>{#p/basic}* Старый и ржавый гаечный ключ."
+msgstr "<32>{#p/basic}* Ржавый гаечный ключ."
 
-#, fuzzy
 msgid "Rusty Spanner"
-msgstr "Ржавый гаечный ключ."
+msgstr "Ржавый гаечный ключ"
 
-#, fuzzy
 msgid ""
 "<32>{#p/human}* (You toss the spanner into the air.)\n"
 "* (Nothing happens.)"
@@ -10536,117 +10521,91 @@ msgstr ""
 "<32>{#p/human}* (Вы подбрасываете гаечный ключ.)\n"
 "* (Ничего не произошло.)"
 
-#, fuzzy
 msgid "The first of a limited run of Super Starwalker comics."
 msgstr "Первая часть ограниченного издания комикса о Невероятном Старуокере."
 
-#, fuzzy
 msgid "Starwalker 1"
 msgstr "Невероятный Старуокер 1"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You throw away Super Starwalker 1.)"
 msgstr "<32>{#p/human}* (Вы выбросили Невероятный Старуокер 1.)"
 
-#, fuzzy
 msgid "<32>{#p/human}* (It seems like the beginning of a journey.)"
 msgstr "<32>{#p/human}* (Начало удивительного путешествия.)"
 
-#, fuzzy
 msgid "<32>{#p/basic}* The first of a limited run of Super Starwalker comics."
 msgstr ""
 "<32>{#p/basic}* Первая часть ограниченного издания комикса о Невероятном "
 "Старуокере."
 
-#, fuzzy
 msgid "Super Starwalker 1"
 msgstr "Невероятный Старуокер 1"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You read Super Starwalker 1.)"
 msgstr "<32>{#p/human}* (Вы читаете Невероятный Старуокер 1.)"
 
-#, fuzzy
 msgid "<32>* (Nothing happens.)"
 msgstr "<32>* (Ничего не произошло.)"
 
-#, fuzzy
 msgid "The second of a limited run of Super Starwalker comics."
 msgstr "Вторая часть ограниченного издания комикса о Невероятном Старуокере."
 
-#, fuzzy
 msgid "Starwalker 2"
 msgstr "Старуокер 2"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You throw away Super Starwalker 2.)"
 msgstr "<32>{#p/human}* (Вы выбросили Невероятный Старуокер 2.)"
 
-#, fuzzy
 msgid "<32>{#p/human}* (It seems like the middle of a journey.)"
 msgstr "<32>{#p/human}* (Середина удивительного приключения.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* The second of a limited run of Super Starwalker comics."
 msgstr ""
-"<32>{#p/basic}* Вторая часть ограниченного издания комикса Невероятный "
-"Старуокер."
+"<32>{#p/basic}* Вторая часть ограниченного издания комикса о Невероятном "
+"Старуокере."
 
-#, fuzzy
 msgid "Super Starwalker 2"
 msgstr "Невероятный Старуокер 2"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You read Super Starwalker 2.)"
 msgstr "<32>{#p/human}* (Вы читаете невероятный Старуокер 2.)"
 
-#, fuzzy
 msgid "<32>* (You found a piece of gum taped to the comic strip.)"
-msgstr "<32>* (Вы обнаружили кусочек жвачки, прикленный к комиксу.)"
+msgstr "<32>* (Вы обнаружили кусочек жвачки, приклеенный к комиксу.)"
 
-#, fuzzy
 msgid "* (Use the gum?)"
 msgstr "* (Пожевать жвачку?)"
 
-#, fuzzy
 msgid "The third of a limited run of Super Starwalker comics."
 msgstr "Третья часть ограниченного издания комикса о Невероятном Старуокере."
 
-#, fuzzy
 msgid "Starwalker 3"
-msgstr "Староукер 3"
+msgstr "Старуокер 3"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You throw away Super Starwalker 3.)"
 msgstr "<32>{#p/human}* (Вы выбросили Невероятный Старуокер 3.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/human}* (It seems like the end of a journey... or is it a new "
 "beginning?)"
 msgstr ""
 "<32>{#p/human}* (Завершающая часть приключения... или начало новой истории?)"
 
-#, fuzzy
 msgid "<32>{#p/basic}* The third of a limited run of Super Starwalker comics."
 msgstr ""
-"<32>{#p/basic}* Третья часть ограниченного издания комикса Невероятный "
-"Старуокер."
+"<32>{#p/basic}* Третья часть ограниченного издания комикса о Невероятном "
+"Старуокере."
 
-#, fuzzy
 msgid "Super Starwalker 3"
 msgstr "Невероятный Старуокер 3"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You read Super Starwalker 3.)"
-msgstr "<32>{#p/human}* (Вы читаете Супер Старуокер 3.)"
+msgstr "<32>{#p/human}* (Вы читаете Невероятный Старуокер 3.)"
 
-#, fuzzy
 msgid "Questionable at best."
 msgstr "Сомнительный конец."
 
-#, fuzzy
 msgid "Steak"
 msgstr "Стейк"
 
@@ -10654,9 +10613,8 @@ msgstr "Стейк"
 msgid "<32>{#p/human}* (You throw away the Sizzli Steak.)"
 msgstr "<32>{#p/human}* (Вы выбрасываете токсичный стейк.)"
 
-#, fuzzy
 msgid "<32>{#p/basic}* Well, that won't be missed."
-msgstr "<32>{#p/basic}* Ну, этого никто не заметит."
+msgstr "<32>{#p/basic}* Никто не будет по нему скучать."
 
 msgid "<32>{#p/human}* (14 HP.)"
 msgstr "<32>{#p/human}* (14 ОЗ.)"
@@ -10681,17 +10639,14 @@ msgstr "<32>{#p/human}* (Вы съели токсичный стейк.)"
 msgid "<32>{#p/basic}* Gross!"
 msgstr "<32>{#p/basic}* Фу, мерзость!"
 
-#, fuzzy
 msgid "Secret Key"
-msgstr "Секретный ключ"
+msgstr "Тайный ключ"
 
-#, fuzzy
 msgid "Used to access a hidden room in the Outlands."
-msgstr "Можно использовать чтобы открыть закрытую дверь в Запределье."
+msgstr "Используется для открытия двери в Запределье."
 
-#, fuzzy
 msgid "Acquired from the sock drawer in Toriel's room."
-msgstr "Был найден среди носков Ториэль."
+msgstr "Находился в носках Ториэль."
 
 msgid ""
 "<25>{#p/toriel}{#f/0}* Ah, of course.\n"
@@ -10911,23 +10866,20 @@ msgid ""
 msgstr ""
 "<25>{#p/toriel}{#f/1}* Загадка терминала, предложенная в этой комнате..."
 
-#, fuzzy
 msgid "<25>{#f/0}* Was based on something I found in an old Earth legend."
-msgstr "<25>{#f/0}* Основана на старой игре с Земли."
+msgstr "<25>{#f/0}* Основана на старой Земной легенде."
 
 msgid "<25>{#f/1}* It involved a series of many intricate puzzles..."
 msgstr "<25>{#f/1}* Она включала в себя множество сложных головоломок..."
 
-#, fuzzy
 msgid "<25>{#f/0}* And a certain deceptive baked good."
-msgstr "<25>{#f/0}* ...и пироге с ложью."
+msgstr "<25>{#f/0}* ...и сообщение что торт это ложь."
 
 msgid "<25>{#f/5}* It is a shame you refused to solve it."
 msgstr "<25>{#f/5}* Жаль, что ты отказался решать её."
 
-#, fuzzy
 msgid "<25>{#f/0}* Seeing you solve it was quite gratifying."
-msgstr "<25>{#f/0}* Мне было очень приятно наблюдать, как ты решаешь задачу."
+msgstr "<25>{#f/0}* Мне было приятно наблюдать, как ты решаешь задачу."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* As overseer of the Outlands, I took it upon myself..."
