@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-01 09:56+0000\n"
+"PO-Revision-Date: 2025-04-01 09:56+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/ps-outertale/5-citadel/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr "<32>{#p/human}* （一股暗流在你心中充盈。）"
@@ -1788,10 +1803,10 @@ msgid "<32>{#p/basic}* Frisk..."
 msgstr "<32>{#p/basic}* Frisk..."
 
 msgid "<32>* There's still something I haven't told you yet."
-msgstr "<32>* 有些事我还没告诉你。"
+msgstr "<32>* 有些事，之前一直跟你说。"
 
 msgid "<32>* It's about my past, and..."
-msgstr "<32>* 这有关我的过去..."
+msgstr "<32>* 跟我的过去有关..."
 
 msgid "<32>* It's the reason why I'm so desperate to talk to him."
 msgstr ""
@@ -1858,8 +1873,8 @@ msgstr "[DEL]"
 
 msgid "<32>* But that's... all I ever do."
 msgstr ""
-"<32>* 这样的生活...\n"
-"  我也曾拥有过。"
+"<32>* 这样幸福的生活...\n"
+"  我也体验过。"
 
 msgid "<32>* I just... see them."
 msgstr "<32>* 如今... 我却只能看着..."
@@ -1939,9 +1954,8 @@ msgstr ""
 
 msgid "<32>* Not through death, nor insanity, nor common company..."
 msgstr ""
-"<32>* 不是让我死亡，\n"
-"  不是让我疯狂，\n"
-"  也不是让我缺乏普通的陪伴..."
+"<32>* 不弄死我，不逼疯我，\n"
+"  也不让我看起来“孤独”..."
 
 msgid "<32>* Not through any means am I ever allowed an escape."
 msgstr ""
@@ -2418,8 +2432,8 @@ msgid ""
 "<25>{#p/undyne}{#f/14}{#npc/a}* Those girls who run the rec center found "
 "this movie on a trash run."
 msgstr ""
-"<25>{#p/undyne}{#f/14}{#npc/a}* 管休闲回廊的姑娘们\n"
-"  淘垃圾的时候，\n"
+"<25>{#p/undyne}{#f/14}{#npc/a}* 跟休闲回廊的姑娘们\n"
+"  一块淘垃圾的时候，\n"
 "  发现了这部电影。"
 
 msgid "<25>{#f/1}* So, Alphys and I decided we'd put it on."
@@ -7570,7 +7584,7 @@ msgstr ""
 "  我也不知道为啥。"
 
 msgid "<25>{#f/23}* ... how strange."
-msgstr "<25>{#f/23}* ...怪事。"
+msgstr "<25>{#f/23}* ...真奇怪。"
 
 msgid "<25>{#f/23}* And... they care about you too, Frisk."
 msgstr ""
@@ -12813,7 +12827,8 @@ msgstr ""
 msgid "<25>{#f/15}* Then... I became Twinkly."
 msgstr ""
 "<25>{#f/15}* 后来...\n"
-"  我就变成了Twinkly。"
+"  我变成了Twinkly，\n"
+"  之后，我才慢慢理解。"
 
 msgid ""
 "<25>{#p/asriel1}{#f/17}* I'd play with these if I still had an interest in "
@@ -18251,8 +18266,6 @@ msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/10}{@random=1.1/1.1}..."
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/12}{@random=1.1/1.1}永别了..."
 
-msgid ""
-msgstr ""
 
 msgid "N/A"
 msgstr "无"
