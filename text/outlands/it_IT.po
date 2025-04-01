@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 04:10+0000\n"
-"PO-Revision-Date: 2025-04-01 04:10+0000\n"
+"PO-Revision-Date: 2025-04-02 04:20+0000\n"
 "Last-Translator: Mr R <roddypesce@gmail.com>\n"
 "Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/it/>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -1424,21 +1422,22 @@ msgstr "<32>{#p/human}* (Senti la presenza dei mostri nei paraggi diminuire.)"
 
 msgid "<32>{#p/human}* (You saw a piece of gum taped to the comic strip...)"
 msgstr ""
+"<32>{#p/human}* (Hai trovato una gomma da masticare attaccata al fumetto...)"
 
 msgid "* (Chew the gum?)"
-msgstr ""
+msgstr "* (Vuoi masticarla?)"
 
 msgid "<32>{#p/basic}* There was a piece of gum taped to the comic strip."
-msgstr ""
+msgstr "<32>{#p/basic}* C'era una gomma da masticare attaccata al fumetto."
 
 msgid "<32>{#p/human}* (You decide not to chew.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Decidi di non masticarla.)"
 
 msgid "<32>{#p/human}* (You recovered $(x) HP.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Ripristinati $(x) HP.)"
 
 msgid "<32>{#p/human}* (HP fully restored.)"
-msgstr ""
+msgstr "<32>{#p/human}* (HP completamente ripristinati.)"
 
 msgid "<32>{#p/human}* (You feel the inviting warmth of the fireplace...)"
 msgstr ""
