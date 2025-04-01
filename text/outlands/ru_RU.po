@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-04-01 09:56+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-04-01 10:21+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -10261,35 +10261,28 @@ msgstr ""
 msgid "<32>{#p/human}* (You ingest the Δ-9.)"
 msgstr "<32>{#p/human}* (Вы проглотили Δ-9.)"
 
-#, fuzzy
 msgid "A headband with its own gravity field."
 msgstr "Головной убор с собственным гравитационным полем."
 
-#, fuzzy
 msgid "Halo"
 msgstr "Нимб"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You fling the Halo away like a frisbee.)"
-msgstr "<32>{#p/human}* (Вы пинаете нимб в сторону, словно это мяч.)"
+msgstr "<32>{#p/human}* (Вы метаете нимб в сторону, подобно фрисби.)"
 
-#, fuzzy
 msgid "<32>{#p/human}* (3 DF.)"
 msgstr "<32>{#p/human}* (3 ЗЩТ.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Halo\" (3 DF)\n"
 "* A headband with its own gravity field."
 msgstr ""
-"<32>{#p/basic}* «Нимб» (3 ЗЩТ)\n"
+"<32>{#p/basic}* Нимб: 3 ЗЩТ.\n"
 "* Головной убор с собственным гравитационным полем."
 
-#, fuzzy
 msgid "<32>{#p/human}* (You don the Halo.)"
 msgstr "<32>{#p/human}* (Вы надели нимб.)"
 
-#, fuzzy
 msgid "<25>{#p/asriel1}{#f/20}* I think it suits you."
 msgstr "<25>{#p/asriel1}{#f/20}* А тебе идёт."
 
@@ -10297,15 +10290,12 @@ msgstr "<25>{#p/asriel1}{#f/20}* А тебе идёт."
 msgid "A whacking spoon."
 msgstr "Громадная ложка."
 
-#, fuzzy
 msgid "Dipper"
 msgstr "Ковш"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Little Dipper.)"
 msgstr "<32>{#p/human}* (Вы выкинули малый ковш.)"
 
-#, fuzzy
 msgid "<32>{#p/human}* (3 AT.)"
 msgstr "<32>{#p/human}* (3 АТК.)"
 
@@ -10325,7 +10315,6 @@ msgstr "Малый ковш"
 msgid "<32>{#p/human}* (You equip the Little Dipper.)"
 msgstr "<32>{#p/human}* (Вы экипировали малый ковш.)"
 
-#, fuzzy
 msgid "Homemade butterscotch-cinnamon pie, one slice."
 msgstr "Кусок домашнего ирисково-коричного пирога."
 
@@ -10338,18 +10327,16 @@ msgstr "<32>{#p/human}* (Вы выбросили ирисковый пирог.)
 msgid "<32>{#p/human}* (99 HP.)"
 msgstr "<32>{#p/human}* (99 ОЗ.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Butterscotch Pie\" Heals 99 HP\n"
 "* Homemade butterscotch-cinnamon pie, one slice."
 msgstr ""
-"<32>{#p/basic}* «Ирисковый пирог» Лечит 99 ОЗ\n"
-"* Долька домашнего ирисково-коричного пирога."
+"<32>{#p/basic}* Ириск. пирог: восст. 99 ОЗ.\n"
+"* Кусок домашнего ирисково-коричного пирога."
 
 msgid "Butterscotch Pie"
 msgstr "Ирисковый пирог"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You eat the Butterscotch Pie.)"
 msgstr "<32>{#p/human}* (Вы съели ирисковый пирог.)"
 
@@ -10359,47 +10346,39 @@ msgstr "Классический семейный рецепт."
 msgid "Snail Pie"
 msgstr "Улиточный пирог"
 
-#, fuzzy
 msgid "<32>{#p/human}* (You throw away the Snail Pie.)"
 msgstr "<32>{#p/human}* (Вы выбросили улиточный пирог.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Snail Pie\" Heals 99 HP\n"
 "* Classic family recipe."
 msgstr ""
-"<32>{#p/basic}* «Улиточный пирог» Лечит 99 ОЗ\n"
+"<32>{#p/basic}* Улиточн. пирог: восст. 99 ОЗ.\n"
 "* Классический семейный рецепт."
 
-#, fuzzy
 msgid "<32>{#p/human}* (You eat the Snail Pie.)"
 msgstr "<32>{#p/human}* (Вы съели улиточный пирог.)"
 
-#, fuzzy
 msgid "Despite being soup-ified, the pie remains delicious."
-msgstr "Хоть пирог и превратился в суп, он всё равно остаётся вкусным."
+msgstr "Хоть пирог и превратился в суп, всё такой же вкусный."
 
 msgid "Pie Soup"
 msgstr "Суп-пирог"
 
-#, fuzzy
 msgid ""
 "<32>{#p/human}* (You dump the Pie Soup and the spoon that came with it.)"
 msgstr ""
-"<32>{#p/human}* (Вы выливаете суп-пирог и выкидываете предназначенную для "
-"него ложку.)"
+"<32>{#p/human}* (Вы выливаете суп-пирог и выкидываете комплектную ложку.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Pie Soup\" Heals 49 HP\n"
 "* Despite being soup-ified, the pie remains delicious."
 msgstr ""
-"<32>{#p/basic}* «Суп-пирог» Лечит 49 ОЗ\n"
-"* Хоть пирог и превратился в суп, он всё равно остаётся вкусным."
+"<32>{#p/basic}* Суп-пирог: восст. 49 ОЗ.\n"
+"* Хоть пирог и превратился в суп, он всё такой же вкусный."
 
-#, fuzzy
 msgid "<32>{#p/human}* (You consume the Pie Soup with the provided spoon.)"
-msgstr "<32>{#p/human}* (Вы съедаете суп-пирог с помощью ложки.)"
+msgstr "<32>{#p/human}* (Вы ложкой съедаете весь суп-пирог.)"
 
 msgid "Actions do have their consequences..."
 msgstr "У действий есть последствия..."
@@ -10407,22 +10386,19 @@ msgstr "У действий есть последствия..."
 msgid "Burnt Pie"
 msgstr "Сгоревший пирог"
 
-#, fuzzy
 msgid ""
 "<32>{#p/human}* (You toss the Burnt Pie to the side like it never existed.)"
 msgstr ""
-"<32>{#p/human}* (Вы кидаете сгоревший пирог в сторону, как будто его и не "
-"было.)"
+"<32>{#p/human}* (Вы, как ни в чём не бывало, бросаете сгоревший пирог в "
+"сторону.)"
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Burnt Pie\" Heals 39 HP\n"
 "* Actions do have their consequences..."
 msgstr ""
-"<32>{#p/basic}* «Сгоревший пирог» Лечит 39 ОЗ\n"
+"<32>{#p/basic}* Сгоревш. пирог: восст. 39 ОЗ.\n"
 "* Действия имеют последствия."
 
-#, fuzzy
 msgid "<32>{#p/human}* (You eat the Burnt Pie.)"
 msgstr "<32>{#p/human}* (Вы с трудом съели сгоревший пирог.)"
 
