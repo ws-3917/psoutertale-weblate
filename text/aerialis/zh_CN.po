@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 10:21+0000\n"
-"PO-Revision-Date: 2025-04-01 10:21+0000\n"
+"PO-Revision-Date: 2025-04-01 10:23+0000\n"
 "Last-Translator: ws3917 <ws3917@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/4-aerialis/zh_Hans/>\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
 msgstr ""
 "<32>{#p/human}* （看来控制台\n"
@@ -7399,7 +7398,7 @@ msgid ""
 "<32>* don't ever let him forget how much you cared about him in life... "
 "alright?"
 msgstr ""
-"<32>* 提醒他永远不要忘记\n"
+"<32>* 提醒他：永远不要忘记\n"
 "  你在他生命中的意义...\n"
 "  可以吗？"
 
@@ -8851,7 +8850,7 @@ msgstr "<25>{#p/alphys}{#g/alphysNeutralSweat}* ...但是..."
 
 msgid ""
 "<25>{#p/alphys}{#g/alphysNeutralSweat}* And it's like you didn't even care."
-msgstr "<25>{#p/alphys}{#g/alphysNeutralSweat}* 你好像根本不在乎。"
+msgstr "<25>{#p/alphys}{#g/alphysNeutralSweat}* 但你好像根本不在乎。"
 
 msgid "<25>{#p/alphys}{#g/alphysYeahYouKnowWhatsUpCenter}* She was my hero."
 msgstr "<25>{#p/alphys}{#g/alphysYeahYouKnowWhatsUpCenter}* ...Undyne是我的英雄。"
@@ -9604,7 +9603,6 @@ msgstr "<25>{#p/asriel2}{#f/8}* 只能换条路走了。"
 
 msgid "<32>{#p/human}* (Where would you like to go?)"
 msgstr "<32>{#p/human}* （你想去哪里？）"
-
 
 msgid "Floor L1"
 msgstr "左一层"
