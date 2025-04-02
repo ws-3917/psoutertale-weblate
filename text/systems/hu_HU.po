@@ -2358,8 +2358,8 @@ msgstr ""
 msgid "Go back"
 msgstr "Vissza"
 
-msgid "OUTERTALE V5.05 (c) 2025 SPACEY_432"
-msgstr "OUTERTALE V5.05 (c) 2025 SPACEY_432"
+msgid "OUTERTALE V5.06 Preview 5 (c) 2025 SPACEY_432"
+msgstr "OUTERTALE V5.06 Preview 5 (c) 2025 SPACEY_432"
 
 msgid "* (HP fully restored.)"
 msgstr "* (ÉP teljesen visszanyerve.)"

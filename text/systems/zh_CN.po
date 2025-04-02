@@ -2336,8 +2336,8 @@ msgstr "已经选定了一个名字。"
 msgid "Go back"
 msgstr "返回"
 
-msgid "OUTERTALE V5.05 (c) 2025 SPACEY_432"
-msgstr "OUTERTALE V5.05 (c) 2025 SPACEY_432"
+msgid "OUTERTALE V5.06 Preview 5 (c) 2025 SPACEY_432"
+msgstr "OUTERTALE V5.06 Preview 5 (c) 2025 SPACEY_432"
 
 msgid "* (HP fully restored.)"
 msgstr "* （HP已回满。）"
