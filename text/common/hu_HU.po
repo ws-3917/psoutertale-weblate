@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 14:13+0000\n"
-"PO-Revision-Date: 2025-03-27 21:21+0000\n"
+"PO-Revision-Date: 2025-04-02 15:13+0000\n"
 "Last-Translator: BAB2056 <balazsakos2004.09@gmail.com>\n"
 "Language-Team: Hungarian <https://translate.ws3917.space/projects/"
 "ps-outertale/6-common/hu/>\n"
@@ -1597,243 +1597,262 @@ msgstr ""
 "<18>{#p/papyrus}{#f/5}ONNAN FOGVA MINDEN FIGYELMET MEGADTAM NEKI AMIT TUDTAM."
 
 msgid "<25>{#p/sans}{#f/3}* well... if it's any consolation..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* hát... ha ez bármennyire is vigasztal..."
 
 msgid "<25>{#p/sans}{#f/0}* i think you did the right thing."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* szerintem helyesen cselekedtél."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}I HEAR A BANGING SOUND FROM THE MAINTENANCE DOOR."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}HANGOS KOPOGÁST HALLOK A SZERVIZ AJTÓN."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}AS IT TURNS OUT, TWO DOGS WITH AXES HAD WHALED ON IT!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}KÉPZELD, KÉT KUTYA BALTÁKKAL ZÖRGETTE!"
 
 msgid "<18>{#p/papyrus}{#f/5}I WAS QUITE CONCERNED AT FIRST..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}AZ ELEJÉN MEGIJEDTEM..."
 
 msgid "<18>{#p/papyrus}{#f/5}BUT AFTER WHAT THEY TOLD ME..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DE MIUTÁN ELMONDTÁK..."
 
 msgid "<18>{#p/papyrus}{#f/5}THAT FEELING HAD TURNED TO SADNESS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}AZ ÉRZÉSEM SZOMORBA HAJLOTT."
 
 msgid "<18>{#p/papyrus}{#f/5}DOGAMY AND DOGARESSA, THEY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DOGAMY ÉS DOGARESSA..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}THEY QUESTIONED IF THEIR MARRIAGE WAS WORTH "
 "MAINTAINING."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}NEM VOLTAK BIZTOSAK BENNE, HOGY HÁZASSÁGUK "
+"FENNTARTHATÓ-E."
 
 msgid "<25>{#p/sans}{#f/3}* ... surely you convinced them to stay together."
 msgstr ""
+"<25>{#p/sans}{#f/3}* ... biztosan rávetted őket, hogy maradjanak együtt."
 
 msgid "<18>{#p/papyrus}{#f/4}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}..."
 
 msgid "<18>{#p/papyrus}{#f/4}YOU KNOW ME TOO WELL."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}TÚL JÓL ISMERSZ."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}ANYWAY, THEY JUST WANTED SOME ALONE TIME AFTER THAT."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}MINDEGY IS, CSAK EGY KIS MAGÁNYRA VOLT SZÜKSÉGÜK "
+"EZUTÁN."
 
 msgid "<18>{#p/papyrus}{#f/5}SO... I DROPPED THEM OFF AT ASGORE'S PLACE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}SZÓVAL... ASGORE HÁZÁNÁL HAGYTAM ŐKET."
 
 msgid "<25>{#p/sans}{#f/0}* actually, i heard they still live there."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* úgy hallottam, még mindig ott élnek."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* something tells me that extra room will come in handy "
 "soon."
 msgstr ""
+"<25>{#p/sans}{#f/2}* valami azt súgja, az extra szoba jól fög jönni nemsoká."
 
 msgid "<18>{#p/papyrus}{#f/5}I HEAR A KNOCK OF SORTS AT THE MAINTENANCE DOOR."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}VALAMI KOPOGÁST HALLOK A SZERVIZ AJTÓTÓL."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}AS IT TURNS OUT, IT WAS JUST A BIG DOG'S LOUD BARK."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}KIDERÜLT, HOGY EGY NAGY KUTYA UGATÁSA VOLT."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}THEN THE DOG TOOK OFF ITS ARMOR, AND BECAME SMALL."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}MAJD A KUTYA LEVETTE PÁNCÉLJÁT ÉS PICI LETT."
 
 msgid "<18>{#p/papyrus}{#f/6}AND THEN IT RAN UP TO ME, AND WANTED TO PLAY!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}HOZZÁM SIETETT ÉS JÁTSZANI AKART!"
 
 msgid "<18>{#p/papyrus}{#f/6}IT SEEMED... MORE DESPERATE THAN EVER."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ELÉGGÉ... IZGATOTTNAK TŰNT."
 
 msgid "<18>{#p/papyrus}{#f/6}LIKE IT HADN'T PLAYED WITH ANYONE IN YEARS!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MINTHA SENKIVEL NEM JÁTSZOTT VOLNA ÉVEK ÓTA!"
 
 msgid "<18>{#p/papyrus}{#f/4}I GET THAT DOG-TIME CAN BE WEIRD, BUT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}ÉRTEM, HOGY A KUTYÁK TUDNAK FURÁK LENNI, DE..."
 
 msgid "<18>{#p/papyrus}{#f/6}STILL, I WONDERED IF SOMETHING HAD GONE AWRY!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}AZON AGYALTAM, VALAMI FÉLRECSÚSZHATOTT!"
 
 msgid "<18>{#p/papyrus}{#f/5}SO I ASKED ALPHYS ABOUT IT LATER, AND..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}MEGKÉRDEZTEM ALPHYST ÉÉS..."
 
 msgid "<18>{#p/papyrus}{#f/6}KNOWING HOW CANIS MAJOR MUST HAVE FELT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}TUDOM, HOGY ÉREZHETETT CANIS MAJOR..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}FROM THEN ON, I PLAYED WITH IT AS MUCH AS I COULD."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ONNANTÓL ANNYIT JÁTSZOTTAM VELE, AMENNYIT TUDTAM."
 
 msgid "<18>{#p/papyrus}{#f/5}I GET A CALL FROM A HIGH-RANKING GUARD MEMBER."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}FELHÍVOTT AZ EGYIK MAGAS RANGÚ GÁRDA TAG."
 
 msgid "<18>{#p/papyrus}{#f/6}AND A DISTRESSING ONE AT THAT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ÉS KÖZÜLÜK AZ EGYIK LEGNAGYOBB."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}AS A FRIEND OF UNDYNE'S, SHE TOLD ME TO MEET HER..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}UNDYNE BARÁTJAKÉNT, MEGKÉRT, HOGY TALÁLKOZZUNK..."
 
 msgid "<18>{#p/papyrus}{#f/6}TO DISCUSS A MATTER OF \"GREAT IMPORTANCE.\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}HOGY ÁTBESZÉLJÜNK VALAMI \"NAGYON FONTOSAT.\""
 
 msgid "<18>{#p/papyrus}{#f/6}I WAS A LITTLE NERVOUS WHEN I GOT THERE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}PICIT IDEGES VOLTAM AZ EGÉSZ MIATT..."
 
 msgid "<18>{#p/papyrus}{#f/5}BUT SHE REALLY DID JUST WANT TO TALK."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DE A TAG TÉNYLEG CSAK SZÓT AKART VÁLTANI."
 
 msgid "<18>{#p/papyrus}{#f/4}ADMITTEDLY, SHE WAS BEING CRYPTIC ABOUT IT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}BEVALLOM, ELÉG REJTÉLYES VOLT..."
 
 msgid "<18>{#p/papyrus}{#f/5}THOUGH, WITH ENOUGH TIME, I CRACKED THE CODE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DE SZÉP LASSAN MEGFEJTETTEM A KÓDOT."
 
 msgid "<18>{#p/papyrus}{#f/5}DOGE QUESTIONED THE VIABILITY OF HER PURPOSE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DOGE ELVESZTETTE ÉLETCÉLJÁT."
 
 msgid "<18>{#p/papyrus}{#f/6}THAT OF PROTECTING MONSTERKIND."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}AMI A SZÖRNYEK VÉDELME VOLT."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}IF THE ROYAL GUARD COULD BE WIPED OUT BY ONE HUMAN..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}HA A KIRÁLYI GÁRDÁT EGY EMBER KI TUDJA IRTANI..."
 
 msgid "<18>{#p/papyrus}{#f/6}WHAT WOULD SHE ALONE BE ABLE TO DO?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MIT TEHETNE EGYEDÜL?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}...\n"
 "I TOOK HER TO THE CITADEL."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}...\n"
+"ELVITTEM A CITADELLÁHOZ."
 
 msgid "<18>{#p/papyrus}{#f/5}I SHOWED HER THE HUMAN SOULS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}MEGMUTATTAM NEKI AZ EMBERI LELKEKET."
 
 msgid "<18>{#p/papyrus}{#f/6}AND I TURNED TO HER AND SAID..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}MAJD AZT MONDTAM..."
 
 msgid "<18>{#p/papyrus}{#f/6}\"JUST ONE MORE.\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}\"MÁR CSAK EGY KELL.\""
 
 msgid "<18>{#p/papyrus}{#f/5}THEN, SHE LOOKED BACK AT ME, CLOSED HER EYES..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}RÁMNÉZETT, BECSUKTA SZEMEIT..."
 
 msgid "<18>{#p/papyrus}{#f/6}AND REPLIED \"I UNDERSTAND.\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}AZT VÁLASZOLTA \"ÉRTEM.\""
 
 msgid ""
 "<25>{#p/sans}{#f/0}* jeez.\n"
 "* sounds intense."
 msgstr ""
+"<25>{#p/sans}{#f/0}* jesszus.\n"
+"* intenzíven hangzik."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* for what it's worth, that probably motivated her quite "
 "a bit."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* a szavak ereje biztosan motiválta kicsit."
 
 msgid "<18>{#p/papyrus}{#f/5}I GET A CALL FROM TWO NUMBERED GUARD MEMBERS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}KÉT SZÁMOZOTT GÁRDATAG FELHÍVOTT."
 
 msgid "<18>{#p/papyrus}{#f/5}AS SOMEONE THEY SHARED ICE CREAM WITH..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ÉS MIVEL FAGYIZGATUNK NÉHA EGYÜTT..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}THEY ASKED ME TO MEET WITH THEM TO DISCUSS SOMETHING."
 msgstr ""
+"<18>{#p/papyrus}{#f/6}MEGKÉRTEK, HOGY TALÁLKOZZUNK, HOGY MEGBESZÉLJÜNK "
+"VALAMIT."
 
 msgid "<25>{#p/sans}{#f/0}* if i had to guess..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* ha ki kéne találnom..."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* i'd say this particular meeting wasn't about ice cream."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* a találka nem a fagyiról szólt."
 
 msgid "<18>{#p/papyrus}{#f/6}SADLY NOT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}SAJNOS NEM."
 
 msgid "<18>{#p/papyrus}{#f/5}INSTEAD, THEY... HAD SOME BAD NEWS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}CSAK... ROSSZ HÍREKKEL SZOLGÁLTAK."
 
 msgid "<18>{#p/papyrus}{#f/5}AFTER HAVING ONLY JUST BEEN PROMOTED, THEY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ÉPPHOGY FELJEBB LÉPTEK A RANGLÉTRÁN..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}THEY FELT LIKE ALL THEIR TRAINING HAD BEEN FOR "
 "NOTHING."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ÚGY ÉREZTÉK A KIKÉPZÉSÜK NEM ÉRT SEMMIT."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}BUT...!\n"
 "I SAID I COULD GET THEM A NEW JOB!!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}BUT...!\n"
+"FELAJÁNLOTTAM, HOGY KERESHETÜNK ÚJ MUNKÁT!!"
 
 msgid "<18>{#p/papyrus}{#f/5}SO, I WENT THROUGH A FEW IDEAS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}SZÓVAL FELHOZTAM PÁR ÖTLETET."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}MOST OF THEM WERE REJECTED, BUT WEIRDLY ENOUGH..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}A LEGTÖBBET ELVETETTÉK, DE..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}THEY LOVED MY IDEA OF THEM JOINING A SWIMMING TEAM."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}IMÁDTÁK AZ ÚSZÓCSAPATBA LÉPÉS GONDOLATÁT."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* so you're saying 01 and 02 became professional "
 "swimmers?"
 msgstr ""
+"<25>{#p/sans}{#f/0}* szóval asz'ondod, hogy 01 és 02 profi úszók lettek?"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* well, as long as they're happy doing what they're "
 "doing."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* végülis, amég boldogok, addig nincs gond."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}OH, DON'T WORRY.\n"
 "NOT ONLY ARE THEY HAPPY..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}OH, NE AGGÓDJ.\n"
+"NEMCSAK, HOGY BOLDOGOK..."
 
 msgid "<18>{#p/papyrus}{#f/0}THEY'RE ALSO INCREDIBLY POPULAR!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}IGENCSAK HÍRESEK LETTEK!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}...\n"
 "STILL, KNOWING WHY THEY'RE THERE..."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}...\n"
+"DE, MIVEL TUDOM, MIÉRT KERÜLTEK ODA..."
 
 msgid "<18>{#p/papyrus}{#f/5}DOES MAKE ME FEEL A LITTLE SAD."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}PICIT ELSZOMORÍT."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}A STRANGE WIZARD APPEARED IN THE MAINTENANCE ROOM."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}VALAMI FURA MÁGUS JELENIK MEG A SZERVIZ SZOBÁBAN."
 
 msgid "<18>{#p/papyrus}{#f/6}AND ASKED ME ABOUT THE MEANING OF LIFE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ÉS AZT KÉRDEZTE, MI AZ ÉLET ÉRTELME."
 
 msgid "<18>{#p/papyrus}{#f/4}WE... HAD TO SCALE THE CONVERSATION BACK A BIT."
 msgstr ""
