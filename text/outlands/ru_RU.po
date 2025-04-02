@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 10:13+0000\n"
 "PO-Revision-Date: 2025-04-03 16:13+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
 "Language: ru_RU\n"
@@ -1152,15 +1152,17 @@ msgstr ""
 "<25>{#p/asriel1}{#f/13}* В другой раз я и $(name) готовили ужин для мамы и "
 "папы."
 
+#, fuzzy
 msgid "<25>{#f/15}* They kept wanting to make it more spicy..."
-msgstr "<25>{#f/15}* Она всё время хотела сделать его острым..."
+msgstr "<25>{#f/15}* Он всё время хотел сделать его острей..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/3}* To be honest, if they insisted on that now, I would not "
 "complain."
 msgstr ""
-"<25>{#f/3}* Честно говоря, если бы она настояла на этом сейчас, я бы не стал"
-" жаловаться."
+"<25>{#f/3}* Честно говоря, если бы он настоял на этом сейчас, я бы не стал "
+"жаловаться."
 
 msgid "<25>{#f/20}* I could go for something spicy right about now."
 msgstr "<25>{#f/20}* Сейчас я бы не отказался от чего нибудь остренького."
@@ -1170,7 +1172,7 @@ msgid ""
 "* Most monsters are."
 msgstr ""
 "<25>{#f/13}* Но тогда я больше любил сладкое.\n"
-"* Как и большинству монстров."
+"* Как и большинство монстров."
 
 msgid ""
 "<25>{#f/15}* We ended up playing tug-of-war with the mixing bowl, and..."
@@ -1178,8 +1180,9 @@ msgstr ""
 "<25>{#f/15}* В итоге мы стали играть в «перетягивание каната» с миской для "
 "смешивания."
 
+#, fuzzy
 msgid "<25>{#f/20}* You can imagine how that turned out."
-msgstr "<25>{#f/20}* Думаю, ты понимаешь, что в итоге произошло."
+msgstr "<25>{#f/20}* Думаю, ты понимаешь чем это кончилось."
 
 msgid "<25>{#f/17}* Mom made us clean up the mess, of course."
 msgstr "<25>{#f/17}* Мама, конечно, заставила нас убирать всё за собой."
@@ -1207,11 +1210,13 @@ msgstr ""
 msgid "<25>{#f/13}* Even death itself couldn't keep us apart forever."
 msgstr "<25>{#f/13}* Даже смерть не смогла разлучить нас."
 
+#, fuzzy
 msgid "<25>{#p/asriel1}{#f/17}* ... do you think they're still around, Frisk?"
-msgstr "<25>{#p/asriel1}{#f/17}* ... как ты думаешь, Фриск, она всё здесь?"
+msgstr "<25>{#p/asriel1}{#f/17}* ... как ты думаешь, Фриск, он всё здесь?"
 
+#, fuzzy
 msgid "<25>{#f/17}* For all you know, they could be watching us right now."
-msgstr "<25>{#f/17}* Если она всё ещё может наблюдать за нами..."
+msgstr "<25>{#f/17}* Если он всё ещё может наблюдать за нами..."
 
 msgid "<25>{#f/23}* Wouldn't that be something."
 msgstr "<25>{#f/23}* Это было бы нечто."
@@ -1234,10 +1239,10 @@ msgstr ""
 msgid "<25>{#f/13}* But... it's not like that at all."
 msgstr "<25>{#f/13}* Но... всё совсем не так."
 
+#, fuzzy
 msgid ""
 "<25>{#f/17}* I just can't help but reminisce about someone I used to know."
-msgstr ""
-"<25>{#f/17}* I just can't help but reminisce about someone I used to know."
+msgstr "<25>{#f/17}* Я не могу не памятовать о том, кого я знал."
 
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Frisk...\n"
@@ -1249,8 +1254,9 @@ msgstr ""
 msgid "<25>{#f/13}* Thanks to you..."
 msgstr "<25>{#f/13}* Благодаря тебе..."
 
+#, fuzzy
 msgid "<25>{#f/23}* I feel like I have a future again."
-msgstr "<25>{#f/23}* Я снова в себя верю."
+msgstr "<25>{#f/23}* Я верю в себя снова."
 
 msgid "<25>{#f/22}* Even though you couldn't forgive me for what I'd done..."
 msgstr ""
@@ -9404,12 +9410,13 @@ msgstr "<20>{#p/asriel2}{#f/3}Приветик, $(name)."
 msgid "<20>{#f/1}It's good to be back."
 msgstr "<20>{#f/1}Как хорошо вернуться назад."
 
+#, fuzzy
 msgid ""
 "<20>{#f/2}What's that?\n"
 "You didn't expect to see me again?"
 msgstr ""
 "<20>{#f/2}Что такое?\n"
-"Не ожидала меня?"
+"Не ожидал меня?"
 
 msgid ""
 "<20>{#f/13}...\n"
@@ -9510,8 +9517,9 @@ msgstr "<32>{#p/basic}* Нет."
 msgid "<32>{#p/basic}* This is real."
 msgstr "<32>{#p/basic}* Это реальность."
 
+#, fuzzy
 msgid "<25>{#p/toriel}{#f/5}* But you died, $(name)."
-msgstr "<25>{#p/toriel}{#f/5}* Но ты ведь мертва, $(name)."
+msgstr "<25>{#p/toriel}{#f/5}* Но ты ведь мёртв, $(name)."
 
 msgid "<25>{#f/5}* You cannot possibly be speaking to me."
 msgstr "<25>{#f/5}* Ты никак не можешь со мной разговаривать."
@@ -9593,9 +9601,10 @@ msgid ""
 "go see for yourself."
 msgstr "<33>{#p/basic}* Твоё невежество вызвано страхом узнать самой."
 
+#, fuzzy
 msgid ""
 "<25>{#p/toriel}{#f/13}* ... but if I let them go, I won't be able to..."
-msgstr "<25>{#p/toriel}{#f/13}* ... но если я отпущу, то буду неспособна..."
+msgstr "<25>{#p/toriel}{#f/13}* ... но если я отпущу, то буду неспособен..."
 
 msgid "<32>{#p/basic}* Be there for them?"
 msgstr "<32>{#p/basic}* Остаться здесь и заботиться?"
