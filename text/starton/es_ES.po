@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-08 03:24+0000\n"
+"PO-Revision-Date: 2025-04-08 03:24+0000\n"
+"Last-Translator: Chistosito <souzadecarvalhofabio1@gmail.com>\n"
+"Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
+"2-starton/es/>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -1813,7 +1828,7 @@ msgid "<18>{#f/7}DON'T THINK I CAN'T SEE WHAT'S GOING ON."
 msgstr "<18>{#f/7}NO CREAS QUE NO VEO LO QUE ESTA PASANDO."
 
 msgid "<18>{#f/7}IT'S OBVIOUS YOU'RE THE ONE CALLING THE SHOTS!"
-msgstr ""
+msgstr "<18>{#f/7}¡ES OBVIO QUE TÚ ERES EL QUE MANDA!"
 
 msgid "<25>{#p/asriel2}{#f/8}* How observant."
 msgstr "<25>{#p/asriel2}{#f/8}* Que observador."
@@ -1821,6 +1836,8 @@ msgstr "<25>{#p/asriel2}{#f/8}* Que observador."
 msgid ""
 "<25>{#f/7}* Guess we should just admit defeat to you here and now, huh?"
 msgstr ""
+"<25>{#f/7}* Entonces supongo que deberíamos admitir derrota aquí y ahora, "
+"¿no?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/4}* Let me be clear.\n"
@@ -1830,22 +1847,23 @@ msgstr ""
 "* Yo admiro el esfuerzo."
 
 msgid "<25>{#f/3}* But we've got our own plans to see to."
-msgstr ""
+msgstr "<25>{#f/3}* Pero tenemos nuestros planes."
 
 msgid "<18>{#p/papyrus}{#f/4}JUST SO YOU KNOW, UNDYNE'S PROBABLY WATCHING US."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}PARA QUE SEPAS, UNDYNE PROBABLEMENTE NOS ESTE MIRANDO."
 
 msgid "<25>{#p/asriel2}{#f/3}* And your point is?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* ¿Y tu punto es?"
 
 msgid ""
 "<25>{#f/4}* ... look Papyrus, it doesn't matter what you or anyone else "
 "does."
-msgstr ""
+msgstr "<25>{#f/4}* ... mira Papyrus, no importa lo que tú u otra persona haga."
 
 msgid ""
 "<25>{#f/1}* When the two of us are together, NOTHING can bring us apart."
-msgstr ""
+msgstr "<25>{#f/1}* Cuando nosotros dos estamos juntos, NADA puede separarnos."
 
 msgid "<18>{#p/papyrus}{#f/7}WHATEVER!!!"
 msgstr "<18>{#p/papyrus}{#f/7}¡¡¡LO QUE SEA!!!"
@@ -1857,10 +1875,10 @@ msgid "<18>{#p/papyrus}{#f/31}YOU KNOW..."
 msgstr "<18>{#p/papyrus}{#f/31}SABES..."
 
 msgid "<18>{#f/31}I OVERHEARD DR. ALPHYS TALKING..."
-msgstr ""
+msgstr "<18>{#f/31}OÍ A LA DRA. ALPHYS HABLANDO..."
 
 msgid "<18>{#f/5}AND SHE MENTIONED SOMETHING LIKE \"TURN BACK TIME?\""
-msgstr ""
+msgstr "<18>{#f/5}Y DIJO ALGO COMO \"¿VIAJAR HACIA ATRÁS EN EL TIEMPO?\""
 
 msgid "<18>{|}{#f/32}{#x1}I CAN'T BE SURE, BUT IT SOUNDS LIKE- {%}"
 msgstr "<18>{|}{#f/32}{#x1}NO PUEDO ESTAR SEGURO, PERO ESO SONABA COMO- {%}"
@@ -1869,12 +1887,14 @@ msgid "<25>{#p/asriel2}{#f/6}* No."
 msgstr "<25>{#p/asriel2}{#f/6}* No."
 
 msgid "<18>{|}{#p/papyrus}{#f/6}BUT SHE SAID YOU MIGHT BE ABLE TO- {%}"
-msgstr ""
+msgstr "<18>{|}{#p/papyrus}{#f/6}PERO DIJO QUE TÚ SERÍAS CAPAZ DE- {%}"
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* No.\n"
 "* Though, I'm sure she'd love it if I did."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* No.\n"
+"* Pero, estoy seguro de que le encantaría si lo hiciera."
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* No.\n"
@@ -1885,53 +1905,57 @@ msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/31}BUT, IF YOU REALLY CAN ERASE WHAT HAPPENED..."
 msgstr ""
+"<18>{#p/papyrus}{#f/31}PERO, SI VOSOTROS DE VERDAD PODÉIS BORRAR LO QUE "
+"PASÓ..."
 
 msgid "<18>{#f/5}THEN WHY NOT?"
 msgstr "<18>{#f/5}¿ENTONCES POR QUÉ NO?"
 
 msgid "<18>{#f/31}A-AND, IN THE NEXT TIMELINE... I'LL TAKE HIS PLACE."
-msgstr ""
+msgstr "<18>{#f/31}Y-Y, EN LA SIGUIENTE LÍNEA TEMPORAL... TOMARÉ SU LUGAR."
 
 msgid "<18>{#f/3}THEN HE WOULDN'T HAVE TO DIE, RIGHT?"
-msgstr ""
+msgstr "<18>{#f/3}ENTONCES ÉL NO TENDRÍA QUE MORIR, ¿VERDAD?"
 
 msgid ""
 "<25>{#p/asriel2}{#f/6}* ...\n"
 "* Trust me, I've already seen that timeline."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* ...\n"
+"* Créeme, ya vi esa línea temporal."
 
 msgid "<25>{#f/7}* It's BORING."
-msgstr ""
+msgstr "<25>{#f/7}* Es ABURRIDA."
 
 msgid "<18>{#p/papyrus}{#f/3}..."
 msgstr "<18>{#p/papyrus}{#f/3}..."
 
 msgid "<18>{#f/6}BUT WHAT IF I SHOW YOU THIS PUZZLE?"
-msgstr ""
+msgstr "<18>{#f/6}¿PERO Y SI TE ENSEÑO ESTE PUZZLE?"
 
 msgid "<18>{#f/32}IT MIGHT HELP TO ALLEVIATE YOUR BOREDOM..."
-msgstr ""
+msgstr "<18>{#f/32}QUIZÁS AYUDA A CALMAR TU ABURRIMIENTO..."
 
 msgid "<25>{#p/asriel2}{#f/15}* If it makes you feel better, I guess."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* Si te hace sentir mejor, supongo."
 
 msgid "<18>{#p/papyrus}OH... OH!"
 msgstr "<18>{#p/papyrus}OH... ¡OH!"
 
 msgid "<18>{#f/0}THAT'S GREAT!!"
-msgstr ""
+msgstr "<18>{#f/0}¡¡ESO ES GENIAL!!"
 
 msgid "<18>{#f/0}YOU'RE ALREADY CHANGING YOUR MIND!!"
-msgstr ""
+msgstr "<18>{#f/0}¡¡YA ESTÁS CAMBIANDO DE IDEA!!"
 
 msgid "<18>{#p/papyrus}{#f/6}..."
 msgstr "<18>{#p/papyrus}{#f/6}..."
 
 msgid "<18>{|}{#f/5}WELL, HERE ARE THE RULES OF THE- {%}"
-msgstr ""
+msgstr "<18>{|}{#f/5}BUENO, AQUÍ ESTÁN LAS REGLAS DE- {%}"
 
 msgid "<25>{#p/asriel2}{#f/7}* We already know the rules, idiot."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/7}* Ya conocemos las reglas, idiota."
 
 msgid "<18>{#p/papyrus}{#f/31}... OH..."
 msgstr "<18>{#p/papyrus}{#f/31}... OH..."
@@ -1940,93 +1964,103 @@ msgid ""
 "<18>{#f/6}UH, WELL THEN!!\n"
 "WITHOUT FURTHER ADO..."
 msgstr ""
+"<18>{#f/6}EH, ¡¡BIEN!!\n"
+"SIN NADA MÁS QUE HACER..."
 
 msgid "<18>{#f/9}LET'S FIND OUT WHAT OUR RANDOM NUMBER WILL BE!!"
-msgstr ""
+msgstr "<18>{#f/9}¡¡VAMOS A VER QUE NÚMERO ALEATORIO NOS TOCA!!"
 
 msgid "<18>{#p/papyrus}{#f/3}ASRIEL."
 msgstr "<18>{#p/papyrus}{#f/3}ASRIEL."
 
 msgid "<25>{#p/asriel2}{#f/6}* Papyrus."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* Papyrus."
 
 msgid "<18>{#f/31}WHY?"
 msgstr "<18>{#f/31}¿POR QUÉ?"
 
 msgid "<18>{#f/31}WHY WOULD YOU DO THIS?"
-msgstr ""
+msgstr "<18>{#f/31}¿POR QUÉ HARÍAS ESTO?"
 
 msgid "<18>{#f/3}MONSTERS AREN'T SUPPOSED TO BE LIKE THIS..."
-msgstr ""
+msgstr "<18>{#f/3}NO SE SUPONE QUE LOS MONSTRUOS SEAN ASÍ..."
 
 msgid ""
 "<18>{#f/5}WHERE'S YOUR LOVE?\n"
 "YOUR COMPASSION?"
 msgstr ""
+"<18>{#f/5}¿DÓNDE ESTÁ TU AMOR?\n"
+"¿TÚ COMPASIÓN?"
 
 msgid "<18>{#f/31}YOUR... MERCY..."
-msgstr ""
+msgstr "<18>{#f/31}TU... PIEDAD..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/2}* ...\n"
 "* Oh, you sweet stellar star child..."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* ...\n"
+"* Oh, dulce niño estelar..."
 
 msgid "<25>{#f/1}* I lost those things a LONG time ago."
-msgstr ""
+msgstr "<25>{#f/1}* Perdí esas cosas hace un LARGO tiempo."
 
 msgid ""
 "<18>{#p/papyrus}{#f/31}BUT...\n"
 "I DON'T GET IT..."
 msgstr ""
+"<18>{#p/papyrus}{#f/31}PERO...\n"
+"NO LO ENTIENDO..."
 
 msgid "<18>{#f/5}HOW CAN A MONSTER SO PURE OF MIND..."
-msgstr ""
+msgstr "<18>{#f/5}¿CÓMO PUEDE UN MONSTRUO TAN PURO DE MENTE..."
 
 msgid "<18>{#f/31}... BE TURNED SO COMPLETELY TO THE DARK SIDE?"
-msgstr ""
+msgstr "<18>{#f/31}... SER CAMBIADO TOTALMENTE AL LADO OSCURO?"
 
 msgid "<25>{#p/asriel2}{#f/1}* You really wanna know?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* ¿De verdad quieres saberlo?"
 
 msgid "<18>{#f/3}YES..."
 msgstr "<18>{#f/3}SÍ..."
 
 msgid "<25>{#p/asriel2}{#f/10}* But do you really, really wanna know?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/10}* ¿Pero quieres saberlo mucho, muchísimo?"
 
 msgid "<18>{#p/papyrus}{#f/31}YES."
 msgstr "<18>{#p/papyrus}{#f/31}SÍ."
 
 msgid "<25>{#p/asriel2}{#f/3}* Say it louder."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Dilo más alto."
 
 msgid "<18>{#p/papyrus}{#f/5}YES!"
 msgstr "<18>{#p/papyrus}{#f/5}¡SÍ!"
 
 msgid "<26>{#p/asriel2}{#f/1}* With an exoberry on top."
-msgstr ""
+msgstr "<26>{#p/asriel2}{#f/1}* Con una exobaya encima."
 
 msgid ""
 "<18>{#p/papyrus}{#f/7}YES!\n"
 "WITH AN EXOBERRY ON TOP, DAMN IT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/7}¡SÍ!\n"
+"¡CON UNA EXOBAYA ENCIMA, MALDICIÓN!"
 
 msgid "<25>{#p/asriel2}{#f/1}* Hee hee hee..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Je je je..."
 
 msgid "<25>{#f/1}* Alright, I'll tell you."
-msgstr ""
+msgstr "<25>{#f/1}* Está bien, te lo diré."
 
 msgid "<25>{#f/15}* In fact, it'll only take one word..."
-msgstr ""
+msgstr "<25>{#f/15}* De hecho, solo será una palabra..."
 
 msgid "<18>{#p/papyrus}{#f/4}OH MY GOD, JUST SAY IT ALREADY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}OH POR DIOS, SOLO DILO DE UNA VEZ..."
 
 msgid ""
 "<25>{*}{#p/asriel2}{#f/14}{@random=1.1/1.1}{@fill=#f00}* $(name).{%100}"
-msgstr ""
+msgstr "<25>{*}{#p/asriel2}{#f/14}{@random=1.1/1.1}{@fill=#f00}* $(name).{%100}"
 
 msgid "<18>{#p/papyrus}{#f/32}...!"
 msgstr "<18>{#p/papyrus}{#f/32}¡...!"
@@ -2036,6 +2070,9 @@ msgid ""
 "* Hahaha!\n"
 "* The look on your face!"
 msgstr ""
+"<25>{#p/asriel2}{#f/5}* ¡Ja!\n"
+"* ¡Jajaja!\n"
+"* ¡Tu cara!"
 
 msgid "<18>{#p/papyrus}{#f/31}I..."
 msgstr "<18>{#p/papyrus}{#f/31}YO..."
@@ -2044,73 +2081,76 @@ msgid "<18>{#f/3}... NO..."
 msgstr "<18>{#f/3}... NO..."
 
 msgid "<18>{#p/papyrus}{#f/7}NO, YOU'RE WRONG."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}NO, ESTÁS EQUIVOCADO."
 
 msgid "<18>{#f/7}YOU ARE THE ONE WHO'S BEEN TRYING TO BRING ME DOWN."
-msgstr ""
+msgstr "<18>{#f/7}TÚ ERES QUIEN HA ESTADO INTENTANDO QUE ME VENGA ABAJO."
 
 msgid "<18>{#f/7}YOU ARE THE ONE WHO'S FED ME LIE AFTER LIE."
-msgstr ""
+msgstr "<18>{#f/7}TÚ ERES QUIEN ME DICE MENTIRA TRAS MENTIRA."
 
 msgid "<18>{#f/9}BUT I, PAPYRUS..."
 msgstr "<18>{#f/9}PERO YO, PAPYRUS..."
 
 msgid "<18>{#f/9}FINALLY UNDERSTAND THE {@fill=#f00}REAL TRUTH{@fill=#fff}."
 msgstr ""
+"<18>{#f/9}FINALMENTE ENTIENDO LA {@fill=#f00}VERDAD VERDADERA{@fill=#fff}."
 
 msgid ""
 "<25>{#p/asriel2}{#f/13}* Oh?\n"
 "* And what's that?"
 msgstr ""
+"<25>{#p/asriel2}{#f/13}* ¿Oh?\n"
+"* ¿Y cuál es esa?"
 
 msgid "<18>{#p/papyrus}{#f/34}YOU'RE NOT {@fill=#f00}ASRIEL{@fill=#fff}."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/34}TÚ NO ERES {@fill=#f00}ASRIEL{@fill=#fff}."
 
 msgid "<18>{#f/31}{@fill=#f00}ASRIEL{@fill=#fff} WOULD NEVER ACT LIKE THIS."
-msgstr ""
+msgstr "<18>{#f/31}{@fill=#f00}ASRIEL{@fill=#fff} NUNCA ACTUARÍA ASÍ."
 
 msgid "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} WAS A KIND SOUL."
-msgstr ""
+msgstr "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} ERA UN ALMA BONDADOSA."
 
 msgid "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} BELIEVED IN PEOPLE..."
-msgstr ""
+msgstr "<18>{#f/5}{@fill=#f00}ASRIEL{@fill=#fff} CREÍA EN LA GENTE..."
 
 msgid "<18>{#f/31}HE BELIEVED IN HUMANITY BEFORE ANYONE ELSE DID."
-msgstr ""
+msgstr "<18>{#f/31}ÉL CREÍA EN LA HUMANIDAD MÁS QUE NADIE."
 
 msgid "<18>{#f/4}YOU, ON THE OTHER HAND..."
-msgstr ""
+msgstr "<18>{#f/4}TÚ, POR EL OTRO LADO..."
 
 msgid "<18>{#f/7}YOU JUST WANT TO USE THEM FOR YOUR OWN ENDS!"
-msgstr ""
+msgstr "<18>{#f/7}¡SOLO QUIERES USARLE PARA TUS PROPIOS MEDIOS!"
 
 msgid "<18>{#f/4}AND FRANKLY, I DON'T CARE WHAT YOU HAVE TO SAY."
-msgstr ""
+msgstr "<18>{#f/4}E IGUALMENTE, NO ME IMPORTA LO QUE TENGAS QUE DECIR."
 
 msgid "<18>{#f/9}I STILL HAVE HOPE FOR THAT HUMAN."
-msgstr ""
+msgstr "<18>{#f/9}AÚN TENGO ESPERANZA EN ESE HUMANO."
 
 msgid "<25>{#p/asriel2}{#f/8}* Well, if you've got so much faith in them..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* Bueno, si tienes tanta fé en él..."
 
 msgid "<25>{#f/7}* Then prove me wrong."
-msgstr ""
+msgstr "<25>{#f/7}* Demuestra que me equivoco."
 
 msgid "<25>{#f/3}* I'll let you take them on, one on one."
-msgstr ""
+msgstr "<25>{#f/3}* Dejaré que le enfrentes, uno a uno."
 
 msgid "<25>{#f/3}* If they spare you, then I'll admit I was wrong."
-msgstr ""
+msgstr "<25>{#f/3}* Si te perdona, admitiré que me equivoco."
 
 msgid "<25>{#f/4}* But if they kill you, which they inevitably will..."
-msgstr ""
+msgstr "<25>{#f/4}* Pero si te mata, que inevitablemente pasará..."
 
 msgid ""
 "<25>{#f/1}* You'll realize that I was right, and that HE died for nothing."
-msgstr ""
+msgstr "<25>{#f/1}* Verás que tenía razón, y que ÉL murió para nada."
 
 msgid "<25>{#f/1}* How does that sound?"
-msgstr ""
+msgstr "<25>{#f/1}* ¿Qué te parece?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/9}...\n"
@@ -2120,10 +2160,10 @@ msgstr ""
 "YO ACEPTO."
 
 msgid "<25>{#p/asriel2}{#f/3}* Splendid."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Espléndido."
 
 msgid "<25>{#f/4}* See you never."
-msgstr ""
+msgstr "<25>{#f/4}* Hasta nunca."
 
 msgid "<32>{#p/human}* (You place your hands on the heavily scratched door.)"
 msgstr ""
@@ -5166,8 +5206,6 @@ msgstr "¡HOLA!"
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
