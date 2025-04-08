@@ -16038,9 +16038,7 @@ msgid "<25>{#p/alphys}{#g/alphysNervousLaugh}* Phew..."
 msgstr "<25>{#p/alphys}{#g/alphysNervousLaugh}* 呼..."
 
 msgid "<25>{#g/alphysNeutralSweat}* L-let's hope that doesn't happen again."
-msgstr ""
-"<25>{#g/alphysNeutralSweat}\n"
-"* 希-希望別再出這種事了。"
+msgstr "<25>{#g/alphysNeutralSweat}* 希-希望別再出這種事了。"
 
 msgid "<32>{#p/basic}* ... guess you didn't need my help after all."
 msgstr "<32>{#p/basic}* ...看來你根本用不著我幫忙。"
