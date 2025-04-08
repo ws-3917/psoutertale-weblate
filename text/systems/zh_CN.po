@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-08 06:28+0000\n"
+"PO-Revision-Date: 2025-04-08 06:28+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"translate.ws3917.space/projects/ps-outertale/0-systems/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "（你深吸了一口气。）"
@@ -619,8 +634,6 @@ msgstr "§fill=#ff0§< 游戏开发者 >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< 文本编写 >§fill=#fff§"
@@ -737,95 +750,116 @@ msgid "Valor52"
 msgstr "Valor52"
 
 msgid "§fill=#ff0§< ARTIST (CONTINUED) >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< 美工（上色+边框） >§fill=#fff§"
 
 msgid "Abb"
-msgstr ""
+msgstr "凝雨白沙"
 
 msgid ""
 "§fill=#808080§Created one border, fanart,\n"
 "and several sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§贡献了一张边框、一张Outertale同人图\n"
+"以及一些酷炫的上色像素图。§fill=#fff§"
 
 msgid "C-G_O_A_T"
-msgstr ""
+msgstr "C-G_O_A_T（夕三羊）"
 
 msgid ""
 "§fill=#808080§Colored dialogue sprites for\n"
 "Alphys, Asriel, Undyne, etc.§fill=#fff§"
 msgstr ""
+"§fill=#808080§贡献了Alphys、Asriel、Undyne\n"
+"等角色的上色像素贴图。§fill=#fff§"
 
 msgid "DarkFlameWeaver"
-msgstr ""
+msgstr "DarkFlameWeaver"
 
 msgid ""
 "§fill=#808080§Created battle-colored Undyne\n"
 "sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§贡献了一套\n"
+"Undyne战斗上色贴图。§fill=#fff§"
 
 msgid "JustAnimates"
-msgstr ""
+msgstr "JustAnimates"
 
 msgid "§fill=#808080§Improved Toriel sprite art.§fill=#fff§"
-msgstr ""
+msgstr "§fill=#808080§协助优化Toriel上色贴图。§fill=#fff§"
 
 msgid "Kite95"
-msgstr ""
+msgstr "这是纸鸢"
 
 msgid ""
 "§fill=#808080§Created Frisk running animation\n"
 "and revised many key sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§制作全套Frisk跑步动画，并协助优化\n"
+"许多重要角色的上色贴图。§fill=#fff§"
 
 msgid "KodLenss"
-msgstr ""
+msgstr "KodLenss"
 
 msgid ""
 "§fill=#808080§Designed Outlands and\n"
 "Aerialis borders.§fill=#fff§"
 msgstr ""
+"§fill=#808080§设计和绘制了外域与空境\n"
+"两个场景的边框§fill=#fff§"
 
 msgid "KrisDrmr"
-msgstr ""
+msgstr "KrisDrmr"
 
 msgid ""
 "§fill=#808080§Created sprites for Muffet,\n"
 "Cozmo, and Mettaton.§fill=#fff§"
 msgstr ""
+"§fill=#808080§给Muffet、Cozmo以及\n"
+"方盒子Mettaton上了色。§fill=#fff§"
 
 msgid "moons"
-msgstr ""
+msgstr "屑月亮菌moons"
 
 msgid ""
 "§fill=#808080§Contributed over 40 colored\n"
 "battle sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§贡献了40多张\n"
+"战斗上色贴图。§fill=#fff§"
 
 msgid "XiaoYun"
-msgstr ""
+msgstr "小云爱喝二锅头"
 
 msgid ""
 "§fill=#808080§Designed 18 Outertale borders\n"
 "including Starton and CORE.§fill=#fff§"
 msgstr ""
+"§fill=#808080§绘制了星港、核心、首塔\n"
+"等18张游戏边框。§fill=#fff§"
 
 msgid "§fill=#ff0§< TECHNICIAN >§fill=#fff§"
 msgstr "§fill=#ff0§< 技术助理 >§fill=#fff§"
 
 msgid "AnXing"
-msgstr ""
+msgstr "AX暗星233"
 
 msgid ""
 "§fill=#808080§Assisted with Android controller\n"
 "code and build debugging.\n"
 "Wrote Cordova build guide.§fill=#fff§"
 msgstr ""
+"§fill=#808080§协助开发安卓新摇杆，\n"
+"并帮忙进行调试。\n"
+"编写了详细的域外游戏构建指南。§fill=#fff§"
 
 msgid "Codetoil"
 msgstr "Codetoil"
 
 msgid "§fill=#808080§\\\"The Great Theoretical Physicist Codetoil.\\\"§fill=#fff§"
 msgstr ""
+"§fill=#808080§“伟大的理论物理学家\n"
+"Codetoil到此一游。”§fill=#fff§"
 
 msgid "Murder--Sans_MDR"
 msgstr "Murder--Sans_MDR"
@@ -835,43 +869,54 @@ msgid ""
 "and sprite implementation, as well\n"
 "as technical support during build.§fill=#fff§"
 msgstr ""
+"§fill=#808080§协助进行代码数据挖掘，\n"
+"优化和修复部分贴图；\n"
+"并在代码分析过程中提供技术支持。§fill=#fff§"
 
 msgid "Onezhazha"
-msgstr ""
+msgstr "1个渣渣"
 
 msgid ""
 "§fill=#808080§Created full Russian font set and\n"
 "supported various text systems.§fill=#fff§"
 msgstr ""
+"§fill=#808080§帮助制作和导入多个俄语字体，\n"
+"优化打字机系统的多语言支持。§fill=#fff§"
 
 msgid "ryi3r"
 msgstr "ryi3r"
 
 msgid "§fill=#808080§\\\"Remember when I speedran the chaotic?\\\"§fill=#fff§"
-msgstr ""
+msgstr "§fill=#808080§“还记得我啥时候速通的动乱线吗？”§fill=#fff§"
 
 msgid "Wasneet Potato"
-msgstr ""
+msgstr "Wasneet Potato"
 
 msgid ""
 "§fill=#808080§Helped with border scripting and\n"
 "technical aspects of phone call\n"
 "dialogue system.§fill=#fff§"
 msgstr ""
+"§fill=#808080§帮助优化边框代码逻辑，\n"
+"并协助调试角色电话文本\n"
+"潜在的掉翻译问题。§fill=#fff§"
 
 msgid "WS3917"
-msgstr ""
+msgstr "WS3917"
 
 msgid ""
 "§fill=#808080§Contributed to bug fixing,\n"
 "code improvements, and game\n"
 "translation support.§fill=#fff§"
 msgstr ""
+"§fill=#808080§修复游戏Bug，搭建翻译平台；\n"
+"提供上色和边框上的程序支持；\n"
+"移植安卓版，优化手机端体验。§fill=#fff§"
 
 msgid ""
 "§fill=#808080§Adding the entirety of CJK characters into one image... it "
 "builds character!§fill=#fff§"
-msgstr ""
+msgstr "§fill=#808080§“亦是终点，亦是起点。”§fill=#fff§"
 
 msgid "§fill=#ff0§< TESTER >§fill=#fff§"
 msgstr "§fill=#ff0§< 游戏测试 >§fill=#fff§"
@@ -886,7 +931,7 @@ msgid "Brad"
 msgstr "Brad"
 
 msgid "braing"
-msgstr ""
+msgstr "braing"
 
 msgid "brayjamin"
 msgstr "brayjamin"
@@ -910,7 +955,7 @@ msgid "Enzolos"
 msgstr "Enzolos"
 
 msgid "errosia"
-msgstr ""
+msgstr "errosia"
 
 msgid "EvanGamesGoodman"
 msgstr "EvanGamesGoodman"
@@ -931,7 +976,7 @@ msgid "Green Tea"
 msgstr "Green Tea"
 
 msgid "Holaamigo"
-msgstr ""
+msgstr "Holaamigo"
 
 msgid "Huggies!"
 msgstr "Huggies!"
@@ -1027,7 +1072,7 @@ msgid "Xiao_Akatsuki"
 msgstr "Xiao_Akatsuki"
 
 msgid "XieFish"
-msgstr ""
+msgstr "一条屑鱼_Official"
 
 msgid "xNoodlePlayz"
 msgstr "xNoodlePlayz"
