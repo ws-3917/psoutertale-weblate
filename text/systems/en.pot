@@ -715,16 +715,141 @@ msgstr ""
 msgid "Valor52"
 msgstr ""
 
+msgid "§fill=#ff0§< ARTIST (CONTINUED) >§fill=#fff§"
+msgstr ""
+
+msgid "Abb"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Created one border, fanart,\n"
+"and several sprites.§fill=#fff§"
+msgstr ""
+
+msgid "C-G_O_A_T"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Colored dialogue sprites for\n"
+"Alphys, Asriel, Undyne, etc.§fill=#fff§"
+msgstr ""
+
+msgid "DarkFlameWeaver"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Created battle-colored Undyne\n"
+"sprites.§fill=#fff§"
+msgstr ""
+
+msgid "JustAnimates"
+msgstr ""
+
+msgid "§fill=#808080§Improved Toriel sprite art.§fill=#fff§"
+msgstr ""
+
+msgid "Kite95"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Created Frisk running animation\n"
+"and revised many key sprites.§fill=#fff§"
+msgstr ""
+
+msgid "KodLenss"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Designed Outlands and\n"
+"Aerialis borders.§fill=#fff§"
+msgstr ""
+
+msgid "KrisDrmr"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Created sprites for Muffet,\n"
+"Cozmo, and Mettaton.§fill=#fff§"
+msgstr ""
+
+msgid "moons"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Contributed over 40 colored\n"
+"battle sprites.§fill=#fff§"
+msgstr ""
+
+msgid "XiaoYun"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Designed 18 Outertale borders\n"
+"including Starton and CORE.§fill=#fff§"
+msgstr ""
+
 msgid "§fill=#ff0§< TECHNICIAN >§fill=#fff§"
+msgstr ""
+
+msgid "AnXing"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Assisted with Android controller\n"
+"code and build debugging.\n"
+"Wrote Cordova build guide.§fill=#fff§"
 msgstr ""
 
 msgid "Codetoil"
 msgstr ""
 
+msgid "§fill=#808080§\\\"The Great Theoretical Physicist Codetoil.\\\"§fill=#fff§"
+msgstr ""
+
+msgid "Murder--Sans_MDR"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Contributed to code improvements\n"
+"and sprite implementation, as well\n"
+"as technical support during build.§fill=#fff§"
+msgstr ""
+
+msgid "Onezhazha"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Created full Russian font set and\n"
+"supported various text systems.§fill=#fff§"
+msgstr ""
+
 msgid "ryi3r"
 msgstr ""
 
-msgid "ws3917"
+msgid "§fill=#808080§\\\"Remember when I speedran the chaotic?\\\"§fill=#fff§"
+msgstr ""
+
+msgid "Wasneet Potato"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Helped with border scripting and\n"
+"technical aspects of phone call\n"
+"dialogue system.§fill=#fff§"
+msgstr ""
+
+msgid "WS3917"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Contributed to bug fixing,\n"
+"code improvements, and game\n"
+"translation support.§fill=#fff§"
+msgstr ""
+
+msgid ""
+"§fill=#808080§Adding the entirety of CJK characters into one image... it "
+"builds character!§fill=#fff§"
 msgstr ""
 
 msgid "§fill=#ff0§< TESTER >§fill=#fff§"
@@ -737,6 +862,9 @@ msgid "Aspey"
 msgstr ""
 
 msgid "Brad"
+msgstr ""
+
+msgid "braing"
 msgstr ""
 
 msgid "brayjamin"
@@ -760,6 +888,9 @@ msgstr ""
 msgid "Enzolos"
 msgstr ""
 
+msgid "errosia"
+msgstr ""
+
 msgid "EvanGamesGoodman"
 msgstr ""
 
@@ -776,6 +907,9 @@ msgid "Gon UT"
 msgstr ""
 
 msgid "Green Tea"
+msgstr ""
+
+msgid "Holaamigo"
 msgstr ""
 
 msgid "Huggies!"
@@ -800,9 +934,6 @@ msgid "MR. PETER"
 msgstr ""
 
 msgid "MSBen"
-msgstr ""
-
-msgid "Murder--Sans_MDR"
 msgstr ""
 
 msgid "Nanorasmus"
@@ -872,6 +1003,9 @@ msgid "Wild Pasta"
 msgstr ""
 
 msgid "Xiao_Akatsuki"
+msgstr ""
+
+msgid "XieFish"
 msgstr ""
 
 msgid "xNoodlePlayz"
