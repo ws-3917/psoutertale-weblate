@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 04:10+0000\n"
-"PO-Revision-Date: 2025-04-02 04:20+0000\n"
-"Last-Translator: Mr R <roddypesce@gmail.com>\n"
-"Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
-"1-outlands/it/>\n"
-"Language: it_IT\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
-#
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -1402,7 +1389,8 @@ msgid "<25>{#f/22}* And, If I ever screw up..."
 msgstr "<25>{#f/22}* E, se sbagliassi qualcosa..."
 
 msgid "<25>{#f/13}* ... I know you'll be there to help me pick up the pieces."
-msgstr "<25>{#f/13}* ... So che tu sarai al mio fianco ad aiutarmi a rimediare."
+msgstr ""
+"<25>{#f/13}* ... So che tu sarai al mio fianco ad aiutarmi a rimediare."
 
 msgid "<25>{#p/asriel1}{#f/17}* Ha... $(name)."
 msgstr "<25>{#p/asriel1}{#f/17}* Ha... $(name)."
@@ -1412,7 +1400,8 @@ msgstr "<25>{#f/23}* Non ti deluderò, okay?"
 
 msgid "<25>{#f/22}* I'll make the most out of this chance you've given me."
 msgstr ""
-"<25>{#f/22}* Sfrutterò al massimo questa seconda possibilità che mi hai dato."
+"<25>{#f/22}* Sfrutterò al massimo questa seconda possibilità che mi hai "
+"dato."
 
 msgid "<25>{#f/17}* I'll make it count."
 msgstr "<25>{#f/17}* Farò valere il tuo sacrificio."

@@ -1,21 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-27 11:11+0000\n"
-"PO-Revision-Date: 2025-04-06 14:36+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
-"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
-"6-common/ru/>\n"
-"Language: ru_RU\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
-#
 msgid "The player did everything they could..."
 msgstr ""
 
@@ -375,6 +361,9 @@ msgid "<25>{#p/basic}(Seems that's all there is to say today!)"
 msgstr ""
 
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
+msgstr ""
+
+msgid ""
 msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
@@ -8511,7 +8500,6 @@ msgstr ""
 msgid "<32>{#p/napstablook}* okay, let's see..."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<32>* if a ghost changed vessels so they could have a child, what would you "
 "call it?"
@@ -8519,7 +8507,6 @@ msgstr ""
 "<32>* если призрак вселился в тело, чтобы обрести детей, как бы ты это "
 "назвал?"
 
-#, fuzzy
 msgid "<32>* answer... a {@fill=#ff0}trans-parent.{@fill=#fff}."
 msgstr "<32>* ответ...{@fill=#ff0}отча-яние.{@fill=#fff}."
 
@@ -8537,7 +8524,6 @@ msgid ""
 "* i've got it."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<32>* if a restaurant hires a ghost to taste test their food, what does that"
 " make the ghost?"
@@ -8545,7 +8531,6 @@ msgstr ""
 "<32>* если ресторан нанял призрака для оценки еды, как назовётся эта "
 "должность?"
 
-#, fuzzy
 msgid "<32>* answer... a {@fill=#ff0}food-in-spectre.{@fill=#fff}."
 msgstr "<32>* ответ...{@fill=#ff0}пищевод{@fill=#fff}."
 
@@ -8708,7 +8693,6 @@ msgid ""
 msgstr ""
 "<32>{#p/basic}* Этот призрак повторяет вслух «Хр-р-р», притворяясь спящим."
 
-#, fuzzy
 msgid "* (Lay down next to it?)"
 msgstr "* (Прилечь рядом?)"
 
@@ -11974,7 +11958,6 @@ msgstr ""
 "<32>{#p/story}* ПОЖЕЛЕЙКА: АТК 6 ЗЩТ 0\n"
 "* Супермодель на пике своей красоты."
 
-#, fuzzy
 msgid ""
 "<32>{#p/human}* (You wiggle your hips.)\n"
 "* (Gelatini wiggles back.)"
@@ -11982,7 +11965,6 @@ msgstr ""
 "<32>{#p/human}* (Вы дёргаете коленями.)\n"
 "* (Пожелейка колышется в ответ.)"
 
-#, fuzzy
 msgid "<33>{#p/basic}* What a meaningful conversation!"
 msgstr "<33>{#p/basic}* Что за осмысленная беседа!"
 

@@ -1,21 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-26 10:13+0000\n"
-"PO-Revision-Date: 2025-04-03 16:13+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
-"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
-"2-starton/ru/>\n"
-"Language: ru_RU\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
-#
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -4915,6 +4901,9 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
+msgid ""
+msgstr ""
+
 msgid "FAILED TO CONNECT..."
 msgstr ""
 
@@ -7512,15 +7501,12 @@ msgstr ""
 msgid "<32>{#p/basic}* Why did I give myself away so easily?"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* Begone!"
 msgstr "<32>{#p/basic}* Прочь!"
 
-#, fuzzy
 msgid "<99>{#p/darksans}{#i/4}* {@spacing=2.25/0}Human."
 msgstr "<99>{#p/darksans}{#i/4}* {@spacing=2.25/0}Человек."
 
-#, fuzzy
 msgid ""
 "<99>* {@spacing=2.25/0}Don't you know how to{@spacing=}\n"
 "  {@spacing=2.25/0}greet a new pal?"
@@ -7528,7 +7514,6 @@ msgstr ""
 "<99>* {@spacing=2.25/0}Разве ты не знаешь как{@spacing=}\n"
 "  {@spacing=2.25/0}встречать нового друга?"
 
-#, fuzzy
 msgid ""
 "<99>* {@spacing=2.25/0}Turn around and shake{@spacing=}\n"
 "  {@spacing=2.25/0}my hand."
@@ -7536,7 +7521,6 @@ msgstr ""
 "<99>* {@spacing=2.25/0}Развернись и пожми{@spacing=}\n"
 "  {@spacing=2.25/0}мою руку."
 
-#, fuzzy
 msgid ""
 "<25>{#p/sans}{#f/0}* huh?\n"
 "* what's with the face?"
@@ -7544,11 +7528,9 @@ msgstr ""
 "<25>{#p/sans}{#f/0}* ого?\n"
 "* что с лицом?"
 
-#, fuzzy
 msgid "<25>{#p/sans}{#f/2}* ... didn't you like my whoopee cushion?"
 msgstr "<25>{#p/sans}{#f/2}* ...не нравится моя подушка-пердушка?"
 
-#, fuzzy
 msgid ""
 "<25>{#f/0}* ... eh.\n"
 "* to each their own."
@@ -7559,15 +7541,12 @@ msgstr ""
 msgid "<25>{#p/sans}{#f/4}* heheh... nothin' like a good whoopee cushion."
 msgstr ""
 
-#, fuzzy
 msgid "<25>{#f/0}* anyway, you're a human, right?"
 msgstr "<25>{#f/0}* ты же человек, да?"
 
-#, fuzzy
 msgid "<25>{#f/5}* that's fantastic."
 msgstr "<25>{#f/5}* это чудесно."
 
-#, fuzzy
 msgid ""
 "<25>{#f/0}* i'm sans.\n"
 "* sans the skeleton."
@@ -7575,43 +7554,33 @@ msgstr ""
 "<25>{#f/0}* я — санс.\n"
 "* скелет санс."
 
-#, fuzzy
 msgid "<25>{#f/3}* as a royal sentry, my job is to capture humans."
 msgstr "<25>{#f/3}* как королевский страж, я должен ловить людей."
 
-#, fuzzy
 msgid "<25>{#f/4}* but... y'know..."
 msgstr "<25>{#f/4}* но, знаешь..."
 
-#, fuzzy
 msgid "<25>{#f/2}* i don't really feel like doing much work today."
 msgstr "<25>{#f/2}* сегодня что-то неохота."
 
-#, fuzzy
 msgid "<25>{#f/0}* as for my brother, well..."
 msgstr "<25>{#f/0}* а вот мой брат..."
 
-#, fuzzy
 msgid "<25>{#f/5}* he's OVERFLOWING with energy."
 msgstr "<25>{#f/5}* он ПРЕИСПОЛНЕН энергии."
 
-#, fuzzy
 msgid "<25>{#f/0}* it took everything i had just to get him to stay home."
 msgstr "<25>{#f/0}* все силы ушли, чтобы убедить его остаться дома."
 
-#, fuzzy
 msgid "<25>{#f/2}* i've got better things to do."
 msgstr "<25>{#f/2}* у меня есть дела и получше."
 
-#, fuzzy
 msgid "<25>{#f/5}* despite not being an actual sentry, he sure ACTS like one."
 msgstr "<25>{#f/5}* хоть он и не страж, он точно ВЕДЁТ себя как он."
 
-#, fuzzy
 msgid "<25>{#f/0}* in fact, i think that's him over there."
 msgstr "<25>{#f/0}* по правде, я уже вижу его вдалеке."
 
-#, fuzzy
 msgid ""
 "<25>* i have an idea.\n"
 "* jump across that gap, will ya?"
@@ -7619,7 +7588,6 @@ msgstr ""
 "<25>* у меня мысль.\n"
 "* можешь прыгнуть через яму?"
 
-#, fuzzy
 msgid ""
 "<26>{#f/4}* yeah, jump right across.\n"
 "* my bro set the gravity too low to stop anyone."
@@ -7627,70 +7595,55 @@ msgstr ""
 "<26>{#f/4}* да, просто прыгни.\n"
 "* мой бро установил слишком низкую силу тяжести."
 
-#, fuzzy
 msgid "<25>{#p/sans}* well, here we are."
 msgstr "<25>{#p/sans}* вот мы и здесь."
 
-#, fuzzy
 msgid ""
 "<25>{#f/3}* i'm afraid there's not much else i can show you right now..."
 msgstr "<25>{#f/3}* боюсь, не то что бы много я тебе мог показать..."
 
-#, fuzzy
 msgid ""
 "<25>{#f/2}* but maybe i'll come up with something if you keep heading "
 "forward."
-msgstr "<25>{#f/2}* но возможно я что-нить да придумаю, если ты пойдёшь дальше."
+msgstr ""
+"<25>{#f/2}* но возможно я что-нить да придумаю, если ты пойдёшь дальше."
 
-#, fuzzy
 msgid "<25>{#f/0}* for now, i'll just hang around here."
 msgstr "<25>{#f/0}* а сейчас я буду паясничать здесь."
 
-#, fuzzy
 msgid "<25>{#p/sans}* quick, to the gravometric inverter."
 msgstr "<25>{#p/sans}* быстрее, к гравометрическому инвертору."
 
-#, fuzzy
 msgid "<25>{#p/sans}* 'sup, bro?"
 msgstr "<25>{#p/sans}* прив, бро?"
 
-#, fuzzy
 msgid "<18>{#p/papyrus}{#x2}{#f/7}YOU KNOW WHAT \"SUP,\" BROTHER!"
 msgstr "<18>{#p/papyrus}{#x2}{#f/7}ЧТО ЕЩЁ ЗА «ПРИВ», БРАТ!"
 
-#, fuzzy
 msgid "<18>YOU HAVE PUZZLES TO ATTEND TO!"
 msgstr "<18>ТЫ ДОЛЖЕН ЗАНЯТЬСЯ ГОЛОВОЛОМКАМИ!"
 
-#, fuzzy
 msgid "<18>I'VE GIVEN YOU PLENTY OF LEEWAY, BUT STILL..."
 msgstr "<18>Я ТЕБЕ ДАЛ ПРОСТРАНСТВО ДЛЯ МАНЁВРОВ, НО..."
 
-#, fuzzy
 msgid "<18>YOU SIT AROUND AND DO NOTHING ALL DAY!"
 msgstr "<18>ТЫ СИДИШЬ И НИЧЕГО НЕ ДЕЛАЕШЬ ВЕСЬ ДЕНЬ!"
 
-#, fuzzy
 msgid "<18>EVEN NOW, THAT'S WHAT YOU'RE DOING!"
 msgstr "<18>ДАЖЕ СЕЙЧАС ТЫ ЭТО ДЕЛАЕШЬ!"
 
-#, fuzzy
 msgid "<18>NOTHING!"
 msgstr "<18>НИЧЕГО!"
 
-#, fuzzy
 msgid "<25>{#p/sans}* actually, i'm playing with this gravometric thingy."
 msgstr "<25>{#p/sans}* вообще-то я играю с гравометрической штуковиной."
 
-#, fuzzy
 msgid "<25>* it's really cool."
 msgstr "<25>* это вообще улёт."
 
-#, fuzzy
 msgid "<25>{#f/4}* do you wanna look?"
 msgstr "<25>{#f/4}* хочешь заценить?"
 
-#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#x3}{#f/7}NO!!\n"
 "I DON'T HAVE TIME FOR THAT!!"
@@ -7698,11 +7651,9 @@ msgstr ""
 "<18>{#p/papyrus}{#x3}{#f/7}НЕТ!!\n"
 "У МЕНЯ НЕТ ВРЕМЕНИ НА ЭТО!!"
 
-#, fuzzy
 msgid "<18>{#x2}IF A HUMAN COMES THROUGH HERE, I WANT TO BE READY!"
 msgstr "<18>{#x2}Я ХОЧУ БЫТЬ ГОТОВЫМ, ЕСЛИ ЧЕЛОВЕК БУДЕТ РЯДОМ!"
 
-#, fuzzy
 msgid ""
 "<18>I MUST BE THE ONE!\n"
 "I WILL BE THE ONE!"
@@ -7710,19 +7661,15 @@ msgstr ""
 "<18>Я ДОЛЖЕН БЫТЬ ПЕРВЫМ!\n"
 "Я БУДУ ПЕРВЫМ!"
 
-#, fuzzy
 msgid "<18>{#x1}{#f/9}I WILL FINALLY CAPTURE A HUMAN!"
 msgstr "<18>{#x1}{#f/9}Я НАКОНЕЦ-ТО ПОЙМАЮ ЧЕЛОВЕКА!"
 
-#, fuzzy
 msgid "<18>{#x4}{#f/0}THEN I, THE GREAT PAPYRUS..."
 msgstr "<18>{#x4}{#f/0}ЗАТЕМ Я, ВЕЛИКИЙ ПАПИРУС..."
 
-#, fuzzy
 msgid "<18>WILL GET ALL THE THINGS I UTTERLY DESERVE!"
 msgstr "<18>ПОЛУЧУ ВСЁ, ЧТО НЕСОМНЕННО ЗАСЛУЖИВАЮ!"
 
-#, fuzzy
 msgid ""
 "<18>RESPECT...\n"
 "RECOGNITION..."
@@ -7730,19 +7677,15 @@ msgstr ""
 "<18>УВАЖЕНИЕ...\n"
 "ПРИЗНАНИЕ..."
 
-#, fuzzy
 msgid "<18>{#f/9}I WILL FINALLY BE ABLE TO JOIN THE ROYAL GUARD!"
 msgstr "<18>{#f/9}Я НАКОНЕЦ-ТО ПРИСОЕДИНЮСЬ К КОРОЛЕВСКОЙ ГВАРДИИ!"
 
-#, fuzzy
 msgid "<25>{#p/sans}* hmm..."
 msgstr "<25>{#p/sans}* хм-м..."
 
-#, fuzzy
 msgid "<25>{#f/2}* maybe this gadget will help you."
 msgstr "<25>{#f/2}* может быть, это устройство поможет тебе."
 
-#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#x3}{#f/7}SANS, THAT WON'T DO ANYTHING!\n"
 "YOU LAZYBONES!"
@@ -7750,19 +7693,15 @@ msgstr ""
 "<18>{#p/papyrus}{#x3}{#f/7}ЭТО НИЧЕМ НЕ ПОМОЖЕТ, САНС!\n"
 "ТЫ ЛЕНИВАЯ КУЧА КОСТЕЙ!"
 
-#, fuzzy
 msgid "<18>{#x1}{#f/5}YOU KNOW, YOU ARE CAPABLE OF SO MUCH MORE, YET..."
 msgstr "<18>{#x1}{#f/5}ТЫ ЗНАЕШЬ, ЧТО СПОСОБЕН НА БОЛЬШЕЕ, НО..."
 
-#, fuzzy
 msgid "<18>{#x2}{#f/7}YOU CHOOSE TO SIT AROUND AND DO NOTHING ALL DAY!"
 msgstr "<18>{#x2}{#f/7}ПРОСТО СИДИШЬ И НИЧЕГО НЕ ДЕЛАЕШЬ ВЕСЬ ДЕНЬ!"
 
-#, fuzzy
 msgid "<18>{#x1}{#f/5}DON'T YOU WANT... MORE, OUT OF LIFE?"
 msgstr "<18>{#x1}{#f/5}РАЗВЕ ТЫ НЕ ХОЧЕШЬ ЧЕГО-ТО В СВОЕЙ ЖИЗНИ?"
 
-#, fuzzy
 msgid ""
 "<25>{#p/sans}* hey, take it easy.\n"
 "* i've got plenty of things in mind."
@@ -7770,19 +7709,15 @@ msgstr ""
 "<25>{#p/sans}* эй, будь попроще.\n"
 "* у меня куча вещей на уме."
 
-#, fuzzy
 msgid "<25>{#f/4}* perhaps you could even say i'm..."
 msgstr "<25>{#f/4}* наверное ты даже скажешь, что я..."
 
-#, fuzzy
 msgid "<25>{#f/2}* shooting for the {@fill=#ff0}stars{@fill=#fff}?"
 msgstr "<25>{#f/2}* способен хватать {@fill=#ff0}звёзды{@fill=#fff} с неба?"
 
-#, fuzzy
 msgid "<18>{#p/papyrus}{#x3}{#f/7}SANS!!"
 msgstr "<18>{#p/papyrus}{#x3}{#f/7}САНС!!"
 
-#, fuzzy
 msgid ""
 "<25>{#p/sans}{#f/5}* come on.\n"
 "* you're smiling."
@@ -7790,14 +7725,12 @@ msgstr ""
 "<25>{#p/sans}{#f/5}* да ладно тебе.\n"
 "* ты же улыбаешься."
 
-#, fuzzy
 msgid "<18>{#p/papyrus}{#x2}{#f/7}I AM AND I UTTERLY DESPISE IT!"
 msgstr "<18>{#p/papyrus}{#x2}{#f/7}ДА, И Я НЕНАВИЖУ ЭТО!"
 
 msgid "<18>{#x1}{#f/4}(SIGH...)"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "<18>{#f/5}WHY DOES SOMEONE\n"
 "AS GREAT AS MYSELF..."
@@ -7805,11 +7738,9 @@ msgstr ""
 "<18>{#f/5}ПОЧЕМУ КТО-ТО\n"
 "СТОЛЬ ВЕЛИКИЙ КАК Я..."
 
-#, fuzzy
 msgid "<18>HAVE TO DO SO MUCH JUST TO GET SOME RECOGNITION??"
 msgstr "<18>ДОЛЖЕН ТАК МНОГО СДЕЛАТЬ РАДИ ПРИЗНАНИЯ??"
 
-#, fuzzy
 msgid ""
 "<25>{#p/sans}* heh.\n"
 "* perhaps you should focus more on, well..."
@@ -7817,26 +7748,21 @@ msgstr ""
 "<25>{#p/sans}* хех.\n"
 "* возможно, тебе стоит сфокусироваться на..."
 
-#, fuzzy
 msgid "<25>* the {@fill=#ff0}gravity{@fill=#fff} of the situation."
 msgstr "<25>* {@fill=#ff0}тяжести{@fill=#fff} ситуации."
 
 msgid "<18>{#p/papyrus}{#x2}{#f/7}UGH!!"
 msgstr ""
 
-#, fuzzy
 msgid "<18>{#x1}{#f/4}I WILL ATTEND TO MY PUZZLES..."
 msgstr "<18>{#x1}{#f/4}Я ЗАЙМУСЬ СВОИМИ ГОЛОВОЛОМКАМИ..."
 
-#, fuzzy
 msgid "<18>{#f/7}AS FOR YOUR WORK?"
 msgstr "<18>{#f/7}А ЧТО НАСЧЁТ ТЕБЯ?"
 
-#, fuzzy
 msgid "<18>{#f/4}I EXPECT YOU TO DO A MORE..."
 msgstr "<18>{#f/4}Я ХОЧУ, ЧТОБЫ ТЫ..."
 
-#, fuzzy
 msgid "<18>{#f/9}{@fill=#ff0}\"STELLAR\"{@fill=#fff} JOB FROM NOW ON!!!"
 msgstr "<18>{#f/9}«СПУСТИЛСЯ С {@fill=#ff0}НЕБЕС{@fill=#fff} НА ЗЕМЛЮ»!!!"
 

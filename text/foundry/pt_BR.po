@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-27 15:02+0000\n"
-"PO-Revision-Date: 2025-03-28 02:06+0000\n"
-"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
-"ps-outertale/3-foundry/pt_BR/>\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2\n"
 
-#
 msgid "<32>{#p/basic}* ..."
 msgstr "<32>{#p/basic}* ..."
 
@@ -4173,8 +4160,8 @@ msgid ""
 "<32>{#p/basic}* (Maybe the two of us could open a shop together!)\n"
 "* (You'd sell the trinkets...)"
 msgstr ""
-"<32>{#p/basic}* (Nós dois possamos abrir um mercado juntos! Você venderia as "
-"bugigangas...)"
+"<32>{#p/basic}* (Nós dois possamos abrir um mercado juntos! Você venderia as"
+" bugigangas...)"
 
 msgid ""
 "<32>{#p/basic}* And you'd sell the food.\n"
