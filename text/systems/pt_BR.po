@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-08 06:25+0000\n"
+"PO-Revision-Date: 2025-04-08 06:25+0000\n"
+"Last-Translator: cezarrosa <cozinha635@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://ws3917.hbms.me/projects/"
+"ps-outertale/0-systems/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Você preenche seus pulmões.)"
@@ -632,8 +647,6 @@ msgstr "§fill=#ff0§< DESENVOLVEDOR >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< ESCRITOR >§fill=#fff§"
@@ -750,95 +763,113 @@ msgid "Valor52"
 msgstr "Valor52"
 
 msgid "§fill=#ff0§< ARTIST (CONTINUED) >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ARTISTA (CONTINUAÇÃO) >§fill=#fff§"
 
 msgid "Abb"
-msgstr ""
+msgstr "Abb"
 
 msgid ""
 "§fill=#808080§Created one border, fanart,\n"
 "and several sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Criou uma das bordas, várias fanarts e sprites.§fill=#fff§"
 
 msgid "C-G_O_A_T"
-msgstr ""
+msgstr "C-G_O_A_T"
 
 msgid ""
 "§fill=#808080§Colored dialogue sprites for\n"
 "Alphys, Asriel, Undyne, etc.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Fez sprites coloridos para\n"
+"Alphys, Asriel, Undyne, etc.§fill=#fff§"
 
 msgid "DarkFlameWeaver"
-msgstr ""
+msgstr "DarkFlameWeaver"
 
 msgid ""
 "§fill=#808080§Created battle-colored Undyne\n"
 "sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Criou sprites coloridos para as batalhas da Undyne\n"
+"sprites.§fill=#fff§"
 
 msgid "JustAnimates"
-msgstr ""
+msgstr "JustAnimates"
 
 msgid "§fill=#808080§Improved Toriel sprite art.§fill=#fff§"
-msgstr ""
+msgstr "§fill=#808080§Melhorou a arte do sprite da Toriel.§fill=#fff§"
 
 msgid "Kite95"
-msgstr ""
+msgstr "Kite95"
 
 msgid ""
 "§fill=#808080§Created Frisk running animation\n"
 "and revised many key sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Criou a animação de corrida de Frisk\n"
+"e revisou vários sprites.§fill=#fff§"
 
 msgid "KodLenss"
-msgstr ""
+msgstr "KodLenss"
 
 msgid ""
 "§fill=#808080§Designed Outlands and\n"
 "Aerialis borders.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Fez o design das bordas das\n"
+"Outlands e Aerialis.§fill=#fff§"
 
 msgid "KrisDrmr"
-msgstr ""
+msgstr "KrisDrmr"
 
 msgid ""
 "§fill=#808080§Created sprites for Muffet,\n"
 "Cozmo, and Mettaton.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Criou sprites para Muffet,\n"
+"Cozmo, e Mettaton.§fill=#fff§"
 
 msgid "moons"
-msgstr ""
+msgstr "moons"
 
 msgid ""
 "§fill=#808080§Contributed over 40 colored\n"
 "battle sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Contribuiu com mais de 40 sprites\n"
+"de batalha coloridos.§fill=#fff§"
 
 msgid "XiaoYun"
-msgstr ""
+msgstr "XiaoYun"
 
 msgid ""
 "§fill=#808080§Designed 18 Outertale borders\n"
 "including Starton and CORE.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Projetou 18 bordas de Outertale\n"
+"incluindo Starton e CORE.§fill=#fff§"
 
 msgid "§fill=#ff0§< TECHNICIAN >§fill=#fff§"
 msgstr "§fill=#ff0§< TÉCNICO >§fill=#fff§"
 
 msgid "AnXing"
-msgstr ""
+msgstr "AnXing"
 
 msgid ""
 "§fill=#808080§Assisted with Android controller\n"
 "code and build debugging.\n"
 "Wrote Cordova build guide.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Assistência com o controlador Android\n"
+"depuração de código e compilação.\n"
+"Escreveu o guia de construção do Cordova.§fill=#fff§"
 
 msgid "Codetoil"
 msgstr "Codetoil"
 
 msgid "§fill=#808080§\\\"The Great Theoretical Physicist Codetoil.\\\"§fill=#fff§"
-msgstr ""
+msgstr "§fill=#808080§\\\"O Grande Físico Teórico Codetoil.\\\"§fill=#fff§"
 
 msgid "Murder--Sans_MDR"
 msgstr "Murder--Sans_MDR"
@@ -848,43 +879,58 @@ msgid ""
 "and sprite implementation, as well\n"
 "as technical support during build.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Contribuiu para o código que melhorou\n"
+"os sprites e o jogo também\n"
+"como suporte técnico durante a construção.§fill=#fff§"
 
 msgid "Onezhazha"
-msgstr ""
+msgstr "Onezhazha"
 
 msgid ""
 "§fill=#808080§Created full Russian font set and\n"
 "supported various text systems.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Criou um conjunto completo de fontes russas e\n"
+"suportava vários sistemas de texto.§fill=#fff§"
 
 msgid "ryi3r"
 msgstr "ryi3r"
 
 msgid "§fill=#808080§\\\"Remember when I speedran the chaotic?\\\"§fill=#fff§"
 msgstr ""
+"§fill=#808080§\\\"Lembra quando eu fiz speedrun da rota caótica?\\\""
+"§fill=#fff§"
 
 msgid "Wasneet Potato"
-msgstr ""
+msgstr "Wasneet Potato"
 
 msgid ""
 "§fill=#808080§Helped with border scripting and\n"
 "technical aspects of phone call\n"
 "dialogue system.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Ajudou com scripts de borda e\n"
+"Aspectos técnicos da chamada telefônica\n"
+"sistema de diálogo.§fill=#fff§"
 
 msgid "WS3917"
-msgstr ""
+msgstr "WS3917"
 
 msgid ""
 "§fill=#808080§Contributed to bug fixing,\n"
 "code improvements, and game\n"
 "translation support.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Contribuiu com o concerto de bugs.\n"
+"Melhora nos códigos e suporte\n"
+"aos tradutores do jogo.§fill=#fff§"
 
 msgid ""
 "§fill=#808080§Adding the entirety of CJK characters into one image... it "
 "builds character!§fill=#fff§"
 msgstr ""
+"§fill=#808080§Adicionando a totalidade dos caracteres CJK em uma imagem... "
+"constrói caráter!§fill=#fff§"
 
 msgid "§fill=#ff0§< TESTER >§fill=#fff§"
 msgstr "§fill=#ff0§< TESTE >§fill=#fff§"
@@ -899,7 +945,7 @@ msgid "Brad"
 msgstr "Brad"
 
 msgid "braing"
-msgstr ""
+msgstr "braing"
 
 msgid "brayjamin"
 msgstr "brayjamin"
@@ -923,7 +969,7 @@ msgid "Enzolos"
 msgstr "Enzolos"
 
 msgid "errosia"
-msgstr ""
+msgstr "errosia"
 
 msgid "EvanGamesGoodman"
 msgstr "EvanGamesGoodman"
@@ -944,7 +990,7 @@ msgid "Green Tea"
 msgstr "Green Tea"
 
 msgid "Holaamigo"
-msgstr ""
+msgstr "Holaamigo"
 
 msgid "Huggies!"
 msgstr "Huggies!"
@@ -1040,7 +1086,7 @@ msgid "Xiao_Akatsuki"
 msgstr "Xiao_Akatsuki"
 
 msgid "XieFish"
-msgstr ""
+msgstr "XieFish"
 
 msgid "xNoodlePlayz"
 msgstr "xNoodlePlayz"
@@ -2514,7 +2560,7 @@ msgid "EQUIP"
 msgstr "EQUIPAR"
 
 msgid "INFO"
-msgstr "INFORMAÇÃO"
+msgstr "INFO"
 
 msgid "DROP"
 msgstr "SOLTAR"
